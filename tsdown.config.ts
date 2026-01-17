@@ -7,5 +7,7 @@ export default defineConfig([
     dts: true,
     watch: './src',
     sourcemap: true,
+    format: ['esm', 'cjs'],
+    clean: true,
   },
 ])
