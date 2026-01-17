@@ -1,0 +1,3589 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mandoble\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Héroe Oscuro "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dueño del Viñedo del Amanecer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Masculino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 30 de Abril\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Noctua (Búho)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mondstadt\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Viñedo del Amanecer"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Clan Ragnvindr"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Red de Inteligencia del Norte"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Caballeros de Favonius"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "small"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "(anteriormente)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "small"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Érase una vez en Mondstadt\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yang Ma (马洋)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Kenshō Ono (小野 賢章)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Choi SeungHoon (최승훈)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sean Chiplock\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1.0\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Humano\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Crepus"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (Padre)\n"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Kaeya"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (Hermano adoptivo)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " familia      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " En uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Atacante principal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "El Amanecer Oscuro"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "título_representativo"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox Personaje jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n'''Diluc Ragnvindr''' es un personaje jugable de "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "''Genshin Impact''"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nNacido en el acomodado "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Clan Ragnvindr"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", es el actual propietario del "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Viñedo del Amanecer"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y un noble de gran estima en la sociedad de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Mondstadt"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Si bien un incidente pasado hizo que se separara de los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Caballeros de Favonius"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", continúa protegiendo Mondstadt a su manera como el rumoreado \"Héroe Oscuro\".\n\nLlegó por primera vez en la "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Versión 1.''‏‎''0"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Versión 1.0"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en el gachapón.\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Perfil "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Como el hombre más rico de Mondstadt, Diluc siempre muestra su lado más exquisito. Sin embargo, su verdadera naturaleza es la de un guerrero con una gran determinación. Protege a Mondstadt con todas sus fuerzas en todo momento.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Apariencia "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Diluc tiene la piel como porcelana con una complexión delgada y atlética, ojos rojos carmesí y cabello de color escarlata que siempre usa como una cola de caballo desordenada que se extiende hasta la mitad de la espalda. Viste un abrigo negro que está adornado con adornos y borlas dorados, que terminan con ribetes de piel de ébano, y usa pantalones negros que están adornados con cadenas en su muslo derecho, mientras que su Visión se establece en su muslo izquierdo. Diluc también usa guantes, que son negros en la parte superior, mientras que la parte inferior está teñida de rojo.\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Personalidad "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Kaeya"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " llama a Diluc \"antihéroe con problemas de actitud\". Diluc fue una vez un joven confiado y apasionado, dedicado a su trabajo con los Caballeros de Favonius. Pero después de la prematura muerte de su padre, Diluc se volvió distante y amargado. No le gusta perder el tiempo en charlas ociosas y se impacienta con facilidad.\n\nDiluc tiene un resentimiento particular hacia los Caballeros de Favonius, a quienes llama \"ineficientes\" y desprecia en todo momento. Este rencor proviene de la forma de lidiar con la muerte de su padre que tuvo el inspector Eroch, y Diluc no ha reducido su rencor incluso después de que Eroch haya sido despedido de los Caballeros por traidor.\n\nA pesar de sus complicadas emociones hacia los Caballeros, Diluc cree que tanto "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Lisa"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " como "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Jean"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " son unas de sus mejores miembros. Todavía los respeta por todo el trabajo que hacen por la gente. Tiene palabras amargas pero es de naturaleza amable y considerada.\n\nA Diluc no le gusta el alcohol, afirma que no le gusta su sabor y prefiere el jugo de uva. Sin embargo, esto no parece ser muy conocido por muchos, probablemente como resultado de que él es el actual propietario del mayor productor de vino de Mondstadt. Incluso se sorprende cuando se entera de que "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diona"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " también detesta el alcohol, ya que inicialmente creyó que él era el único cantinero en Mondstadt al que no le gustaba el alcohol. Y como tiende a desprenderse de sus posesiones, vendió la residencia privada de su padre.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historia "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Detalles del personaje "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Como ciudad de las odas y el vino, el negocio vinícola de Mondstadt es conocido en todo Teyvat.\n\nDiluc es el propietario del Viñedo del Amanecer y quien controla más de la mitad del negocio de vinos en Mondstadt. Esto quiere decir que también tiene el control sobre el flujo de información, rumores y dinero.\n\nEn cierto modo, Diluc es el rey sin corona de Mondstadt.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl aire de Mondstadt siempre está impregnado con el olor del vino.\n\nSi uno siguiera ese olor, lo llevaría al Viñedo del Amanecer de Diluc.\n\nBajo el nombre del viñedo, orgullosamente inscrito en una placa de madera, hay un cartel que dice:\n\n\"No te olvides de tus raíces\".\n\nLa mayoría cree que significa que los vinos permanecen fieles a su sabor original.\n\nPor su parte, a los Caballeros más pragmáticos les hace recordar la larga historia de apoyo mutuo entre el viñedo y la ciudad.\n\nDe vez en cuando se celebran fiestas en él, durante las cuales siempre hay padres entusiastas que desean que el joven y soltero Maestro del viñedo sea su yerno, presentándoselo a sus ansiosas hijas.\n\nLos comentarios de otros generalmente vienen en forma de burlas:\n\n\"Gracias a Los Siete, el señor Diluc está casado con el viñedo y se dedica a hacer felices a nuestros estómagos\".\n\nNo importa quién o qué se presente, sus respuestas siempre son impecables.\n\nDiluc es un extraordinario caballero que nunca deja cabos sueltos.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nDiluc siempre evita hablar sobre el pasado.\n\n\"Ojalá Diluc todavía fuese miembro de los Caballeros\".\n\nLos caballeros más veteranos todavía hablan de ello con cierto grado de lamento.\n\nFue algo que sucedió hace mucho tiempo. El padre de Diluc era el señor Crepus, el antiguo dueño del Viñedo del Amanecer.\n\nEl joven Diluc estuvo a la altura de las expectativas de su padre y pasó las pruebas de caballero, convirtiéndose en miembro de los estimados Caballeros de Favonius gracias al entrenamiento y disciplina que recibió como hijo de la familia Ragnvindr. Diluc también fue ascendido al rango de Capitán de Caballería en un periodo de tiempo relativamente corto.\n\nPoco a poco, los habitantes de Mondstadt conocieron al apasionado y joven Capitán a través de innumerables misiones y patrullas.\n\nFuese lo que fuese lo que le exigieran en sus misiones, siempre mantenía su compostura y pasión. Fuese el desafío que fuese, su espada siempre lo llevaba al frente. Las alabanzas que recibió de sus camaradas y ciudadanos lo alentaron.\n\nPero la mayor alabanza de todas fue:\n\n\"Buen trabajo. Estoy orgulloso de ti, hijo\".\n\nLas palabras de su padre alimentaron el fuego dentro de su corazón y sirvieron como su mayor motivación.\n\nEsta fe ardía fuerte y brillantemente dentro de él.\n\nAsí era Diluc en aquel entonces.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\"La vida de un hombre puede cambiar en cuestión de segundos\", le dijo Crepus a Diluc en el fatídico día que resultó ser el final del camino de Diluc como Caballero.\n\nEse día, un "
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "monstruo horrible"
+                }
+              ],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Ursa"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " atacó la caravana que él y su padre escoltaban.\n\nSin embargo, el joven Capitán de Caballería no tuvo tiempo de pedir refuerzos. El monstruo era más fuerte que cualquier enemigo al que se había enfrentado, por lo que Diluc estaba entre la espada y la pared.\n\nEl resultado de esta batalla fue más allá de lo que Diluc podía prever. Crepus, a quien le habían negado la entrada a los Caballeros y fue desfavorecido por los dioses, derrotó al monstruo con un poder maligno hasta el momento desconocido que, finalmente, terminó por consumirlo. Crepus murió al poco tiempo en los brazos de su hijo.\n\nCon un gran peso en el corazón, Diluc regresó a la sede de los Caballeros, donde el comandante le ordenó algo impensable: ocultar la verdad.\n\nLe dijeron que, en sus declaraciones públicas, debía decir que lo ocurrido fue un desafortunado accidente para mantener la reputación de los Caballeros de Favonius.\n\nDiluc se sintió tan indignado ante esta solicitud que no creyó que valiera la pena tratar de discutir.\n\nCrepus dijo una vez que el mundo nunca le daría la espalda a un hombre leal.\n\nSin embargo, los Caballeros de Favonius pisaron su fe como si no fuera nada importante. Entonces, no pudo evitar preguntarse: ¿cuál era el concepto de \"lealtad\" de su padre en sus últimos momentos de vida?\n\nDiluc renunció a los Caballeros y dejó todo atrás, incluida su Visión.\n\nJuró vengar a su padre y descubrir la fuente de ese poder maligno que causó su muerte.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nTras dimitir de los Caballeros y renunciar a la Visión, Diluc encargó la administración del Viñedo del Amanecer a la criada principal de la casa y abandonó Mondstadt.\n\nEn su viaje a través de las Siete Naciones, encontró pistas sobre el secreto que prometió descubrir.\n\nTodo apuntaba a una monstruosa y gigantesca organización: los Fatui. Los Fatui hicieron Visiones falsas en secreto y las llamaron \"Engaños\". Los Engaños podían amplificar el poder de su portador, pero también tenían el riesgo de ser contraproducentes. Eso fue lo que causó la muerte de Crepus, su padre.\n\n¿Obtuvo su padre un objeto tan sacrílego para hacer el bien?\n\nDiluc nunca lo supo. Sin embargo, se negó a dar marcha atrás antes de conocer toda la verdad.\n\nComo un águila recorriendo el desierto, emprendió su búsqueda de la verdad. La determinación ardía como fuego en su corazón. Ningún misterio insondable o batalla interminable podrían desviarlo de su camino. Así, lo que no lo mató lo hizo más fuerte.\n\nSin embargo, se encontró con Los Once, la mayor fuerza de los Fatui, cuando llamó demasiado la atención después de arrasar numerosas de sus fortalezas.\n\nPor suerte, se salvó del borde de la muerte gracias a un \"observador\" del norte que era parte de una vasta red de información clandestina. Afirmó que había estado observando a Diluc por un tiempo, y que estaba de acuerdo con sus métodos.\n\nDespués de este encuentro cercano con la muerte, Diluc reflexionó sobre sí mismo y sus acciones, que eran causa de su ira acumulada a lo largo de los años. Después de pensarlo mucho, decidió unirse a esta red de información.\n\nIgual que cuando se unió a los Caballeros por primera vez, Diluc estaba completamente comprometido con el trabajo y ascendió progresivamente a la cima de la red de información gracias a sus talentos y habilidades.\n\nNo fueron pocos los que voluntariamente renunciaron a su reputación, estatus e incluso nombre para unirse a la red. ¿Podría restaurar la fe a la que alguna vez se aferró al trabajar con ellos? ¿Esa fe que había sido casi destruida tras la muerte de su padre?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\"No olvides tus raíces\". El trasfondo de este lema es muy controvertido, pero para Diluc tiene un significado simple y claro.\n\n\"El mal no puede quedar impune.\n\nNunca te conformes con la mediocridad. El auténtico amenecer aún no ha llegado\".\n\nLa travesía solitaria de Diluc duró tres años.\n\nCuatro años después, Diluc había regresado a Mondstadt y había asumido el cargo de jefe de la bodega familiar, ahora siendo un adulto joven.\n\nEn el espacio de estos cuatro años, Eroch había sido expulsado de los Caballeros de Favonius después de demostrarse que era un traidor, mientras que el Gran Maestro Varka se había ido en una expedición, dejando a la Maestra Jean con el cargo de Gran Maestra Intendente.\n\nEl regreso del amo del Viñedo del Amanecer debió ser un evento trascendental para Mondstadt, pero extrañamente pasó completamente inadvertido.\n\n¿La razón? Los ciudadanos de Mondstadt estaban demasiado ocupados reflexionando sobre el misterioso caso de un \"Protector de Mondstadt\" desconocido.\n\nTodo lo que se sabía sobre el guardián anónimo era que dejaba un olor a quemado tras de sí, y que un destello de llamas rojas revelaba su silueta por un momento en la oscuridad de la noche, antes de desaparecer en un instante.\n\nLos cuerpos de los monstruos que habían plagado a Mondstadt por una eternidad ahora yacían muertos en el descampado... Los ladrones más buscados de Mondstadt de repente aparecieron atados y amordazados, colgando de sus pies en la plaza de la estatua... Todos los Caballeros de Favonius fueron enviados a enfrentarse de una vez por todas contra el Mago del Abismo que estaba detrás de innumerables crímenes en la ciudad, solo para descubrir que había sido aniquilado hace tiempo...\n\nCon la ayuda de las conversaciones alimentadas por el vino, la noticia del guardián misterioso se extendió rápidamente, y eventualmente se le conoció como el \"Héroe Oscuro\".\n\nEn público, Diluc parecía despreciar a este héroe. Su rostro se torcía en señal de repudio cada vez que pronunciaban su nombre.\n\nElzer, del Gremio de Productores de Vino de Mondstadt, era uno de los pocos que lo sabía, y una vez le llegó a preguntar a Diluc: ¿Su desaprobación del Héroe Oscuro es solo una fachada, con la intención de que los Caballeros perdieran su rastro y así proteger su anonimato?\n\nPero Diluc simplemente frunció el ceño una vez más y respondió secamente: \"Es un nombre estúpido\"\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sidra del Viñedo del Amanecer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nDiluc podrá tener toda la industria del vino en la palma de la mano, pero a él mismo no le gusta el vino.\n\nA petición de Diluc, el Viñedo del Amanecer empezó a producir varias bebidas sin alcohol, una decisión que fue muy bien recibida entre la gente de Mondstadt que no podía beber, pero que quería participar en la cultura de la bebida.\n\nUna de esas bebidas sin alcohol es la sidra de manzana de Mondstadt, cuyo éxito está a la par con el vino de diente de león en términos de volumen de venta mensual.\n\nAlgunos piensan que Diluc tiene unos estándares muy altos cuando se trata de bebidas, y que nunca se le ve con una de calidad mediocre de esas que están disponibles al público.\n\nOtros piensan que beber vino debe recordarle a su padre, y que por eso ni lo toca.\n\nCuando se le pregunta sobre sus hábitos de bebida, él responde que el alcohol nubla sus pensamientos, y que consumirlo afectaría su trabajo diario.\n\nPero lo que la gente no entiende es: ¿Qué tipo de trabajo diario hace el dueño de un viñedo si no puede tocar ni una gota de alcohol?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nCrepus tenía dos arrepentimientos en la vida: el primero era nunca llegar a convertirse en caballero, y segundo era nunca haber obtenido una Visión.\n\nPor esta razón, en el momento en que Diluc recibió su Visión, lo tomó como un reconocimiento de los dioses de la ambición compartida por él y su padre. Finalmente pudo llenarlo de orgullo.\n\nSolo unos años después, su padre murió en un día oscuro y sombrío. Las esperanzas y los sueños que ardían brillantes en la Visión de Diluc se extinguieron en la lluvia torrencial que cayó esa noche.\n\nNo importa cuán recta y de buen corazón sea una persona, la muerte puede llegar sin previo aviso.\n\n¿Es aquí donde termina esta historia de justicia? ¿Así, sin más?\n\nParecía que su Visión y su condición de caballero eran igualmente ineficaces para proteger las cosas que más atesoraba. Entonces decidió deshacerse de ambas.\n\nAl reconocer su propia impotencia, su Visión se convirtió en una carga, no tan distinta de un Engaño.\n\nLos títulos vacíos no le interesaban. Lo que buscaba era una resolución inquebrantable, como una flama que lo quema todo. Solo una resolución firme permite que aquel que busca la verdad avance, y solo las ardientes llamas pueden vencer el hielo que congela la mano de la justicia.\n\nEl día que Diluc regresó a Mondstadt, retomó su Visión. Los acontecimientos de sus años fuera lo habían sacado de su inmadurez infantil y lo habían convertido en un héroe listo para asumir la voluntad de su padre una vez más. Cada noche, desde las sombras, luchaba por Mondstadt.\n\nNo discutía el pasado, pero tampoco lo negaba.\n\nPara aquellos que lo han perdido todo, quizás una Visión es un faro de luz dado por los dioses para ayudarlos a encontrar el camino a seguir.\n\nPero para aquellos con convicción, una Visión es simplemente una extensión de su fuerza, un medio para canalizar su voluntad, un homenaje a las experiencias que los han moldeado, y un testimonio de la historia de su vida hasta ahora.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Información de combate "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Talentos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "elemento"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Espada templada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filo ardiente\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Amanecer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Implacable\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Bendición del fénix\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tradición del Caballero del Amanecer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pluma de Stormterror\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas de la resistencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía de la resistencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía de la resistencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del recluta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del sargento\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del oficial\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Constelación "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Condena\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el daño de Diluc en un 15% contra enemigos con más del 50% de Vida.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ardor incesante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando Diluc recibe daño, su ATQ aumenta en un 10% y su Vel. de Ataque aumenta en un 5% durante 10 s."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede acumularse un máximo de 3 veces, y solo puede ocurrir una vez cada 1.5 s.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fuego y acero\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Filo ardiente"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Flujo llameante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Realizar "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Filo ardiente"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " siguiendo la secuencia de ataques aumenta considerablemente el daño infligido."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "2 s después de utilizar Filo ardiente, aumenta el daño del siguiente Filo ardiente en un 40% durante 2 s.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fénix, heraldo del amanecer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Amanecer"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Espada llameante, némesis de la oscuridad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Después de lanzar "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Filo ardiente"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", aumenta en un 30% el daño y la Vel. de Ataque Normal de los siguientes 2 ataques durante 6 s."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, Filo ardiente no interrumpirá la secuencia de Ataques Normales.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Ascensión "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ágata agnidus\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Semilla de fuego eterno\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lucetta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del recluta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del sargento\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del oficial\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Prob. CRIT\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4.8\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1010.5192\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4149.7383\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 26.068\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 107.04148\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 61.0266\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 250.614\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Gachapón "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Vestuarios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Galería "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Noctua.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Noctua\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Diluc (visualización).png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Diluc - Quemadura.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Diluc - Quemadura"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Diluc.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Arte de cumpleaños "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Diluc 2020.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2020 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hecho por [https://weibo.com/login.php 无硫火花]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Diluc 2021.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2021 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hecho por [https://twitter.com/88_taho 悌太]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Diluc 2022.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2022\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Diluc 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2023\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Diluc 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Diluc 2025.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2025\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Dias festivos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Día blanco 2020 - Diluc.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Día blanco 2020\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de Halloween 2021.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Halloween 2021 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "[https://twitter.com/Paimon2theMoon/status/1454659396512796678 Twitter oficial de Ella Musk]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Día de los Inocentes 2023 - Diluc.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Día de los Inocentes 2023 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "[https://twitter.com/genshinimpactes/status/1642013926345900032 Twitter oficial de Genshin Impact ES]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Día de Acción de Gracias 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Día de Acción de Gracias 2023 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "[https://twitter.com/Paimon2theMoon/status/1727643159948103892 Twitter oficial de Ella Musk]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Diseños de Paimon - Emoticonos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 195 - Diluc - Agitando un jugo.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 13 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 496 - Diluc.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 31 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Menciones de personajes "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historias de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Diona "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 9 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kaeya "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kaeya "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "12\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kaeya "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 11\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Klee  "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Detalles del personaje "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historial de cambios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1.0\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Se añadió el diálogo \"Sobre Eula...\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1.5 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Se cambió el diálogo \"Cosas interesantes\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1.6 "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios2\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Curiosidades "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "* Durante la Misión Legendaria ''Atrapado en una tierra sin vientos: Carmen Dei, Acto I,'' descubrimos que Diluc vendió la mansión en donde su familia vivía hasta la muerte del padre de Diluc. El jarrón exótico que tiene en la entrada de los Viñedos fue un regalo por parte de Kaeya, pues fue un objeto que utilizó para regresarle su visión pyro.\n* Diluc tiene la costumbre de levantarse el guante izquierdo; lo hace en su tarjeta de personaje, en una animación inactiva y antes de atacar a los enemigos durante ciertas escenas. Esto puede estar relacionado con el hecho de que Diluc usó previamente su Engaño en su guante izquierdo. (Esto es un headcanon que se hizo popular. No es oficial.)\n* Según las historias de algunos personajes, la edad estimada de Diluc es de aproximadamente 22 años. Diluc dejó Mondstadt después de la muerte de su padre en su cumpleaños número 18, y cuando regresó 4 años después, Varka, que se embarcó en su expedición 6 meses antes de la historia del juego, ya se había ido.\n* Diluc y "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Jean"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " son los dos únicos residentes de Monstadt que saben que "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Venti"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " es "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Barbatos"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Si bien Venti también le reveló su identidad a "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Stanley"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", este último no recuerda su conversación.\n* "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "José Seis Dedos"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " una vez [https://mobile.twitter.com/GenshinImpact/status/1176098888878452736 cantó] en el Obsequio del Ángel pero fue echado por Charles ya que era una composición acerca de Diluc. \"El Señor Diluc es como un buen vino con bastante hielo. El primer sorbo es como estar en el cielo, pero si bebes demasiado te dolerá la cabeza\"\n*Diluc aparece mencionado en las siguientes "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "decoraciones"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ":\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Vid exuberante"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Coctelera de taberna: Mezcla intensa"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Forja de espadas"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Etimología "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "* El nombre de Diluc se deriva de la palabra latina \"Dīlūculum\", que significa \"Alba\" o \"Amanecer\".\n* Su apellido, Ragnvindr, puede derivarse de las palabras en nórdico antiguo \"Regin\" (Dioses) + \"Vindr\" (Viento), que significa \"Dios del viento\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Navegación "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "de:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:ディルック"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Дилюк"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Ділюк"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:迪盧克"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

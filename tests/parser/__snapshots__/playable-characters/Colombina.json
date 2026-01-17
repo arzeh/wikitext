@@ -1,0 +1,4719 @@
+{
+  "children": [
+    {
+      "children": [],
+      "type": "text",
+      "value": "<!--"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nLas imágenes las tienes que subir con los siguientes prefijos para que se añadan automáticamente a la infobox:\n\nCarta de personaje NOMBRE_PERSONAJE.png\nArte de personaje NOMBRE_PERSONAJE.png\nModelo de personaje NOMBRE_PERSONAJE.png \n\n¡Recuerda borrar todos los comentarios antes de publicar el artículo!\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "-->"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Catalizador\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La Luna Celestial Retornante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " título_representativo "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " *La Damisela\n*Diosa Lunar\n*Doncella Lunar\n*Luna Nueva\n*La Tercera de Los Once de los Fatui\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ¿?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tres Lunas"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Descendientes Lunaescarcha"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "small"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "(anteriormente)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "small"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fatui"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "small"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "(anteriormente)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "small"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Once Heraldos de los Fatui"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "small"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "(anteriormente)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "small"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nod Krai\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región actual         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Femenino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Luna IV\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lynn\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yu Yeong (유영)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yang Menglu (杨梦露)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino                 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Emi Lo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Presagio lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " bonos "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Colombina Hiposelenia"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "nombre real"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n'''Colombina Hiposelenia''' es un personaje jugable en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nTambién conocida como '''Kuutar''' y la '''Doncella Lunar''', es la Diosa Lunar adorada por los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Descendientes Lunaescarcha"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Nod Krai"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Bajo su nombre en clave '''La Damisela''', anteriormente era la Tercera de los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Once Heraldos de los Fatui"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Después de darse cuenta de que solo buscaban su poder, abandonó a los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fatui"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Desde la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Misión de Arconte"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Nocturno del Lejano Norte"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", se descubrió que su nombre completo era Colombina Hiposelenia.\n\nHace su primera aparición durante ''[https://youtu.be/TmaAOV4SJNQ Avance del interludio de Genshin Impact - Capítulo de Teyvat: Máscaras de una noche de invierno]'' junto a sus compañeros Heraldos. Se la oye hablar con "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dottore"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " al final, donde le dice que parece joven y le pregunta por el \"segmento que está en plena flor de vida\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Perfil"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Colombina es la Diosa Renacida de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Luna Escarchada"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Es adorada como la Doncella Lunar ''Kuutar'' por los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Descendientes Lunaescarcha"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", quienes la consideran como la Luna Nueva y sucesora de la anterior Diosa Lunar. Le rezan por protección, y han tallado múltiples estatuas a lo largo de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Nod Krai"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " con la imagen de su antiguo ser, llamadas “"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estatua de la Luna Nueva"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "”.\n\nAnteriormente fue la Tercera de los Once Heraldos Fatui, donde operaba bajo el nombre de Colombina y el nombre clave ''La Damisela''. Como una de las tres Heraldos principales, poseía un poder que rivalizaba con el de los dioses. Aunque aparenta ser indiferente y ajena a su entorno sin importar la situación, se da a entender que Colombina es extremadamente peligrosa, ya que tanto "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tartaglia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " como el "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Trotamundos"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " advierten al Viajero que tenga cuidado si alguna vez se encuentra con ella.\n\nPor otro lado, "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arlecchino"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " muestra menos cautela hacia ella, afirmando que, si Colombina respondiera adecuadamente a una pregunta, su respuesta sería completamente impredecible, pero en general, cualquiera de sus respuestas sería interesante.\n\nA pesar de poseer numerosos nombres y títulos tanto de los Descendientes Lunaescarcha como de los Fatui, ella le dice al Viajero que puede llamarla como prefiera, ya que no siente que pertenezca a ninguno de los dos grupos.\n\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Colombina es una joven pálida con cabello largo y negro con reflejos de color rosa oscuro y magenta, junto dos coletas hasta su pecho en la parte frontal, adornadas con encajes blancos en forma de X y detalles dorados. En la parte trasera de su cabeza tiene un tocado de alas que van de escala mayor a menor. Tiene un encaje blanco en forma de X que cubre sus ojos aparentemente siempre cerrados.\n\nTiene un vestido corto que deja al descubierto la parte de la clavícula compuesto por múltiples capas de color lila con tonalidades más claras y oscuras en los detalles, la parte trasera del vestido es más larga con dos pliegues de tela transparente brillante que asemejan a la cola de un pez. En el cuello tiene un encaje junto con un lazo grande en la parte derecha. Sus muñecas y piernas están vendadas en X junto un lazo blanco. Sus pies están descalzos pero debajo de estos hay una media luna de manera horizontal, debajo de esta un orbe azul.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Personalidad"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "(Próximamente...)\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historia "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "¿Día o noche?\n\nNoche, por supuesto. El mundo del día estaba repleto de palabras que no lograba comprender. “Kuutar”, “La Damisela”, “Diosa”... Sabía que tales palabras eran como espejos, y que cada una reflejaba una versión de sí misma en aquel mundo tan desconocido. Pero esas eran las versiones que otros deseaban ver. Ella no se reconocía en tales reflejos, al igual que no reconocía la luna que colgaba del cielo. De noche, al menos, podía sentir claramente la atracción que llegaba desde más allá del firmamento. No producía sonido alguno, pero podía entenderla igualmente: la Luna Escarchada la llamaba para que regresara a su hogar.\n\n...\n\n¿Primavera, verano, otoño o invierno?\nInvierno, sin ninguna duda. Tras la agitación de la primavera, el clamor del verano y la cosecha del otoño, la nieve del invierno llegaba para acallar los labios del mundo, como diciendo: “Shh, ¿no deberíamos quedarnos callados tras todo ese alboroto?”.\n\nAsí que el mundo se quedaba en silencio con obediencia. Incluso los animalitos regresaban a sus casas. Solo en invierno la gente se daba cuenta de lo importante que es tener un hogar cálido.\n\n¿Y Colombina? A ella le gustaba encontrar una pila de nieve suave y espesa, aguantar la respiración y lanzarse al interior. Para una diosa como ella que apenas siente el frío, estar cubierta de pies a cabeza por la ligera y blanca nieve resultaba una sensación maravillosa. En cuanto a si sus compañeros lograban comprender su comportamiento... Bueno, a ella poco le importaba eso.\n\n...\n\n¿Días soleados o lluviosos? ¿O tal vez nublados?\n\nUna mañana lluviosa. Cuando Colombina se despertaba con el suave golpeteo de la lluvia fuera del Vergel Lunargénteo, una sensación de calma se apoderaba de ella: el sentirse refugiada bajo su bóveda.\n\n“Refugio”. La palabra resonaba con renovadas fuerzas al ritmo de la lluvia, como un eco del significado más esencial del “hogar”. Poder existir en la extensión de tal significado era suficiente para que una sensación de calidez invadiera a Colombina.\n\nAun así... la noche era mucho mejor cuando los cielos estaban despejados.\n\n...\n\n¿Eran sus respuestas a estas preguntas verdaderamente precisas? ¿Cambiarían algún día? Colombina le daba vueltas a tales pensamientos en su cabeza.\n\nProbablemente no. Pero incluso si lo hacían, estas respuestas eran la versión más real de sí misma en ese momento; la versión más real de sí misma esa noche.\n\nBosques, lagos o el mar... ¿Cuál de todos prefería?\n\nTodos ellos, por supuesto.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lo primero que oyó fue una canción:\n\n♪ Duerme, duerme ahora, mi pequeña paloma... ♪\n\n♪ Que florezcan flores y dulces sueños junto a tu ventana... ♪\n\n...\n\n¿De quién era esa voz? Sonaba tenue y lejana, como una canción de cuna... como el comienzo de una historia y también su final...\n\nEntonces, llegaba la sensación de la tierra bajo sus pies.\n\nFina, cálida y suave, con una fuerza familiar, como una parte de su propio cuerpo o el líquido amniótico que una vez la meció antes de su nacimiento...\n\nY así, abrió los ojos.\n\nLa luz de la luna flotaba en al aire, y sus pequeños dedos se aferraban a los tenues hilos, tejiendo ropajes con los que cubrirse.\n\nAlgo la llamaba desde la lejanía: una especie de atracción, una conexión, como un cordón umbilical sin cortar entre un bebé y su madre.\n\nLevantó la mirada, pero no había nada en el firmamento; solo un velo, una mentira. Por alguna razón, la primera vez que vio el cielo estrellado, supo que era falso. Sin embargo, aquel velo de mentiras había cortado la conexión que había entre ella y lo que fuera que hubiera más allá de él.\n\n¿Por qué había nacido allí? O, mejor dicho, ¿por qué había nacido? ¿Quién era ella? ¿Y de quién era la voz que cantaba?\n\nTodas esas preguntas surgían una tras otra desde las profundidades de su mente, pero el mundo no ofrecía siquiera un eco como respuesta. A veces, no oír le causaba más miedo que no ver.\n\nSentía que estas preguntas la acompañarían siempre.\n\nCerró los ojos. Después de todo, la verdad no podía encontrarse bajo un velo de mentiras.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cuando Colombina llegó a los Fatui, se dio cuenta de inmediato de que eran muy diferentes a los Descendientes Lunaescarcha.\n\nNadie parecía hacerle peticiones poco razonables. Nadie parecía venerarla o anhelar nada de ella. Al menos, no en apariencia.\n\nEl concepto de “colegas” era nuevo para ella también. En él, podía sentir algo desconocido y a la vez muy atractivo: una sensación de igualdad que a veces se mezclaba con un familiar sentimiento de intercambio. Aún estaba aprendiendo a vivir con ese estilo de vida.\n\nEl primero en acercarse a ella fue Dottore. De sus palabras, Colombina pudo percibir cierto tono de admiración. Pero no era lo mismo que la veneración. Al menos, se basaba en la premisa de una igualdad entre ambos.\n\n“¿Te importaría ayudarme con una pequeña tarea?”, le preguntó su colega amablemente.\n\n¿Ayudar? Ella pensó que se trataría de algo que estuviera obligada a hacer, pero esta vez podía elegir. O tal vez ese mismo colega le estaba ofreciendo la posibilidad de elegir.\n\nAunque las palabras de Dottore llevaban un cierto tenue eco siniestro, como el distante trueno de una tormenta en la lejanía, la sensación de poder elegir le resultaba innegablemente satisfactoria.\n\nAl principio, todo fue sobre ruedas. El laboratorio de Dottore estaba repleto de todo tipo de extraños aparatos, y lo único que tenía que hacer Colombina era aplicar su poder aquí y manipular su fuerza allá.\n\n“Nada mal. Buen trabajo”.\n\nA Colombina le gustaban los elogios. Era algo nuevo para ella, una experiencia novedosa.\n\nPero pronto, las alabanzas pasaron a convertirse en “ha faltado poco”, “no es suficiente”, “sé que puedes hacerlo mejor”...\n\nDe pronto, Colombina se dio cuenta de que Dottore no la estaba viendo a ella, sino a una versión de algo que debía ser, o el nivel que sus poderes podían alcanzar. Esto le recordó a la época anterior a que se uniera a los Fatui...\n\nSintió una punzada de tristeza. ¿Se sentían apenados los demás por el simple hecho de ser quienes eran? No sabía si otra gente podía sentir lo mismo, pero ella sí que lo hacía.\n\nNo es que quisiera convertirse en lo que los demás esperaban de ella. El problema era que lo que los demás veían no era su yo de verdad, el cual se quedaba a un lado, solitario, como un niño que no es bienvenido en una fiesta...\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "“... Vayamos a buscar algo de comer”.\n\nCuando no estaba contenta, Colombina solía recurrir a aquello que le gustaba hacer. Llenar el estómago era una de esas cosas, y la más fácil de cumplir.\n\n“L-lo siento mucho, señorita de Los Once”, la llamó alguien mientras le entregaba un trozo de papel sin parar de temblar cuando se disponía a abandonar el restaurante. Colombina no podía verlo, pero de algún modo logró recordar que aquello era parte de un proceso que debía ocurrir tras la comida. Era muy diferente de cómo se hacían las cosas en los Descendientes Lunaescarcha.\n\nEl problema era que aún no se había acostumbrado a ello. Sabía que tenía que ver con algún tipo de ritual de intercambio, pero las pocas veces que lo había llevado a cabo, había sido junto a dos de las colegas que acababa de conocer: Arlecchino y Sandrone. Bueno, más bien, estas lo habían hecho por ella.\n\nColombina no supo qué hacer. Por un momento, sintió que la otra persona irradiaba cierta aura de miedo y culpabilidad, tan tangible que podía percibirla incluso con los ojos cerrados. Aquello era culpa suya, por lo que la invadió la lástima y la impotencia.\n\n“Yo...”, empezó Colombina, tratando de encontrar palabras que le eran desconocidas.\n\n“No pasa nada, yo me encargo. Tú mantente al margen”, dijo una voz familiar a su lado. Era Sandrone.\n\n“Hum, ni siquiera sabes cómo hacer un rembolso ¿y te atreves a comer tú sola? No... tratándose de ti, seguro que tampoco sabes cómo pagar”. Había cierta impaciencia en su tono, pero también era tranquilizador.\n\n“Las reglas financieras de los Fatui son muy rígidas... Rígidas y complicadas”, murmuró mientras rellenaba rápidamente el papel y se lo entregaba a aquella persona que seguía temblando.\n\n“A partir de ahora, pon sus gastos en mi cuenta. Al fin y al cabo, da igual para el rembolso”, le dijo Sandrone, irritada.\n\n“Lo siento...”, le susurró Colombina a su nueva colega. Era consciente de que acababa de ayudarla.\n\n“¿Eh? No lo he hecho para oír cómo te disculpas”. Por algún motivo, ahora sonaba incluso más molesta. ¿Por qué?\n\n“¿Eh? ¿No me culpas?”, preguntó Colombina.\n\n“¿Por qué iba a hacerlo? Eres como eres”, le respondió exasperada. “Sinceramente, no entiendo cómo alguien como tú puede sobrevivir en este mundo...”.\n\nAquello no era “deberías ser así” o “podrías hacerlo mejor”... Tan solo “eres como eres”.\n\nAunque el tono de Sandrone siempre destilaba impaciencia, en él se sentía cierto reconocimiento: una silenciosa afirmación del hecho de que ella era quien era. Colombina se alegró de que la viera como era de verdad.\n\n“¿A qué viene esa sonrisa tonta?”, le preguntó Sandrone.\n\nColombina negó con la cabeza.\n\n“No es nada. Comamos juntas la próxima vez, Sandrone”, dijo. “Me gusta ver cómo te encargas del ‘rembolso’ por mí”.\n\n“... ¿Cómo?”. Parecía que su querida colega necesitaría un tiempo para acostumbrarse a cómo se expresaba, tal y como era.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "En las noches de luna llena, a Colombina le gustaba alejarse en silencio del Vergel Lunargénteo y vagar junto a los hogares de los pequeños animales. Tal vez junto a un agujero en un árbol o el nido de algún pájaro. Se quedaba cerca escuchando el ritmo constante de sus respiraciones mientras alzaba la mirada a la luna. Era como si, al hacerlo, pudiera imaginar cómo serían las noches en la luna: silenciosas y serenas. Al menos, eso esperaba.\n\nEn noches como aquellas, juntaba las piezas de los sueños de cómo podría ser su hogar.\n\nCuando regresó a la Isla Hiisi, conoció a la Cantalunas actual. Colombina había pasado un largo tiempo con los Descendientes Lunaescarcha, pero nunca había visto unas astas tan grandes y hermosas.\n\n“Perdona que te interrumpa”, dijo la Diosa de la Luna Escarchada. “Pensaba que había varios miembros de los Descendientes Lunaescarcha con astas”.\n\nColombina le explicó que, aunque había sido algo común históricamente, hoy en día pocos nacían con astas, y ningún otro poseía una cornamenta tan maravillosa como la de la Cantalunas.\n\n“La sangre de esta familia se diluye de forma inevitable...”, suspiró la Diosa de la Luna Escarchada. “Lo siento. Continúa, Colombina Hiposelenia, por favor”.\n\nTras conocer a dicha Cantalunas, Colombina también se acercaba a veces sigilosamente a su casa. Sin embargo, descubrió que las mareas lunares parecían traerle cierta incomodidad a la Cantalunas. En aquellos momentos, Colombina intentaba usar su propio poder para aliviar las mareas que rodeaban a la Cantalunas. A veces, se descubría a sí misma tarareando melodías familiares de forma instintiva, como la canción de cuna que le había traído tanto consuelo antes de su nacimiento.\n\n“¿La canción de cuna antes de tu nacimiento?”, esta vez fue Aria, la Diosa de la Luna Eterna, quien preguntó.\n\nColombina les habló sobre la melodía que había oído antes de nacer.\n\nLas tres diosas sacudieron la cabeza. No sabían nada sobre una canción así.\n\nColombina siguió contándoles historias del mundo del futuro: desde los sabores de las ofrendas hasta la música de los teatros de ópera... Les habló sobre su amiga con un mecanismo a la espalda y de un ángel que se convirtió en su amiga...\n\nAl final, les contó lo ocurrido en la Noche Rezolunar.\n\nLas tres Diosas Lunares se sintieron conmovidas por la belleza de aquella noche, tal vez porque Colombina tampoco podía evitar sonreír al hablarles de ello.\n\n“En nuestra época, los dioses de los cielos no solían tener una conexión tan profunda con el mundo de más abajo”, dijo la Diosa de la Luna Escarchada.\n\n“Sí, todos me tratan muy bien. Incluso jugamos a lanzarnos globos de agua”.\n\n“Resulta difícil de imaginar. Parece que nuestra era fue demasiado conservadora”, se lamentó la Diosa de la Luna Eterna.\n\n“Incluso nos llenamos la cara de calcomanías”.\n\nLas tres diosas dejaron escapar gritos ahogados llenos de asombro.\n\n“También intercambiamos comida y probamos los dulces de las manos de los demás”.\n\nLas diosas se quedaron calladas. Colombina sintió las miradas que intercambiaban entre ellas, que parecían estar cargados de un ápice de envidia.\n\nDespués de un largo tiempo, Sonnet, la Diosa de la Luna Arcoíris, dejó escapar un suave y maravillado suspiro:\n\n“Guau...”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "El hogar es aceptación.\n\nLa Luna Escarchada atravesó el cielo falso y permaneció en Teyvat. De la misma forma, Colombina Hiposelenia fue aceptada por este mundo, y ahora le tocaba a ella intentar aceptar el mundo.\n\nLo primero que hizo fue mover la enorme roca que bloqueaba las puertas del Vergel Lunargénteo. Había sido colocada allí hace tiempo para evitar que los Descendientes Lunaescarcha y los Fatui pudieran dar con ella. Ahora ya no parecía una medida necesaria.\n\nSus amigos en Nod Krai solían decirle que era más que bienvenida a visitar sus hogares. Por tanto, lo justo era que ella hiciese lo mismo por sus amigos y por su “familia”.\n\nEl hogar es libertad.\n\nYa no existían reglas que rechazaran su existencia. No había lugares a los que no pudiera acceder. Nadie vendría a atraparla...\n\nPodía ir a donde deseara, hacer lo que quisiera.\n\nPor supuesto, aprender a tratar con los demás también venía acompañado de sus propios obstáculos. Una vez, mientras paseaba por la Villa Nasha, estuvo a punto de caer en una estafa y recibió la regañina de Néfer, quien tuvo que sacarla de aquella situación. Otra vez, mientras paseaba libremente por Nod Krai, entró sin darse cuenta en una zona restringida de Piramida e Illuga tuvo que escoltarla hasta el exterior amablemente...\n\nBueno, que la regañaran también era parte de la vida en familia, algo que ahora Colombina sí podía entender.\n\nY, claro está, también lo era aprender a corregir sus errores.\n\nEl hogar es...\n\n“Jeje, el hogar puede ser muchas cosas”, pensaba Colombina.\n\nPodía encontrarse en los pequeños detalles de la vida cotidiana: en todas las cosas novedosas y desconocidas que estaba empezando a comprender y sentir.\n\nY era algo que la acompañaría siempre en su viaje por este mundo.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Velo tejido con luz lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Para Colombina, la verdad del mundo solo es visible cuando cerraba los ojos.\n\nTras sentir que la gran bóveda celeste no era más que una mentira, se veló la vista con una gasa tejida con la luz de la luna. Aquello no era inconveniente alguno para ella. Todo lo contrario: el mundo que percibía a través del kuuvahki le parecía más claro y lúcido que el que podían ver sus ojos. Y, si en algún momento sentía curiosidad, siempre podía echar un vistazo rápido. Después de todo, el velo que cubría sus ojos era como una celosía.\n\nPuede que las estrellas mintieran, pero las mareas de la gravedad no podían hacerlo. La gente escondía sus expresiones, pero las corrientes de emociones que brotaban desde sus corazones no podían permanecer ocultas.\n\nColombina esperó, queriendo regresar a su verdadero hogar para quitarse aquel velo que mantenía alejado lo falso.\n\nSin embargo, tras convertirse en la Diosa Trilunar y volver a Teyvat, recordó las palabras de Canon, la Diosa de la Luna Escarchada. Con cautela, empezó a abrir los ojos en su día a día, descubriendo así un nuevo mundo.\n\nAsí supo que los bosques poseían multitud de colores en primavera, y que la nieve del invierno podía llegar a ser realmente pura y luminosa.\n\nQue cuando las olas se rompían contra la orilla, sus salpicaduras nunca eran las mismas, y que las luces que iluminaban las ciudades de noche brillaban como un refulgente cielo estrellado...\n\nSe sintió afortunada.\n\n“Tal vez debería haber abierto los ojos antes”, pensaba de vez en cuando.\n\nPero... quizá habían sido sus experiencias hasta el momento las que le habían enseñado a apreciar toda esa belleza. Si hubiera llegado a abrir los ojos antes... ¿habría podido ver más allá de las mentiras que ocultaba el mundo?\n\nColombina no lo sabía con certeza. Aquellas preguntas tan introspectivas tardarían un largo tiempo en recibir respuesta.\n\nPor ahora, decidió abrir los ojos de vez en cuando para apreciar la belleza de este hogar.\n\n¿Que por qué no mantenía los ojos abiertos en todo momento?\n\n“Humm... Supongo que me he acostumbrado a ello”, decía Colombina mientras se frotaba los ojos. “Además, si los mantengo abiertos todo el rato, me molestan un poco. Creo que eso se llama... ¿fatiga ocular?”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Convergencia Trilunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Tras recibir la autoridad trilunar, era normal que Colombina tuviera ciertas preguntas...\n\n¿Podría lograr cualquier cosa tal poder? ¿Cómo debería usarlo?\n\nSentía que las cosas que quería hacer estaban casi siempre al alcance del poder de las tres lunas: moverse libremente entre Teyvat y el astro, transportarse a sí misma y a otros objetos sin esfuerzo alguno, hacer que las plantas florecieran con más hermosura y que las frutas se volvieran más jugosas...\n\nIncluso intentó hacer que Sandrone despertara, pero eso fue una de las pocas cosas que quedaban fuera de la autoridad de las tres lunas.\n\nEn cuanto a lo demás, o no quería hacerlo, o sentía que no debía.\n\nAmaba este mundo y el aspecto que tenía ahora su hogar. Simplemente porque pudiera cambiarlo a placer, moldeando su apariencia y sus reglas según su voluntad, no significaba que aquello estuviera bien. Por muy buenas que fueran sus intenciones, si hiciera algo así, se sentiría igual que Dottore.\n\nElla veía este mundo como su “hogar”, no como una posesión. Y había una gran diferencia entre ambos conceptos.\n\nPor eso, ofreció una porción de su poder para que continuara protegiendo su bello hogar como siempre lo había hecho. La parte que se quedó para sí misma tan solo debía permitirle vivir felizmente junto a sus amigos, como antes, y defender lo que amaba si era necesario.\n\nEn aquel momento, Colombina comprendió de repente la elección de sus tres hermanas mayores. En lugar de querer “gobernar”, lo que habían anhelado era simplemente “proteger” el mundo sublunar.\n\n¿Podía decir que verdaderamente merecía ser su hermana pequeña? Aquel pensamiento le trajo una dulce sensación de armonía.\n\nLo sintió como una especie de rasgo heredado, o tal vez una “enseñanza familiar” de las Diosas Lunares.\n\nAl pensar aquello, cierta calidez surgió en el corazón de Colombina. Parecía haber redescubierto algo que había anhelado durante mucho tiempo:\n\nLos lazos y el legado que compartía una familia.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Información de combate "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Talentos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "elemento"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cascada rociolunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mareas inmemoriales\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nostalgia de la luz lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Delirio selénico\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La ley de la Luna Nueva\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yo te brindo mi luz\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Custodia de la luna\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "7"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cryo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hierba invernal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas de la luz lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía de la luz lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía de la luz lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Condensado de Slime\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Babas de Slime\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Esencia de Slime\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Constelación "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Un haz que ilumina las flores y las montañas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Al usar la Habilidad Elemental, Mareas inmemoriales, también se activará inmediatamente un efecto equivalente a una interferencia gravitacional. Esto solo podrá ocurrir una vez cada 15 s.\n\n'''Presagio lunar: resplandor ascendente'''\nCuando se active una interferencia gravitacional, si la Reacción Lunar que más fuerza gravitatoria ha otorgado a Colombina es:\n*"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Electrocargado Lunar"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ": tu personaje en uso del equipo recupera 6 pts. de Energía Elemental.\n*"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Florecimiento Lunar"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ": aumenta la RES a interrupción de tu personaje en uso del equipo durante 8 s.\n*"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Cristalización Lunar"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ": invoca un escudo lluviamarino durante 8 s que absorbe daño en una cantidad equivalente al 12% de la Vida Máx. de Colombina, y que tiene un 250% de efectividad de absorción de Daño Hydro.\n\nEl daño de Reacción Lunar de todos los personajes cercanos del equipo asciende en un 1.5%.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Esplendor en compañía\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La velocidad de acumulación de fuerza gravitatoria aumenta en un 34%."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cuando se active una interferencia gravitacional, Colombina obtendrá el efecto de esplendor argénteo, el cual aumenta su Vida Máx. en un 40% durante 8 s.\n\n'''Presagio lunar: resplandor ascendente'''\nMientras el efecto de esplendor argénteo esté activo, si la Reacción Lunar que más fuerza gravitatoria ha otorgado a Colombina durante la interferencia gravitacional es:\n*"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Electrocargado Lunar"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ": el ATQ de tu personaje en uso del equipo aumenta en una cantidad equivalente al 1% de la Vida Máx. de Colombina.\n*"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Florecimiento Lunar"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ": la Maestría Elemental de tu personaje en uso del equipo aumenta en una cantidad equivalente al 0.35% de la Vida Máx. de Colombina.\n*"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Cristalización Lunar"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ": la DEF del personaje en uso del equipo aumenta en una cantidad equivalente al 1% de la Vida Máx. de Colombina.\n\nEl daño de Reacción Lunar de todos los personajes cercanos del equipo asciende en un 7%.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Un fulgor de ensueño a través de aguas calmas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Mareas inmemoriales"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "]] +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cumbres nubosas entre bruma floral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Los enemigos une estén en el AdE de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Diluvio celestial"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " reciben daño adicional. Este efecto se fortalece con el tiempo.\nCuando se active una interferencia gravitacional, Colombina recuperará 4 pts. de Energía Elemental."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, el daño de Reacción Lunar de la interferencia gravitacional aumentará según la Reacción Lunar que más fuerza gravitatoria haya otorgado a Colombina. Si dicha reacción ha sido Electrocargado Lunar/Florecimiento Lunar/Cristalización Lunar, el daño aumentará, respectivamente, en una cantidad equivalente al 12.5/2.5/12.5% de la Vida Máx. de Colombina. Este efecto solo puede ocurrir una vez cada 15 s.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Una larga canción que acompaña al silencio\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Nostalgia de la luz lunar"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " A través de la oscuridad, sigue la luz lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando cualquier personaje que se encuentre en el dominio lunar cause una Reacción Lunar, el Daño CRIT del tipo elemental correspondiente de todos los personajes del equipo aumenta en un 80% durante 8 s. La bonificación de Daño CRIT de un mismo elemento no puede acumularse.\n\nEl daño de Reacción Lunar de todos los personajes cercanos del equipo asciende en un 7%.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Ascensión "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cryo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lazurita varunada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Asta radiante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hierba invernal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Condensado de Slime\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Babas de Slime\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Esencia de Slime\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Por añadir"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<!--"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "{{Estadísticas de personaje\n| rareza = 5\n| especial = Daño Crítico\n| especial base = 9.6\n| vida base = 762.656\n| vida ascendido = 3131.878\n| ataque base = 26.068\n| ataque ascendido = 107.04148\n| defensa base = 49.0606\n| defensa ascendido = 201.474\n}}"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "-->"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Gachapón "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Vestuarios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historias de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "{| class=\"wikitable\"\n!Personaje\n!Diálogos\n|-\n|"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "50px"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Archivo:Personaje Arlecchino.png"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "-"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arlecchino"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n|'''Sobre La Damisela... :''' Es una miembro muy especial de Los Once. Si le preguntas algo, te responderá con algo totalmente impredecible, si es que se digna a darte una respuesta en condiciones. Sea como sea, la respuesta que obtengas será interesante, no cabe duda.\n|-\n|"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "50px"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Archivo:Personaje Jahoda.png"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "-"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Jahoda"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n|'''Sobre Kuutar... :''' Un pez gordo de verdad... *Suspira*, si me hubiera encontrado con alguien con un historial como el suyo hace un tiempo, ¡habría salido corriendo bien lejos! Pero... me salvó la vida, así que estoy en deuda con ella. Y una deuda es una deuda."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Aun así, es fácil decirlo, pero vida solo hay una... A estas alturas, ¿cuántas vidas necesitaría para pagárselo? ¡Ay, jefa! Sálvame...\n|-\n|"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "50px"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Archivo:Personaje Lauma.png"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "-"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Lauma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n|'''Sobre Kuutar... :''' Nadie le enseña a una diosa recién nacida a vivir en armonía con sus seguidores. Debe haber tenido un pasado muy difícil..."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Con la esperanza de lograr cierta reconciliación, le realicé una petición a la diosa que podría parecer algo irrespetuosa. Ella afirma que prefiere vivir en solitario, pero yo sigo soñando con el día en que Kuutar y los Descendientes Lunaescarcha, la luna y sus seguidores, puedan brindar juntos bajo un mismo cielo.\n|-\n|"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "50px"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Archivo:Personaje Tartaglia.png"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "-"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tartaglia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n|'''Sobre La Damisela... :''' Los Once de los Fatui estamos clasificados por nuestra fuerza, pero no tengo ni idea de por qué ella es la tercera. Siempre que puedo, pongo a prueba mis habilidades con todos los heraldos que están por encima de mí, pero con ella... No sé, siento que hay algo que no encaja. Sea como sea, ten cuidado cuando esté cerca.\n|-\n|"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "50px"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Archivo:Personaje Trotamundos.png"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "-"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Trotamundos"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n|'''Sobre La Damisela... :''' Dime una cosa, ¿qué harías si te encontraras con una \"damisela\" que es cándida y candorosa en todo momento e indolente e impasible ante cualquier situación? En mi caso, al menos podría retarla a un enfrentamiento, pero tú... Con tu moralidad, lo mejor será que te mantengas alejado de ella.\n|}\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Colombina.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Columbina Introduction Card.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Ilustración de introducción\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Teyvat Chapter Interlude Teaser- A Winter Night's Lazzo - Genshin Impact\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Teyvat Chapter Interlude Teaser- The Gods' Limits - Genshin Impact\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Song of the Welkin Moon Teaser- Moonlit Ballad of the Night - Genshin Impact\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Version \"Luna I\" \"A Dance of Snowy Tides and Hoarfrost Groves\" Trailer - Genshin Impact\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Columbina VA Announcement JP.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Anuncio sobre la actriz de doblaje en japonés\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        },
+        {
+          "children": [],
+          "type": "text",
+          "value": "<!--"
+        },
+        {
+          "children": [],
+          "type": "text",
+          "value": "|Arte de constelación NOMBRE_CONSTELACIÓN.png|Constelación de NOMBRE_CONSTELACIÓN\n|Visualización de personaje Colombina.png|Imagen de la Galería de personajes\n|--Objeto {{subst:PAGENAME}} - NOMBRETARJETA.png|[[{{subst:PAGENAME}} - NOMBRETARJETA]]"
+        },
+        {
+          "children": [],
+          "type": "text",
+          "value": "-->"
+        },
+        {
+          "children": [],
+          "type": "text",
+          "value": "\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Misiones y eventos"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Colombina"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Misiones"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Otros idiomas"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Columbina Hyposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_en     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 哥伦比娅・希珀塞莱尼娅\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_zhs    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Gēlúnbǐyà Xīpòsāiláinīyà"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_zhs_rm "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 哥倫比婭・希珀塞萊尼婭\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_zht    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Gēlúnbǐyà Xīpòsāiláinīyà"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_zht_rm "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " コロンビーナ・ハイポセレニア\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_ja     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Koronbiina"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_ja_rm  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 콜롬비나・하이포셀레니아\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_ko     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Colombina Hiposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_es     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Columbina Hyposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_fr     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Коломбина Гипоселениа\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_ru     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Columbina Hyposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_th     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Columbina Hyposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_vi     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Columbina Hyposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_de     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Columbina Hyposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_id     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Columbina Hyposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_pt     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Columbina Hyposelenia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_tr     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Colombina Iposelenia\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1_it     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_en       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 月之少女\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_zhs      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yuè zhī Shàonǚ\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_zhs_rm   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 月之少女\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_zht      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yuè zhī Shàonǚ\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_zht_rm   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_zh_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 月の少女\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_ja       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tsuki no Shoujo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_ja_rm    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_ja_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 달의 "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "소녀"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "少女"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "tt"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_ko       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_ko_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La Doncella Lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_es       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " The Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_es_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dame de la lune\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_fr       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lady of the Moon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_fr_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Дева Луны\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_ru       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_ru_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " เทพธิดาแห่งจันทรา\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_th       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Thep-thi-da haeng Chanthra\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_th_rm    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Goddess of the Moon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_th_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Thiếu Nữ Mặt Trăng\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_vi       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_vi_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mondmädchen\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_de       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_de_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Gadis Bulan\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_id       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Moon Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_id_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dama da Lua\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_pt       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lady of the Moon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_pt_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_tr       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_tr_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_it       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2_it_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Damselette\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_en       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 少女\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_zhs      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Shàonǚ\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_zhs_rm   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 少女\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_zht      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Shàonǚ\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_zht_rm   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_zh_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 少女\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_ja       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Shoujo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_ja_rm    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_ja_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "소녀"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "少女"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "tt"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_ko       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_ko_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La Damisela\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_es       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " The Damsel\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_es_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Jouvencelle\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_fr       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Maiden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_fr_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Субретка\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_ru       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Soubrette"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "W"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_ru_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Damselette\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_th       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Damselette\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_vi       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Jungfrau\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_de       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Damsel\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_de_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Damselette\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_id       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Donzela\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_pt       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Damsel\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_pt_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Küçük Hanım\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_tr       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Little Lady\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_tr_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Damigella\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_it       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Young Lady\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_it_tl    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Damigella"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "it"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " is more commonly used for \"bridesmaid.\"\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3_it_note  "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Otros idiomas\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Curiosidades "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "* La melodía que canta Colombina en ''Máscaras de una noche de invierno'' era una interpretación de las melodías de ''[https://youtu.be/51vYKjbchtU Chrysalis Suspirii]'' y ''[https://youtu.be/9TKbnQb4mOs Saltatio Favillae]'', ambas interpretadas durante la batalla con "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Signora"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Isla Narukami: Tenshukaku"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n* Su tocado imita las alas de un ángel, concretamente las de un [https://es.wikipedia.org/wiki/Seraf%C3%ADn serafín].\n* El dibujo de su rostro y de su diadema es similar al de la parte inferior de una Corte "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Seelie"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Etimología "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "* En la ''[https://es.wikipedia.org/wiki/Comedia_del_arte Commedia dell'Arte]'', un tipo de teatro italiano, Colombina (en italiano: ''Colombina'' \"Palomita\") es una sirvienta que a menudo es el \"único intelecto funcional en escena\", ya que hace todo lo posible por reunir a los [https://es.wikipedia.org/wiki/Innamorati Innamorati].\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Luna IV"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2.7"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "introducción"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Fatui"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Once Heraldos de los Fatui"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Columbina Hyposelenia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Columbina Hyposelenia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:「少女」"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Columbina"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Columbina Hyposelenia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Коломбина"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Columbina Hyposelenia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Columbina Hyposelenia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Columbina Hyposelenia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:哥倫比婭"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

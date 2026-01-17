@@ -1,0 +1,6230 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "gallery"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nCarta de personaje Viajero.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " imagen       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Carta (Éter)\nCarta de personaje Viajera.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Carta (Lumina)\nArte de personaje Viajero.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Arte (Éter)\nArte de personaje Viajera.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Arte (Lumina)\nModelo de personaje Viajero.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Modelo (Éter)\nModelo de personaje Viajera.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Modelo (Lumina)\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "gallery"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Espada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Adaptable\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Extranjero"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Caballero Honorario (de Mondstadt)"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Estrella Floral ("
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Festival de las Flores de Viento"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ")"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Héroe de Liyue (de Liyue)"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Capitán del Escuadrón Pez Espada n.º 2 (de Inazuma)"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Primer Sabio de Buer (de Sumeru)"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Caballero de las Flores ("
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Festival Sabzeruz"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ")"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Tumaini (de Natlan)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Elección del jugador\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Elección del jugador\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Viator/Viatrix (Viajero/Viajera)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Éter: Hailong Dong (董海龙), aka \"鹿喑kana\" "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lumina: Ning Yan (宴宁)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Éter: "
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Shun Horie"
+                }
+              ],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "wikipedia:es:Shun Horie"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (堀江 瞬) "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lumina: "
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Aoi Yūki"
+                }
+              ],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "wikipedia:es:Aoi Yūki"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (悠木 碧)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Éter: Gyeongtae Lee (이경태) "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lumina: Saea Lee (이새아)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Éter: Zach Aguilar"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lumina: Sarah Miller-Crews\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1.0\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ???\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Hermano perdido"
+                }
+              ],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Viajero (hermano perdido)"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " familia      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Pneuma"
+                }
+              ],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Arjé"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (Hydro)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arjé         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Descendido"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "título_representativo"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox Personaje jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\nEl '''Viajero''' o la '''Viajera''' es un personaje jugable y el protagonista de ''"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "''.\n\nAl comienzo del juego, ambos son hermanos mellizos de otro mundo que viajan por todo el universo, hasta que una "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diosa desconocida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " los atacó, atrapando a uno de ellos y sellando su manera de viajar para dejarlos varados en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Teyvat"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Está acompañado por una compañera de viaje llamada "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Paimon"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " durante todo su viaje.\n\nAl inicio el jugador puede escoger entre dos gemelos siendo el gemelo masculino '''Éter''' y  la gemela femenina '''Lumina'''  al cual luego de haber escogido se le puede asignar un apodo que será además de ser con que el que en el texto se referirán al viajero, será el nombre con que otros jugadores verán tu perfil\n\nAunque los jugadores pueden elegir el nombre por el que quieren ser referidos, el "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Hermano del Viajero"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " (el gemelo que no hayamos escogido) se refiere al Viajero por el nombre de '''Éter''' o '''Lumina''' (dependiendo del viajero escogido al inicio), independientemente de su nombre personalizado. Un detalle que podría parecer una simple mecánica de juego o una trivialidad podría tener mayor importancia de lo que se piensa. Se menciona en un punto que  el Hermano del Viajero es la única persona en todo Teyvat que se refiere a él por su verdadero nombre. Esto sugiere que el Viajero a pesar de tener un nombre propio, por razones aún desconocidas, decide no mencionar, y en su lugar, se presenta al mundo de Teyvat bajo el apodo de \"el Viajero\" (en audio) o el nombre que el jugador le haya asignado (en texto).\n\nEs curioso notar que, aunque "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dainsleif"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y Paimon estaban presentes cuando el hermano del Viajero lo llama por su nombre real por primera vez, ambos continúan refiriéndose a él por su apodo. Esto podría deberse a que lo han olvidado, no lo escucharon claramente debido a la tensión del momento, o, simplemente, ya están acostumbrados a llamarlo por su apodo.\n\n(si juegas con el audio Japonés en vez del nombre real del viajero le dirá \"onii-chan\" que significa hermano mayor, pero en otros idiomas como el chino que es el audio original si usan el nombre real)\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Perfil"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Un viajero de otro mundo a quien le arrebataron su único familiar, obligándolo a salir en un viaje para encontrar a "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Los Siete"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", dioses gobernantes de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Teyvat"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Texto de Atributos en el juego"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Ambos hermanos tienen el pelo rubio brillante, aunque en el juego, el de Éter es de un tono más brillante. Tienen complexión delgada, ojos de color amarillo dorado y piel clara. Su piel es de un bronceado claro en comparación con los PNJ de Mondstadt. Adornan una paleta de colores contrastantes: el esquema de colores de Éter es principalmente negro, dorado y blanco, mientras que el de Lumina es blanco y azul. Los dos no son idénticos y difieren en sus características naturales.\n\nÉter usa un chaleco de coraza marrón oscuro que deja al descubierto su abdomen junto con una bufanda blanca y una capa de dos colas con bordados y calcomanías dorados. Lleva una hombrera dorada en el hombro izquierdo y un pendiente con borlas en la oreja izquierda. Viste pantalones de color marrón oscuro, guantes marrones y botas negras, y tiene pectorales ligeramente definidos que no aparecen en su modelo del juego. Su cabello es de corte mediano con una coleta larga trenzada, atado con una banda con borlas.\n\nLumina lleva un vestido blanco sin mangas con una bufanda y dos capas de cola. También usa brazaletes y guantes que cubren solo su pulgar, con medias blancas y botas. Su cabello está cortado en una sacudida con flequillo, con colas gemelas rectas hasta los hombros, y está decorado con sus flores favoritas y plumas de color blanco azulado.\n\nLos Viajeros tienen piezas brillantes en su atuendo (el diamante en el pecho de Éter, su pendiente, sus guantes, botas y calcomanías en esta capa; el emblema en el abdomen de Lumina, los diamantes en su capa y sus medias) que cambian de color según el elemento. actualmente están en sintonía. En la escena de apertura con la Diosa desconocida, ambos hermanos tenían ropa blanca brillante y alas amarillas. Más tarde, después de la pelea con la Diosa desconocida, el Viajero elegido por el jugador perderá su luz blanca. Las piezas brillantes de Éter y Lumina se volverán negras hasta que interactúen con la primera "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estatua de Los Siete"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " con la que se encuentren. La ropa se iluminará de nuevo, pero esta vez se volverá del un color elemental, ya que están tomando prestado el poder de un Arconte. Este esquema de iluminación continuaría según el elemento que el hermano esté tomando prestado actualmente:\n\n* Verde menta por el poder "
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Anemo"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Anemo"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Color"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Barbatos"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n*Dorado por el poder "
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Geo"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Geo"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Color"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Morax"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n*Morado por el poder "
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Electro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Electro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Color"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Beelzebul"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n*Verde lima por el poder "
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Dendro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Dendro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Color"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " de "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Buer"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Reina Menor Kusanali"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n*Azul claro por el poder "
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hydro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hydro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Color"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Foçalors"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n*Rojo por el poder "
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Pyro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Pyro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Color"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Haborym"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Personalidad"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "La personalidad del Viajero está determinada principalmente por el jugador. Su personalidad puede variar entre alguien estoico y humilde, alguien seguro de sí mismo y con mal temperamento, o como también alguien bondadoso con toques de sarcasmo.\n\nA pesar de esto, hay casos de opciones de un solo discurso u opciones similares que dan una idea de su personalidad en general. No cree que los dioses son más dignos de respeto inmerecido que los habitantes mortales de Teyvat. También está deliberadamente desinteresado ​​en involucrarse en los problemas de cada nación sin una buena razón. Esto se debe a que el principal interés del Viajero es encontrar a su hermano, por lo que, a medida que la historia avanza, se muestra más reacio a involucrarse en temas que cree que no le van a llevar a su fin.\n\nPor ejemplo, Su respuesta a la \"muerte\" de Morax fue inicialmente simplemente irse, tanto para evitar sospechas como por no involucrarse en una misión no relacionada con su hermano. En Inazuma, el Viajero inicialmente niega la ayuda a la resistencia y se niega a tomar partido, interesado solo en reunirse con la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Shogun Raiden"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", quien cree que le puede dar información sobre su hermano. Sin embargo, a pesar de esta vacilación para involucrarse, el Viajero en última instancia es una persona compasiva, y cuando comprende más a fondo las situaciones de los habitantes que le piden ayuda, cambia de parecer y se involucra en la misión.\n\nAsimismo, conforme pasa el tiempo es cada vez más consciente de que todo el mundo le manda a cumplir recados y se muestra harto/a de esto, aunque de igual forma acaba realizándolos. Esto se debe bien porque involucran al "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gremio de Aventureros"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " del que forma parte, bien porque es el Caballero Honorario de los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Caballeros de Favonius"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " o bien porque le interesa la resolución de algunos problemas o el futuro de ciertos personajes, como pasó con la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Profecía de Fontaine"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " o con las misiones de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Yeht"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLa protectora está agonizando; el creador aún no ha llegado.\n\nPero el mundo no arderá más, pues tú ascenderás a los cielos.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nUn niño y una niña se pararon en medio del tumulto, bajo un cielo desconocido. \n\nUstedes eran un par de gemelos que viajaban, pasando por innumerables mundos durante su viaje.\n\nDescendieron sobre un continente llamado Teyvat, esperando poder disfrutar de su estancia.\n\nPero cuando despertaste entre estrellas cayendo, viste el mundo en caos, un cataclismo arrasando la tierra...\n\nTrataron de abandonar este lugar y pasar al siguiente mundo, pero una divinidad desconocida apareció ante ustedes, impidiéndoles el paso.\n\nEsta deidad inmaculada flotaba sobre un mundo de caos mientras te miraba.\n\nLa divinidad se llevó a tu único familiar, y te encerraron y te arrojaron a un letargo profundo lleno de pesadillas...\n\nCuando al fin despertaste, el mundo había cambiado.\n\nLas llamas de la guerra ya no ardían y ya nada te era familiar.\n\n¿Por cuánto tiempo dormiste? Era imposible de saber.\n\nFue así que comenzaste un viaje solitario, buscando a la deidad que viste una vez...\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nDespués de eso, conociste a Paimon, con quien deambulaste por un tiempo. \n\nAprendiste que este mundo tiene siete deidades, conocidas como Los Siete Arcontes, que gobiernan a las Siete Naciones.\n\nTu primera parada fue la Capital de la Libertad, el vino y la música bucólica: Mondstadt, una ciudad construida por el Arconte Anemo.\n\nAl entrar a Mondstadt como un forastero, fuiste, como en otras tierras, intimidado/a por amenazas tanto humanas como no humanas.\n\nLa amenaza no humana estaba conformada por la organización conocida como la Orden del Abismo.\n\nLa amenaza humana, por otro lado, provenía de la ambición de la Emperatriz del Hielo, la diosa de Snezhnaya.\n\nLa Orden del Abismo corrompió a un aliado del Arconte Anemo, el Dragón del Este y de los Cuatro Vientos de Mondstadt.\n\nLos emisarios de Snezhnaya, por su parte, aprovecharon la oposición del Abismo como una excusa para presionar a Mondstadt.\n\nEstas amenazas externas e internas obligaron a que el Arconte Anemo regresara y adoptara la forma de un bardo que se unió a tu expedición para salvar al dragón.\n\nSin embargo, mientras el dragón caía al abismo, no fuiste capaz de ver en sus ojos el reflejo de cierta figura que gobierna el Abismo, alguien que viajó contigo una vez, y con quien cruzaste muchos mundos.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n(Próximamente...)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n(Próximamente...)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n(Próximamente...)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Telar del destino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n(Próximamente...)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nCuando se enfrentan a circunstancias más allá de su control, los humanos a menudo lamentan su falta de poder.\n\nLos deseos de algunos hombres eran tan fuertes que atraían la mirada de las deidades.\n\nEstas ofrecían a los elegidos un artefacto mágico conocido con el nombre de \"Visión\", el cual les permitía dominar los elementos.\n\nCelestia es el reino de los dioses, y los portadores de Visión caminan por la tierra. Cuando parten de este mundo, los elegidos ascienden.\n\nDespués de llegar a este mundo, a menudo escuchas a las personas hablar de tales cosas.\n\nTú, por otra parte, nunca podrás recibir una Visión, ya que un/una forastero/a como tú nunca pertenecerá a este mundo.\n\n¿Es prudente permitir que un momento de ambición domine toda una vida?\n\nEn tu viaje a través de muchos mundos, has meditado sobre esta y otras cuestiones, las cuales requieren una reflexión profunda...\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Información de combate"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "El Viajero empieza el juego con sólo un talento, que es su ataque normal/cargado. Después de desbloquear sus talentos Anemo y constelaciones al resonar con la primera Estatua de Los Siete en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Mondstadt"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", puede resonar con cualquier otra de éstas que encuentre y cambiar su elemento al que responde la estatua.\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Talentos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " anemo\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "elemento"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Viento metálico extranjero\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Espada de vórtice\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Oleada de ráfagas\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Viento del cielo quebrado\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Viento de la resurrección\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de talentos\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "TablaMaterialesTalentos/Viajero/Anemo"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Geo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " geo\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "elemento"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Espada de piedra extranjera\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Espada estrellacaída\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Despertar de la Tierra\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Roca quebrada\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Roca turbulenta\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de talentos\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "TablaMaterialesTalentos/Viajero/Geo"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Electro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " electro\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "elemento"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Relámpago extranjero\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Espada electrosombría\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Estallido atronador\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Trueno centelleante\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Relámpago resonante\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de talentos\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "TablaMaterialesTalentos/Viajero/Electro"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Dendro\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "elemento"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Hoz extranjera\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Espada hierbafilada\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Dendromímesis\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Crecimiento exuberante\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Verdor prolífico\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de talentos\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "TablaMaterialesTalentos/Viajero/Dendro"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Hydro\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "elemento"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Desbordamiento extranjero\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Espada ondulante\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Correntada ascendente\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aguas prístinas\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aguas cristalinas\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de talentos\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "TablaMaterialesTalentos/Viajero/Hydro"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Pyro\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "elemento"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Llamarada extranjera\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Espada ignífera\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Abrasallanuras\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Fuego incinerador\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Perduración de las ascuas\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de talentos\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "TablaMaterialesTalentos/Viajero/Pyro"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabber\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Constelación"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " \n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Anemo "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " anemo\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " visión "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Recuerdo de los Cuatro Vientos\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " material "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Torbellino furioso\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada de vórtice"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " atrae a los enemigos en un radio de 5 m.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Torbellino ascendiente\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Recarga de energía + 16%.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Torbellino arrebatador\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Oleada de ráfagas"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3. Puede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Brisa protectora\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Mientras "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada de vórtice"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ", esté activa, el daño entrante se reduce en 10%.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Vórtice Stellaris\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada de vórtice"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3. Puede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Vientos entrelazados\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Reduce en un 20% la '''RES Anemo''' de los enemigos que reciban daño con "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Oleada de ráfagas"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ". "
+                    },
+                    {
+                      "children": [],
+                      "name": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "-"
+                        }
+                      ],
+                      "type": "template"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Si ocurre un cambio elemental, la RES elemental del elemento al que se cambió se reducirá en un 20%.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de constelaciones\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Geo"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " \n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Geo "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " geo\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " visión "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Recuerdo de cristales inamovibles\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " material "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Muro inquebrantable\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta en un 10% la Prob. CRIT de todos los miembros del equipo que estén en el radio de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Despertar de la Tierra"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ", y aumenta su RES a interrupción.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Fusión de lava\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " El meteorito de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada estrellacaída"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " explota de nuevo cuando es destruido, causando '''Daño Geo en el AdE''' adicional equivalente al daño de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada estrellacaída"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ".\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Voluntad pétrea\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Despertar de la Tierra"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3. Puede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Fuerza de reacción\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Al golpear al enemigo con una onda expansiva de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Despertar de la Tierra"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ", recuperas 5 de Energía. Puedes recuperar hasta 25 puntos de energía de esta forma.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Impacto meteórico\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de Espada estrellacaída +3. Puede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Bloque eterno\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Extiende la duración del muro de piedra de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Despertar de la Tierra"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " en 5 segundos."
+                    },
+                    {
+                      "children": [],
+                      "name": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "-"
+                        }
+                      ],
+                      "type": "template"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Extiende la duración del meteorito de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada estrellacaída"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " en 10 segundos.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de constelaciones\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Electro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " \n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Electro "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " electro\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " visión "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Recuerdo del destello violeta\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " material "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Trueno de la cosecha primaveral\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta a 3 la cantidad de abalorios de la profusión que se pueden crear mediante "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada electrosombría"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ".\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Rayo vehemente\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Cuando un enemigo es golpeado por el rayo temible de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Estallido atronador"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ", su '''RES Electro''' se reduce en un 15% durante 8 segundos.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Restallido lejano\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Estallido atronador"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3."
+                    },
+                    {
+                      "children": [],
+                      "name": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "-"
+                        }
+                      ],
+                      "type": "template"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Puede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Relámpago súbito\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Si la Energía Elemental de un personaje está por debajo del 35% cuando absorbe un abalorio de la profusión creado con "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada electrosombría"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ", la cantidad de Energía recuperada por medio del abalorio aumenta en un 100%.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Naturaleza eléctrica\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada electrosombría"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3."
+                    },
+                    {
+                      "children": [],
+                      "name": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "-"
+                        }
+                      ],
+                      "type": "template"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Puede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Sacudida celestial\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Tras provocar dos rayos temibles con  "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Estallido atronador"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ", el daño del siguiente rayo temible aumentará considerablemente para infligir un 200% del daño original y, además, regenerará 1 punto adicional de Energía Elemental para el personaje en uso.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de constelaciones\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " \n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Dendro "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " dendro\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " visión "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Recuerdo del verde naciente\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " material "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Enredadera simbiótica\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Al golpear a un enemigo con Espada hierbafilada, el Viajero/la Viajera recupera 3.5 pts. de Energía Elemental.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Planta tenaz\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta en 3 s la duración del loto luminoso.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Mecer de las praderas\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada hierbafilada"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3.\nPuede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Melaza herbácea\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Cuando el loto luminoso sufre una lototransformación, otorga 5 cargas del efecto “lotoiluminación” del talento pasivo “Crecimiento exuberante”.\nSe necesita desbloquear el talento pasivo “"
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Crecimiento exuberante"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "”.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Fugacidad veridiana\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Dendromímesis"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3.\nPuede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Marcescencia congregada\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Los personajes que están bajo los efectos de la lotoiluminación del loto luminoso obtienen un 12% de Bono de Daño Dendro. Si el loto ha sufrido previamente una lototransformación, también obtendrán un 12% del Bono de Daño Elemental correspondiente.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de constelaciones\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hydro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " \n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Hydro "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " hydro\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " visión "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Recuerdo del fluir del agua\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " material "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Lagos undosos\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Al recoger una gota primigenia, el Viajero/la Viajera recupera 2 pts. de Energía Elemental.\nEs necesario desbloquear el talento pasivo “Aguas prístinas”.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Arroyos borboteantes\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Reduce en un 30% la velocidad a la que se mueve la burbuja flotante de Correntada ascendente y aumenta en 3 s su duración.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Olas furibundas\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada ondulante"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3.\nPuede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aluviones precipitantes\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Al utilizar Espada ondulante, se crea un escudo ondulante con una capacidad de absorción equivalente al 10% de la Vida Máx. y con un 250% de efectividad de absorción de Daño Hydro. El escudo dura hasta que se termine de liberar la habilidad.\nUna vez cada 2 s, tras golpear a un enemigo con las gotas de rocío, si el Viajero/la Viajera está protegido/a por un escudo ondulante, su capacidad de absorción se repondrá a un 10% de su Vida Máx.; si no está protegido/a por él, se crea un nuevo escudo.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Meandros serpenteantes\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Correntada ascendente"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3.\nPuede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Mareas de la justicia\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Cuando el Viajero/la Viajera recoge una gota primigenia, regenera Vida para el personaje cercano con el menor porcentaje de Vida del equipo en una cantidad equivalente al 6% de la Vida Máx. de dicho personaje.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de constelaciones\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " \n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Pyro "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " pyro\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " visión "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Sílex ígneo primigenio\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " material "
+                    }
+                  ]
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Estrella fulgente\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Mientras el umbral flagrante o el umbral abrasador estén activos, el daño que inflige el personaje en uso aumentará en un 6%. Si dicho personaje está en estado de bendición noctámbula, el daño que inflige aumenta en un 9% adicional.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Vela perpetua\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Durante los 12 s posteriores a usar la Habilidad Elemental, Espada ignífera, cuando un personaje cercano del equipo causa una Reacción Elemental "
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "type": "text",
+                              "value": "Pyro"
+                            }
+                          ],
+                          "type": "template parameter",
+                          "name": []
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "type": "text",
+                              "value": "Pyro"
+                            }
+                          ],
+                          "type": "template parameter",
+                          "name": []
+                        }
+                      ],
+                      "name": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Color"
+                        }
+                      ],
+                      "type": "template"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " contra un enemigo, la Viajera(el Viajero) recupera 14 "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "pts. de noctambulismo"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ". Solo se pueden recuperar un máximo de 28 pts. de noctambulismo de esta manera por cada vez que se use la Habilidad Elemental, Espada ignífera.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Relevo llameante\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Espada ignífera"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3."
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "<"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "br"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ">"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Puede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Fuego abrasador\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Tras usar la Habilidad Definitiva, Abrasallanuras, la Viajera(el Viajero) obtiene un 20% de "
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "type": "text",
+                              "value": "Bono de Daño Pyro"
+                            }
+                          ],
+                          "type": "template parameter",
+                          "name": []
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "type": "text",
+                              "value": "Pyro"
+                            }
+                          ],
+                          "type": "template parameter",
+                          "name": []
+                        }
+                      ],
+                      "name": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Color"
+                        }
+                      ],
+                      "type": "template"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " durante 9 s.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Antorcha inextinguible\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Aumenta el nivel de habilidad de "
+                    },
+                    {
+                      "children": [],
+                      "target": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Abrasallanuras"
+                        }
+                      ],
+                      "type": "internal link"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " +3."
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "<"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "br"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": ">"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Puede ser aumentado hasta Niv. 15.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Sacrofuego imperecedero\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " Mientras está en estado de bendición noctámbula, el daño de los Ataques Normales, Cargados y Descendentes de la Viajera(del Viajero) se convierte en "
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "type": "text",
+                              "value": "pyro"
+                            }
+                          ],
+                          "type": "template parameter",
+                          "name": []
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [],
+                              "type": "text",
+                              "value": "Daño Pyro"
+                            }
+                          ],
+                          "type": "template parameter",
+                          "name": []
+                        }
+                      ],
+                      "name": [
+                        {
+                          "children": [],
+                          "type": "text",
+                          "value": "Color"
+                        }
+                      ],
+                      "type": "template"
+                    },
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": " de naturaleza noctámbula, el cual no puede sustituirse imbuyéndose de otro elemento, y el Daño CRIT de estos ataques aumenta en un 40%.\n"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Tabla de constelaciones\n"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabber\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ascensión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Diamante brillante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Margarita voladora\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara dañada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara sucia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara amenazante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ataque\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 911.791\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3262.3718\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 17.808\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 63.7182\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 57.225\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 204.75\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Vestuarios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Viajero (anuncio).png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Viajera (anuncio).png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Viator.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Viator\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Viatrix.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Viatrix\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Viajero.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Genshin Impact - Un nuevo mundo.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Genshin Impact - Un nuevo mundo"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Viajero.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones de personajes"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historias de personajes"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Amber"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Diario de Amber"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Fischl"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 5"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 10 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Fischl"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visión"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 10\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kachina"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 5"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 7 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 8\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kaedehara Kazuha"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cáscara de Visión"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Yanfei"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 4"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 8\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Yelan"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 4"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Zhongli"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Gnosis"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias \n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Curiosidades"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " \n*Da lo mismo el personaje que se elija, la historia será la misma para ambos. Sin embargo, sí hay ciertas diferencias en algunos diálogos (como en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "La elegía de Bilqis"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ") y la velocidad de ataque y de movimiento trepando, nadando, etc. es diferente dependiendo del hermano elegido, pero se trata de diferencias menores y poco influyentes para la historia y la jugabilidad.\n*En los vídeos del [https://www.youtube.com/c/GenshinImpact canal oficial de Youtube de Genshin Impact], Éter aparece como el viajero oficial, mientras que Lumina se convierte en la hermana perdida. Sin embargo, con el paso del tiempo y las estadísticas de elección de viajero (en las que hay bastante igualdad al respecto), desde la empresa se ha fomentado la ambivalencia de ambos personajes en los dos roles, como puede verse en las presentaciones de las nuevas versiones, donde ambos hermanos se turnan para aparecer en los programas especiales.\n* En la escena de apertura con la Diosa desconocida, se muestra a los hermanos empuñando espadas blancas y doradas. La espada de Éter tenía una guarda en forma de cruz y la espada de Lumina tenía una guarda en forma de media luna.\n*Habiendo llegado a Teyvat poco antes del Cataclismo, El Viajero tiene recuerdos de haber visto a "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Khaenri'ah"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " durante su destrucción. Esto implica que ha habido un salto de 500 años desde el encuentro con la Diosa desconocida y los eventos del juego. La teoría principal es que el Viajero se mantuvo dormido durante este tiempo, mientras que el Hermano estuvo viajando y tomando parte activa en la historia y los sucesos en Teyvat.\n* El Hermano del Viajero fue el primero en despertar y exploró Teyvat junto a "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dainsleif"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " como compañeros. Es, en la actualidad, el "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "príncipe/princesa de la Orden del Abismo."
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Hermano del Viajero"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " \n*Los Fatui etiquetaron al viajero como el cuarto "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Descendido de Teyvat"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Descendido"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n*El Viajero es actualmente el único personaje jugable que: \n**No tiene un tercer Talento pasivo.\n**No tiene ninguna afiliación en su perfil.\n**Su Visión aparece como \"Ninguna\" en su perfil.\n**No tiene un nivel de amistad enumerado en los atributos, haciendo sus pasajes de la historia y líneas de voz se desbloquen al completar ciertas Misiones de Arconte.\n**No aparece en el archivo de personajes en absoluto.\n**Tiene sus niveles de Constelación desbloqueados a través de Recuerdos, a diferencia de Stella Fortunas, que se obtienen para otros personajes en el Gachapón. Como resultado, ni el Éter ni Lumina tienen ilustraciones de arte de Deseo, algo que también es exclusivo de ellos.\n***El Viajero fue inicialmente el único personaje jugable que sus niveles de Constelación no estaban disponibles por medio de los Deseos. A partir de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "versión 2.1"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Aloy"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " tampoco tiene disponible sus niveles de Constelación a través de los Deseos. Sin embargo, a diferencia del Viajero, Aloy ilustraciones de arte de Deseo que se pueden ver en el Archivo de personajes.\n*Según los pronombres chino, japonés y coreano que los gemelos usan para dirigirse entre sí en la escena de apertura y en interacciones posteriores, Éter es el hermano mayor y Lumina es la menor.\n*Aunque el Viajero no posee una Visión, aún puede usar los poderes elementales de los Arcontes. \n**Hay un indicador visual para qué elemento está sintonizado actualmente el jugador; La ropa del jugador brillará con el color de cualquier elemento del que esté tomando prestado el poder.\n***Hasta ahora, el verde azulado es Anemo, el amarillo es Geo, el púrpura es Electro y verde es Dendro. Se puede suponer que los elementos futuros seguirán el mismo esquema de color.\n***Este sistema también parece estar más basado en el juego que en la trama, ya que durante la escena en la que se enfrenta a "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tartaglia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", el Viajero usará tanto el elemento Anemo como Geo, independientemente de la estatua con la que el jugador esté resonando actualmente.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Etimología"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*La palabra \"[https://es.wikipedia.org/wiki/Éter_(elemento) Éter]\" es el nombre del quinto elemento en la ciencia antigua y medieval, que llena el universo más allá de la esfera terrestre, y es el mismo caso con \"Aether\", que es el nombre en ingles.\n**En la mitología griega, el dios [https://es.wikipedia.org/wiki/Éter_(mitología) Éter] era la personificación del cielo claro superior que encarna el aire que respiran los dioses. La palabra griega Éter, tanto en griego moderno como antiguo, también significa cielo.\n**En chino, japonés y coreano, su nombre es 空 (\"Cielo, Aire, Vacío\"). En el budismo, esta palabra se usa para denotar el concepto de [https://es.wikipedia.org/wiki/Shuniata Śūnyatā], que tiene múltiples significados pero generalmente se relaciona con la falta de existencia o naturaleza intrínseca y permanente. \n***En la filosofía japonesa [https://es.wikipedia.org/wiki/Godai Godai] de los cinco elementos, que se basa tanto en el budismo como en los elementos chinos [https://es.wikipedia.org/wiki/Wu_Xing Wu Xing], el Vacío es el más alto de ellos.\n*La palabra \"Lumina\" es de origen latino y significa \"Luz\", y es el mismo caso con \"Lumine\", que es el nombre en ingles.  \n**En la versión china, su nombre es 荧 \"Yíng\" que significa \"Luminoso\" o \"Brillante\".\n**En japonés, su nombre es 蛍 \"Hotaru\" que significa \"Luciérnaga\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1.0\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ajustado el efecto de luz de la vestimenta de la Viajera, \"Lumina\", cuando todavía no posee ningún elemento.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2.1 "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios2\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<!--"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "interwiki"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "-->"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "de:Reisende/r"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Traveler"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Voyageur"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "id:Pengembara"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Viaggiatore"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:旅人"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Podróżnik"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Viajante"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Путешественник"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:นักเดินทาง"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Gezgin"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Мандрівники"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Nhà Lữ Hành"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:旅行者"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Usuarios de Pneuma"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

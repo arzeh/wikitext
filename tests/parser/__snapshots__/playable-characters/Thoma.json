@@ -1,0 +1,3250 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Thoma.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " imagen        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Masculino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Inazuma\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región actual "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Comisión Yashiro"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Clan Kamisato"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Amo de las llaves del clan Kamisato\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mondstadt\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Rubeum Scuta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2.2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lanza\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Masakazu Morita (森田 成一)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Christian Banas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pei Zhang (张沛)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ryu Seung-gon (류승곤)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 9 de Enero\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Calidez\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Humano\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " No en uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Supervivencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "El Protector de Tierras Lejanas"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "título_representativo"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n'''Thoma''' es un personaje jugable en ''"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "''.\n\nProveniente de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Mondstadt"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", es el amo de llaves del "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Clan Kamisato"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y también un conocido \"reparador\" en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Inazuma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nHizo su primera aparición como PNJ en la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Versión 2.0"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y llegó por primera vez en la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Versión 2.2"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en el gachapón \""
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Florecimiento fugaz (2)"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Perfil "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Thoma es, actualmente, el principal sirviente del Clan Kamisato y tiene un cierto nivel de asociación con los hermanos Kamisato, así como una gran red de contactos en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ritou"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " debido a la ayuda que presta a los extranjeros para sobrevivir.\n\nNació en Mondstadt pero actualmente vive en Inazuma, donde es el amo de llaves del clan Kamisato de la Comisión Yashiro. También es un intermediario muy activo en Inazuma.\n\nInfluenciado tal vez por el ambiente relajado y alegre de su ciudad natal, Thoma es muy bueno para socializar. Y, a pesar de ser un forastero, ha construido una red de amigos inesperadamente grande en la región de Inazuma.\n\nEs naturalmente amigable con todos y siempre es capaz de conversar sobre una amplia variedad de temas y entablar relaciones con diferentes personas. Pero, cuando se trata de defender los intereses de la Comisión Yashiro, esconde su sonrisa y muestra su lado más serio.\n\nSin embargo, de vez en cuando, Thoma se sienta a solas en un rincón de la Comisión Yashiro a pensar en sus asuntos personales.\n\nAunque es un hombre amable y simpático que se preocupa por todos los animales y compañeros, tal vez también siente cierta nostalgia de la cual no logra hablar.\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "¡Guau!"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Taroumaru"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lo que Taroumaru quiso decir es que Thoma es muy bueno cuidando a otros y es un buen amigo. Pero no puedes solo cuidar de los demás, también debes cuidarte a ti mismo... Espera, ¿de qué te ríes? ¡Solo estaba traduciendo lo que dijo Taroumaru!"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Gorou"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Apariencia "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Thoma es un joven de ojos verdes y cabello rubio desordenado atado en una cola de caballo con un cordón rojo con borlas que se tornan bronceadas en los extremos.\n\nEl atuendo de Thoma es una fusión del atuendo de estilo occidental con partes de la armadura samurái. Viste una chaqueta corta decorativa, roja y negra sobre una camisa negra, junto con un par de placas plateadas para perros que cuelgan alrededor de su cuello. Los puños abotonados de sus mangas estilo kote adornadas con oro están estampadas con un diseño de flor de lis. Lleva una diadema de metal negro en la cabeza, con cuernos acentuados en oro que se asemejan al maedate (cresta frontal) de un casco kabuto. Lleva una Visión Pyro en su cinturón, además de un kusazuri (escarcela) adornado con crestas en llamas del "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Clan Kamisato"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en la otra cadera. El mismo escudo está marcado en los polines de sus suneate (espinilleras) con cordones de botas con zapatos tabi. También tiene pequeños aretes rojos.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Personalidad "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Thoma es conocido por la gente de Inazuma por ser un \"ayudante\", ayudando a todos y asegurando que cualquier problema se resuelve rápido y pacíficamente. No se sabe por qué se mudó de Mondstadt a Inazuma, pero a pesar de ser un forastero, se las arregló para ganarse la confianza del Clan Kamisato y ascendió al puesto de jefe de servicio, junto con una gran red de contactos. Es un trabajador eficiente que resuelve todos los problemas del Clan Kamisato en el momento oportuno.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historia "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl cargo oficial de Thoma en el clan Kamisato es el de amo de llaves encargado de limpiar y cocinar, entre otras tareas.\n\nSiempre que está en la sede de la Comisión Yashiro, se mantiene ocupado con este tipo de labores. Lo hace todo tan bien que incluso Furuta, el mayordomo de los Kamisato, tiene elogios para sus habilidades domésticas.\n\nSin embargo, la mayor parte del tiempo, Thoma no se queda en la Comisión, sino que se dedica a resolver otros asuntos especiales desde las sombras, como por ejemplo: a solucionar los problemas de la Comisión Yashiro, a averiguar información en nombre del líder del clan Kamisato, a cumplir con los deseos de Ayaka, etc.\n\nA su manera, Thoma no deja de expandir la influencia de la Comisión Yashiro incluso por los rincones más desconocidos.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nThoma tiene por naturaleza un temperamento excelente.\n\nYa sea con nobles, dignatarios o comerciantes ambulantes, siempre encuentra el momento de unirse a la conversación para charlar alegremente.\n\nGracias a sus magníficas habilidades sociales, ha conseguido una amplia red de contactos en Inazuma. Cuando llegó a esta nación, hizo amigos de todos los sectores profesionales gracias a su propia intuición y habilidades de comunicación. Más tarde, mucha gente empezó a querer conocerlo.\n\nCuanta más gente conozcas, más recursos obtendrás. En este sentido, Thoma obtiene información de primera mano por medio de estas personas, o simplemente realiza sigilosamente ciertos intercambios comerciales favorables para la Comisión Yashiro.\n\nAhora bien, aunque Thoma tiene una enorme red de contactos, jamás la ha usado en beneficio propio, ni tampoco ha obligado a nadie a hacer nada en nombre de la Comisión.\n\nSociabilidad, un juicio preciso y unos métodos perfectos; esas son las razones por la que a Thoma le ha ido tan bien en Inazuma."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nAlgo que sorprende a todo el mundo es que, para el atractivo y alegre Thoma, los animales adorables son absolutamente irresistibles.\n\nCuando sale a la calle, siempre lleva consigo algo de comida de animales para alimentar a los gatos y perros callejeros.\n\nVerlos comer con tanto gusto es algo que siempre le saca una sonrisa.\n\nY es que Thoma cree que, igual que él, los animales también son una parte de este mundo.\n\nAunque no parezcan muy llamativos para el ojo humano, ellos también están intentando vivir.\n\n\"Mientras vivas, siempre podrán suceder cosas buenas\". Esto es algo que siempre ha pensado Thoma.\n\nAunque estos animales no hayan tenido buena suerte, él espera que su presencia suponga algo bueno y digno de celebrar para ellos"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nComo amo de llaves del clan Kamisato, Thoma es omnipotente en cuanto a tareas domésticas se refiere.\n\nLimpiar, cocinar, coser, ser jardinero, enfermero o sociabilizar... Todo puede hacerlo con facilidad.\n\nPara él, las labores del hogar no solo son su trabajo y su deber, sino también su afición.\n\nSiempre limpia la casa hasta dejarla como nueva y asegurándose de que no quede ni una mota de polvo en ninguna barandilla. Al ver la sede de la Comisión limpia y ordenada, Thoma se siente tranquilo.\n\nTal vez sea porque disfruta de la sensación que le causa haber limpiado, pero siempre que tiene la oportunidad, agarra una escoba o un plumero y se pone a limpiar toda mancha que ve.\n\nA Thoma también le importa mucho la vida diaria de sus compañeros de trabajo.\n\nHubo un invierno en el que las temperaturas descendieron drásticamente en Inazuma, por lo que cuando el guardia de la Comisión Yashiro salió a patrullar, se resfrió. Unos días después, recibió un suéter tejido personalmente por Thoma.\n\nLa talla era perfecta, lo que le recordó a cuando su madre le enviaba ropa que ella misma hacía. Sin embargo, ahora que era mayor, hacía tiempo que el guardia no recibía ropa de la madre.\n\nCon esto en mente, se tomó unos días de vacaciones para volver a su hogar natal a visitar a su familia. Cuando regresó a la Comisión, le regaló a Thoma unos productos típicos de su tierra, con lo que ambos se hicieron buenos amigos."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl padre de Thoma es de Inazuma y su madre, de Mondstadt, lugar donde él creció y donde, desde pequeño, se acostumbró a un ambiente libre y alegre. Es por esto por lo que siempre le resulta fácil integrarse entre la gente.\n\nDesde pequeño, también fue educado por su padre con un especial énfasis en la lealtad.\n\nCuando su padre volvió a Inazuma, a Thoma le preocupaba que nunca más pudiera beber el vino de Mondstadt, por lo que fue en bote hasta Inazuma cargado de vino de diente de león.\n\nEn el camino, una ola gigante volcó la embarcación y Thoma cayó al agua. Por fortuna, flotó inconsciente hasta llegar a una playa de Inazuma.\n\nEn aquel entonces, Thoma no tenía nada ni nadie, pero aun así comenzó con alegría su nueva vida en aquella nación.\n\nSe esforzó mucho, pero desgraciadamente no encontró a su padre, que en teoría debía estar allí.\n\nSin embargo, en su momento más difícil, Thoma conoció en Inazuma a una persona digna de su lealtad."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nPuesto que Thoma tiene sangre extranjera, los habitantes de Inazuma suelen considerarle un forastero.\n\nA pesar de las miradas y chismes sobre su persona, nunca se ha sentido molesto por ello, sino que siempre sonríe cuando alguien duda de él.\n\nEs bien sabido por toda la Comisión Yashiro que Thoma es la persona que mejor temperamento tiene, pero fuera de ella, es totalmente distinto.\n\n\"¡No ofendas a Thoma! Si no, será difícil encargarse de este asunto\".\n\nNadie sabe cuándo comenzó este rumor, pero ha circulado por tanto tiempo que mucha gente lo cree cuando lo oye por primera vez.\n\nEn cuanto a aquellos que han tenido algún encontronazo con Thoma, el simple hecho de mencionar su nombre les infunde miedo:\n\n\"¡No te dejes engañar por ese mozo! Siempre lleva una sonrisa afable en el rostro. Lo único que hice fue estafarle una pequeña cantidad de dinero a la Comisión Yashiro, y entonces él...\"\n\nAsí es. Si alguien se atreve a dañar los intereses de la Comisión o a faltarle el respeto a los hermanos Kamisato, Thoma hará que el culpable pague el precio que debe.\n\nPara él, esto no es más que su trabajo y su deber, pero no le gusta alardear de sus logros. En caso de recibir alguna crítica, tampoco se justificará en exceso.\n\n\"*Suspira*, ¿a quién le importan estas trivialidades? Además, da igual el tipo de persona que sea yo siempre y cuando quien deba saberlo lo sepa\"."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Plumero antiguo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nThoma ha \"conquistado\" muchos lugares con su plumero favorito.\n\nComo lo ha usado durante tanto tiempo, aunque lo limpie y lo cuide, siempre tiene un aspecto viejo y gris. Aun así, Thoma no puede separarse de él.\n\nLo recibió la primera vez que hizo una limpieza en la sede de la Comisión Yashiro, por lo que, cada vez que lo ve, se acuerda de aquella época alegre y de mucho trabajo.\n\nEn aquel entonces, el inexperto Thoma aún no conocía ni dominaba las distintas técnicas de limpieza, así que estaba hasta bien entrada la noche ocupado con las tareas de limpieza y organización.\n\nMientras, lo acompañaban la luz de la luna sobre su cabeza, el canto de los insectos y el sonido del plumero al chocar contra las vigas de la casa.\nHay muchos tipos de limpieza, desde una simple hasta una a fondo, y Thoma ya tiene experiencia con todas ellas.\n\nAl principio, le parecía un trabajo aburrido, pero cuando se acostumbró a él, se dio cuenta de que podía pensar con más tranquilidad mientras limpiaba.\n\nPor ello, a día de hoy, Thoma suele usar su plumero para trabajar. Así, mientras limpia toda mota de polvo que encuentra, también limpia las preocupaciones que nieblan su cabeza hasta quedarse sereno y relajado.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nCuando aún era pequeño y vivía en Mondstadt, Thoma no tenía ninguna aspiración en particular.\n\nSe levantaba con la luz del sol matinal y la fragancia de las flores frescas. Después de desayunar, a veces caminaba tranquilamente por la ciudad o exploraba la naturaleza con libertad.\n\nPara el Thoma de aquel entonces, las personas debían poder experimentar la felicidad de una vida tranquila. Tal vez lo mejor sería vivir sin preocupaciones.\n\nPero este relajado temperamento desapareció cuando se vio en una nación extraña tras haber sido arrastrado por las olas a través del océano en un pequeño bote.\nUna vez allí, le tuvo que pedir un favor a una persona para poder sobrevivir, y entonces en su interior surgió el pensamiento de la \"reciprocidad\".\n\nHace diez años, cuando el clan Kamisato de la Comisión Yashiro estaba perdiendo su poder, Kamisato Ayato, envuelto en la disputa por la sucesión del clan debido a la muerte de sus padres, le dijo a Thoma:\n\n\"Inazuma vive una situación incierta y la Comisión Yashiro solo verá cada vez más problemas. Eres alguien capaz de ver lo que está en juego, así que si no quieres verte envuelto en todo esto, será mejor que te vayas cuanto antes\".\n\nSin embargo, después de haber recibido tal favor por parte del clan Kamisato, ¿cómo iba Thoma a irse así como así? Si lo hacía, significaría que tendría que volver a su vida normal y tranquila, pero lleno de culpa y arrepentimientos.\nLa tormenta era inminente y Thoma era como una hoja a la deriva en el mar.\nPero tras pensarlo mucho, respondió:\n\n\"Si me voy ahora, no demostraría mi lealtad, y mi padre me enseñó a ser leal. Por ello, me gustaría ayudarle a usted, joven amo, y a la señorita. Me necesitarán como ayudante para el camino que tomarán en el futuro\".\n\nEsa ferviente voluntad por ser leal forjó una gran ambición en Thoma y atrajo la mirada de los dioses.\n\nComo respuesta a su elección, en esa noche de destinos divergentes, al lado de Thoma apareció una ardiente Visión de color escarlata.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Información de combate "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Talentos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lanza devastadora\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Bendición incandescente\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Armadura calcinante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cota de malla\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ofensiva incineradora\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Apasionado de la pesca\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6 "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mariposa del fuego infernal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas de la transitoriedad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía de la transitoriedad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía de la transitoriedad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia de cuervo de bronce\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia de cuervo plateada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia de cuervo dorada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Constelación "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "El deber de un compañero\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cuando los personajes que estén bajo la protección de un '''escudo llameante''' (a excepción de Thoma) reciben un ataque, tanto el TdE de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Bendición incandescente"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " como el de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Armadura calcinante"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " se reducen en 3 segundos."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Este efecto solo puede ocurrir una vez cada 20 segundos.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hábil sirviente\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta en 3 segundos la duración de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Armadura calcinante"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Voluntad protectora\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta el nivel de habilidad "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Bendición incandescente"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Nivel 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Plan de servicio\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Al realizar "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Armadura calcinante"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", Thoma recupera 15 puntos de Energía Elemental.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Fuego incontrolado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta el nivel de habilidad "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Armadura calcinante"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Nivel 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Corazón fervoroso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Al obtener un '''escudo llamenate''' o reiniciar su duración, el daño de los Ataques Normales, Cargados y Descendentes de todos los miembros del equipo aumentan un 15% durante 6 segundos.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Ascensión "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ágata agnidus\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Perla abrasante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hongo fluorescente\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia de cuervo de bronce\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia de cuervo plateada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia de cuervo dorada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ataque\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 866.2015\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3099.2532\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 16.9176\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 60.53229\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 62.9475\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 225.225\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Gachapón "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Vestuarios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Galería "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Rubeum Scutum.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Rubeum Scutum\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Thoma.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Thoma - Brazales ardientes.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Thoma - Brazales ardientes"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Thoma.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arte de cumpleaños"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Thoma 2022.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2022\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Thoma 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2023 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hecho por [https://twitter.com/guryfrog guryfrog]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Thoma 2023 2.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2023 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hecho por [https://www.pixiv.net/en/users/1723558 tokki]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Thoma 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Thoma 2025.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2025\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Dias festivos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Día blanco 2022 - Thoma.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Día blanco 2022\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Día de los inocentes de 2022.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Día de los inocentes de 2022\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Menciones de personajes"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historias de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kamisato Ayaka"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kamisato Ayato"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 3"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 7\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kamisato Ayato"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 4"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 10\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kamisato Ayato"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cajita de caligrafía de madera onírica"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 10\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Kamisato Ayato"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visión"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 14 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias \n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Curiosidades "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "* "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "PAGENAME"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "  aparece mencionado en las siguientes "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "decoraciones"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ":\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Calle de la arboleda"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Figura de exposición: Akitsu Harpastum"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historial de cambios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hizo su primera aparición como PNJ.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2.0 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Se añadió como personaje jugable junto al gachapón \""
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Florecimiento fugaz (2)"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2.2 "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios2\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Navegación "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<!--"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "interwiki"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "-->"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "de:Thoma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Thoma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Thomas"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Thoma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:トーマ"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Thoma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Thoma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Тома"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Thoma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Thoma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Тома"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Thoma"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:托馬"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

@@ -1,0 +1,3153 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Isla Watatsumi"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Clan Sangonomiya"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Resistencia del Sangonomiya"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Líder de la Resistencia del Sangonomiya "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Perla de la Sabiduría "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sacerdotisa Divina "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Srta. Lenguado de las Profundidades (por "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Yae Miko"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ") "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Santa-pescadilla (por "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Arataki Itto"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ")\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Femenino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región actual "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Suzuko Mimori (三森すずこ)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dracaena Somnolenta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2.1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Risa Mei\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Catalizador\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guiniang (龟娘)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Estratagema impresionante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 22 de Febrero\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Inazuma\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yeo Yun-mi (여윤미)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Humana\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " No en uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Apoyo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Supervivencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol3          "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n'''Sangonomiya Kokomi''' es un personaje jugable en ''"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "''.\n\nLa joven sacerdotisa divina de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Isla Watatsumi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y descendiente del "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Clan Sangonomiya"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Kokomi está a cargo de la mayoría de los asuntos de Watatsumi, asumiendo las pesadas responsabilidades solo con la esperanza de darle a la gente de la Isla Watatsumi las esperanzas y la felicidad que desean.\n\nHizo su primera aparición como PNJ en la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Versión 2.0"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y llegó por primera vez en la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Versión 2.1"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en el gachapón \""
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Brillo del océano"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Perfil "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Sangonomiya Kokomi es una hermosa damisela. A pesar de su apariencia elegante, en realidad es la líder de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tropas de Watatsumi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Ella es una asesora militar sabia e ingeniosa. Aunque siempre luce una sonrisa muy serena, en realidad lo tiene todo arreglado y a su alcance. Ella es el cerebro de la fuerza. Es la Sacerdotisa Divina de la Isla Watatsumi, la líder suprema de la Isla Watatsumi.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Apariencia "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Kokomi es una mujer joven con cabello largo, de color salmón claro con puntas celestes. Su cabello está atado en una coleta de moño y sostenido con una decoración índigo en forma de aleta. Sus iris consisten en un degradado de rosa en la parte inferior a índigo oscuro en la parte superior y carecen de pupilas distintas.\n\nSu atuendo es principalmente azul marino, índigo y blanco. Lleva un abrigo tipo kimono azul marino con acentos blancos que se asemejan a olas. Los extremos de sus mangas están adornados con volantes y detalles en forma de concha, mientras que el dobladillo en la parte superior está festoneado para que parezcan aletas. Hay un lazo de color coral adornado con una perla en cada uno de sus brazos. Un lazo similar se encuentra en la parte inferior de sus mangas y está unido a borlas índigo. En su espalda, tiene dos grandes lazos blancos alrededor de un lazo rojo de tres vueltas, todo mantenido en su lugar con una gran concha lila. Ella también tiene dos faldones en forma de aleta que hacen la transición del lila al salmón.\n\nKokomi usa un traje lila casi blanco debajo de su abrigo que termina con pantalones cortos que tienen un dobladillo festoneado. Su ombligo está expuesto y debajo hay una gema azul claro. Los lados tienen recortes con lazos y perlas de color azul claro, y están conectados a sus medias hasta el muslo. Estas medias tienen un dobladillo festoneado de color lila más oscuro, así como un corte en forma de rombo en la parte superior.\n\nEn la parte delantera de su traje, hay un gran lazo azul marino con rayas blancas sobre dos cortinas de color lila con rayas de color lila más claro y detalles en rojo y azul. Su Visión Hydro se coloca en el centro del arco.\n\nLleva medios guantes blancos y dos perlas en cada mano, también usa sandalias tipo geta con suela azul marino con detalles de color lila claro, tiras de color coral y un lazo azul con una perla en cada zapato.\n\nEn su cuello, lleva una gran gargantilla azul marino e índigo con un dobladillo festoneado. En el centro de la gargantilla hay una gema azul redonda con una concha índigo a cada lado. De esta gema azul cuelgan tres vueltas de cordón azul y una piedra preciosa azul en forma de gota.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Personalidad "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Como la sacerdotisa divina de la isla Watatsumi, Kokomi se encarga de casi todos los asuntos de la isla. Si bien no está contenta con tal carga, habiendo preferido ser asesora militar, no obstante, toma el mando para brindar a su gente la esperanza y la felicidad que se merecen. Al igual que "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Jean"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", Kokomi se agota fácilmente al completar sus tareas y trata de mantenerlo oculto a los demás para evitar preocuparlos.\n\nAdemás de manejar todo tipo de asuntos, Kokomi es una hábil estratega que piensa en todos los escenarios potenciales y cómo manejarlos como resultado de leer muchos libros militares, aunque también disfruta de la lectura casual. "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Kujou Sara"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " comenta que su planificación impidió que la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Comisión Tenryou"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " reclamara la victoria total sobre la Resistencia Sangonomiya. Continúa con este hábito incluso fuera de los asuntos militares. Como resultado del papel que desempeña, su gente la ama universalmente.\n\nLe encanta el "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Sushi de huevo"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", pero no le gustan los mariscos, algo que ella mantiene en secreto a la mayoría.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historia "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLos residentes de la Isla Watatsumi antes vivían en Enkanomiya, en el fondo del mar.\n\nCuando el dios Orobaxi los llevó hasta la superficie, la Isla Watatsumi se convirtió en la civilización que es hoy en día.\n\nDespués de que la Arconte Electro asesinara a Orobaxi, su cuerpo quedó reducido a huesos cansados y las injusticias que había sufrido se condensaron en los tatarigami.\n\nPero su voluntad de proteger la Isla Watatsumi no se ha disipado.\n\nEsta voluntad se incorporó al linaje de los Sangonomiya y pasó de generación en generación.\n\nQuien hereda ese linaje es la Sacerdotisa Divina de Watatsumi.\n\nLa Sacerdotisa Divina es la persona que lleva la voluntad de la deidad en un cuerpo mortal y protege la tierra en su lugar.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl día que Kokomi se convirtió en la Sacerdotisa Divina, muchos de los habitantes de la Isla Watatsumi se acercaron a Sangonomiya para verla desde lejos.\n\nSentían sorpresa o confusión, dudaban o se mostraban temerosos... Todo porque pensaban que Kokomi era demasiado joven.\n\nSe empezaron a urdir conspiraciones, la incertidumbre iba de boca a oreja y los ambiciosos empezaron a prepararse. Se acercaba una tormenta y toda la Isla Watatsumi estaba intranquila.\n\nNo obstante, poco después de que Kokomi accediera al puesto, las cosas se calmaron.\n\nTenía muy clara la diferencia entre el bien y el mal, amaba a su pueblo y mostraba una habilidad excepcional en la estrategia militar. En muy poco tiempo, Kokomi se ganó el apoyo de la mayoría de la gente.\n\n\"Mientras esté la señorita Sangonomiya, no habrá ningún problema\". Esta se convirtió en una de las frases más pronunciadas por los habitantes de la Isla Watatsumi."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nHay muchos factores que influyen en el resultado de una batalla.\n\nLa geografía, el clima, la diferencia de fuerza, el equipamiento... Cada elemento se tiene que considerar detenidamente.\n\nQuienes se fijan en todos los detalles suelen perderse la evolución de la batalla; los que hablan de estrategia incesantemente normalmente solo son útiles sobre el papel.\n\nEn el campo de batalla, los milagros solo se consiguen cuando se tienen en cuenta tanto los detalles como la situación general.\n\nDetrás de escena quedan las innumerables horas de una investigación agotadora y las lecciones aprendidas con cada fracaso.\n\nPocas personas son capaces de perseverar hasta el final, y Kokomi no solo lo consiguió de forma sobresaliente, sino que además acuñó su propio estilo de estrategia.\n\n\"La clave es utilizar la visión de conjunto y la actitud para obligar al rival a desistir de su resistencia, y así terminar la guerra con el menor coste posible\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nYa sea dentro o fuera del campo de batalla, Kokomi siempre intenta ir un paso por delante del enemigo.\n\nAnticipa todas las situaciones posibles, recopila todas las medidas correctivas, las escribe en forma de directrices y se las entrega a los encargados de implementarlas.\n\nAunque algunas terminaron siendo muy largas, esto ha garantizado el desarrollo estable de la Isla Watatsumi.\n\nA día de hoy, la Isla Watatsumi es un lugar cada vez más próspero y con más gente de talento trabajando por ella, y Kokomi cada vez necesita enviar menos directrices.\n\nEsto es un motivo de alegría para ella.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEn su tiempo libre, a Kokomi le gusta pasear sola por la Isla Watatsumi.\n\nSiempre evita los grupos de gente. Unas veces anda por los bosques de color violeta; otras, se sienta en la playa y observa el horizonte.\n\nEl sol y la luna se elevan sobre el mar, las estrellas centellean en el cielo y el sonido de las olas acaricia los oídos y calma el ánimo.\n\nA veces toma una caracola y se la pone en la cabeza, pero al irse, siempre la deja donde la había encontrado.\n\nTal vez un cangrejo sin hogar pase por allí y decida convertirla en su casa.\n\nEn ocasiones, Kokomi se sumerge en el agua, deja que sus preocupaciones se hundan hasta el fondo del mar y disfruta del ambiente tranquilo y de los pececillos que nadan a su alrededor.\n\nKokomi conoce la isla como la palma de su mano y recuerda el nombre de todos sus habitantes.\n\nLamentablemente, los paisajes son eternos e inmutables, pero el corazón humano es complicado y cambiante.\n\nEs fácil ganar en el campo de batalla, pero lograr que todos vivan felices es casi imposible.\nPensándolo bien, esta es una de las cosas que más le preocupan.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nDesde que era una niña, Kokomi ha leído muchos libros, especialmente los relacionados con la estrategia militar.\n\nGracias a esto, posee un amplio conocimiento con el que resolver todo tipo de asuntos.\n\nPero el resultado de pasar tanto tiempo entre las páginas de los libros de tácticas bélicas fue que Kokomi no desarrolló mucho sus habilidades sociales. Desde hace un tiempo, incluso hablar con personas que no conoce se ha convertido en una pesada carga.\n\nTras convertirse en Sacerdotisa Divina, Kokomi tuvo que aprender a hacerse cargo de los asuntos que no dominaba, ya fuera hablar con la gente o resolver problemas que no le interesaban lo más mínimo.\n\nSin embargo, al obligarse a hacer cosas que no le gustan, Kokomi agota toda su energía y queda completamente exhausta.\n\nPor eso creó un indicador de \"energía\" para ella misma: hacer lo que le gusta regenera su energía, y hacer lo que no le gusta la gasta.\n\nCuando la energía se acaba, Kokomi deja por unos instantes sus obligaciones como Sacerdotisa Divina y vuelve a ser una chica corriente que vive en su casa.\n\nSe pone a estudiar detenidamente un volumen militar, se aparta del ajetreado mundo y disfruta de un momento de tranquilidad.\n\nEstos son los momentos de descanso que Kokomi más valora."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Notas secretas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\"El gobernante es un modelo para su pueblo\".\n\nKokomi oyó esta frase de la boca de su madre hace mucho tiempo.\n\nLa Sacerdotisa Divina es muy importante para la Isla Watatsumi, y miles de ojos observan cada uno de sus movimientos.\n\nLo que le gusta se convierte en el objeto de deseo de la gente; lo que no le gusta es rechazado por todos.\n\nKokomi no quiere influir en cada aspecto de la vida de su pueblo, por lo que raramente manifiesta sus gustos y sus aversiones.\n\nAdopta una actitud de ecuanimidad ante todas las cosas y se guía por los principios de \"justicia y equidad\" y \"recompensar el bien y castigar el mal\".\n\nNo obstante, estos no son necesariamente sus auténticos sentimientos, así que se hizo con un cuaderno cuya existencia solo ella conoce.\n\nEn él, anota los cambios en su nivel de energía y los vaivenes de su ánimo.\n\nCuando llega la noche y todos están descansando, Kokomi abre su cuaderno y registra las alegrías y las penas de ese día.\n\nPor supuesto, es algo que no puede mostrar a nadie.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLos líderes con una voluntad fuerte guían a su gente en una dirección clara.\n\nKokomi no comparte esta opinión. Ella respeta la voluntad del pueblo y espera que cada persona persiga sus propios deseos, igual que un ancho mar en el que tienen cabida tanto incontables criaturas como los sueños de estas.\n\nCuando se implementó el Decreto de captura de Visiones, la ira que habitaba en el corazón de la gente se transformó en gritos de rebelión y, bajo el liderazgo de Kokomi, ondearon el estandarte de la resistencia.\n\nCuando acabó la guerra, lo que deseaban era paz y estabilidad, por lo que Kokomi dedicó sus energías a los asuntos administrativos y económicos.\n\n¿Esta manera de esforzarse es un don de los Arcontes o el propio sentido de la responsabilidad de Kokomi? ¿Tal vez ambos?\n\nComo Sacerdotisa Divina, Kokomi obviamente también tiene una Visión. Su empeño no ha cambiado desde aquel día en que contempló la Isla Watatsumi desde la puerta del Santuario Sangonomiya.\n\n\"Proteger la Isla Watatsumi y lograr que todos vivan felices\"."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Información de combate "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Talentos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La forma del agua\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Juramento de la medusa\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Encarnación de las nereidas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Bendición de Tamanooya\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Canto de la perla\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Princesa de Watatsumi\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Estrategia infalible"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "7"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mariposa del fuego infernal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas de la transitoriedad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía de la transitoriedad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía de la transitoriedad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Caparazón espectral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Corazón espectral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Núcleo espectral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Constelación "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Los límites del agua"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Mientras está bajo los efectos de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Encarnación de las nereidas"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de '''Daño Hydro''' equivalente al 30% de la Vida Máx. de Kokomi."
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Este daño no se considera daño de Ataque Normal.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Oleaje de nubes"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas: \n*Aumenta la curación de la medusa de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Juramento de la medusa"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi.\n*Aumenta la curación de los Ataques Normales y cargados realizados bajo los efectos de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Encarnación de las nereidas"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Luna del océano"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Encarnación de las nereidas"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Observadora de las aguas"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Mientras está bajo los efectos del manto ceremonial de Encarnación de las nereidas, el aumento de daño del Ataque Normal y Cargado de Kokomi en proporción a su Vida Máx. aumenta aún más en una cantidad equivalente al 15% de su Bono de Curación."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Convergencia hacia los mares"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Juramento de la medusa"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3. Puede ser aumentado hasta Niv.15."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Corazón del coral"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Mientras está bajo los efectos del manto ceremonial de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Encarnación de las nereidas"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de '''Bono de Daño Hydro''' durante 4 segundos."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Ascensión "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lazurita varunada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Rocío del rechazo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Perla de coral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Caparazón espectral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Corazón espectral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Núcleo espectral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Bono de Daño Hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 7.2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1048.652\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4306.332\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 18.2476\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 74.92904\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 51.15465\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 210.0735\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Gachapón "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Vestuarios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Galería "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Dracaena Somnolenta.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Dracaena Somnolenta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Sangonomiya Kokomi.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Sangonomiya Kokomi - Profundidades.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Sangonomiya Kokomi - Profundidades"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Sangonomiya Kokomi.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arte de cumpleaños"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Sangonomiya Kokomi 2022.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2022\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Sangonomiya Kokomi 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2023 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hecho por chiri\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Sangonomiya Kokomi 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Sangonomiya Kokomi 2025.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2025\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Menciones de personajes "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historias de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Gorou"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "10"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Gorou"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 2"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Gorou"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 3"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Yae Miko"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 3"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Curiosidades "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "* "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "PAGENAME"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "  aparece mencionada en las siguientes "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "decoraciones"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ":\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Nieve carmesí"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Abanico danzarín"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Tesoro del letrado"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hizo su primera aparición como PNJ.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2.0 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Se añadió como personaje jugable junto al gachapón \""
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Brillo del océano"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2.1 "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios2\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "de:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "id:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:珊瑚宮心海"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Кокоми"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Санґономія Кокомі"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Sangonomiya Kokomi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:珊瑚宮心海"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

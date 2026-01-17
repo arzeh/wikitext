@@ -1,0 +1,3426 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Arco\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " El Mago de la Fantasmagoría"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Célebre mago de la Corte de Fontaine\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Felis Fuscus\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Hotel Bouffes d'Été"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " El truco de la caja\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fontaine\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 de febrero\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Masculino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4.0\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hiro Shimono (下野紘)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " [https://namu.wiki/w/박성영 Park Song-young (박성영)]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " [https://zh.moegirl.org.cn/锦鲤 Jinli (锦鲤)]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Daman Mills"
+                }
+              ],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "imdb:nm5410860"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región actual "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Humano\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pneuma\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arjé          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Arlecchino"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (\"Padre\" guardian)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Lynette"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (Hermana gemela)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fréminet"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (Hermano juramentado)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " familia       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " En uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Atacante principal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2          "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n'''Lyney''' es un personaje jugable en "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "''Genshin Impact''"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nHábil y elocuente, Lyney es el gran mago de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fontaine"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y hermano de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Después de la muerte de sus padres y de haber sido salvado de un noble abusivo por su \""
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Padre"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arlecchino"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\", Lyney también ha emprendido misiones para la Casa de la Hoguera y ha dicho que eventualmente se convertirá en el sucesor de \"Padre\". Debido al hecho de que el joven, al ser parte de la Casa de la Hoguera, también es un miembro de los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fatui"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Perfil"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Un astuto y hábil mago de Fontaine que siempre se gana al público con sus ingeniosos trucos y su elocuencia."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Texto de Atributos en el juego"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\"A veces desvía la atención con pequeños gestos, otras finge equivocarse y te muestra un error... Cuando la cosa se pone seria, los juegos de manos son más deslumbrantes que la propia magia. ¿Adivinas de qué estoy hablando?\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Una adivinanza que "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Lynette"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " le cónto a su hermano pequeño "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fréminet"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " mientras soplaba su té."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nA excepción de los juicios que se celebran en la Ópera de la Epíclesis, los espectáculos de magia de Lyney y Lynette son sin duda lo mejor de la Corte de Fontaine. Un juicio utiliza la verdad para impartir justicia. La magia utiliza las apariencias para conmover al público. Aunque el público sabía perfectamente que todo lo que había en el escenario no era más que trucos e ilusiones, se siguen sorprendiendo cuando presencian un \"milagro\". La atronadora ovación del público llegaba incluso antes de que el telón se bajara elegantemente ante el mago. En el escenario, Lyney es el gran mago esperado por todos. Fuera del escenario, es el hermano mayor de confianza, el visitante afable y el amigo fiel. Cada movimiento suyo es una agradable sorpresa, cada palabra suya un motivo para sonreír. Todo su ser es como un enigma indescifrable que no puedes resistirte a resolver. Si un día te das cuenta de que le estás confiando tus pensamientos más íntimos, no te sorprendas.Después de todo, los magos son expertos en robar corazones.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\"Los niños crecen y acaban superando a sus padres. Solo así la familia puede prosperar. Estoy ansiosa por saber cómo definirá el concepto de 'familia' cuando llegue el momento en el que me supere\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arlecchino"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nLa magia es una gran mentira. No es más que una mezcla de ilusiones, trucos y engaños.\n\nEl camino que conduce a una ilusión está plagado de mentiras. Para ofrecer un buen espectáculo de magia, hay que ganarse la confianza del público mediante un sinfín de trucos y trampas.\n\nEl atrezo, la iluminación, algunos ayudantes y una precisa planificación... El espectáculo requiere un excelente trabajo en equipo, tanto dentro como fuera del escenario. La actuación de un mago se basa en un esfuerzo minucioso, pero también en el peso de las expectativas del público.\n\nPor esta razón, el guion escénico de un mago debe ser absolutamente hermético y su ejecución, impecable: incluso un pequeño desliz es considerado inaceptable. Un mago no puede defraudar a su familia...\n\n\"Las mentiras de un mago no deben revelarse bajo ninguna circunstancia\".\n\nLa primera vez que Lyney subió al escenario, tenía una misión en mente. Murmuraba en voz baja las palabras que Padre le había dicho mientras permanecía de pie tras el telón.\n\n\"Lyney...\", dijo Lynette mientras apretaba sin querer la palma de la mano de su hermano.\n\nEl telón se levanta lentamente, el espectáculo de magia está a punto de comenzar. Lyney levanta la mano de Lynette y le devuelve una mirada decidida.\n\n\"Estoy bien porque, como siempre, Lynette está a mi lado\".\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Lyney es un joven de ojos violetas, piel pálida y pelo corto rubio ceniza recogido en una trenza. Tiene una marca en forma de lágrima en la mejilla derecha.\n\n''Lyney es un chico de piel clara, complexión delgada y altura media, tiene ojos morados con un ligero delineador negro, Lyney tiene una marca con forma de una lagrima. Lyney tiene pelo peinado hacia un lado con una trenza, su pelo es de color ceniza con un fleco que cae en su frente, lleva un sombrero de copa con un moño rojo detrás de el sombrero, usa capa negra con un lazo rojo. Debajo lleva una camisa de botones blanca sin mangas con un corsé negro, mangas blancas que caen debajo de sus hombros, medias negras que se sujetan con unas ligas como las de un liguero, un short corto de color negro y unas botas largas de tacon negras. También lleva guantes blancos y negros.''\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Personalidad "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Un astuto y hábil mago de Fontaine que siempre se gana al público con sus ingeniosos trucos y su elocuencia.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Sitio web oficial de Genshin Impact"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nLyney es un mago habilidoso al que le gusta el espectáculo. Es muy afable y simpático en comparación con sus hermanos "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fréminet"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", que son reservados e introvertidos respectivamente. Él y su hermana son magos con talento, ya que aprendieron de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "César"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en su juventud, cuando vivían en la calle.\n\nSe preocupa mucho por sus hermanos, quiere asegurarse de que tengan un hogar en el que vivir y cuida de ellos siempre que puede. A pesar de toda su alegría, Lyney tiene un pasado oscuro y traumático con su hermana, pero mantienen una muy buena relación, comparándola con la única verdad en un mundo lleno de mentiras y falsedades. Como resultado, está dispuesto a hacer cualquier cosa para permanecer con ella. Aunque intenta mantener discretos sus lazos con los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fatui"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", sigue dispuesto a trabajar por su causa debido a las enseñanzas de Arlecchino y a la gratitud que siente hacia ella por haber dado un hogar a su familia.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historia "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLa gente de Fontaine siente verdadera pasión por las historias, los cruentos casos y las sorprendentes obras de teatro.\n\nFue en medio de este panorama cuando los espectáculos de magia volvieron a hacer su aparición en escena. Solo hace falta una entrada y un poco de tiempo libre para poder embarcarse en un mágico viaje lleno de ovaciones y sorpresas.\n\nSi uno preguntara qué mago proporciona las mejores aventuras sobre el escenario, la mayoría de aficionados contestarán al unísono un nombre: Lyney.\n\nEste romántico y talentoso mago puede parecer despreocupado, pero sus espectáculos están plagados de verdaderos milagros.\n\nEn esta profesión, basta con tener un buen truco bajo la manga para asegurarse el pan de cada día y poder llevar una buena vida.\n\nPero los espectáculos de Lyney siempre incorporan nuevas técnicas. Algunas malas lenguas comentan que es porque, al haberse criado en la absoluta pobreza, sienta una especial debilidad por la fama y el Mora. Pero sus comentarios no pueden frenar a este joven.\n\nLo cierto es que esas críticas no podrían estar más lejos de la realidad. El único motivo que impulsa a Lyney a dar lo mejor de sí en cada espectáculo es un deseo personal de superación y de poner a prueba su creatividad.\n\nPor eso, aunque el sonido del clamor del público continúa creciendo, Lyney no puede contentar a aquellos que le piden que regrese a un estilo de magia más tradicional. Quizás los más fieles seguidores de la magia podrían pensar que es una auténtica lástima.\nPero esa pena se disipa rápidamente cuando compran una entrada y se adentran en otra de sus intrépidas aventuras mágicas.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nAunque en un primer momento, Lyney decidió dedicarse a la magia para poder sobrevivir, no abandonó su camino una vez que adquirió cierta fama en Fontaine.\n\nEs mucho lo que le debe a este arte. No solo le dio una oportunidad para sobrevivir a él y a su hermana, sino que también les ganó el reconocimiento de Padre.\n\nMuy pronto, la magia se convirtió en parte de su vida. Cuando sale a escena, Lyney es capaz de poner en pie a todo el público, pero jamás se ha dejado llevar por la euforia de sus espectadores. Al contrario, esa pasión le ha generado algunas dudas.\n\n¿Qué es lo que hace que los espectadores le brinden ovaciones cuando está en el escenario?\n\nO dicho de otra forma, si sus pétalos y sus cartas son lo que verdaderamente atrae a los espectadores, ¿no se marcharán llegado el momento en busca de un espectáculo más pomposo? ¿Podría ser que los trucos de un mago solo resultan fascinantes la primera vez que uno los contempla?\n\nA partir de aquel momento, el público pudo notar un cambio fundamental en los espectáculos del joven mago. Y es que, a partir de aquel día, Lyney incorporó a sus espectáculos nuevas oportunidades de interacción con el público.\n\nNo fue para alardear, sino para compartir con el público todo tipo de historias de su día a día. Incluso estaba dispuesto a responder a las preguntas más comprometidas del público.\n\nMás tarde, sus espectadores se percataron de que todo cuanto contaba el mago no era necesariamente verdad y de que el propósito detrás de todo aquello era caldear el ambiente para que todos disfrutaran de una mejor experiencia.\n\nAunque nadie se molestó por aquellas pequeñas mentiras piadosas. Al contrario, todos entendieron que en aquellos espectáculos rebosantes de trucos y engaños, el propio joven mago había decidido convertirse en parte de la actuación.\n\nLyney siempre mantiene la distancia justa entre su público y él, creando el equilibrio perfecto entre las relaciones personales y el misterio de la magia. Es precisamente esa sonrisa pícara que curva las comisuras de sus labios la que alienta al público a dar rienda suelta a su imaginación.\n\nNo importa la clase social o la clase de espectador que sea, Lyney siempre trasmite de la forma más equitativa posible su magia con cada uno de sus espectadores.\n\nPronto corrió la voz de las curiosas técnicas de las que se servía el mago para mejorar el ambiente de sus espectáculos. Algunos incluso comentaban que su ingenio resultaba tan mágico como sus propios trucos.\n\n“¿De verdad? Yo solo quiero que mis espectadores puedan distanciarse por completo de la realidad y dejar sus mentes flotar durante unos instantes”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl nuevo hogar de Lyney está situado en el Hotel Bouffes d'Été, ubicado en un pequeño rincón de la Corte de Fontaine.\n\nEste lugar ha acogido a un buen número de jóvenes huérfanos que, al igual que Lyney y Lynette, han pasado más penurias de las que nadie debería nunca llegar a conocer. Se ayudan entre ellos como si fueran una familia, e intentan hacer frente a las devastadoras secuelas de los traumáticos eventos que vivieron en su infancia.\n\nPero no siempre fue así. A pesar de que Lyney y Lynette contaban con la recomendación del director del hotel, no les resultó fácil integrarse en su nuevo hogar. Tampoco fue fácil para el resto de los jóvenes aceptar la llegada de aquellos “extraños”.\n\nEn aquel ambiente, ya de por sí tenso, Lynette rompió el sistema de bombeo de agua ante la atenta mirada de todos los demás niños. Aquello no hizo sino acrecentar aún más la sensación de desconfianza ya imperante.\n\nA Lyney no le quedó más remedio que dar un paso al frente, asumir la culpa de lo sucedido y prometer ante todos que arreglaría personalmente el mecanismo para que aquello no afectara la vida de sus nuevos hermanos.\n\nNo es que Lyney posea ningún talento en lo que a las reparaciones se trata, pero su hermana era tan propensa a destruir accidentalmente todo tipo de máquinas y mecanismos, que ya tenía cierta experiencia en el tema.\n\nPor desgracia, Lyney había subestimado la complejidad del sistema. Aunque logró reparar el mecanismo, no tenía forma de saber si realmente había solucionado el problema.\n\nFue entonces cuando un joven retraído decidió prestarse a ayudar. No solo evaluó y reparó el mecanismo, sino que incluso se disculpó con ellos.\n\nAl parecer, era el encargado de mantener todos los mecanismos del Hotel Bouffes d'Été, por lo que el joven estaba convencido de que el sistema de bombeo se había roto por su culpa, pues no había sido capaz de percatarse a tiempo del deterioro de los componentes.\n\nLyney estaba impresionado con las dotes de aquel taciturno joven y le pidió que compartiera con él su conocimiento. Así, podría solucionar los pequeños desperfectos que causara su hermana.\n\nEl callado joven por su parte, no acostumbrado a negarse a nada, acabó aceptando. Así, aprendiendo el uno del otro, ambos niños acabaron haciéndose amigos.\n\nPor otra parte, Lyney nunca escatimó en la cantidad de tiempo que dedicaba a cuidar del resto de niños, no solo de Fréminet. Nunca les obligó a contarle sus historias, simplemente les hacía compañía en silencio.\n\nEra una técnica que había aprendido del conciso consejo de su hermana en una ocasión: “Nadie necesita cuidados egoístas o ególatras”.\n\nPasado un tiempo, los huérfanos del hotel fueron abriéndose poco a poco con Lyney. Algunos incluso acabaron por contarle sus vivencias, lo que permitió que el joven los comprendiera y pudiera ayudarlos mejor.\n\nFréminet no terminaba de entender aquel comportamiento. Era consciente de que todo respecto al hotel había comenzado a girar en torno a aquel recién llegado y no dudó en manifestar su opinión de que no había necesidad de que Lyney se esforzara tanto.\n\nEste le explicó que, al principio, había estado dispuesto a ayudar en los pequeños asuntos del hogar porque sabía que su hermana acabaría causando más problemas en lo que a mecanismos se refiere y no se sentía cómodo causándole problemas a los demás.\n\nPero aquella excusa no engañó a Fréminet, que se limitó a mirarle fijamente. Al final, Lyney acabó por confesar.\n\n“Lynette siempre ha sido mi única familia. De ella he aprendido cómo ha de comportarse un buen hermano”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl día que el Hotel Bouffes d'Été abrió sus puertas, todos los chicos colaboraron en la decoración del edificio.\n\nLos niños pensaban que el hotel tenía un aspecto frío y que aquello no encajaba con sus vidas actuales y que así no sería capaz de transmitir ninguna calidez.\n\nPor eso, Lyney organizó a todos los presentes para que se pusieran manos a la obra. Lynette compró una ingente cantidad de decoraciones y el resto de los chicos las colgaron por todos los salientes del hotel. Incluso escribieron sus propias bendiciones y las colocaron entre los adornos.\n\nFréminet, por su parte, estaba a cargo de asegurarse que todos los artefactos mágicos funcionaran correctamente. Lyney confiaba plenamente en sus capacidades, así que estaba claro que el instrumental de un día tan importante como aquel debía serle confiado a Fréminet.\n\nPero el más ocupado aquel día fue sin duda Lyney. No solo asumió la responsabilidad de coordinar a todo el equipo, sino que también debía idear un truco de magia que estuviera a la altura de las circunstancias.\n\nGracias al esfuerzo de todos, la velada resultó tal y como habían planeado. El gran gramófono reproducía alegres tonadas en el vestíbulo, donde los niños saltaban, bailaban y disfrutaban de la deliciosa comida. Aquel día no se celebraba el cumpleaños de nadie y, aun así, todos sentían como si fuera el día en que por fin habían renacido en sus nuevas vidas.\n\nY como cierre de aquella hermosa velada, Lyney, Lynette y Fréminet habían preparado un increíble truco de magia. En el centro de la estancia yacía un baúl y todos los niños lo contemplaban en completo silencio.\n\nPara garantizar que todos disfrutaran de la sorpresa, Lyney no había compartido los detalles del truco ni siquiera con Lynette y Fréminet. Las luces se fueron apagando y todos se centraron en la figura de Lyney, que estaba de pie junto al baúl. Tal era la expectación, que todos se sentían un poco nerviosos.\n\n“Puede que resulte exagerado, pero el regalo que voy a hacerles, es el más grandioso que recibirán nunca en sus vidas”.\n\n*Bum, bum*, los tubos de confeti explotaron y el baúl, que en un principio estaba vacío, se abrió de golpe él solo. Todos se sorprendieron, pero nadie se movió. Permanecieron allí parados, en silencio.\n\nNo se trataba de ningún regalo. Ante ellos, se erguía la encargada y directora del hotel, aquella a la que todos llamaban Padre.\n\nLa figura de Padre resultaba tan imponente como de costumbre. Ella no solía frecuentar el hotel, pero cuando aparecía, todos se comportaban con orden y concierto.\n\nTal vez Lyney había acabado por perder la cabeza y por eso había decidido invitar a Padre con tan pomposa presentación.\n\nSin embargo, al ver la expresión de estupefacción de todos los niños, Padre no le gritó ni le recriminó lo que había hecho. Al contrario, sabía que había mantenido fielmente el secreto de su truco de magia y lo elogió por ello.\n\nAquella noche, Padre cenó con los niños. Incluso cortó una porción de pastel para cada uno de ellos y ella misma probó algunos bocados.\n\nTal vez aquel era precisamente el mágico truco de Lyney, el hacer que Padre abandonara su dura faceta y disfrutara del amor de la familia por una noche.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLos trucos de magia y las mentiras son la combinación perfecta. Se fusionan, capa a capa, hasta construir una alta torre sin escalera. Lyney lleva mucho tiempo viviendo en lo alto más alto de su torre de naipes y engaños, apreciando el olor del viento y contemplando a la gente caminar a sus pies en una u otra dirección. Después de tanto tiempo... no hay vuelta atrás.\n\nNo importa si es a causa de sus espectáculos o de sus responsabilidades en el hotel, el joven mago está acostumbrado a servirse de mentiras para cumplir con sus misiones.\n\nAunque es cierto que, en ocasiones, también las usa para su propio provecho, la mayor parte del tiempo Lyney se sirve de mentiras para evitar que otros tengan que verse implicados en problemas.\n\nEs perfectamente consciente de que una vez perdida la confianza, la balanza se inclinará irremediablemente hacia un lado. Que una vez desvelado el engaño, no importará cuán justo fuera el objetivo, se malinterpretará como un acto de maldad.\n\nEs por eso que ha optado por no compartir con sus compañeros información innecesaria. Así, no solo se garantiza que la cooperación sea más sencilla, sino que todos obtienen al final el resultado que deseaban.\n\nPero ni siquiera el viento es capaz de eliminar los rastros que dejan tras de sí estos engaños con el tiempo, por lo que el joven mago debe actuar siempre con cautela y mantener una distancia prudencial con el objeto de su fantasía.\n\nY así, la torre continúa creciendo, hasta que ya no se alcanza a ver la cima, hasta que los rostros sonrientes de aquellos que le rodean se vuelven borrosos.\n\nEl camino de la mentira es largo y tortuoso, por lo que Lyney no puede permitirse bajar la guardia ni un instante.\n\nTodos saben que aquello que ven en el escenario es la cara romántica y enigmática del talentoso gran mago de Fontaine y que probablemente nunca lleguen a ver su verdadero yo.\n\nY es que Lyney no es como los demás, él no puede permitirse desahogarse ni compartir sus sentimientos. Pues si llegara el momento en el que no fuera capaz de soportarlo, tendría que pagar un alto precio y contemplar como su alta torre se derrumba ante sus ojos.\n\nDespués de interpretar tantos papeles, el propio joven se siente confuso sobre su verdadera identidad.\n\nAl cerrar los ojos, se ve a sí mismo en lo alto de su torre, un contorno tan pequeño que resulta prácticamente irreconocible. Una nube de traiciones y engaños se arremolina a los pies de la torre, impidiéndole escapar.\n\nPero siempre habrá una mano dispuesta a sostenerle si algún día se precipita al vacío, una gentil mano que le transmite la calidez de antaño. Esa corriente de bondad es lo que le insufla la fuerza suficiente para seguir adelante.\n\n“Gracias, Lynette...”\n\nLyney siempre se despierta de su sueño con un murmullo en los labios.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nAunque el Hotel Bouffes d'Été trabaja por una buena causa en Fontaine, sus métodos pueden resultar algo radicales. Madre es la única capaz de utilizar su influencia y su control sobre la Corte de Fontaine para evitar que ningún incidente de mayor importancia ocurra.\n\nDurante un tiempo, Lyney financió a uno de los funcionarios de la Oficina Judicial para que no solo proporcionara información confidencial al hotel, sino para que también encubriera algunos detalles de ciertas operaciones clandestinas llevadas a cabo por sus miembros.\n\nAunque el riesgo para dicho funcionario era considerable, él estaba convencido de que lo que Fontaine necesitaba era precisamente más gente como Padre, capaz de obviar algunas de las normativas de la nación para poder actuar de raíz contra los problemas.\n\nEn una ocasión, Lyney llegó a bromear con él diciéndole: “No te preocupes. Si en el futuro tienes problemas, haré todo lo posible por ayudarte. Y si te ves en peligro, yo vendré a salvarte... Bueno, pero tampoco te vayas a confiar por eso, ¿eh? Mejor mantenerse alerta”.\n\nEl funcionario sabía que aquella era la forma en que Lyney manifestaba su preocupación. Por desgracia, como si sus palabras fueran proféticas, no mucho después de aquella conversación, la Oficina Judicial descubrió todo lo que aquel funcionario había hecho, y este fue arrestado. En sus últimos momentos de libertad, el funcionario se las arregló para usar un sistema de comunicación de emergencia y enviarle un mensaje a Lyney.\n\nCuando la Guardia llegó para arrestarle, descubrieron el artefacto de comunicación y se burlaron de él. “El mensaje que has enviado solo alerta a tus colegas para que salven su propio pellejo. Nadie sería tan tonto como para venir a rescatarte”.\n\nEl funcionario respondió simple y llanamente que aquello era más que suficiente para él. Incluso sabiendo el final que le esperaba, estaba convencido de que aquella cooperación había sido la decisión correcta.\n\nJusto cuando los guardias iban a esposarlo, unos artilugios previamente instalados empezaron a desprender una gran cantidad de humo. Entre aquella densa humareda, el funcionario atisbó también una brillante llamarada...\n\nInstantes después, el funcionario se tiró al Río Ceniciento, donde sería rescatado por Fréminet.\n\nSe rumorea que los guardias dedicaron una gran cantidad de tiempo a seguir el rastro de aquel destello candente pensando que el criminal había huido utilizando algún tipo de planeador para escapar volando. Más tarde, descubrieron enganchado en un árbol un parapente del que colgaba un muñeco de madera vestido.\n\nLo cierto es que Lyney había utilizado aquel dispositivo para desviar la atención de los guardias y darle margen suficiente al funcionario para poder escapar de aquella encerrona.\n\nEl propio funcionario reconoció que no albergaba ninguna esperanza a la hora de usar el dispositivo de comunicación. Al fin y al cabo, los magos son traicioneros y uno nunca sabe cuándo dicen la verdad, pero que había decidido de todas formas apostarse lo poco que le quedaba a aquella carta.\n\n“Jaja, eso es cierto. Confiar en los demás es siempre una apuesta arriesgada”.\n\n“Pero tranquilo, puede que los magos siempre tienen un as bajo la manga y nunca decepcionarían a su público”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Rosalinde\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nHay una criatura muy especial entre los gatos que Lyney y Lynette han adoptado llamada Rosalinde.\n\nCada uno de los gatos tiene su propio territorio, pero Rosalinde siente especial predilección por el sombrero de Lyney.\n\nEl sombrero de un mago es un artilugio de gran importancia, por lo que, antes de poder usarlo en cada actuación, Lyney debe asegurarse de sacar a Rosalinde de su interior. Una tarea que no siempre le resulta sencilla. Los maullidos lastimosos de la gata le resultan especialmente desgarradores a los dos hermanos, que entienden perfectamente lo que se siente cuando te arrebatan tu hogar.\n\nPor eso, Lyney y Lynette decidieron buscar un reemplazo que la gatita pudiera usar. Sin embargo, sin importar lo bonito que fuera el nuevo hogar que le ofrecían, Rosalinde los rechazaba todos. De hecho, no les dirigía sino apenas una mirada antes de darse media vuelta y marcharse.\n\nFinalmente, Lyney decidió hacer por encargo un sombrero exactamente igual al suyo. Y, al fin, la gata lo marcó como suyo, aunque no por eso desistió en su empeño de ocupar también el sombrero original. Tal era su cariño hacia ambos hogares que lanzaba miradas airadas cuando alguien intentaba arrebatarle cualquiera de los dos.\n\nAl fin y al cabo, las demandas de aquella testaruda gata no eran tan alocadas. Por eso, Lyney decidió que la única solución posible era incorporarla a sus espectáculos.\n\nLyney y Lynette construyeron una marioneta en el cojín que utilizaba normalmente Rosalinde para dormir dentro del sombrero, de forma que cuando se refugiara en él durante el espectáculo, la marioneta se comportaría como un gato travieso y adorable. Y, tal y como habían imaginado, Rosalinde estuvo encantada con la mejora de su hogar. Se mostraba confiada en su nueva tarea y la desempeñaba maravillosamente. Tal vez los focos le sirvieran de aliento, pues nunca se había mostrado tan proclive a aceptar el hecho de que tenía que pasar cierto tiempo alejada de su hogar cuando no estaban actuando.\n\nDurante una de las actuaciones, Lyney cometió un error terrible y se olvidó la carta que tenía que usar durante su truco entre bastidores.\n\nBajo la atenta mirada del público, Lyney solo disponía de unos instantes para pensar en una solución. Y justo en aquel momento, notó que su sombrero le resultaba más pesado de lo debido. Al parecer, Rosalinda, la cual no debía haber estado allí dentro, se había colado en el sombrero de nuevo.\n\nComo de costumbre, la gata activó la marioneta con sus movimientos, solo que esta vez, la marioneta llevaba consigo justo la carta que Lyney necesitaba para sorpresa de todo el público y del propio mago, que al fin pudo respirar tranquilo.\n\nMás tarde, ambos hermanos analizaron el comportamiento de la gata, más no pudieron llegar a otra conclusión que no fuera la de que, tras pasar tanto tiempo practicando magia con ellos, Rosalinde había desarrollado cierta afinidad mágica.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nTras ganarse el favor de los dioses, las misiones de Lynette se volvieron considerablemente más arduas y peligrosas.\n\nSolo aquellos con una Visión eran capaces de cumplir con los encargos más difíciles y mantener al mismo tiempo el secreto en torno a dichas operaciones. Como consecuencia, ambos hermanos empezaron a llevar a cabo misiones en solitario con mayor frecuencia.\n\nLyney nunca terminó de aceptar aquel cambio, no solo por el hecho de que habían estado muy unidos desde que vinieron al mundo, sino también porque la causa de este inevitable distanciamiento le causaba gran pesar.\n\nLo que más deseaba Lyney era volver junto a su hermana y prestarle el apoyo que necesitara.\n\nAquel deseo turbado de obtener más poder le hizo creer que ya no era merecedor de la protección de los dioses. Mas, a pesar de todo, no podía sino continuar deseando con todas sus fuerzas volver al lado de su hermana.\n\nPor eso, Lyney decidió buscar a Padre y le expresó su necesidad de poseer un Engaño que le permitiera volver a actuar junto a su hermana.\n\nMadre permaneció en silencio por tanto tiempo que al joven le pareció una eternidad. Finalmente, el peso de dos cruces clavó al joven al suelo y una mirada airada y furibunda a la que Padre no tenía acostumbrados a los huérfanos del hotel pareció atravesarle el alma.\n\n“Dime, ¿crees que eso es lo que desea Lynette?”.\n\nAquella respuesta tan simple como breve le atravesó el corazón, haciendo que el eco sordo de las palabras de su hermana resonara incesantemente en su cabeza.\n\n“Nadie necesita cuidados egoístas o ególatras”.\n\nLyney no necesitaba preguntarle a su hermana al respecto para saber que estaría en contra de semejante propuesta. Fue entonces cuando finalmente comprendió lo absurda que había sido su propuesta.\n\nMadre se levantó y abandonó la estancia, recordándole al salir que aquella no era la primera vez que Lyney no había estado a la altura de la fuerza que se esperaba de él y de que ya había encontrado la respuesta a sus problemas tiempo atrás.\n\nLyney se encerró entonces en su habitación en un intento de comprender lo que Padre quería decir con aquellas palabras. Tiempo atrás, cuando Lynette y él vagaban por las calles hambrientos, Lyney había recurrido a la magia, así que se preguntó si no sería la respuesta en aquella ocasión también.\n\nLyney fue en busca entonces de los informes de las misiones que había llevado a cabo Lynette hasta el momento y analizó la información y todos los movimientos de su hermana al detalle.\n\n¿De verdad era necesario atravesar este valle tan peligroso para acercarse al objetivo?\n\n¿Realmente era necesario lanzarse de cabeza a unas aguas turbulentas para poder abandonar la escena?\n\nNo. Simplemente, el brillo de la Visión impedía ver la sombra de su hermana.\n\nY así, Lyney comenzó a redactar elaborados planes para las misiones de su hermana, aprovechando las cualidades que mejor conocía de ella, haciendo pleno uso de las mejores rutas de escape y de las herramientas más aptas a su disposición, escogiendo los mejores puntos de encuentro.\n\nAsí fue como volvió a resurgir la confianza entre los hermanos. Aquella mirada de pavor desapareció de los ojos de su hermana y ambos volvieron a abrazarse felices cuando se encontraban en algún punto de reunión.\n\nEl favor de los dioses no era excusa para no proteger como era debido a su familia.\n\nPero ya lo dice el dicho, los hombres proponen y los dioses disponen.\n\nTras completar un considerable número de misiones, los niños del hotel se vieron acorralados por una traición y las operaciones de Lynette quedaron al descubierto a causa de ello.\n\nLos chicos se vieron acorralados en un alto precipicio, tal y como había ocurrido el día en que Lynette había obtenido su Visión. La diferencia estaba en que en aquella ocasión la responsabilidad recaía sobre los hombros de Lyney.\n\nEl joven mago abrió el parapente de emergencia, agarró a su hermana con fuerza y se lanzó al abismo. Sus perseguidores continuaron disparando mientras ambos caían.\n\nLyney giró y se balanceó en el aire, intentando que los disparos no los alcanzaran, pero las balas impactaron contra el parapente, abriendo varios agujeros en la tela. Finalmente, este no fue capaz de sostener el peso de los hermanos y ambos se precipitaron al vacío.\n\nAun así, Lyney continuó esforzándose por mantener el rumbo, por frenar la caída. No importaba con cuánta vehemencia intentaran los dioses frustrar sus planes de proteger a su familia. Estaba dispuesto a hacerles frente hasta su último aliento.\n\nSus enemigos rieron, pues sabían que los niños no serían capaces de sobrevivir una caída a semejante velocidad. Entonces, una llama iluminó los cielos, lanzando el parapente hasta un río cercano que discurría a gran velocidad.\n\nEl fuego los empujó hacia un lado y el viento los protegió de cualquier daño. Allí, al amparo del oscuro manto de la noche, dos fuentes de luz se entrelazaron para finalmente disiparse bajo el reflejo de la luna, como si de la ovación que finalmente calla tras la caída del telón al final de un espectáculo se tratase.\n\nLyney no preguntó cuál era el significado de aquella reluciente Visión que sostenía en la mano. Después de todo, la respuesta carecía ahora de importancia.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Información de combate"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Talentos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Adivina la carta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Luces del desconcierto\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Número final: Desfile prodigioso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Espectáculo arriesgado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ¡Un fuerte aplauso!\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Observación de lo cotidiano\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Floración primigenia del oasis\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del recluta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del sargento\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del oficial\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Constelación"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pyro\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 1 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Truco telequinético\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Puede haber 2 sombreros gatorrisueños al mismo tiempo."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, cuando la flecha magiaoculta impacta contra el objetivo, se crean 2 sombreros gatorrisueños y se obtiene 1 carga adicional de cálculo oculto. Este efecto solo se puede activar una vez cada 15s.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 2 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Trampa de atención\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando Lyney está en uso, obtiene cada 2s una carga de “máxima atención”, la cual aumenta su Daño CRIT en un 20%. Este efecto puede acumularse hasta 3 veces y se anulará cuando Lyney se retire del campo de batalla.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 3 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mímica ingeniosa\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Ataque Normal: Adivina la carta"
+                }
+              ],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Adivina la carta"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 4 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Estrategia ensayada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando Lyney golpea a un enemigo con un Ataque Cargado Pyro, la RES Pyro de dicho enemigo se reduce en un 20% durante 6s.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 5 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Magia abscóndita\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Número final: Desfile prodigioso"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 6 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sonrisa engañosa\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando Lyney dispara una flecha magiaoculta, se libera un proyectil pirotecnimágico: bis que inflige un 80% del daño del proyectil pirotecnimágico original. Este daño se considera daño de Ataque Cargado.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ascensión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " pyro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ágata agnidus\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Providencia imperial\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Rosarcoíris\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del recluta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del sargento\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Insignia del oficial\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Prob. CRIT\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4.8\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 857.987976\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3523.362548828125\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 24.7646\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 101.6894\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 41.881\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 171.99\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gachapón"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Vestuarios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Felis Fuscus.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Felis Fuscus\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Lyney.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Lyney - Embeleco.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Lyney - Embeleco"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Lyney.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Lyney 2.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Embajadores de la Sastrería Chiori Lyney.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Embajadores de la Sastrería Chiori\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Arte de cumpleaños "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Lyney 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Lyney 2025.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2025\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dias festivos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Dia del niño 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Dia del niño 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones de personajes"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historias de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Fréminet"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 2"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lynette"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lynette"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "12"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lynette"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "8"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "9\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lynette"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "21\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lynette"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visión"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "39\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arlecchino"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "9"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "10\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diálogos de personajes"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Curiosidades "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*Es el mayor del trío de hermanos, mayor que Lynette y "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fréminet"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n* Lyney comparte su actor de doblaje chino con Fréminet.\n*La versión más joven de Lyney, que aparece en su misión legendaria, fue doblada por "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cat Protano"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "imdb:nm11767862"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en el doblaje inglés y [https://www.81produce.co.jp/dcms_plusdb/index.php/item?cell003=%E3%82%84%E8%A1%8C&label=1&cell004=&name=%E5%B1%B1%E5%8F%A3%E3%80%80%E4%B9%85%E7%8E%B2%E6%84%9B&id=426 Yamaguchi Kurea (山口久玲愛)] en el doblaje japonés.\n*Él, Lynette y Fréminet son actualmente los únicos personajes con más de una carta de personaje.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4.0"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Casa de la Hoguera"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "de:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:リネ"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Лини"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Ліні"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:林尼"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

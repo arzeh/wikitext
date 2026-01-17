@@ -1,0 +1,3685 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Catalizador\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " *Reina Menor Kusanali\n*Buer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento              "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sapientia Oromasdis\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Los Siete"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Arconte"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Halvamazda\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo              "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sumeru\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 27 de Octubre\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Femenino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3.2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hualing (花玲)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino                 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tamura Yukari (田村ゆかり)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Park Shi-Yoon (박시윤)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Kimberley Anne Campbell\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \"La rama más pura del Irminsul\"\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " No en uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol                   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Atacante principal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Apoyo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol3                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Gnosis\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " fuente de poder       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La Purificadora de las Plantas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " título_representativo "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n'''Nahida''' es un personaje jugable en "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "''Genshin Impact''"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nElla es el recipiente de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Reina Menor Kusanali"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", la actual Arconte Dendro. Habiendo sido liberada de su extenso confinamiento en el "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Santuario Surasthana"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", ahora se esfuerza por tener una presencia más fuerte en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Sumeru"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Introducción"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\"Yo diría que o presta mucha atención o es demasiado cariñosa con la gente... Aunque sus acciones puedan ser algo defectuosas, creo que su sentido de la responsabilidad como deidad de Sumeru es algo encomiable. Después de todo, ella es la deidad más joven, no como cierta otra persona que es propensa a la histeria...\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Neuvillette, Juez Supremo de Fontaine"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nLa Reina Menor Kusanali reside en las profundidades del "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Santuario de Surasthana"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Santuario Surasthana"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Siempre ha pasado desapercibida y rara vez se le menciona.\n\nNo deja de aprender cosas nuevas, se esfuerza constantemente por convertirse en una Arconte digna que pudiera orientar a su pueblo lo antes posible.\n\nSi no fuera por la amenaza inminente del conocimiento prohibido, a ella también le gustaría tomarse un merecido descanso y ver con sus propios ojos las infinitas criaturas que existen en "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Sumeru"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nPero tal y como están las cosas, solo puede ver las coloridas vistas de este mundo a través de sus sueños.\n\nEn el silencio meditativo de su alma, hizo compañía a la luz del sol y a la brisa, entabló amistad con humanos y animales, contó historias, jugó y cantó canciones que acababa de aprender...\n\nVertía los más bellos anhelos en su paisaje onírico, pero por muy bulliciosas que fueran las noches, cuando llegaba el día, todas las cosas a su alrededor volvían al silencio una vez más.\n\nSe levantó lentamente... Aún tenía sueño, pero la soledad la invadió como una ola de frío, y no pudo evitar abrazarse fuertemente a sus hombros.\n\n... Lo que la despertó por completo fue un ruido ligero pero inhabitual que sonó dentro del "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Akasha"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\n\"Ah. Así que fue un sueño dentro de otro...\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Nahida aparece como una joven de piel clara con el pelo blanco peinado en una trenza lateral y una cola de caballo y tiene las orejas puntiagudas. Tiene grandes ojos verdes y lleva un gran tocado verde en un lado de la cabeza, que también está enmarcado por un flequillo desigual.\n\nEl atuendo de Nahida consiste en un vestido blanco decorado con detalles verdes y dorados, mangas sueltas de tela verde estampada y un brazalete de oro en la muñeca derecha. Su vestido está adornado con varias gemas verdes y está decorado con intrincados dibujos dorados. Debajo lleva un pantalón blanco. En la espalda lleva una capa dividida de color verde pálido y unas sandalias blancas rodeadas de oro que dejan al descubierto los dedos de los pies.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Personalidad "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "El enemigo del Dios de la Sabiduría es la sabiduría en sí, y el oasis del conocimiento es un espejismo en el desierto de la ignorancia. En la ciudad de los eruditos se incentiva la necedad, y el Dios de la Sabiduría no se opone a ello.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "TAlKhARUcoY&ab_channel=GenshinImpact"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Dainsleif"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "https://www.youtube.com/watch?v"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nPoco se sabe de la personalidad de la Diosa de la Sabiduría. Sin embargo, la frase de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dainsleif"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " sobre ella en el avance argumental del capítulo de Teyvat la critica por permitir un \"impulso de locura\" por su propia inacción. Durante los dos años de estudio en la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Academia de Sumeru"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Lisa"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " se desilusionó por la \"erudición desinhibida\" que presenció; a pesar de ser reconocida como una estudiante sin igual en 200 años, optó por regresar a "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Mondstadt"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y convertirse en bibliotecaria. "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Yae Miko"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " también califica de \"verdaderamente inexplicable\" el tratamiento que Sumeru da al conocimiento como recurso, antes de preguntarse si fue desarrollado por la Reina Menor Kusanali o por los sabios. "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Hosseini"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " menciona que algunos estudiantes de la Academia de Sumeru se someten a un \"prolongado periodo de escrutinio por parte de la Diosa de la Sabiduría\" cuando el Viajero cuestiona la prolongada condición de estudiante de Hosseini, pero puede tratarse de un lenguaje figurado para referirse a tener que pasar años extra en la Academia de Sumeru, como deduce "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Yingzhu"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nCuando finalmente se encuentra con el "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Viajero"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", se muestra como un individuo esquivo y reservado, que rara vez sale del Santuario de Surasthana o revela su identidad. En su lugar, opta por utilizar métodos como la telepatía y la posesión para comunicarse con los humanos. Como resultado de su falta de socialización, tiene una comprensión algo pobre de la interacción social y se muestra un poco excéntrica y distante, y admite que necesita estudiar más las emociones humanas. Confiesa su afición por las analogías, que utiliza con frecuencia en su discurso y al responder a las preguntas. Como muchos en Sumeru, no le gusta dar respuestas directas y prefiere que la gente las descubra por sí misma, pues cree que es un mejor camino hacia la sabiduría.\n\nKusanali también sufre de baja autoestima, producto de la forma en que su pueblo, particularmente los Sabios, la tratan, y al igual que ellos se considera muy inferior a "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Rukkhadevata"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Reina Mayor Rukkhadevata"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y se culpa por la decepción y apatía de su país hacia ella. Como resultado, decide permanecer en secreto y trabajar para convertirse en una mejor diosa y dejar que los Sabios sigan dirigiendo las cosas, por el momento. Sin embargo, afirma que tomará medidas si se pasan de la raya.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLa Reina Mayor Rukkhadevata creó la selva de Sumeru y se sirvió de la Academia para compartir su conocimiento con el pueblo. Incluso tras su muerte, las leyendas de sus hazañas se escuchan con frecuencia en los hogares de la gente.\n\nPor el contrario, la Reina Menor Kusanali, a quien los sabios llevaron al Santuario Surasthana tras la partida de su antigua deidad, no es más que un símbolo de que la gracia divina aún ampara al pueblo de Sumeru.\n\nMas aunque todos se preguntan quién es, cómo nació y qué clase de poder posee, muy pocos conocen la respuesta.\n\nLas respuestas evasivas de los sabios de la ciudad fueron calando paulatinamente en el pueblo, que olvidó por completo aguardar con paciencia para que el conocimiento de su nueva diosa descendiera sobre ellos.\n\nEl Akasha, sublime legado que dejó la Reina Mayor Rukkhadevata, seguía en pleno funcionamiento y resultaba de gran comodidad para todo el mundo. Pero lo que la gente no sabía es que el Akasha también era los oídos y los ojos de la diosa recién nacida.\n\nPor medio de este sistema supo cómo se sentía la gente: con una gran devoción hacia la antigua diosa y desilusión hacia la nueva, y así fue como también escuchó las voces de quienes afirmaban que la diosa de la sabiduría se había marchado para no regresar.\n\nSabía perfectamente cuál era la misión que inevitablemente debía cumplir: debía estudiar y crecer para poder hacer frente a las amenazas que procedían de las profundidades del mundo.\n\nA pesar de todo, a Nahida no le importaba no ser comprendida o valorada.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje (1)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl aprendizaje y el crecimiento son caminos llenos de felicidad, y el conocimiento sobre este mundo siempre logrará saciar la exuberante curiosidad de Nahida.\n\nPoco a poco, Nahida fue comprendiendo los principios de la naturaleza y los elementos, así como la ecología del cielo y del mar. De hecho, con solo estudiar, puede llegar a dominar cualquier materia y crear hermosos sueños que sigan la razón y, al mismo tiempo, que superen los límites de la lógica.\n\nEsos sueños son, en esencia, como las metáforas que caracterizan el discurso de Nahida: aunque comparen dos cosas que no tienen nada que ver, quien las escucha comprende al instante la similitud que puede existir entre dos cosas completamente distintas.\n\nSin embargo, ella también tiene momentos en los que no logra hallar una respuesta por más vueltas que le dé a la cabeza, sobre todo cuando se trata de asuntos relacionados con los humanos y su sociedad.\n\nPor ejemplo, pudiendo decir la verdad para librarse de un castigo, hay quien prefiere callar o mentir; pudiendo llevarse bien con la persona a la que amas, hay quien prefiere dirigir hacia el otro palabras que hacen tanto daño como puñaladas.\n\nEs como si todas las contradicciones del mundo se hubieran concentrado en los seres humanos, y Nahida muchas veces no es capaz de comprender cómo es posible que los sentimientos de la gente cambien tanto.\n\nEn esos momentos, sus maravillosas metáforas resultan inservibles y, aunque buscara por todo el continente, tampoco lograría encontrar otro sistema igual de caótico que pudiera tomar como referencia para esos casos.\n\nPor ello, Nahida solo halla una explicación: que cada persona tiene unas peculiaridades diferentes, las cuales despiertan una serie de reacciones diferentes al enfrentarse a una misma situación.\n\nSin embargo, esta explicación sigue sin satisfacer a Nahida. Es imposible comprender a los humanos solo con conocimientos y doctrinas apáticas.\n\nQuizás fue entonces cuando entendió por qué \"ella\" decidió con tanta convicción quedarse al lado de los humanos, aunque eso supusiese hacer un gran sacrificio.\n\nTal vez sea porque cada uno de \"ellos\" es un ser único e irrepetible en el mundo.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje (2)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nPuede que la vida cotidiana de Nahida sea un tanto repetitiva, pero tiene los sueños más fantasiosos y vivaces de toda Sumeru.\n\nLos conocimientos que adquiere a través del Akasha durante el día alcanzan su máxima vehemencia durante la noche, momento en que se manifiestan muy vívidamente.\n\nConforme Nahida obtiene más conocimientos, sus sueños están mejor hechos y se vuelven más animados.\n\nEsto no solo la permite relajarse, sino que además la ayuda a comprobar si los conocimientos que acaba de adquirir tienen lógica o si hay algún detalle que se le escapó.\n\nLa primera vez que soñó con pájaros crepusculares, estos surcaban el cielo en una posición en la que estaban posados sobre el tocón de un árbol, es decir, sin abrir las alas.\n\nAunque esta escena puede resultar grotesca a los ojos de cualquiera, a Nahida le sirvió para inspirarle una nueva idea. Así pudo comprender para qué utilizan los pájaros sus alas y, al poco tiempo, estos volvieron a aparecer en el sueño desplegándolas y protagonizando danzas en el aire.\n\nDespués de eso, se sirvió del mismo método para devolver a su ubicación habitual a los micóqueros que dormían bajo el agua, a los rábanos que crecían en los manzanos y a los cristalópteros con un ala de cada color.\n\nEse conocimiento no solo le servía para racionalizar sobre los seres que habitan en el mundo, sino también para satisfacer sus ganas de divertirse como una niña.\n\nSi la razón nos dice que los micóqueros caminan sobre el suelo y que las alas sirven para volar, ¿por qué no iba a poder un micóquero extender sus alas y echar a volar?\n\nY si los micóqueros podían volar, los cocodrilos también podrían caminar sobre dos patas y los frutos harra podrían comunicarse con los humanos.\n\nCon su método para crear un sistema de conocimiento, Nahida construyó indirectamente su propio pequeño paraíso donde nadie puede molestarla. Así pues, no hay lugar donde ella sea más feliz que en sus propios sueños.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje (3)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nA los niños todavía les quedan muchas cosas por aprender y suelen dejarse llevar por las emociones, pero eso no significa que no merezcan ser respetados o que la gente tenga derecho a reírse de ellos.\n\nLas adversidades y la pérdida les sirven para probar el verdadero sabor de la realidad, pero al mismo tiempo también les hacen perder la inocencia y la intensidad de las emociones.\n\nSe dice que los niños que tienen la mala suerte de enfrentarse a estas desdichas escuchan en mitad de la noche una dulce voz.\n\nEsta pone toda su atención en escuchar todo lo que los niños le cuentan y utiliza fantásticas metáforas para explicarles la situación de una forma en la que la entiendan. También juega con ellos y habla sobre sus juegos y dulces favoritos hasta que sale el sol.\n\nAunque una noche no suponga mucho tiempo de compañía, en ese tiempo consigue que estos niños vuelvan a saber que en el mundo hay personas que los entienden.\n\nDe esa manera, su resentimiento y hostilidad se disipan con una cálida sensación, y se convierten en personas que aún pueden encontrar giros inesperados en sus vidas y que irradian confianza y felicidad.\n\nSin embargo, hasta ahora nunca ha habido ningún niño capaz de decir a quién pertenece esa voz. Aunque todo el mundo conoce el magnífico poder de la Reina Mayor Rukkhadevata, incluso una deidad tan grandiosa como ella tuvo que abandonar este mundo.\n\nEn una ocasión, unos niños se reunieron a escondidas para hablar sobre este fenómeno tan misterioso. Uno de ellos, que parecía más maduro que los demás, mencionó un nombre que les resultaba vagamente familiar: la \"Reina Menor Kusanali\".\n\nLos niños aceptaron sin dudar esa teoría, pero, por supuesto, los padres no creían lo que sus hijos les contaban.\n\nEn cualquier caso, ¿qué importa? Al fin y al cabo, se habían hecho amigos nada más ni nada menos que de la Reina Menor Kusanali.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje (4)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nUna vez, un empleado del programa de plantación de la Ciudad de Sumeru recibió una carta misteriosa firmada con el nombre de \"un apasionado y ocioso ciudadano corriente de la Ciudad de Sumeru\".\n\nLa carta contenía numerosos consejos detallados y una planificación de lo más completa. Hasta se tuvo en consideración cómo afectarían a las plantas los distintos tipos de tiempo y la luz del sol, así como otras condiciones prácticas.\n\nA juzgar por el grado de especialización del contenido de la carta, seguramente el remitente era un erudito de la Escuela de Biología que no deseaba revelar su nombre.\n\nAunque el empleado no sabía por qué el erudito prefería mantenerse en el anonimato, ejecutó al pie de la letra el diseño y la planificación expuestos en la carta como si se tratase de la orden de un superior.\n\nComo resultado, el diseño fue valorado muy positivamente. Un día en que Nahida tomó prestado el cuerpo de Katheryne para salir a la calle, observó maravillada que el empleado había colocado cada una de las plantas tal y como ella había recreado en su mente.\n\nY es porque, efectivamente, la carta la escribió Nahida. Para ella, el conocimiento es ciertamente muy importante, pero la parte práctica es algo indispensable.\n\nNo obstante, los sabios siempre quieren ejercer un control muy estricto, y solo después de que Nahida los persuadiera aceptaron que enviara de forma anónima esta carta, la cual en un principio consideraron inútil.\n\nPoder cumplir con esa parte práctica por primera vez fue de lo más alentador para ella. Llevada por la emoción, caminó por las calles armada de confianza y tan feliz que sentía que en cualquier momento iba a salir flotando hacia el cielo.\n\nDe repente, al pasar por una esquina, se percató de unas flores que no combinaban con el resto.\n\nLas miró con detenimiento y se dio cuenta de que no había pensado en que algunas de esas flores cambiaban de color, y tampoco había considerado el entorno en el que debían plantarse.\n\nSe horrorizó al pensar que las flores llevaban más de diez días ahí y que todo el que hubiera pasado había visto esa horrenda combinación floral...\n\nEse mismo día, un montón de personas afirmaron haber visto a Katheryne, quien siempre suele estar sonriente y con confianza tras el mostrador del Gremio de Aventureros, en cuclillas al lado de unas flores, abochornada y con las manos sobre su rostro todo ruborizado.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje (5)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n¿Qué hacer para eliminar toda amenaza que suponga el conocimiento prohibido para el Irminsul?\n\nAntes, Nahida pensaba que ella tenía la respuesta a esta pregunta. Lo que nunca imaginó es que ella misma era la respuesta.\n\nUna persona siempre deja su huella en las cosas que hace. Y cuando esa persona quiere desaparecer, todo se conecta entre sí hasta formar una paradoja.\n\nPor eso, para alcanzar algunos objetivos, a veces es inevitable depender de otros.\n\nSin embargo, cuando Nahida comprendió todo esto, ya era demasiado tarde. No le daba tiempo a reflexionar sobre ello y el conocimiento que había acumulado durante años apenas le servía para idear una forma con la que solucionar la situación tan complicada que tenía ante sus ojos.\n\nPero como dijo ████: \"Alguien sabio es feliz cuando va en busca de una respuesta\".\n\nNahida no había nacido para cometer crueldades. Solo deshaciéndose del conocimiento prohibido sería capaz de visualizar el futuro de Sumeru y de recrear en su mente una nación que siempre debió ser próspera.\n\n¿Era posible que una nación que se disponía a avanzar hacia el futuro fuera capaz de recordar un nombre que ya no existía? Bueno, eso ya no importaba.\n\n\"¿Ya no importa?\", pensó Nahida, quien tenía una opinión diferente en cuanto a eso.\n\nDesafortunadamente, ya no quedaba mucho tiempo. En el instante en el que ████ acarició su hombro, ni tan siquiera le dio una oportunidad para rebatir.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Caja de juguetes de Nahida\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nAunque a simple vista esta caja de juguetes no parece tener nada de especial, en su interior contiene imitaciones experimentales.\n\nA Nahida le encantan los juegos populares del momento, ya que son de reglas sencillas, entretenidos e interesantes. Ya sean acertijos o juegos de guerra, al jugarlos es inevitable abstraerse durante un buen rato.\n\nSencillos pero no por ello fáciles, revelan la sabiduría de sus diseñadores. Además, ofrecen la magnífica oportunidad de aprender deconstruyendo y reconstruyendo la naturaleza.\n\nSin embargo, los eruditos de la Academia nunca mostraron interés en las extraordinarias ideas de Nahida, y mucho menos se molestaron en satisfacer su sed de más juguetes. Por eso, se tuvo que conformar con un poco de madera y unas cuantas herramientas.\n\nSirviéndose de la información almacenada en el Akasha y dejándose llevar por su imaginación, Nahida creó todo tipo de juguetes, como tableros de ajedrez, puzles, candados tridimensionales...\n\nDespués de crearlos, sintió brevemente una gran satisfacción, pero enseguida se percató de otro problema: para los juegos de guerra, no podía encontrar un oponente adecuado, y para los acertijos, ya sabía cuál era la solución porque ella misma los había creado.\n\n\"Si al menos pudiera encontrar a otra persona para que pruebe estos juegos...\", pensaba.\n\nLa pequeña Arconte lleva tiempo esperando conocer un buen compañero de juegos, pero hasta que ese momento llegue, los juguetes tendrán que esperar dentro de esta caja.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Gnosis\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLa existencia del Akasha es un medio, y no un fin. Cuando el conocimiento prohibido fue eliminado, el Akasha por fin cumplió con su auténtico deber.\n\nAquel que codiciaba el poder de la Gnosis organizó toda una farsa y, finalmente, hizo su jugada.\n\nCon una Gnosis de otras tierras como herramienta de extorsión, Nahida consiguió que el traicionero y astuto enemigo destruyera todos sus \"segmentos\" como aval de sus intenciones.\n\nPero de inmediato, él también presentó las condiciones del intercambio: el crucial conocimiento sobre la \"verdad\" del mundo.\n\nÉl entendía a la perfección los valores más fuertemente arraigados en la Nación de la Sabiduría, y desde el principio tenía planeado aprovecharse de la curiosidad y el sentido de la responsabilidad de Nahida. Por ello, para él, no podía haber algo más apropiado que usar el conocimiento como moneda de cambio.\n\nNahida, que aún tenía su Gnosis en posesión, dudó por un instante. Apenas sabía más sobre las Gnosis que sobre la susodicha \"verdad\" del mundo.\n\nLa Gnosis era un núcleo que ella sabía utilizar diestramente y que concentraba un gran poder elemental, pero entonces, ¿por qué existiría una deidad tan obsesionada con ellas como para querer reunirlas todas?\n\nAcordar un intercambio significaba que ambas partes estarían conformes, no darían ningún paso en falso más y no sacarían ventaja de ello, pero para nada significaba una victoria. Sin embargo, rechazar el intercambio denotaba cierta \"ignorancia\" y, obviamente, eso era una desventaja que rápidamente podía salirse de control.\n\nEntonces, en ese instante, la Diosa de la Sabiduría obtuvo su respuesta...\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historias alteradas "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Después de completar la Misión de Arconte "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "¿Dónde estará el Barco de la Consciencia?"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", algunas de las Historias de personaje de Nahida se modifican a las siguientes versiones, eliminando toda mención de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Reina Mayor Rukkhadevata"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Detalles del personaje "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Hace mucho tiempo, la Arconte Dendro creó la selva de Sumeru y se sirvió de la Academia para compartir su conocimiento con el pueblo. Su omnipresente renombre dio lugar a miles de historias que cantan sobre sus hazañas y su gracia.\n\nPara la gente de Sumeru, la existencia de la Arconte Dendro es más bien simbólica; es la forma que tienen de saber que la gracia divina aún ampara a la Nación de la Sabiduría.\n\nLos sabios de la ciudad la adoran con suma devoción, y el pueblo también se unió a la creencia en ella sin la menor duda.\n\nPor su parte, el influyente sistema del Akasha se ha convertido en los ojos y oídos de la Reina Menor Kusanali, y le permite conocer las alegrías y las adversidades que afronta su gente. Ella lo ve todo y es capaz incluso de escuchar aquellas voces que van más allá de los halagos.\n\nCuanto más aprende la joven Arconte, más consciente es de todo lo que aún le queda por aprender. Solo creciendo lo más deprisa posible será por fin capaz de hacer frente a las amenazas que proceden de las profundidades del mundo.\n\nEsa es precisamente su ineludible misión.\n\nAunque haya unos pocos insatisfechos con la situación actual, Nahida permanece firme en su postura. Su tenacidad procede de sus convicciones, pues sabe mejor que nadie que ella debe ser el apoyo y el sustento de todos.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje (1)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl aprendizaje y el crecimiento son caminos llenos de felicidad, y el conocimiento sobre este mundo siempre logrará saciar la exuberante curiosidad de Nahida.\n\nPoco a poco, Nahida fue comprendiendo los principios de la naturaleza y los elementos, así como la ecología del cielo y del mar. De hecho, con solo estudiar, puede llegar a dominar cualquier materia y crear hermosos sueños que sigan la razón y, al mismo tiempo, que superen los límites de la lógica.\n\nEsos sueños son, en esencia, como las metáforas que caracterizan el discurso de Nahida: aunque comparen dos cosas que no tienen nada que ver, quien las escucha comprende al instante la similitud que puede existir entre dos cosas completamente distintas.\n\nSin embargo, ella también tiene momentos en los que no logra hallar una respuesta por más vueltas que le dé a la cabeza, sobre todo cuando se trata de asuntos relacionados con los humanos y su sociedad.\n\nPor ejemplo, pudiendo decir la verdad para librarse de un castigo, hay quien prefiere callar o mentir; pudiendo llevarse bien con la persona a la que amas, hay quien prefiere dirigir hacia el otro palabras que hacen tanto daño como puñaladas.\n\nEs como si todas las contradicciones del mundo se hubieran concentrado en los seres humanos, y Nahida muchas veces no es capaz de comprender cómo es posible que los sentimientos de la gente cambien tanto.\n\nEn esos momentos, sus maravillosas metáforas resultan inservibles y, aunque buscara por todo el continente, tampoco lograría encontrar otro sistema igual de caótico que pudiera tomar como referencia para esos casos.\n\nPor ello, Nahida solo halla una explicación: que cada persona tiene unas peculiaridades diferentes, las cuales despiertan una serie de reacciones diferentes al enfrentarse a una misma situación.\n\nSin embargo, esta explicación sigue sin satisfacer a Nahida. Es imposible comprender a los humanos solo con conocimientos y doctrinas apáticas.\n\nQuizás fue entonces cuando entendió por qué “████” decidió con tanta convicción quedarse al lado de los humanos, aunque eso supusiese hacer un gran sacrificio.\n\nTal vez sea porque cada uno de “ellos” es un ser único e irrepetible en el mundo.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje (3)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nA los niños todavía les quedan muchas cosas por aprender y suelen dejarse llevar por las emociones, pero eso no significa que no merezcan ser respetados o que la gente tenga derecho a reírse de ellos.\n\nLas adversidades y la pérdida les sirven para probar el verdadero sabor de la realidad, pero al mismo tiempo también les hacen perder la inocencia y la intensidad de las emociones.\n\nSe dice que los niños que tienen la mala suerte de enfrentarse a estas desdichas escuchan en mitad de la noche una dulce voz.\n\nEsta pone toda su atención en escuchar todo lo que los niños le cuentan y utiliza fantásticas metáforas para explicarles la situación de una forma en la que la entiendan. También juega con ellos y habla sobre sus juegos y dulces favoritos hasta que sale el sol.\n\nAunque una noche no suponga mucho tiempo de compañía, en ese tiempo consigue que estos niños vuelvan a saber que en el mundo hay personas que los entienden.\n\nDe esa manera, su resentimiento y hostilidad se disipan con una cálida sensación, y se convierten en personas que aún pueden encontrar giros inesperados en sus vidas y que irradian confianza y felicidad.\n\nSin embargo, nadie ha sido capaz de decir a quién pertenece esa voz. Por muy grandiosa que sea la Arconte Dendro, sigue estando muy ocupada con otras cosas, así que le sería imposible sacar tiempo para prestar atención a unos niños.\n\nEn una ocasión, unos niños se reunieron a escondidas para hablar sobre este fenómeno tan misterioso.\n\nTras hablar de toda clase de hipótesis e imaginar una infinidad de cosas, al final llegaron a una conclusión: si alguien era capaz de hacer algo así, no podía ser otra que la Reina Menor Kusanali. Bueno, tal vez sería más correcto decir que solo estaban dispuestos a creer en esa explicación.\n\nPor supuesto, ningún padre creía que eso pudiera ser verdad.\n\nEn cualquier caso, ¿qué importa? Al fin y al cabo, se habían hecho amigos nada más ni nada menos que de la Reina Menor Kusanali.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje (4)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nUna vez, un empleado del programa de plantación de la Ciudad de Sumeru recibió una carta misteriosa firmada con el nombre de “un apasionado y ocioso ciudadano corriente de la Ciudad de Sumeru”.\n\nLa carta contenía numerosos consejos detallados y una planificación de lo más completa. Hasta se tuvo en consideración cómo afectarían a las plantas los distintos tipos de tiempo y la luz del sol, así como otras condiciones prácticas.\n\nA juzgar por el grado de especialización del contenido de la carta, seguramente el remitente era un erudito de la Escuela de Biología que no deseaba revelar su nombre.\n\nAunque el empleado no sabía por qué el erudito prefería mantenerse en el anonimato, ejecutó al pie de la letra el diseño y la planificación expuestos en la carta como si se tratase de la orden de un superior.\n\nComo resultado, el diseño fue valorado muy positivamente. Un día en que Nahida por fin sacó algo de tiempo para salir a la calle, observó maravillada que el empleado había colocado cada una de las plantas tal y como ella había recreado en su mente.\n\nY es porque, efectivamente, la carta la escribió Nahida. Para ella, el conocimiento es ciertamente muy importante, pero la parte práctica es algo indispensable.\n\nNo obstante, los dioses, con su majestuosidad, no debían intervenir en los asuntos de los humanos. Tras mucha deliberación, y aunque pensaba que no iba a servir de nada, decidió enviar la carta de forma anónima.\n\nComo resultado, cumplir con esa parte práctica por primera vez fue de lo más alentador para ella. Llevada por la emoción, caminó por las calles armada de confianza y tan feliz que sentía que en cualquier momento iba a salir flotando hacia el cielo.\n\nDe repente, al pasar por una esquina, se percató de unas flores que no combinaban con el resto.\n\nLas miró con detenimiento y se dio cuenta de que no había pensado en que algunas de esas flores cambiaban de color, y tampoco había considerado el entorno en el que debían plantarse.\n\nSe horrorizó al pensar que las flores llevaban más de diez días ahí y que todo el que hubiera pasado había visto esa horrenda combinación floral...\n\nEse mismo día, un montón de personas afirmaron haber visto a la Reina Menor Kusanali en cuclillas al lado de unas flores, abochornada y con las manos sobre su rostro todo ruborizado. Es solo que muchas otras personas no terminaban de creérselo.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Caja de juguetes de Nahida\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nAunque a simple vista esta caja de juguetes no parece tener nada de especial, en su interior contiene imitaciones experimentales.\n\nA Nahida le encantan los juegos populares del momento, ya que son de reglas sencillas, entretenidos e interesantes. Ya sean acertijos o juegos de guerra, al jugarlos es inevitable abstraerse durante un buen rato.\n\nSencillos pero no por ello fáciles, revelan la sabiduría de sus diseñadores. Además, ofrecen la magnífica oportunidad de aprender deconstruyendo y reconstruyendo la naturaleza.\n\nPara Nahida, tiene más sentido elaborar ella misma desde cero sus propios juguetes que ir al bazar para comprarlos sin más. Por eso, enseguida se fue a buscar un poco de madera y unas cuantas herramientas.\n\nSirviéndose de la información almacenada en el Akasha y dejándose llevar por su imaginación, Nahida creó todo tipo de juguetes, como tableros de ajedrez, puzles, candados tridimensionales…\n\nDespués de crearlos, sintió brevemente una gran satisfacción, pero enseguida se percató de otro problema: para los juegos de guerra, no podía encontrar un oponente adecuado, y para los acertijos, ya sabía cuál era la solución porque ella misma los había creado.\n\n“Si al menos pudiera encontrar a otra persona para que pruebe estos juegos...”, pensaba.\n\nLa pequeña Arconte lleva tiempo esperando conocer un buen compañero de juegos, pero hasta que ese momento llegue, los juguetes tendrán que esperar dentro de esta caja.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Información de combate"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Talentos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "elemento "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Akara\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Omnisciencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Corazón ilusorio\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Iluminación de la compasión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dilucidación del despertar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Meditación holística\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tubo de marioneta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas del ingenio\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía del ingenio\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía del ingenio\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Espora fúngica\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Polen fluorescente\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Polvo quistecristalino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Constelación "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Semillas del conocimiento"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Al calcular la cantidad de personajes de tipos elementales específicos en el equipo en el momento en que se crea el templo ilusorio, se contabilizan un personaje Pyro, uno Electro y uno Hydro adicionales.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Raíces de la plenitud"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Los enemigos afectados por una semilla skandha aplicada por Nahida reciben los siguientes efectos:\n*Las reacciones de Quemadura, Florecimiento, Sobreflorecimiento y Crepitar pueden infligir críticos contra ellos con una Prob. CRIT fija del 20% y un Daño CRIT fijo del 100%.\n*La DEF de dichos enemigos se reduce en un 30% durante 8 s al ser afectados por las reacciones de Aceleración, Intensificación y Propagación.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Brotes del karma"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Omnisciencia"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Tallos de la acción manifiesta"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cuando en las cercanías hay 1/2/3/4 o más enemigos afectados por una semilla skandha de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Omnisciencia"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", la Maestría Elemental de Nahida aumenta en 100/120/140/160 pts.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hojas de la iluminación discursiva"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Corazón ilusorio"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Frutos de la culminación racional"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Tras usar "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Corazón ilusorio"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", cuando Nahida golpea con un Ataque Normal o Cargado a un enemigo afectado por una semilla skandha de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Omnisciencia"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", libera un trikarma acrisolador: expiación kármica contra ese enemigo y contra todos los enemigos encadenados con él para infligir Daño Dendro en función del 200% del ATQ y el 400% de la Maestría Elemental de Nahida.\nEl daño del trikarma acrisolador: expiación kármica se considera daño de Habilidad Elemental, y solo se puede activar una vez cada 0.2 s.\nEste efecto dura 10 s y se elimina una vez que Nahida haya liberado 6 veces trikarma acrisolador: expiación kármica.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ascensión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Esmeralda nagadus\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Trepadora supresora\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Loto kalpa\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Espora fúngica\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Polen fluorescente\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Polvo quistecristalino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Maestría Elemental\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 28.8\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 806.5087\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3311.961\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 23.275\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 95.57275\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 49.0606\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 201.474\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gachapón"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Vestuarios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Sapientia Oromasdis.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Sapientia Oromasdis\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Nahida.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Nahida - Cuarto creciente.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Nahida - Cuarto creciente"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Nahida.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Arte de cumpleaños "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Nahida 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2023\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Nahida 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dias festivos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de Halloween 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Halloween 2024 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hecho por [https://x.com/mhunter_45 Mhunter]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diseños de Paimon - Emoticonos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 289 - Nahida - Curiosidad.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 19 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 290 - Nahida - Alegría.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 19 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 291 - Nahida - Reflexionando.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 19 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 292 - Nahida - Me gusta.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 19 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 293 - Nahida - Emoción.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 19 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 294 - Nahida - Hora de la siesta.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 19 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones de personajes"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historias de personajes"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Alhacén"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 2"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Faruzán"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 3"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "7"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Nilou"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 4"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Trotamundos"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 5"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " '''Nahida''' hizo su primera aparición como personaje no jugable.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3.0 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " '''Nahida''' se añadió como personaje jugable junto al gachapón \""
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Iluminación verdeluna"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3.2 "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios2\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Curiosidades"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " \n*Nahida comparte la misma actriz de voz japonesa y china con [https://honkaiimpact3.fandom.com/wiki/Theresa_Apocalypse Theresa Apocalypse] de la serie ''Honkai'' y su actriz de voz japonesa la [https://houkai3rd.fandom.com/wiki/Blood_Embrace_(ELF) ELF Blood Embrace] de ''[https://es.wikipedia.org/wiki/Honkai_Impact_3rd Honkai Impact 3rd]''; los tres personajes comparten una apariencia pequeña similar con el pelo blanco.\n**Su combinación de colores también es similar a la paleta de colores del traje de evento de Theresa, [https://honkaiimpact3.fandom.com/wiki/Verdant_Sky Verdant Sky].\n*Nahida comparte su actriz de voz japonesa con "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Qiqi"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y su actriz de voz china con "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Klee"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n* "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "PAGENAME"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "  aparece mencionada en las siguientes "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "decoraciones"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ":\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "“Disculpe la espera, mi querida Arconte”"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Referencias "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "references /"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Arcontes"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "de:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "id:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:ナヒーダ"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Нахида"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Нагіда"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Nahida"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:納西妲"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

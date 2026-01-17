@@ -1,0 +1,3179 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mandoble\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma              "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cryo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Caballera de la Marea "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Capitana de la Compañía de Reconocimiento "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Danza de la Ola Resplandeciente "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Femenino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo              "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aphros Delos\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mondstadt\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Caballeros de Favonius"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Clan Lawrence"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ziyin (子音)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino             "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Rina Sato (佐藤利奈)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Kim Hyeon-ji (김현지)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Susie Yeung\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Eula Card.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " imagen            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 25 de octubre\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Empanada tempestuosa\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1.5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Humana\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " En uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Atacante principal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2              "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox Personaje jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n'''Eula Lawrence''' es un personaje jugable de "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "''Genshin Impact''"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nDescendiente del infame y tiránico "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Clan Lawrence"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y sobrina de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Schubert"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", Eula es la capitana de la Compañía de Reconocimiento con los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Caballeros de Favonius"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", que también es la compañía de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Mika"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nLlegó por primera vez en la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Versión 1.5"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " en el gachapón \""
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Sobre las olas"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Perfil "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Una descendiente rebelde de la vieja aristocracia que siempre está en el campo de batalla. Como alguien nacida en la vieja aristocracia, portadora de la línea de sangre de los pecadores, Eula ha necesitado un enfoque único del mundo para navegar pacíficamente por los imponentes muros de los prejuicios. Por supuesto, esto no le impidió romper los lazos con su clan. Como la excepcional Caballera de la Marea, caza a los enemigos de Mondstadt en la naturaleza para exigir su \"venganza\" única.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Apariencia "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Eula es una mujer elegante de piel pálida y ojos de color amarillo violáceo. Tiene el pelo corto de color azul claro que se extiende hasta los hombros y el flequillo llega hasta las cejas. Por encima de su flequillo, Eula lleva una diadema negra y una horquilla a su izquierda. Lleva una capa azul, con su Visión Cryo pegada a ella, que brilla cuando usa sus habilidades Cryo.\n\nSu atuendo consiste en un maillot negro que tiene un símbolo plateado de su clan a los lados de la parte inferior y la espalda recortada, con el centro translúcido y la parte superior del cuerpo y las mangas, que se vuelve azul, de color blanco, que tiene el los lados de los hombros recortados, sostenidos por un cinturón que cuelga debajo de sus pechos.\n\nAdemás, usa una corbata azul, un par de guantes negros, que son de color azul en el área de la palma, y ​​medias azules con negro, resaltadas con plateado, botas hasta los muslos que tienen una correa adicional, tacones plateados con espuelas y suelas azules.\n\nSu Visión, como Kaeya, también tiene un diseño único al tener dos \"alas\" en el lado derecho.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Personalidad "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Eula es miembro de la antigua aristocracia de Mondstadt, perteneciente al Clan Lawrence, que es famoso por su dominio tiránico sobre Mondstadt. No le gusta la gente que la ve de manera similar al resto de su clan debido a esta desconfianza, que no ha sido olvidada. Tiene la costumbre de declarar y obtener \"venganza\" contra sus enemigos para redimir su apellido.\n\nEula es una de los pocos nobles del Clan Lawrence que se da cuenta de que sus acciones contra la gente de Mondstadt fueron injustificadas, y no al revés. Ella tiene una relación tensa con su clan como resultado de esto, ya que la denuncian como traidora, aún creyendo que ellos son las víctimas inocentes. Ella ha declarado que no dudaría en destruir a su propia familia si pusieran en peligro a Mondstadt, incluso considerándolo apropiado. Cuando era niña, su familia la obligó a aprender la etiqueta noble como parte de un régimen educativo tan severo que se considera casi abusivo. Aunque Eula considera despreciables la mayoría de las costumbres del Clan Lawrence, tiene en alta estima la tradicional \"Danza del Sacrificio\" y la incorpora a su estilo de \"Técnica de espada Favonius.\"\n\nElla es bastante talentosa y de espíritu libre. A pesar de la historia infame de su familia, quienes la conocen la ven como una amiga y aliada confiable que es incomprendida en gran parte debido a sus antecedentes, sentido del humor único, y las declaraciones controvertidas ocasionales que son producto de su personalidad. Entre los Caballeros, también es muy respetada por los miembros de la Compañía de Reconocimiento bajo su mando, quienes la apoyan incondicionalmente. Aunque la mayor parte de Mondstadt la odia, por lo general no los odia a ellos a cambio, porque comprende su enojo hacia su familia.\n\nEn el fondo, es una Caballero amable y digna de confianza, como lo afirman Amber y Sara. Es buena amiga de Yanfei después de salvarla de la Orden del Abismo, quien la compara de manera similar en la forma en que ambos no están sujetos a las convenciones y resuelven los problemas a su manera. Posiblemente debido en parte a su Visión Cryo, a Eula le encanta lo fresco y lo frío, como las bebidas heladas que bebe durante todo el año, algo que se considera raro para un ciudadano de Mondstadt.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historia "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEula es la Capitana del Equipo de Reconocimiento de los Caballeros de Favonius.\n\nDebido a su trabajo, pasa mucho tiempo liderando batidas contra la Orden del Abismo y otros monstruos, y apenas suele estar en Mondstadt.\n\nConocida también como la \"Caballera de la Marea\", posee unas excelentes habilidades con la espada, además de ser una valiente perspicaz estratega.\n\nHasta ha recibido grandes elogios por parte del Gran Maestro Varka, quien dijo que. Eula era una formidable guerrera a la par con la Caballera de Dandelion.\n\nEl hecho de que ambas caballeras protejan Mondstadt debería ser motivo de júbilo, pero hay una diferencia fundamental entre Eula y Jean.\n\nEula es descendiente de los Lawrence, una familia de la antigua aristocracia, por lo que por sus venas fluye la sangre de los opresores que sumieron a Mondstadt en la oscuridad.\n\nDebido a sus orígenes, tiene una pésima reputación entre los habitantes de Mondstadt. La familia Lawrence simboliza aquella época de ignorancia y tiranía en la ciudad, o lo que es lo mismo, simboliza el eterno sufrimiento de la gente.\n\nCada vez que Eula aparece en público, es como si esa antigua herida se volviese a abrir. La gente aborrece a los aristócratas, así que es de esperar que nunca puedan mirarla con buenos ojos.\n\nA pesar de ello, la determinada Eula se unió a los Caballeros de Favonius y ascendió hasta el puesto de Capitana.\n\nElla nunca se esconde ante la sorpresa y el desconcierto de los ciudadanos, y afirma que todo lo que hace es por \"venganza\".\n\nMuchos se sintieron amedrentados por esta declaración tan directa y, durante un tiempo, pensaron que Eula era una espía dentro de los Caballeros de Favonius.\n\nEn cambio, Jean, la Gran Maestra Intendente, tiene una opinión distinta sobre Eula, a quien trata con una actitud amistosa.\n\n\"Los rumores en torno a ella no son reales. Es solo que la gente aún no conoce bien a la Caballera de la Marea\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEula es descendiente de la vil familia Lawrence y heredera de la antigua aristocracia, pero también es una de las mejores espadachinas que existe.\n\nSu persona es una mezcla entre su linaje tiránico y sus excepcionales habilidades de combate.\n\nLanza sus ofensivas en los momentos más inesperados y, sin que uno se dé cuenta, le arrebatará algo. Para la gente de Mondstadt, la Capitana de Reconocimiento es tan imprevisible como una ola del mar durante una tempestad.\n\nAnte esto, Eula siempre se muestra indiferente y arrogante. Cuando alguien osa dudar de ella, siempre dice: \"Qué agallas tienes. ¡La venganza será mía!\".\n\nAtrapada por el odio, deambuló lejos de Mondstadt durante muchos años, y las pocas veces que volvía a la ciudad, se dirigía a toda prisa a la Sede de los Caballeros de Favonius con su mandoble en mano.\n\nUna vez, se encontró con dos guardias nuevos que la miraron nerviosos y sin saber qué hacer. Ni siquiera se atrevían a acercarse a ella, por lo que tan solo observaron cómo Eula se dirigía directamente hacia la oficina de la Maestra Jean.\n\nLo extraño fue que, al cabo de unas horas, todavía no se escuchaba ningún indicio de que alguien se estuviera peleando.\n\nPreocupados, los guardias preguntaron al Capitán de Caballería Kaeya y a la bibliotecaria Lisa, que justo pasaban por allí.\n\n\"¿Ha vuelto la Capitana de Reconocimiento? ¿Cómo? ¿Que hoy también ha ido a ver a la Gran Maestra Intendente mientras blandía ferozmente una espada?\".\n\n\"¿Eh? Entonces yo también debo ir. ¿Por qué no me esperan para beber té?\", dijo Lisa, tras lo que se dirigió a toda prisa hacia la oficina. Entonces, Kaeya llevó a los dos guardias frente a la puerta y, entre risas, les explicó:\n\n\"¿Acaso no saben que la Maestra Intendente tiene muy buen ojo? Los Caballeros de Favonius consideramos que lo importante es la habilidad, no los orígenes. Por eso siempre consigue un poco de tiempo para intercambiar consejos sobre el manejo de la espada con la Capitana de Reconocimiento. No solo es una manera de salvaguardar la dignidad de los Caballeros, sino también de desahogar los resentimientos del pasado mediante el combate. ¿Qué? ¿No les parece muy inteligente por su parte?\".\n\n\"Oh... Así que era eso...\".\n\n\"Así que ‘beber té’ significa ‘intercambiar consejos’...\".\n\nEste tipo de cosas ocurrían todos los meses. Pero entonces, si era una especie de intercambio para dejar atrás los rencores del pasado y mejorar sus habilidades de pelea, ¿por qué no causaban ningún ruido?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEn realidad, Eula no tiene para nada un aspecto peligroso y, al ser objeto de tantos prejuicios, a veces es quien se encuentra en la posición menos ventajosa.\n\nAl principio, las tiendas se negaban a venderle nada, la comida que pedía en los restaurantes se la hacían de muy mala manera y los ciudadanos que estaban en las zonas donde trabajaba se negaban a cooperar. En definitiva, su trabajo siempre estaba lleno de dificultades.\n\nSi ocurre alguna disputa, ella siempre responde con argumentos muy serios, alegando que \"se vengará\" y que \"volverá para reclamar lo que es suyo\". Estas palabras son como un hechizo que, en cuanto termina de recitarlo, resuelve cualquier enfrentamiento justo antes del momento en el que va a estallar.\n\nLo más curioso es que Eula, con quien tantas precauciones toma la gente, siempre ha respetado la ley y nunca ha lastimado a ningún ciudadano de Mondstadt. Tendrá una actitud algo fría, pero sus palabras siempre son las adecuadas.\n\nComo nadie es capaz de encontrar ningún fallo en su comportamiento, el miedo que le tienen ha ido disminuyendo poco a poco. En consecuencia, esto le ha servido de aviso para tener más cuidado con sus palabras de venganza.\n\nLa Eula que quiere derrocar a los Caballeros de Favonius, la Eula que muy probablemente sea una espía... Para los caballeros más nuevos, Eula es una persona con la que es difícil llevarse bien.\n\nCuando un nuevo soldado es enviado para transmitirle las órdenes de Jean, ella siempre responde con indiferencia: \"Si tanto tienen que molestar a una descendiente de los opresores de Mondstadt, debe ser porque son ustedes unos incompetentes, ¿no es así?\".\n\nLa fría y distante Caballera de la Marea, perteneciente a la antigua aristocracia y enemiga de los Caballeros, una persona tan malvada y con la que tan difícil es llevarse bien... ¿De verdad era realmente así?\n\nEn el camino de vuelta a la ciudad, el nuevo soldado rememora cada uno de los movimientos de la Capitana de Reconocimiento.\n\n\"¿Por qué su mirada se volvía tan amable y, al mismo tiempo, tan firme cuando no me miraba a mí? ¿Cómo no va a ser de fiar una persona tan seria?\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nSin embargo, Mondstadt es la ciudad de la libertad y la felicidad después de todo, por lo que incluso la descendiente de un linaje corrupto puede hacer amigos.\n\nAsí pues, existe una persona totalmente de fiar tanto para Eula como para el resto de los ciudadanos: Amber, la Caballera Exploradora.\n\nCuando la encantadora Amber está con Eula, las tiendas le venden sus productos al precio normal por el simple hecho de estar junto a ella. Y cuando están de buen humor, hasta charlan un poco con Eula. En esos momentos, ella muestra sus mejores habilidades sociales.\n\nPor todo ello, la bondadosa Amber suele acompañarla a todas partes e incluso la ayuda a hacer mandados y envía directamente a su casa todos los suministros que necesita.\n\nOtra cosa de la que también informa Amber al resto de los ciudadanos es de los numerosos éxitos militares de Eula, los cuales siempre les dejan boquiabiertos.\n\nLos fines de semana, por la mañana temprano, Amber lee en un atril improvisado hecho con algunas cajas de madera los nuevos logros de Eula: \"Hace poco, la Capitana del Equipo de Reconocimiento de los Caballeros de Favonius rescató a una mujer en el Puerto de Dornman y, con su ayuda, abrió una investigación con la que atrapó a unos miembros de la Orden del Abismo que se escondían por la zona. La mujer rescatada era una reconocida experta en derecho de Liyue. A raíz del incidente, tanto el gobierno de Liyue como la Oficina de Comunicación enviaron una carta a los Caballeros de Favonius en agradecimiento por la ayuda de la Capitana de Reconocimiento...\".\n\nTal vez los incansables esfuerzos de Amber cambiaron los cuantiosos prejuicios acumulados a lo largo de la historia, o tal vez los logros de Eula como caballera destronaron el miedo que los ciudadanos le habían tenido durante tantos años... El caso es que, en los últimos años, la vida de Eula ha experimentado algunos cambios. La mayor parte de la gente ya no se muestra hostil hacia ella y, batalla tras batalla, los caballeros han comenzado a admirar sus habilidades cada vez más.\n\nPor su parte, el Equipo de Reconocimiento liderado por Eula la apoya incondicionalmente y conforma el poderoso escudo con el que defiende la seguridad en las afueras de Mondstadt.\n\nTras todos esos cambios, la persona que más se había esforzado y que, naturalmente, más contenta estaba era Amber. Al fin y al cabo, ambas se conocían desde mucho antes de que Eula se uniera a los Caballeros. Por eso, la Caballera de la Marea siempre confió plenamente en aquella encantadora joven que había sido criada personalmente por su abuelo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nA diferencia de su distante y cortante actitud con la mayoría de las cosas, Eula es muy considerada con la cocina y, de hecho, sabe cocinar muy bien.\n\nEl actual Equipo de Reconocimiento a menudo se enorgullece de tener \"la mejor comida militar de los Caballeros de Favonius\". En sus mochilas de viaje suelen tener un pastel con forma de luna muy cómodo de llevar y tan delicioso que siempre recibe elogios de todo aquel que lo prueba.\n\nLa chef exclusiva del equipo explicó que, cuando inventó esa comida, tomó como referencia algunos platos de la Capitana para mejorar la resistencia de la corteza del pastel al prolongar el tiempo de horneado. Además, reemplazó los ingredientes más perecederos por otros distintos y redujo los costes, al tiempo que alargó su periodo de conservación.\n\nAun tras haberle hecho tantas modificaciones, el pastel seguía estando delicioso. Mientras comían aquel manjar, los miembros del Equipo de Reconocimiento no pudieron evitar preguntarse qué tan delicioso debería ser el pastelillo de luna original de la Capitana.\n\nLa respuesta a esta pregunta está escondida en algún antiguo libro de la biblioteca.\n\nAunque hace tiempo que entró en declive, la familia Lawrence sigue esperando el día en que pueda volver a formar parte de la clase gobernante. Con el fin de estar preparados para ese glorioso momento, los Lawrence educan y crían a sus hijos e hijas de una manera tan estricta que resulta obsesiva.\n\nSu aclamado \"deber aristocrático\" consiste en ser perfectos en todos los aspectos; no solo en cuanto al comportamiento, la etiqueta y el ámbito académico, sino también en cuanto a habilidades culinarias y tareas domésticas.\n\nLos Lawrence están convencidos de que \"desde la liberación de Mondstadt, a la ciudad siempre le ha faltado una etiqueta clara y un estilo elegante. Cuando llegue el día en que nuestra familia recupere su poder, tal vez sea demasiado tarde para encontrar a los sirvientes adecuados. Por eso, hemos de tener mucho cuidado para no caer en los mismos errores que los plebeyos\".\n\nLos profesores de cocina de los Lawrence también son bastante estrictos. Que si a la masa le falta media cucharada de harina de trigo, que si le falta una pizca de sal, que si aún faltan dos segundos para sacarla del horno... Cometer estos errores puede dar lugar a reprimendas y castigos. Para Eula, sus muy envidiadas habilidades culinarias no son sino uno de los resultados de seguir las obsoletas normas de su familia.\n\nPor esta razón, solo las personas a las que respeta... o mejor dicho, solo las \"molestas personas a las que ha jurado venganza varias veces, que no escuchan sus advertencias y que, aun así, no dejan de seguirla\" son dignas de probar los manjares elaborados personalmente por ella.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nPara la aristocracia, el arte es la \"segunda alma\", es decir, la segunda cosa más importante después de las tradiciones y la etiqueta.\n\nLa danza del sacrificio, una ceremonia mediante la que se muestra el carácter noble de uno mismo, es aclamada como la manifestación última de dicha alma y como una lustre piedra preciosa que simboliza el pináculo de la autoridad de la aristocracia.\n\nSegún los rumores populares, tras el sanguinario gobierno de la aristocracia en Mondstadt, las familias más prósperas crearon la danza del sacrificio.\n\nEl tercer acto de esta danza, que consistía en un baile en solitario por parte de algún miembro de los Lawrence, se llamaba «El resplandor del candelabro» y era la parte más importante de toda la ceremonia. La persona que lo bailase, que en este caso solía ser la hija mayor de la familia, debía tener un sublime y noble carácter.\n\nCon el fin de diseñar la mejor coreografía, los Lawrence solían contratar a los mejores bailarines como profesores de baile de su hija mayor. Si a esta le sangraban los dedos de los pies de tanto bailar, esto se consideraba una manifestación del honor de la familia y era motivo de orgullo para todos los bailarines.\n\nEsta vieja ceremonia perduró mucho tiempo hasta que, tras muchos años, el pueblo consiguió derrocarla. Sin embargo, la familia Lawrence ha conservado esta tradición hasta hoy en día.\n\nHace mucho tiempo que la danza del sacrificio, con cuya decadencia también se perdieron los grandes banquetes y lujosos escenarios que la acompañaban, ya no es tan noble como era antes. Las altas exigencias que había con respecto a los movimientos de baile han ido disminuyendo debido a la falta de profesores de danza. Por eso, aunque reticentes, a los Lawrence no les quedó más remedio que aceptar que la danza fuera relegada a una habilidad practicada únicamente como pasatiempo, y no como algo obligatorio.\n\nEl paso del tiempo fue borrando paulatinamente las connotaciones negativas intrínsecas a esta danza, de la cual solo quedaron los elegantes movimientos artísticos.\n\nA diferencia de esos asfixiantes cursos obligatorios, la danza era el único pasatiempo que permitía a Eula, la hija mayor de la actual familia Lawrence, relajarse cuando era pequeña.\n\nLa Eula de hoy en día ha roto todos sus lazos con el arte y, de hecho, cuando la gente piensa en su título de \"Caballera de la Marea\", no lo relacionan con la danza.\n\nSin embargo, la esencia de la danza, con sus elegantes movimientos e indescriptible belleza, se manifiesta en las habilidades de Eula con la espada.\n\nLas únicas y refinadas posturas que adopta al blandir su espada son como una danza bajo la luz de la luna: lejana, bella e inalcanzable.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " El hielo y la espuma del mar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEula es quien está a cargo del escudo de los Lawrence, conocido como la \"Insignia Glacial\". Dicho escudo es el símbolo supremo del poder militar de la familia y representa su aún incorrupta determinación a comienzos de la época en la que Mondstadt dejó de ser un páramo: una determinación mordaz como el hielo, noble, inmaculada, intrépida ante la ira de las llamas, tenaz, serena e imperturbable.\n\nEn los últimos mil años, solo un puñado de personas ha sido capaz de pasar las duras pruebas para convertirse en un Lawrence. Y tanto el escudo de la familia como su propia esperanza serán transmitidos de generación en generación por ellos mismos.\n\nAunque Eula aún era muy pequeña cuando aceptó enfrentarse a esta prueba, logró pasarla muy cómodamente, por lo que se le otorgó la Insignia Glacial. Ostentando tal honor, se alejó de su familia y, desde entonces, apenas mantiene el contacto con ella.\n\nSu espada de hielo es poderosa como el penetrante y gélido viento de una ventisca, capaz de hacer retroceder a cualquier persona.\n\nAunque la lustre y brillante Eula debería ser como el hielo, el título que posee es el de \"Caballera de la Marea\". Al escuchar esto, la gente siempre piensa que puede manipular el elemento Hydro.\n\nLo que hay tras este malentendido es una costumbre suya.\n\nEula suele llevar consigo un silbato hecho de hueso. Cuando lo toca, por todas partes se escuchará un sonido extremadamente parecido al de las olas del mar.\n\nLas zonas en las que ella y su equipo trabajan están en la costa, por lo que el sonido de las olas les sirve para confundir a sus enemigos. A veces, también hace que los monstruos de menor inteligencia piensen que se acerca un tsunami, por lo que, despavoridos, se separan los unos de los otros.\n\nGracias a esta maniobra, Eula ha conseguido la victoria numerosas veces aun estando en inferioridad numérica. Es debido a esta táctica de guerra por lo que ha pasado a ser conocida como la \"Caballera de la Marea\".\n\nAunque el silbato óseo también puede imitar otro tipo de sonidos, Eula tiene sus razones para haber escogido el de las olas del mar.\n\nMás que \"de la Marea\", el título más adecuado para ella debería ser \"Caballera Glacial\".\n\nTal vez lo que ocurre es que, en lugar del gélido hielo, lo que realmente le llama la atención es el romper de las olas...\n\nTras deambular por el mundo, ha observado que los arrecifes y las rocas tienen la resistencia perfecta para contener las olas.\n\nPor eso, más que lo hermético y lo cortante, lo que mejor se ajusta a sus aspiraciones es la libre e incontrolable marea.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n¿A raíz de qué surge el odio?\n\n¿De una situación lúgubre y sombría? ¿O de las desgracias ocurridas en el pasado?\n\n¿Y qué es la venganza?\n\n¿Una forma de hacer justicia para uno mismo o de sumir al enemigo en un abismo de sufrimiento?\n\nRestaurar la gloria de los Lawrence, ganarse el respeto y la admiración del pueblo, recuperar el poder para gobernar... Todas estas cosas no significan nada para Eula.\n\nElla nunca ha vivido esa \"humillación\" de la que tanto habla su familia, la cual, más bien, la atormenta constantemente. Los Lawrence nunca han dejado de intentar deshacerse de las pesadas cadenas que los aprisionan, pero, aun así, no consiguen que la gente los acepte.\n\nEl odio y la venganza de Eula no son más que una costumbre, una seña de identidad y un pretexto.\n\nCon sus orígenes y su posición, ¿qué tipo de opiniones puede tomarse en broma y qué tipo de cosas debe tomarse en serio?\n\nPor otro lado, ¿de qué manera podría romper con la carga que supone llevar sangre Lawrence?\n\nCon todas estas preguntas, Eula decidió visitar a un Caballero Explorador cuya existencia había caído en el olvido hace tiempo. De él aprendió a ser más magnánima que nunca y a persistir en las cosas que más realistamente podía conseguir.\n\nAntes que el odio y la venganza, antes que a su familia y a otras personas, lo primero que debía buscar era a sí misma: buscar su modo de sobrevivir, su manera de protegerse y su forma de persistir con las cosas.\n\nAunque enmascarase todo eso bajo palabras como \"odio\" y \"venganza\", ella seguía siendo igual de bondadosa y tenaz.\n\nSu búsqueda de la venganza era dulce y le pertenecía única y exclusivamente a ella. Entonces, justo en el momento en el que la encontró, una Visión apareció ante Eula.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Información de combate "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Talentos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cryo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "elemento"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Técnica de espada Favonius: Nobleza\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Vórtice helado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fulgor glacial\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Escarcha turbulenta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ansia de guerra\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Introspección aristocrática\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cryo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Corona del rey dragón\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas de la resistencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía de la resistencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía de la resistencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara dañada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara sucia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara amenazante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Constelación "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cryo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ilusión de la marea\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tras consumir las cargas de corazón impasible de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Vórtice helado"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", Eula obtiene un 30% de Bono de Daño Físico durante 6 s.\n\nCada vez que se consuma una carga de corazón impasible, este efecto se prolongará durante 6 s más hasta un máximo de 18 s.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hija del mar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Reduce el TdE de mantener pulsado "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Vórtice helado"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " hasta ser el mismo que el de pulsar una vez.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sangre Lawrence\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fulgor glacial"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3.\n\nPuede ser aumentado hasta Niv. 15.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Obstinación de los plebeyos\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta en un 25% el daño que inflige la espada luminosa contra los enemigos con menos de un 50% de Vida.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Virtud de caballera\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Vórtice helado"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3.\n\nPuede ser aumentado hasta Niv. 15.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Deber aristocrático\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Otorga inmediatamente 5 cargas de energía a la espada luminosa creada mediante "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fulgor glacial"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ". Además, al usar Ataques Normales, la Habilidad Elemental o la Habilidad Definitiva para acumular cargas, hay una probabilidad del 50% de que la espada luminosa obtenga una carga adicional.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Ascensión "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cryo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Jade shivada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Flor cristalina\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Semilla de diente de león\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara dañada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara sucia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Máscara amenazante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Daño Crítico\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 9.6\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1029.5856\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4228.035\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 26.6266\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 109.33523\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 58.45391\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 240.0489\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Gachapón "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Vestuarios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Galería "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Aphros Delos.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Aphros Delos\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Eula (visualización).png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Eula - Insignia Glacial.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Eula - Insignia Glacial"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Eula.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arte de cumpleaños"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Eula 2021.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2021 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hecho por [https://twitter.com/csyday829 Csyday]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Eula 2022.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2022 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Hecho por [https://www.pixiv.net/en/users/6018940 にゅむ]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Eula 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2023\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Eula 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dias festivos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Día de San Valentín 2022 - Eula.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Día de San Valentín 2022\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Día de Acción de Gracias 2022.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Día de Acción de Gracias 2022 "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "[https://twitter.com/Paimon2theMoon/status/1595960463715667969 Twitter oficial de Ella Musk]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de Navidad 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Navidad 2023\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de Songkran 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Songkran 2024.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diseños de Paimon - Emoticonos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 81 - Eula - Elogiar.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 6 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 82 - Eula - Déjame ver.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 6 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 83 - Eula - ¡Salud!.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 6 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 84 - Eula - ¡A comer!.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 6 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 172 - Eula - Invitar.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 11 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 173 - Eula - Estornudar.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 11 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 174 - Eula - No me gusta.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 11 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Menciones de personajes "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historias de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Mika "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "9"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Mika "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 8"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1.5"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Curiosidades"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*Eula es actualmente el único personaje del juego que tiene un nombre de constelación en inglés basado en griego en lugar de latín.\n*Eula aparece mencionada en la siguiente "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "decoración"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Decoraciones"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ":\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cabeza de muñeco de nieve: Echando humo"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Regalo del Convoy: Habilidad necesaria"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Etimología"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*Eula es un nombre femenino en inglés y la forma corta de Eulalie o Eulalia, que se deriva del griego antiguo εὔλαλος eúlalos, \"dulcemente hablando, bien hablado\".\n*Su apellido, Lawrence, es una palabra de origen inglés cuyos significados son “Coronado de laureles”, o “Ganador”.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "de:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "id:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:エウルア"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Эола"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Евла"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Eula"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:優菈"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

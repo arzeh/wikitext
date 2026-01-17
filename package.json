@@ -1,4 +1,21 @@
 {
-  "name": "wikitext-parser",
-  "packageManager": "yarn@4.12.0"
+  "name": "wikitext",
+  "version": "0.0.1",
+  "packageManager": "yarn@4.9.2",
+  "main": "dist/main.mjs",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@eslint/json": "^0.13.1",
+    "@stylistic/eslint-plugin": "^5.2.3",
+    "@types/node": "^24.3.0",
+    "eslint": "^9.33.0",
+    "globals": "^16.3.0",
+    "jiti": "^2.5.1",
+    "tsdown": "^0.14.1",
+    "tsx": "^4.20.4",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.39.1",
+    "vitest": "^3.2.4"
+  }
 }

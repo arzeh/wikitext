@@ -1,0 +1,3569 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Catalizador\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Juez supremo de Fontaine "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Su Señoría\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento              "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Leviathan Iudicator\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Corte de Fontaine"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Gendarmería Fantasmal"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Palacio Mermonia"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Siete soberanos"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Gota de bruma\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo              "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fontaine\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 18 de diciembre\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Masculino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4.1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Kamiya Hiroshi (神谷浩史)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Kwak Yoon-sang (곽윤상)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sang Yuze (桑毓泽)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino                 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ray Chase\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dragón Soberano\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pneuma\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arjé                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " En uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol                   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Atacante principal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " El Sentenciador de lo Inexorable\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " título_representativo "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Autoridad de dragón antiguo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " fuente de poder       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n'''Neuvillette''' es un personaje jugable en ''"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "''.\n\nNeuvillette es el Juez supremo de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fontaine"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y el líder de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gendarmería Fantasmal"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Aunque Neuvillette respeta las reglas de la corte con la mayor reverencia y a menudo controla la extravagancia de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Furina"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", es bastante distante cuando se trata de emociones humanas y a menudo se aleja de la opinión pública.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Perfil"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "La verdadera prueba comenzará el día en que ellos regresen.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Ixbalanqué, el sepultado con el fuego primigenio"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\"En la anterior edición, su señoría Neuvillette calificó de 'amarillista' la columna de secretos de la "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arconte Hydro"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Foçalors"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", así que esta vez nos centraremos en el enigmático juez supremo. Como sabemos muy poco sobre su auténtica forma de ser y ha rechazado nuestras entrevistas en múltiples ocasiones, decidimos recurrir a la opinión pública para hacernos con el material más verídico posible. En ese sentido, hemos descartado toda carta anónima o cuya veracidad fuera altamente dudosa. A continuación les mostramos una de las cartas más adorables que nos han llegado:\n\n...\n\n'Si de verdad existiera el "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Héroe Oscuro"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diluc"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", ese solo sería un disfraz. Cuando el Héroe Oscuro se levanta por la mañana y se lava los dientes, sigue siendo el mismo, ya que solo adopta esa identidad a medianoche. Sin embargo, Neuvillette (Su Señoría) no es así. Su auténtica identidad es ser juez supremo, ser el mejor padre con el que nosotras, las melusinas podríamos soñar. Lo único que no es, es esa persona llamada Neuvillette'.\n\nA raíz de esta carta, ¡podemos inferir que su señoría Neuvillette es un melusino, el único que existe! Es verdad que las melusinas aparecieron mucho después de que él asumiera el cargo, ¡pero ante unas pruebas tan evidentes deben de tener una explicación!\".\n\n—— La amarillista «Gaceta de las Siete Naciones»\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Neuvillette utiliza el modelo masculino alto. Tiene la piel blanca, los ojos sombreados y rasgados de azul oscuro y el pelo blanco hasta la cintura con un moño azulado en la punta de su largo cabello. También lleva lo que parecen ser dos accesorios azules brillantes en forma de cuernos a la altura de los hombros. Lleva un traje formal azul con diversos toques de azul que van de los colores claros a los oscuros con detalles dorados (en los hombros, muñequeras, calzado y en el pecho de su traje junto a una joya azul en la altura del cuello con detalles de oro  bordado, y el ornamento en forma de pluma azul en su cabello cerca de su sien y oreja izquierda ) lleva un bastón negro elegante  con apoyo de plata y una gema azulada en la zona frontal del mismo, también tiene en sus dos manos unos guantes oscuros cuyo centro de la palma tiene una gema azul en forma de triquetra, sus largas botas negras con tacones de oro van a juego  con sus pantalones negros ajustados de cuerina, en la zona del cuello y muñecas lleva un camisón ondulado blanquecino similares al usado en  los siglos 19 por los jueces.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Personalidad"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "De acuerdo con su papel de Juez supremo, Neuvillette se toma muy en serio el tribunal y los juicios, y no tiene prejuicios a la hora de juzgar. Es muy perspicaz, capaz de oír los susurros de Paimon y deducir detalles adicionales de las pruebas que se le presentan durante el juicio. Utiliza la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Analizadora de Instrucción Cardenalicia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " para tomar la decisión final, cumpliendo su petición independientemente de sus propios sentimientos sobre el asunto según el protocolo.\n\nDebido a su posición y a sus lazos con la Arconte Hydro, es popular entre la gente de Fontaine como símbolo de justicia y honor. A pesar de ello, no está especialmente familiarizado con las costumbres y los sentimientos humanos, como demostró cuando intentó disculparse con "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navia"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " por la muerte de "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "su padre"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Calas"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", ofendiéndola en el proceso por la falta de emoción en sus palabras. Neuvillette rara vez sale en público, y en las pocas ocasiones en las que interactúa con gente fuera de sus obligaciones, se muestra algo distante, por no decir honesto. Sin embargo, cuando interactúa con "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Melusina"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "s, es extremadamente amable y es visto como el padre ideal por ellas.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historia "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nNeuvillette es una persona solitaria.\n\nHa rechazado educadamente a todas y cada una de las personas de Fontaine que han intentando acercarse a él. Es más, a día de hoy, nadie sabe cuál es el nombre de pila del juez supremo porque él siempre le dice a los demás que lo llamen por su apellido, Neuvillette.\n\nÉl considera que tener una relación cercana o un trato frecuente con alguien podría suscitar sospechas sobre su imparcialidad, y su deber es precisamente ser el símbolo de la imparcialidad absoluta.\n\nSin embargo, siempre hay gente muy insistente que le dice: “Su señoría Neuvillette, si no todo el mundo tiene que comparecer ante un tribunal a lo largo de su vida, usted tampoco tiene por qué estar todos los días sentado en el asiento del juez”.\n\nNunca sabremos si las cosas de verdad son así, ya que Neuvillette nunca se ha pronunciado con respecto a esa pregunta.\n\nPero la realidad es que, aunque le lleve una enorme cantidad de tiempo, un río siempre acabará desbordándose, igual que el día del juicio final acabará cayendo algún día sobre la gente de Fontaine, ya que —y esto no es ni una metáfora ni una figura retórica— todas y cada una de las personas de Fontaine son culpables.\n\nSin embargo, Neuvillette no le puede contar esto a nadie.\n\nY por eso es una persona tan solitaria.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nNeuvillette no tiene afanes personales.\nLas personas chismosas y los periodistas siempre están buscando por todos los rincones de Fontaine el momento de atraparlo fuera de su papel de juez: atraparlo sentado en los asientos vip de un espectáculo, en la orilla de alguna superficie de agua mientras la lluvia cae de un cielo nublado, en la sombra proyectada por el sol de la tarde...\n\nDurante un tiempo, la gente creía que Neuvillette era una especie de demonio que solo vivía por y para juzgar, lo cual él aclaró diciendo: “Aunque me enorgullezco de mi deber como juez, no soy ni mucho menos un admirador acérrimo de los juicios. Ser juez supremo solo es una de mis facetas, así como una fase de mi vida”.\n\nTras aclararse ese rumor, surgió otro aún más disparatado: “¡Última hora! Su señoría Neuvillette afirma que su cargo de juez supremo solo es un trampolín para catapultarse a otro puesto en su carrera profesional. ¿Qué ambiciones alberga realmente el juez supremo?”.\n\nNo obstante, Neuvillette ignoró completamente este rumor. ¿Podría ser cierto y decidió ignorarlo por una cuestión de principios? Es algo que nadie sabe.\n\nPor otra parte, Neuvillette tampoco es una persona que suela beber alcohol, no le gusta la fonta y nunca ha elogiado con sinceridad la comida de ningún chef. A raíz de ello, la gente empezó a pensar que tal vez no poseía sentido del gusto, y por ello nunca tenía apetito.\n\nFrente a tales sospechas, decidió organizar una cata de agua en la que todo el mundo quedó anonadado ante la diversidad de sabores de las aguas del mundo y pasmado ante el paladar tan refinado del juez supremo. Lo que nadie sabe es cuán auténticas fueron las interacciones que tuvo con los invitados.\n\nEn cualquier caso, Neuvillette no tiene afanes personales.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nNeuvillette es una persona imparcial y desinteresada.\n\nSin esas dos cualidades, no podría dar la talla como juez supremo.\n\nLos niños piensan que el señor juez solamente se dedica a llevar una peluca, mantener el orden y hablar en representación de la “máquina que juzga”. Pero la realidad es que en privado tiene mucho trabajo administrativo que hacer para asegurar el funcionamiento del sistema judicial.\n\nPor razones históricas y tradiciones heredadas, el juez supremo también tiene la capacidad de hacer cumplir la ley e iniciar procesos judiciales. En un principio, esto se hacía para facilitar la ejecución de la ley en tiempos más caóticos, pero conforme el sistema judicial se fue mejorando, esa norma tan innovadora en su época fue adquiriendo un carácter simbólico. Así, cuando el juez supremo investiga o es quien inicia un proceso judicial, debe ceder su silla a otra persona. De hecho, esa es la norma que ha seguido el mismísimo Neuvillette las pocas veces que se ha encargado personalmente de un caso.\n\nCabe destacar que él ha sido el único juez supremo de Fontaine desde hace mucho tiempo, por lo que la gente tiende a pensar que los dioses le deben de haber otorgado una grandiosa longevidad. Y es que, de no ser por sus grandes virtudes, surgirían toda clase de problemas durante su largo periodo como juez.\n\nHay toda clase de especulaciones en cuanto a qué es Neuvillette exactamente: un familiar, una misteriosa criatura Hydro... Pero él nunca se ha pronunciado al respecto.\n\nPorque Neuvillette es una persona imparcial y desinteresada.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \nDebido a muchas razones, en Fontaine hay algunas leyes que pueden parecer muy extrañas. Una de ellas la creó el mismo Neuvillette: “Las melusinas deben ser tratadas como personas, y no con otros tratamientos que las cosifiquen”.\n\nA primera vista puede parecer una ley extraña, pero si uno la investiga en profundidad, se dará cuenta de que hay una razón lógica para ella. Las melusinas están en todos los aspectos de la vida de Fontaine, así que el hecho de haber empezado por cómo dirigirse a ellas no solo fue un esfuerzo para conseguir la igualdad con los humanos, sino que también mandó una potente señal.\n\nLa gente de Fontaine se dio cuenta del trato tan cálido que Neuvillette daba a las melusinas en comparación con los humanos, aunque estos consideran que ese trato es como un amor paternal derivado de una bondad reprimida.\n\nEs posible que esto sea así, pero si te paras a pensarlo y conoces de verdad a Neuvillette, te resultará muy extraño.\n\nNeuvillette es el Dragón del Agua, y considera a las melusinas tanto como sus propias familiares y sucesoras, como una nueva especie de Dragartos Hydro extraordinarios. Sin embargo, al mismo tiempo, él es quien ha roto con el actual orden del mundo, el juez de los dioses y el enemigo de la humanidad. Así pues, ¿por qué lucha para que las melusinas tengan derechos humanos?\n\nNadie más aparte de ti podría hacerle ese pregunta, así que esta es su respuesta: “No es algo que dependa de mí. A las melusinas les gusta mucho estar con los humanos”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nNeuvillette siempre ha preferido los días lluviosos por encima de los soleados, ya que la humedad del ambiente le relaja, pero hace mucho tiempo que no puede disfrutar mojándose bajo la lluvia.\n\nEs como si, desde que decidió caminar hacia delante con Fontaine, interpretara el papel de una persona corriente que sigue las convenciones. Y las personas corrientes no salen sin paraguas de casa cuando llueve ni dejan que el pelo se les moje por la lluvia.\n\nCabe mencionar que, mientras que ser juez supremo es su mayor virtud y ser el Dragón del Agua es su esencia, ser un humano corriente es el papel que interpreta en el mundo.\n\nLa gente inventó una diosa que la juzgara porque se sentía sola y culpable, y creó una diosa que la salvara porque era avariciosa y se sentía culpable. Ahora que esa diosa ya no está en el trono, es Neuvillette quien cumplirá con esas expectativas.\n\nHoy en día ya ha perdonado a la humanidad y recuperado su forma original, por lo que ya puede disfrutar mojándose bajo la lluvia."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br /"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "De hecho, ya lo ha llevado a cabo: un día, se paró bajo la lluvia y, mientras contemplaba en silencio el horizonte, recordó la carta que recibió hace mucho tiempo.\n\nDe algún modo que él desconoce, dicha carta le llegó un día a sus manos. En ella no había escrito un destinatario y la persona que la escribió se dirigía a él directamente como “tú”. Un “tú” único; un “tú” especial.\n\nNeuvillette no rechazó la carta ni tampoco le dio su aprobación, pero sí se le cruzó el pensamiento de que las autoridades de este mundo no tenían derecho a llamarlo de ese modo.\n\nSabía que esa carta había salido del puño y la letra de la Arconte Foçalors, quien lo había invitado a visitar Fontaine porque “le reservaría el mejor asiento en la más grandiosa Ópera”.\n\nY efectivamente, ese fue el sitio en el que se sentó Neuvillette: el asiento central de la primera fila de la Ópera de la Epíclesis en las Erinias. Desde allí vio toda clase de espectáculos en un asiento con vistas privilegiadas, tal y como le prometió Foçalors.\n\nLo que ocurrió después no llegó a oídos del público general, ya que la gente no podría entender cómo se destruyó el trono o cómo el legítimo dueño del poder del agua recuperó por completo dicho poder. En cuanto a qué y por qué perdonó a la gente, esa es una historia complicada de contar.\n\nSin embargo, lo cierto es que el telón se cerró y, con ello, terminó por completo la obra más grandiosa en toda la historia de Fontaine.\n\n¿De verdad fue así? En ese momento, Neuvillette entendió que el “asiento” al que se refería la carta no era una simple butaca de la Ópera.\n\nFoçalors, o mejor dicho Furina, había renunciado a su asiento en las gradas para subir sola al escenario y convertirse en la protagonista de la obra.\n\nEl número de asientos había sido el mismo desde el principio, pero para que uno se sentara, otro debía ceder el asiento. Es decir, aquella carta que le envió fue una invitación con cientos de años de antelación.\n\n“Oh, Dragón del Agua, ¿cómo te sientes al formar parte del gran público? ¿Te gustan las obras teatrales de los humanos?”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEn teoría, un ser tan grandioso como Neuvillette no debería necesitar que una constelación velase por él. Al fin y al cabo, el destino no es más que el juguete con el que juega quien gobierna actualmente este mundo.\n\nAhora que el juez supremo ha recuperado una de las siete autoridades y se han restablecido el trono real y su título de “dragón completo”, se encuentra en el lado opuesto al mundo de los humanos y, teóricamente, no está sujeto al destino.\n\nPor ello, al observar las estrellas del destino, puede ver el entrelazamiento entre distintos cuerpos celestes que conforman un mundo complejo y frágil. Al principio, esto no le interesaba mucho, ya que los hilos del títere adornado con el nombre de “designios del cielo” tarde o temprano serían incinerados por las fervientes llamas del juicio. Sin embargo, hasta a él le fascinaron algunas de esas palabras bonitas.\n\n“En ese caso, debes velar por la gente de Fontaine. Si proceden del agua del Mar Primigenio, quiere decir que también son seres vivos de este planeta y necesitan que cuides de ellos”.\n\nNeuvillette no quería reconocer que estaba ciertamente cautivado por las alegrías y las desgracias de los mortales, y se justificaba diciendo que a la gente también le cautivan las ondulaciones que crea la lluvia en un charco. Decía que el rey Nibelungo estaba equivocado, y que solo sería posible luchar contra el vacío de la oscuridad si todos los seres unían fuerzas.\n\nAsí fue como entró en el juego del destino. El cielo había reservado un lugar noble y especial para él; un lugar que solo tienen quienes gobiernan y quienes desafían a este mundo: un reflejo de sí mismo.\n\nPero si él tenía forma humana desde que nació, ¿por qué su nombre era el de un gran dragón fantasmal? Tal vez todo esto tenía otra explicación que no estuviera tan atada al destino del mundo:\n\nBajo el nombre de “Neuvillette”, las melusinas (y sobre todo Sigewinne) le invitaban a predecir el futuro por medio de la columna de astrología de «El Pájaro de Vapor» o las guías astrológicas de Sumeru. Una vez, él dijo que no tenía constelación, o que su constelación simplemente era “Neuvillette”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Canción infantil de Fontaine\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n“¡Dragón del Agua, Dragón del Agua! ¡No llores más!”.\n\nDe autoría y fecha de creación desconocida, esta canción de cuna se difundió como la pólvora en Fontaine. Neuvillette se sentía confuso al respecto. Aunque ya había vivido muchas cosas y durante mucho tiempo con la gente de Fontaine, seguía sin estar seguro de qué era lo que pensaban de su auténtico yo &mdash;o lo que es lo mismo, del Dragón del Agua.\n\nAdemás de tener un control total del elemento Hydro, el Dragón del Agua también dominaba el mar, que es la fuente de la vida. Y es que antes de que existieran los seres de más allá de las estrellas, todos los de este planeta se originaron en el Mar Primigenio, de ahí que las generaciones posteriores dieran ese nombre a esas aguas calmas y profundas. Así pues, se podría decir que el Dragón del Agua se podría considerar como el “dios de la vida” original de este planeta.\n\nNeuvillette sabía tan bien esto como los ríos saben que deben desembocar en el mar. Aunque para los humanos el agua del Mar Primigenio no tenía ningún significado especial, él sí era capaz de discernir diminutos recuerdos en ella. Aún recordaba que el usurpador de fuera asignó a su propio dios de la vida para reorganizarla; aún recordaba que el usurpador la creó a “ella” para reprimir la vida original de este planeta; y aún recordaba perfectamente cómo “ella” cometió el pecado original.\n\nAl pensar en todo ello, Neuvillette se dio cuenta de quién había escrito aquella canción, y de que la gente de Fontaine no conocía realmente al Dragón del Agua, ya que pensaban equivocadamente que dicho dragón podía llorar. ¿Tal vez pensaban que el Dragón del Agua era un ser bondadoso que se lamentaba tanto por la humanidad como por el cielo?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nAunque Neuvillette no necesita una Visión para usar su poder elemental, hay algunas cosas que solo comprendió cuando por fin se convirtió en un ser perfecto.\n\nGravemente herido tras la gran guerra de la venganza, el usurpador perdió sus funciones y ya no era capaz de reprimir el orden original de este mundo con su autoridad total. Sin embargo, para suprimir y controlar el resentimiento y el odio del mundo, creó las Gnosis junto a otra persona que vino después. Así fue como se creó un orden, como la gente pasó a tener solamente siete remembranzas y como todos los fragmentos primigenios fueron controlados para devorarse los unos a los otros.\n\nA partir de entonces, cada vez que los deseos de una persona llegaban al cielo, los siete gobernadores del mundo material le correspondían ofreciéndole un obsequio. Aunque no supieran qué deseo o el deseo de quién había llegado a terreno sagrado, Los Siete debían conferir a esa persona un fragmento de su autoridad. Y cuando una de esas personas completara su misión, los dioses obtendrían unos obsequios aún más abundantes.\n\nAunque Neuvillette no acataba los designios del cielo, reconocía la voluntad del ser humano, por lo que él también ofrecía una parte de sí mismo, como si se tratara del antiguo tesoro de un dragón que espera la llegada de alguien que lo reclame.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Información de combate"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Talentos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Remanso acuático\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Plañido del resarcimiento\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Retorno mareal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Legatario de toda agua\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Arbitrador supremo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Impetuosidad marítima\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Instante del mar arbóreo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Condensado extramarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fragmento extramarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cristalización cromática\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Constelación"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hydro\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 1 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Eminente ordenanza\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando Neuvillette entra en el campo de batalla, obtiene 1 carga del efecto “gloria del legado dacroniano” del talento pasivo “Legatario de toda agua” (es necesario desbloquear el talento pasivo Legatario de toda agua)."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, al ejecutar el Ataque Potenciado: Apercibimiento procesal y el Ataque Cargado: Sentencia ecuánime, su Res a interrupción aumenta.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 2 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mandato legal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fortalece el talento pasivo “Legatario de toda agua”, de modo que por cada carga de gloria del legado dacroniano, el Daño CRIT del Ataque Cargado: Sentencia ecuánime aumenta en un 14%, hasta un máximo del 42%."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Es necesario desbloquear el talento pasivo “Legatario de toda agua”.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 3 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ficción pretérita\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de Ataque Normal: Remanso acuático +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 4 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Clemencia culminante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando Neuvillette recibe curación mientras está en uso, genera 1 gota primigenia. Esto puede ocurrir una vez cada 4s.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 5 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fallo axiomático\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Retorno mareal"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 6 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Retribución atrabiliaria\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Al ejecutar el Ataque Cargado: Sentencia ecuánime, Neuvillette absorbe las gotas primigenias que haya en cierta área. Por cada gota que absorba, la duración del Ataque Cargado: Sentencia ecuánime aumentará en 1s."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, al golpear a un enemigo con el Ataque Cargado: Sentencia ecuánime, se liberan 2 torrentes adicionales, y cada uno inflige Daño Hydro equivalente al 10% de la Vida Máx. de Neuvillette. El daño infligido de esta manera se considera daño de Ataque Cargado: Sentencia ecuánime.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ascensión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lazurita varunada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuerno de corcel fontamarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lumistela\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Condensado extramarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fragmento extramarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cristalización cromática\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Daño Crítico\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 9.6\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1143.984\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4697.8169\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 16.218\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 66.595\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 44.8725\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 184.275\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gachapón"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Vestuarios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Leviathan Judicator.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Leviathan Judicator\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Neuvillette - Oleaje.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Neuvillette - Oleaje"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Neuvillette.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Neuvillette.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Arte de cumpleaños"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Neuvillette 2023.jpg"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2023\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Neuvillette 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dias festivos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de Navidad 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Navidad 2023\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Diseños de Paimon - Emoticonos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 430 - Neuvillette - Refinado.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 26 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 432 - Neuvillette - Mantener distancia.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 27 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 433 - Neuvillette - Palmadita.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 27 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 434 - Neuvillette - Culpable.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 27 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 435 - Neuvillette - Está lloviendo.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 27 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones de personajes"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historias de personajes"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Furina"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Detalles del personaje"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Navia "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sigewinne "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Sigewinne "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 21 \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Wriothesley "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 20 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Émilie"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 5"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Curiosidades"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*Excluyendo al "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Viajero"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y a "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dainsleif"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", Neuvillette es el primer personaje jugable introducido con una fuente desconocida para sus poderes elementales; todos los demás personajes tienen una "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Visión"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", o para los Arcontes, su antigua "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gnosis"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n**También es el primer personaje jugable sin Constelación conocida.\n*Neuvillette tiene al menos varios cientos de años.\n*Antes de completar la "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Misión de Arconte"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Misiones de Arconte"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Capítulo IV"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ": Acto IV - "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Un cataclismo en ciernes"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", la sección de información de Neuvillette se muestra la fuente de sus poderes Hydro y su constelación como \"???\" Después de completar la misión, se revela que la fuente de energía y la constelación son \"Autoridad del Dragón Antiguo\" y \""
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Leviathan Iudicator"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\", respectivamente.\n*Neuvillette es el primer personaje jugable que tiene una animación inactiva que hace que se le aplique un elemento (en su caso, Hydro).\n* "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "PAGENAME"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "  aparece mencionado en las siguientes "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "decoraciones"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ":\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cucharón de la bestia marina apacible"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Etimología"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*La palabra y el nombre franceses ''Neuvillette'' pueden descomponerse en tres partes: ''neu-'', derivado de ''neuf'' o ''neuve'', que significa \"nuevo\"; ''-ville-'', que significa \"ciudad\" o \"pueblo\"; y ''-ette'', sufijo utilizado con palabras gramaticalmente femeninas para indicar disminución o cariño.\n**Históricamente, cuando se utiliza como apellido, Neuville suele ir acompañado de la [https://en.wikipedia.org/wiki/Nobiliary_particle#France partícula nobiliaria] de colocada entre el nombre y el apellido, que indica la ciudad de origen o el dominio de una familia.\n* El nombre de Neuvillette puede ser una referencia a Christian de Neuvillette, el deuteragonista de ''[https://es.wikipedia.org/wiki/Cyrano_de_Bergerac_(teatro) Cyrano de Bergerac]'', que a su vez está vagamente basado en la vida real de Christophe de Champagne, barón de Neuvillette. Con la ayuda del protagonista de la obra, Cyrano, conquista el corazón de Roxane, prima lejana de Cyrano, pero muere durante el [https://es.wikipedia.org/wiki/Sitio_de_Arras Sitio de Arras]. No se sabe nada de la vida real de Christophe, aparte de su muerte durante el Sitio de Arras y su matrimonio con Madeleine Robineau, baronesa de Neuvillette.\n*Hay tres pueblos franceses llamados [https://es.wikipedia.org/wiki/Neuvillette Neuvillette]. Uno de ellos se encuentra en la región francesa más cercana a Gran Bretaña, una región conectada directamente con Gran Bretaña a través de un túnel ferroviario submarino, el Eurotúnel.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Añadido como personaje jugable.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4.1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4.0"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios2\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Dragones"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "id:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:ヌヴィレット"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Нёвиллет"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Невілетт"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Neuvillette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:那維萊特"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

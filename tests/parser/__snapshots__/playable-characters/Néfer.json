@@ -1,0 +1,3261 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Femenino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo                  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sumeru\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Gremio Voynich"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Cámara de Secretos"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Red de Inteligencia del Norte"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Aldea Aaru"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Facultad Vahumana"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación            "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Zeng Tong (曾彤) \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino                 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Mizuki Nana (水樹 奈々) \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Won Esther (원에스더) \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Ashleigh Haddad \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Carta de introducción Néfer.png\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " imagen                "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento              "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nod Krai\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región actual         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disco Lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " fuente de poder       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La Guardasecretos de las Arenas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " título_representativo "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Jefa de la Cámara de Secretos\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Luna II\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión               "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ludus Latrunculorum\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "rareza"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Catalizador"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "arma"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "En uso"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "rol"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Atacante principal"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "rol2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "9 de mayo"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "cumpleaños"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Intercambio de secretos\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "platillo"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Presagio lunar"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " bonos                 "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n'''Néfer''' es un personaje jugable de ''"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "''.\n\nOriginaria de "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Sumeru"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", es la jefa de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cámara de Secretos"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y miembro del "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gremio Voynich"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Es increíblemente calculadora y conocedora, hasta el punto de que se especula que puede predecir el futuro.\n\nSu primera aparición es durante el [https://www.youtube.com/watch?v=QWDyxSo-oq0 Avance de Genshin Impact - Canción lunar: Epopeya de una noche de luna].\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Introducción"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\"A veces hablo con las serpientes y me cuentan que incluso aquellas con la sangre más fría desean encontrar la rama perfecta en la que enroscarse... Menos mal que en Nod Krai hay árboles de sobra para que todas las serpientes puedan encontrar su propio lugar\"."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Lauma"
+                }
+              ],
+              "type": "internal link"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\nGracias a su excepcional eficiencia para completar encargos y su precio relativamente bajo (el cual puede regatearse aún más si Jahoda está de servicio), la Cámara de Secretos posee una gran reputación entre los residentes de la Villa Nasha."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nSea cual sea el encargo, la Cámara de Secretos garantiza poder realizarlo y dejar a sus clientes satisfechos, ya se trate de la búsqueda de un gato, una persona, un objeto, un rastro, un criminal o un amante infiel."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nUno podría pensar que la Cámara de Secretos y el Gremio de Aventureros, que se encuentran a unas pocas puertas de distancia, son muy similares. Sin embargo, el maestro de la división del Gremio de Aventureros en Nod Krai ha llegado a un acuerdo con la jefa Néfer, e incluso tienen algún tipo de colaboración."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nSi te fijas bien, descubrirás que el Gremio no es la única organización que hace tratos con la Cámara de Secretos. Parece que todo el mundo sabe cuál es su punto fuerte, por lo que están más que dispuestos a trabajar codo con codo cuando es necesario."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nEsto no resulta sorprendente para los residentes de la Villa Nasha, pues creen que poder trabajar con la increíblemente ingeniosa jefa Néfer es una enorme suerte. Por su parte, los jefes de las demás organizaciones también son lo suficientemente inteligentes como para reconocer una oportunidad tan grande."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nMientras la gente pasa el tiempo charlando ociosamente, el gato Ashru pasa silenciosamente por detrás de ellos."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nEn su boca, porta una carta escrita del puño y letra de la jefa Néfer."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nSin embargo, la inteligencia de la persona a la que va destinada deja un poco que desear."
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "br"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Perfil"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "(Próximamente...)\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Néfer. utiliza el modelo femenino alto. Tiene la piel clara y ojos verdes brillantes con pupilas blancas en forma triangular invertida. Su cabello es corto, estilo wolf cut, de color verde oscuro que se desvanece hacia un verde más claro en la parte inferior. Tiene una marca similar al [https://es.wikipedia.org/wiki/Ojo_de_Ra Ojo de Ra] debajo de su ojo derecho, mientras que tiene un lunar debajo de su ojo izquierdo.\n\nLleva unos pendientes de ala dorados en forma de auriculares con pendientes triangulares verdes colgando de la parte inferior, además de una diadema dorada unida a la parte posterior de su cabeza, que recuerda a alas puntiagudas que se curvan hacia adentro en las puntas. Luce un vestido corto sin mangas ni espalda con [https://es.wikipedia.org/wiki/Escote_halter escote halter], de color verde oscuro en la parte superior y blanco en la parte inferior, con acentos dorados en la parte baja. Ambas mitades están separadas por un motivo dorado de alas cruzadas con pequeños acentos verdes en la sección media. También lleva una capa tipo capa oscura que cubre sus hombros y se divide en tres tiras de tela en la parte trasera; la pieza central es verde oscuro con acentos verdes claros, mientras que las otras dos piezas son verde oscuro con acentos dorados y un interior verde que se desvanece a un verde claro en el extremo. La capa tiene marcos dorados con piedras preciosas verdes en los hombros, alrededor del cuello y en la espalda; su "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Disco Lunar"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Dendro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Dendro"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Color"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " está unido al centro del marco dorado curvado en su espalda.\n\nLa complementa con largos guantes oscuros inclinados que se sujetan a brazaletes dorados alrededor de sus bíceps; estos guantes tienen acentos verdes y adornos dorados en forma de garras en las puntas de los dedos. Los dos adornos en forma de garra en sus pulgares son verdes, y lleva un diseño dorado alrededor de cada muñeca. También tiene dos pulseras doradas con acentos verdes en su muñeca derecha, y una correa negra en el muslo derecho con una decoración triangular invertida dorada en la parte delantera con una gema verde en su centro. Su calzado consiste en tacones altos dorados con una detallada correa metálica dorada alrededor de cada tobillo, acentos verdes y un tacón verde oscuro.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Personalidad"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "(Próximamente...)\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "La Villa Nasha es una ciudad de bullicio perpetuo.\n\nDe día, las calles se llenan de disputas entre mercaderes y riñas de los imprudentes.\n\nDe noche, las conspiraciones compartidas en susurros y las argucias de los ladrones colman las habitaciones menos iluminadas de la ciudad.\n\nComo una mariposa que revolotea despreocupadamente, tales ambiciones e intrigas vagan silenciosamente en cada esquina.\n\nInnumerables personas han intentado seguirla con la esperanza de poder hallar una tierra de abundancia en la que estar a salvo algún día.\n\nMientras tanto, el verdadero felino capaz de cazar mariposas de un zarpazo se agazapa en las alturas, observando cómo rugen y pelean aquellos que persiguen dichas ilusiones para luego volver a caer.\n\n“Ashru”.\n\nAl escuchar la voz de su dueña, el gato aparta la mirada de aquello que tan poco le interesa.\n\nYa que sabe que, sin importar cuánto cambie el mundo a su alrededor, siempre encontrará delicioso pescado seco en la mano de su dueña. Mientras permanezca a su lado, nunca pasará hambre."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Una amiga de Néfer con heterocromía le agarró las manos y dijo, sonriendo: “Néfer, no olvides escribirme cartas cuando vayas a estudiar a la Academia de Sumeru, ¿de acuerdo?”.\n\nLa niña que había perdido su hogar esbozó una débil sonrisa y asintió con la cabeza. En unos días, partiría con los mensajeros de la Academia de Sumeru, rumbo a un futuro completamente nuevo.\n\nAunque para Néfer, aún tan joven, aquel futuro resultaba demasiado vasto, hasta el punto de no poder vislumbrar hacia dónde la llevaría, le gustaba dejarse llevar por aquellas confusas ensoñaciones sobre lo que estaba por venir.\n\nTal vez lo mejor sería entrar en la Facultad Amurta. Era buena identificando las plantas y criaturas del desierto, así que la Escuela de Biología sería sin duda la más indicada. Si no... también podría ser la Facultad Kshahrewar. Esos mecanismos eran fascinantes y, como tenía algún conocimiento de artesanía, quizá podría encontrar su lugar en la Escuela de Tecnología. La Facultad Spantamad, en cambio, podía descartarla por completo... Sin una Visión, no era capaz de controlar el poder elemental, por lo que toda investigación allí sería un auténtico tormento. ¿Qué más quedaba? Ah... la Facultad Haravatat y la Facultad Rtawahist...\n\nEnvuelta en aquellas ensoñaciones, Néfer acabó sumiéndose en un profundo sueño. En ocasiones, sus sueños la llevaban de vuelta a aquel oscuro sótano donde, sola, se cubría los oídos y contenía la respiración para que nadie la descubriera... hasta que la puerta se abría de golpe y las armas teñidas de rojo carmesí caían con violencia sobre ella. Y, al final, despertaba entre gritos.\n\nPero ahora eran aquellas maravillosas escuelas las que llenaban su mundo onírico, sin dejar espacio alguno para que las sombras del pasado extendieran sus garras.\n\nLa realidad, sin embargo, era como las arenas movedizas del desierto: tarde o temprano devoraba cualquier sueño.\n\n“¿Néfer? Oh, la muchacha del desierto. Te han asignado a la Escuela de Etiología”.\n\nEl erudito la miró desde arriba mientras dictaba su veredicto.\n\n“Pero aún no he hecho el examen de asignación”.\n\n“¿El examen? Eso no será necesario. Toma tus libros y preséntate allí”.\n\n“...”.\n\nLa respuesta del erudito era fría, y estaba preparado para rebatir cualquier objeción que la joven pudiera plantear.\n\n“Está bien”.\n\nLa estudiante del desierto asintió, tomó sus libros y, en silencio, se encaminó hacia su futuro.\n\nLas arrogantes excusas que el erudito había preparado se le quedaron atragantadas en la garganta, e incluso le costó ligeramente respirar.\n\n“*Tch*, esta gente del desierto...”.\n\n... Sea como fuere, al final, una gota de agua se abrió paso a través de las grietas de la Academia y cayó hacia el desierto.\n\nY para alguien como ella, esa sola gota ya era un tesoro.\n\n...\n\nMientras la observaba alejarse, otro erudito frunció el ceño.\n\n“Todo estudiante que entra en la Academia de Sumeru tiene derecho a presentarse al examen de asignación. Asignarla a una facultad sin más fue una decisión demasiado precipitada”.\n\n“Ciro, yo solo cumplo con las normas. No te busques problemas. Que se permita a alguien del desierto ingresar ya es...”.\n\n“¡No me importa si es del desierto o del bosque! Yo solo veo a una estudiante que viene a aprender a la Academia”.\n\n“Está bien, baja la voz. Si la gente de Azar nos escucha, sí que nos habremos metido en un buen lío”."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "En la quietud de la noche, la solitaria llama de una vela iluminaba una esquina del papel. Apenas unas líneas habían inaugurado la carta dirigida a una amiga.\n\n“Querida Candace: ya he comenzado mis estudios en la Academia de Sumeru”.\n\nLa pluma de Néfer se detuvo, dudando sobre qué escribir a continuación.\n\nPor más que buscara en su interior, solo le venían a la mente las preguntas de sus compañeros, a veces hechas deliberadamente, y otras con aparente inocencia:\n\n“¿Es verdad que los habitantes del desierto siempre luchan entre sí? ¿Por qué lo hacen? Según los textos antiguos, casi siempre es por dinero o por agua, ¿es eso cierto?”.\n\n“¿Es cierto que los del desierto no saben contar? Escuché que fueron los eruditos de la Academia quienes les enseñaron matemáticas”.\n\n“¿Qué come tu gente? Jajaja, escuché que beben sangre de animales para sobrevivir tanto tiempo en el desierto, ¿es así?”.\n\n...\n\n“Para esos estudiantes que viven como reyes, yo nunca he sido una ‘compañera’ de verdad. Ni siquiera me ven como a una igual.\n\nA sus ojos, yo soy poco más que una criatura extraña capaz de saciar su apetito de curiosidad. Y si estoy aquí, es solo porque necesitan a alguien que esté por debajo para sentirse mejor.\n\nHe intentado explicarme y gritar. He buscado todo documento que pudiera encontrar y desenterrado cada historia que guardaba en mi corazón... todo para demostrar que no somos la caricatura de ‘gente del desierto’ que imaginan en sus mentes.\n\nPienso que tal vez no haya un lugar para mí en la Academia de Sumeru. Quizá debería volver a la Aldea Aaru. Ay, Candace... yo también te echo de menos...”.\n\n...\n\nPor desgracia, el papel era demasiado fino para todas aquellas confidencias, y solo podía limitarse a escribir aquello que era apropiado.\n\nNéfer retomó la pluma y continuó escribiendo. Habló de las novedades en la Academia, de las diferencias entre las distintas facultades, de la comida y los personajes pintorescos de la Ciudad de Sumeru, y del bullicioso Gran Bazar...\n\nAl final, aquellas “palabras salidas del corazón” encontraron un cierre capaz de reconfortar a quien las leyera:\n\n“He hecho una nueva amiga a quien le apasiona el incienso. Si algún día surge la oportunidad, te la presentaré.\n\nAtte.: Néfer”."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "“Qué bien se te da inventarte cuentos, recién llegada. Que si Sumeru, que si el desierto...”.\n\nLa tosca cazadora de tesoros se encogió de hombros y le lanzó otra mirada a la muchacha del desierto. Según “el intermediario”, ella era la nueva estrella de Nod Krai, astuta y sagaz como una serpiente.\n\nBah, al fin y al cabo, ese “intermediario” era capaz de soltar cualquier fanfarronería con tal de ganar Moras. Aun así, viendo a esa chiquilla, dudaba que lograra sobrevivir más de un mes en Nod Krai.\n\n“La deuda que me pediste que cobrara ya está saldada”.\n\nUn saquito teñido de rojo oscuro cayó estrepitosamente frente a la cazadora de tesoros, haciendo que se quedara pasmada durante unos momentos.\n\nNo había llegado a mencionarle para qué la había contratado.\n\n“Y ahora ha llegado el momento de cobrar tu deuda”.\n\nAquel instante de desconcierto bastó para que la serpiente saltara y hundiera sus colmillos en la garganta de su presa.\n\nAntes de que la cazadora de tesoros pudiera reaccionar por instinto, la vida ya se le estaba escapando de las manos. Así, aquella bestia depravada encontró su final.\n\nLa chica del desierto que había perdido su hogar soltó un lento suspiro mientras la persona que se había quedado esperando fuera entraba a la habitación sin hacer ruido alguno.\n\n“Srta. Néfer, los demás también han sido eliminados según lo previsto. Esta era la última”.\n\nElla asintió. Aquella infame cazadora de tesoros era la última de los “cabecillas” que debían desaparecer.\n\nHacía tiempo, esos “cabecillas” habían gobernado Nod Krai, pero estos habían acabado repartiéndose el territorio entre sí. Poco a poco fueron haciéndose con el paraíso que le pertenecía a todos por derecho, como los tiranos y usurpadores de los que tantos exiliados habían huido. Finalmente, habían dado rienda suelta a sus matones para cometer todo tipo de crímenes a voluntad.\n\nNéfer sabía, sin embargo, que las fieras obedientes también albergaban sus propias ambiciones: hacerse con el trono por medio de garras y dientes.\n\nY ahora, al ver morir a sus líderes, esos sueños, en apariencia inalcanzables, comenzaban a parecer posibles.\n\nA continuación, las bestias se desgarrarían entre sí y se devorarían las unas a las otras. Su ambición ardería hasta calcinar sus cuerpos para forjar la corona de sangre y huesos con la que soñaban gobernar.\n\nPero Néfer haría añicos esa corona en el mismo momento de su creación.\n\n“¿Qué haremos ahora, Srta. Néfer?”.\n\n“Esperar”, respondió brevemente la líder de los asesinos. “Esperar a que amanezca, a que el polvo se asiente...”.\n\nLa futura jefa de la Cámara de Secretos reflexionó un instante sobre el caos que bullía en su mano, y añadió:\n\n“Necesitamos refuerzos. No permitan que los inocentes queden atrapados en este torbellino.\n\nEn el futuro, ellos serán mis clientes más valiosos”."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "En el corazón de la Villa Nasha, se alza un lugar cuya puerta permanece casi siempre cerrada: la Cámara de Secretos, objeto constante de todo tipo de leyendas urbanas para los habitantes de la ciudad.\n\nAlgunos decían que la dueña, proveniente de Sumeru, estaba criando un ejército de horripilantes lacayos dentro gracias a unos misteriosos rituales y que, cuando llegara el momento indicado, los soltaría por todas partes para traer la destrucción a todos...\n\nAunque la mayoría de la gente sabe que todo eso no son más que rumores infundados, las historias sobre una jefa excéntrica siempre son un gran tema de animada conversación en la mesa de una taberna.\n\nSin embargo, para quienes conocen la verdad y se ven forzados a visitar la Cámara, hablar con Néfer está lejos de ser un pasatiempo. Muchos preferirían enfrentarse a tales bestias o a hechizos malignos. Al menos así obtendrían algún tipo de satisfacción.\n\nPero la jefa del lugar no hace más que preparar té y conversar con toda normalidad, como si no hubiera sido ella quien movió los hilos que llevaron a la ruina a un jefe de bandidos, o quien avivó las rencillas que consumieron a familias enteras. Como si no fuera la misma mano que remueve las aguas de Nod Krai hasta enturbiarlas lo justo y necesario.\n\nUna vez, un joven imprudente desenvainó su espada frente a ella con pulso tembloroso. Por muy meticulosa que fuera Néfer, seguía teniendo un cuerpo mortal, por lo que lo único que necesitaba él era un momento de temeridad para hacerla caer...\n\nLa jefa de la Cámara de Secretos no prestó atención a aquella mísera amenaza. En su lugar, sonrió con un ápice de admiración. Al menos, había sido el único que había seguido su corazón y se había atrevido a blandir su arma. Los que habían llegado antes que él habían hablado de venganza, pero en realidad, tan solo se ocultaban tras una falsa valentía, esperando poder usar aquello para llevarse algo más en alguna negociación.\n\nPor aquella osadía absurda, aunque digna de respeto, Néfer le reveló lo que se requería para alcanzar la verdadera victoria.\n\nEn Nod Krai abundaban los poderosos: algunos bañados en riquezas, otros colmados de fama. Pero ninguno de ellos podría ser el vencedor.\n\nSus reputaciones y fortunas se habían convertido en cadenas, pues los hacían dudar, siempre temiendo que el paso equivocado hiciera añicos la más trivial de las baratijas. Más tarde, su edad los sobrevenía y podían sentir cómo se aproximaba la muerte. Las distracciones que habían intentado ignorar regresaban con ansias de venganza, y ahora, noche tras noche, yacían despiertos, perseguidos por los recuerdos y la amenazante sombra de su propio final.\n\n“Mírate... Al menos aún tienes toda la vida por delante. Eso ya te distingue de los demás”.\n\nCon una sonrisa, la jefa de la Cámara de Secretos le encomendó una tarea que podría llevarlo a forjarse su propio nombre.\n\n“Piénsalo bien, ¿qué clase de hazaña serás capaz de lograr?”.\n\n...\n\n\nOtro cliente acababa de abandonar la Cámara de Secretos. Néfer cerró la puerta y llenó de agua el cuenco de Ashru.\n\nAgachándose, le habló al gato que bebía sin inmutarse:\n\n“... Fíjate, Ashru. Ya tenemos otro empleado temporal. Es valiente, sí, pero aún arrastra demasiadas ataduras. No llegará muy lejos.\n\nDiría que ya hemos examinado a todos los de esta ciudad y no hemos encontrado a nadie lo suficientemente interesante...”.\n\n“¿Miau? Miau, miau, miau...”.\n\n“¿Qué? ¿Que he tardado mucho en reponerte el agua? Jeje, está bien, intentaré encontrar a alguien para que trabaje aquí a tiempo completo.\n\nLo interesante puede esperar. Lo que importa es que no te quedes con sed”.\n\n“¡Miau! ¡Miau, miau!”."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cuando la Cámara de Secretos anunció que estaría abierta a cualquiera que quisiera dejar un encargo, muchos habitantes de Nod Krai quedaron atónitos.\n\nAl enterarse de tales noticias, la primera reacción por parte de los adultos fue agarrar fuertemente a sus hijos y advertirles:\n\n“¡Ni se te ocurra acercarte a ese lugar!”.\n\nPara reforzar tales palabras, solían citar todo tipo de leyendas urbanas sin sentido, la mayoría completamente inventadas. Su recelo hacia la Cámara de Secretos surgía en su mayor medida del miedo a lo desconocido.\n\nLos niños, en cambio, no le daban tantas vueltas. Solo recordaban a aquella joven llamada Néfer: hermosa, amable, de voz suave, que les compraba dulces y contaba historias tan fascinantes como inquietantes, pero aun así mucho más divertidas que las lecciones de los adultos.\n\n... Si la señorita de verde es la jefa de la Cámara de Secretos y es una buena persona, eso significa que... ¡la Cámara también debe ser un buen lugar!\n\nAsí fue como la primera clienta normal y corriente de la Cámara de Secretos fue una niñita que solo dejó de llorar después de que la persona que trabajaba allí la consolara. Entre sollozo y sollozo, explicó que sus padres le habían dicho que se iban de negocios, pero que todavía no habían vuelto. Quería pedirle a la Srta. Néfer ayuda para encontrarlos.\n\nEl deseo de la pequeña se cumplió con presteza. Tras encontrar las pruebas requeridas, la chica del brazo de metal actuó rápidamente y sin duda alguna, rescatando a la pareja de las garras de unos bandidos que los habían capturado. Cuando llegó el momento del pago, la Srta. Néfer tan solo pidió una de las horquillas que llevaba la niña en el pelo.\n\nY así fue cómo la primera semilla germinó.\n\nGracias a las palabras entusiastas de la pequeña, los detalles del encargo comenzaron a circular por la ciudad. Uno a uno, los curiosos se animaron a visitar la Cámara de Secretos, aquel lugar que tanto habían temido, para depositar en ella sus preocupaciones. Y los niños, de cuando en cuando, se escabullían para jugar con el perezoso gato negro de la Cámara, hasta que la Srta. Néfer regresaba y se marchaban entre risas.\n\nA día de hoy, la Cámara de Secretos es como un río que fluye alrededor de la Villa Nasha. Los habitantes de la ciudad se acercan a tomar agua, a jugar e incluso, a veces, encuentran pequeños favores en sus orillas...\n\nPara la gente común que no sabe mucho más, ahí acaba su relación con el río.\n\nSolo quienes se atreven a descender a las profundidades comprenden que tal calma y gentileza no son más que una fachada. Allí abajo, todas las corrientes han sido doblegadas y convergen en un único cauce. Y en la parte más profunda, la corriente oculta ruge con más furia que nunca y arrastra hacia el lecho todo aquello que jamás debió ver la luz.\n\nSolo hay alguien capaz de vislumbrar el verdadero secreto de ese río.\n\n...\n\n“Jefa, ¿no podría mandar a Ashru a buscar a los gatos la próxima vez? Yo no hablo felinés...”.\n\nLa chica del brazo de metal irrumpió en la Cámara de Secretos haciendo pucheros.\n\nNéfer cerró el libro de cuentas y observó cómo Ashru saltaba sobre la mesa para luego tumbarse y rodar ante las fieras caricias de la única empleada oficial de la Cámara de Secretos.\n\n“Hum, tú te pasas todo el día comiendo pienso sin tener que trabajar. La próxima vez, ¡te llevaré conmigo a realizar el encargo!”.\n\n“¡Miau! ¡Miau, miau, miau!”.\n\nEn el exterior, los rayos del sol eran perfectos. No cabe duda de que, en la superficie del río, la luz danzaría en destellos centelleantes, con barcas meciéndose y gente nadando entre sus aguas plácidas, disfrutando del bello momento...\n\nPero, en cuanto a lo que se ocultaba en las profundidades del agua... Nadie llegaría a saberlo."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Ashru\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cuando Néfer trató de negociar con el rey ibis, este, atrapado en Aaru e incapaz de comunicarse con libertad, envió a su emisario: un pequeño gato llamado Ashru.\n\nA través del cuerpo de este minino, el rey ibis mantuvo un breve encuentro con Néfer.\n\nCabe mencionar que, al poseer a Ashru, el rey ibis parecía compartir incluso sus sensaciones físicas.\n\nPero, por desgracia, antes de que Néfer pudiera percatarse de ello, el astuto rey ibis ya había abandonado el cuerpo del gato, devolviendo a Ashru a su estado original: el de un simple y adorable gatito.\n\nEn cuanto a la razón por la cual Néfer mantiene siempre a Ashru a su lado...\n\nMás allá de que Ashru realmente le parezca encantador...\n\nLa jefa de la Cámara de Secretos piensa que quizá, solo quizá, el rey ibis vuelva a servirse del cuerpo de Ashru para comunicarse con ella.\n\nY, cuando llegue tal momento, no tiene intención alguna de dejar escapar semejante “oportunidad”."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Disco lunar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "“Ciertamente, eso le vendrá que ni pintado para las negociaciones, Srta. Néfer”.\n\nEl emisario de la Red de Inteligencia del Norte asintió, aceptando la propuesta de Néfer, más generosa de lo que había esperado. En un principio, lo único que deseaba era que la jefa de la Cámara de Secretos lo ayudara a localizar a un traidor, para así poder castigarlo... pero, como si la mujer ya lo hubiera sabido de antemano, le dijo que había invitado al objetivo a acudir en tres días a la Cámara para realizar una transacción. Lo que sucediera entonces quedaría enteramente en manos de la Red.\n\nA cambio, lo único que pedía Néfer era “conversar con la persona al mando”.\n\nEl emisario pensó en aquel representante envejecido, una figura influyente dentro de la Red de Inteligencia del Norte que buscaba un sucesor desde hacía tiempo. Él había autorizado la visita a la Cámara, ¿acaso ya...?\n\nQuizá aquella charla entre Néfer y el representante iba a ser lo que sellara el traspaso del poder de la Red.\n\nEl emisario se esforzó por controlar aquellos pensamientos que podrían traer consigo una tormenta innecesaria. Simplemente, le dio las gracias a Néfer y se marchó.\n\n...\n\nMientras observaba su silueta alejarse, Néfer atrapó al vuelo el Disco Lunar que acababa de lanzar al aire.\n\nEste había aparecido tras la conversación al fondo de la caja de obsequios que el emisario había traído consigo. Entre las perlas y el oro, aquel objeto tan extraordinario le había llamado la atención enseguida: se trataba de una pieza que jamás podría haber sido forjada por manos humanas, y estaba claro que no formaba parte de la lista de presentes del emisario.\n\nPero lo que llevó a Néfer a detenerse para reflexionar durante un instante fue otro recuerdo relacionado con la luna.\n\nMucho tiempo atrás, en Aaru, había mantenido una conversación con el Señor de los Engaños. Aún recordaba lo bien que se le daba a aquel adulador consejero, conocido como “rey ibis”, engatusar con sus palabras. Se jactaba de haber servido en cada una de las tres lunas, de cómo trabajaba incansablemente para guiar a los ingenuos mortales de la tierra; hablaba de haber tejido los razonables hilos del destino que hacían florecer el ciclo de todas las cosas. Decía también que, al llegar a Sumeru y ser reconocido por el ojo sabio del Rey Deshret, había sido ascendido a líder de los siete pilares del Rey Deshret. Y aún más: que había compartido copas de vino con el mismo Rey Deshret y plantado jardines junto a la Diosa de las Flores... En suma, que bastaba aceptar su gracia para obtener un poder extraordinario.\n\nNéfer jamás creyó semejantes disparates. Para ella, no eran más que invenciones improvisadas con las que aquel viejo embustero buscaba ganarse su confianza. Al fin y al cabo, los tres consejeros habían sido castigados por el Rey Deshret y arrojados a Aaru, y no resultaba difícil imaginar que, en la eternidad de su encierro, hubieran urdido un relato compartido para engañar a los crédulos.\n\n“¿Es que no crees en nada?”, masculló Thot furioso, que en ese momento habitaba el cuerpo del pequeño gato. El pelaje se le erizó, no por voluntad propia, sino porque así reaccionan los gatos cuando se enojan.\n\n“Si un dios desea embaucar a los hombres con su sabiduría, no hay duda de que estos caerán en su engaño”, respondió Néfer, encogiéndose de hombros, “Por eso, no creo una sola palabra de lo que dices.\n\nPero sí estoy dispuesta a creer en el poder que vas a entregarme”, dijo sonriendo la chica del desierto que había perdido su hogar. “Ahora no me queda nada y, aparte de esto, no tengo nada más en lo que creer”.\n\n...\n\nNéfer jugueteó con el Disco Lunar, incapaz de reprimir una leve sonrisa.\n\nAl parecer, entre los incontables engaños de Thot, todavía quedaba espacio para una pizca de verdad.\n\nDespués, arrojó aquel regalo tardío dentro de una carpeta.\n\nEn aquella reunión de negociaciones que tendría lugar en tres días, tal extraordinario artefacto le serviría como una poderosa carta de intimidación."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Información de combate "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Talentos "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "elemento"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lengua bífida\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Estrategia de senet: Danza de las mil noches\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Voto sagrado: Fantasmagoría del auténtico ojo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Apuesta bajo la luna\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hija de las arenas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tejados vespertinos\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Intrigas de la cámara dorada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "7"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Muestra ascendida: Torre\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas del paraíso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía del paraíso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía del paraíso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Distintivo desgastado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Distintivo sofisticado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Distintivo escarchado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Constelación "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "La planificación otorga el éxito\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "El daño base de la reacción de Florecimiento Lunar causada con el "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Espectáculo fantasmagórico"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " de Néfer aumenta en una cantidad equivalente al 60% de su "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Maestría Elemental"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ". Este efecto también se beneficiará del bono otorgado por "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "velo de la falsedad"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ".\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "La estrategia se basa en la observación\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Fortalece el efecto del talento de ascensión "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Apuesta bajo la luna"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", de manera que la duración de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "velo de la falsedad"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " se prolonga 5 s, su límite de cargas aumenta a 5 y "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Espectáculo fantasmagórico"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " puede infligir, como máximo, un 140% de su daño original. Cuando Néfer usa su Habilidad Elemental, "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Estrategia de senet: Danza de las mil noches"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", obtiene inmediatamente 2 cargas de velo de la falsedad. Además, cuando dicho efecto acumule 5 cargas o cuando la duración de estas se reinicie, la Maestría Elemental de Néfer aumentará en 200 pts. durante 8 s."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Es necesario desbloquear el talento de ascensión''' “Apuesta bajo la luna”'''.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Los engaños ocultan la verdad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Estrategia de senet: Danza de las mil noches"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "La ilusión es una trampa para la razón\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Si Néfer está en uso y en el estado de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "danza de las sombras"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", su velocidad de obtención de rocío de la espesura aumenta en un 25%."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, al estar en el estado de danza de las sombras, la "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Dendro"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "RES Dendro"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Color"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " de los enemigos cercanos se reduce en un 20%. Este efecto se anula 4.5 s después de que Néfer no esté en dicho estado o 4.5 s después de mantenerse a cierta distancia de los enemigos.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Las oportunidades se esconden en los detalles\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Voto sagrado: Fantasmagoría del ojo verdadero"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "La victoria se consigue cuando se vuelven las tornas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cuando Néfer usa "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Espectáculo fantasmagórico"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", su segundo golpe pasa a infligir "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Dendro"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Daño Dendro en el AdE"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Color"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " equivalente al 85% de su "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Maestría Elemental"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ". Además, al terminar de atacar con Espectáculo fantasmagórico, Néfer asesta otro golpe que inflige "
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Dendro"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                },
+                {
+                  "children": [
+                    {
+                      "children": [],
+                      "type": "text",
+                      "value": "Daño Dendro en el AdE"
+                    }
+                  ],
+                  "type": "template parameter",
+                  "name": []
+                }
+              ],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Color"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " equivalente al 120% de su Maestría Elemental. Ambos daños se consideran daño de Florecimiento Lunar infligido por medio de Espectáculo fantasmagórico.\n\n'''Presagio lunar: resplandor ascendente'''"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "El daño que inflige Néfer con la reacción de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Florecimiento Lunar"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " asciende en un 15%.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Ascensión "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dendro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Esmeralda nagadus\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Asta radiante\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Plata lunacaída\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Distintivo desgastado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Distintivo sofisticado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Distintivo escarchado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "(Próximamente...)\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<!--"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "{{Estadísticas de personaje\n| rareza = 5\n| especial = \n| especial base = \n| vida base = \n| vida ascendido = \n| ataque base = \n| ataque ascendido = \n| defensa base = \n| defensa ascendido = \n}}"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "-->"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Gachapón "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Vestuarios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Ludus Latrunculorum.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Ludus Latrunculorum\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Néfer.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Néfer - Secretos.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Néfer - Secretos"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Néfer.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Menciones de personajes "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historias de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Diluc"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 4"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "8"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Curiosidades "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*Su apariencia está inspirada en [https://es.wikipedia.org/wiki/Cleopatra Cleopatra] de antiguo egipcio.\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Etimología"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*[https://es.wikipedia.org/wiki/Nefer Nefer] es un jeroglífico egipcio que representa una tráquea y un corazón y significa \"perfecto\" o \"hermoso\". Su nombre también podría ser una referencia a [https://es.wikipedia.org/wiki/Nefertiti Nefertiti], reina del antiguo Egipto.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Otros idiomas "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "en      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 奈芙尔\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "zhs     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nàifú'ěr\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "zhs_rm  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 奈芙爾\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "zht     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nàifú'ěr\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "zht_rm  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ネフェル\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "ja      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 네페르\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "ko      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Néfer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "es      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "fr      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Нефер\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "ru      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "th      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "vi      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "de      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "id      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "pt      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "tr      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nefer\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "it      "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Otros idiomas\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Luna II"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Navegación "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Nefer"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Nefer"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Nefer"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Nefer"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Nefer"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Нефер"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Nefer"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Nefer/Hikaye"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Nefer"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

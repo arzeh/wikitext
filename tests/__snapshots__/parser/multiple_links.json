@@ -1,0 +1,48 @@
+{
+  "children": [
+    {
+      "children": [],
+      "type": "text",
+      "value": "A "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "title"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " with other "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "display"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "link"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "."
+    }
+  ],
+  "type": "page"
+}

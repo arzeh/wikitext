@@ -1,0 +1,3653 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Espada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La Elegancia de las Sombras"
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\"Asistente de magia multifunción\"\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Felis Alba\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Hotel Bouffes d'Été"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Casa de la Hoguera"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fatui"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Té de la tarde\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fontaine\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal  "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 de febrero\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Femenino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4.0\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yū Sasahara (篠原侑)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " [https://namu.wiki/w/이명화 Lee Myung-hwa (이명화)]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " [https://zh.moegirl.org.cn/可可味 Kekewei (可可味)]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Anairis Quiñones\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región actual "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Humana"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref group=Note"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "A pesar de sus rasgos Felinos, Lynette todavía sigue siendo considerada una humana con Atavismo"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ousia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arjé          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Arlecchino"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (\"Padre\" guardian)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Lyney"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (Hermano gemelo)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fréminet"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " (Hermano juramentado)\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " familia       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " No en uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol           "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Atacante principal\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2          "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n'''Lynette''' es un personaje jugable en "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "''Genshin Impact''"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nTranquila y reservada, Lynette actúa como asistente de mago de su hermano "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Después de la muerte de sus padres y de haber sido salvada de un noble abusivo gracias a su \""
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Padre"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arlecchino"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\", Lynette también ha servido como \"ojos\" y \"oídos\" para la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Casa de la Hoguera"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Perfil"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Primera versión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\"Es la quinta vez en este mes... ¿Es que no sabes que no hay que hacer enfadar a Lynette?\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Palabras que "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fréminet"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " susurró a una aspiradora y que "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Lyney"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " escuchó cuando salía de su habitación en plena noche."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nEn contraste total con su hermano mayor, que se hace llamar \"el mejor mago de todo Teyvat\", Lynette podría considerarse la ayudante de mago de perfil más discreto de todo Teyvat.\n\nNo busca ni flores ni aplausos, evita las entrevistas y, en general, trata de pasar desapercibida.\n\nYa sea cuando la gente siente curiosidad por ella o intenta llamar su atención, ella siempre los rechaza con respuestas extrañas como \"estoy en modo espera\" o \"necesito desconectarme\".\n\nAun cuando los peces gordos del público les hacen una visita privada, Lynette siempre pasa a un segundo plano y deja que Lyney hable. Prefiere ocuparse de preparar el té y sentarse en un rincón donde se queda sorbiendo disimuladamente, sin levantar la mirada, y aparentemente desinteresada en la conversación.\n\nSolo algunos de ellos, en brevísimos intervalos, perciben durante un milisegundo que están siendo observados furtivamente. Pero cuando intentan localizar de dónde viene la mirada, esta ya ha desaparecido sin dejar rastro.\n\nLas únicas personas presentes en la sala son Lyney, tan amable y hospitalario como siempre, y Lynette, cuya atención se centra en una taza de té.\n\n... Tal vez era solo su imaginación.\n\n... Pero aunque no lo fuera, ¿por qué les iba a importar una simple mirada? Tampoco es que haya nada importante que ver... ¿verdad?\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Segunda versión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\"No hay necesidad de preocuparse ni de cambiar los hábitos. Tengan presente que la verdadera comprensión no se busca, sino que simplemente se encuentra. Solo aquellos que sepan leer las 'señales' podrán ser compañeros\".\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arlecchino"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nDe entre el trío del Hotel Bouffes d'Été, Lynette es la pieza clave para garantizar el funcionamiento del grupo. Cuando el arrogante Lyney y el prudente Fréminet discuten sobre sus estrategias de acción, Lynette no se pone de parte de nadie. En su lugar, recopila información con una postura calmada, analiza la situación, los argumentos de ambos y proporciona una conclusión.\n\nCon su silencio habitual, Lynette siempre mira por su familia. Cuando Lyney se fracturó los huesos de los dedos durante una actuación, o los ojos de Fréminet se inundaron de melancolía, Lynette lo recordó sin decir palabra y escogió el momento adecuado para vendar a Lyney y llevarle un té caliente a Fréminet.\n\nElla, que ama a su familia, también es amada por su familia. Tras despertarse en la calidez de la chimenea, vio a Lyney practicando trucos de magia con cartas junto a la mesa, mientras Fréminet limpiaba la alfombra en la sala de estar. De repente, se dio cuenta de que los días en los que no durmió por la noche debido al peligro fueron como el carbón ardiendo entre las llamas: hacía mucho tiempo que no lo recordaba.\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Lynette es una joven de ojos violetas, piel pálida, pelo castaño grisáceo claro recogido en una fina coleta baja que se extiende hasta el final de su espalda y atado con un gran lazo de diseño a cuadros verde azulado oscuro, también tiene dos mechones de pelo prominentes junto a su flequillo que le llegan hasta la barbilla, con el flequillo despuntado peinado hacia la derecha. Además, tiene orejas de gato y cola. Lynette tiene una pequeña marca marrón oscura en forma de estrella en la mejilla izquierda.\n\nLynette lleva una capa oscura corta sujeta a la ropa con un lazo. Lleva mangas blancas sobre un leotardo negro de encaje y una falda corta con volantes. También lleva guantes, medias y botas.\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Personalidad"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Una ayudante de magia poco habladora y expresiva. Es tan impredecible como un felino.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Sitio web oficial de Genshin Impact"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\nEn comparación con sus hermanos "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fréminet"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", Lynette es la más reservada de los tres. Rara vez habla con los demás por su propia voluntad, dejando que Lyney hable por ella, y disuade esencialmente cualquier intento de hablar con ella diciendo respuestas extrañas. Cuando necesita hablar, lo hace de forma breve y franca.\n\nDebido a tener sangre felina, Lynette tiene muchos rasgos similares a los de un gato, como disfrutar del pescado. También tiene la costumbre de romper o estropear las máquinas, por lo que no las utiliza con frecuencia. A Lynette le gusta preparar y beber té.\n\nComo resultado de su traumático pasado con Lyney, Lynette no confía en la mayoría de la gente para que no se aprovechen de ella, viendo a su hermano como una verdad en un mundo lleno de mentiras y falsedades. Al igual que Lyney, mantiene sus vínculos con los "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fatui"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " con discreción.\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \nSi uno menciona la palabra “magia” en Fontaine, es inevitable que el nombre de Lyney salga a colación.\n\nPero si uno pregunta por el ayudante de magia más famoso, lo más probable es que nadie sepa decir un nombre.\n\nDespués de todo, los aplausos no van dirigidos a ella, ni es su figura la que causa esas estruendosas ovaciones. Como ayudante que es, Lynette tiene el deber de llamar la atención del público en los momentos fundamentales y devolverle el protagonismo a la estrella del espectáculo inmediatamente después.\n\nYa sea en un escenario o fuera de él, Lynette está acostumbrada a permanecer agazapada allá donde los focos no alumbran; a la sombra de su hermano.\n\nPara una ayudante como ella, la discreción es fundamental.\n\nAunque, para el resto de sus hermanos, se trata más bien de una técnica de supervivencia.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " \nLynette suele alegar que está en modo espera o ahorro de energía para tener que evitar lidiar con ciertas situaciones.\n\nCuando se topa con algún asunto complicado, si Lynette dijera que está descansando, lo más probable es que la gente lo entendiera como que tiene tiempo libre y que siguieran atosigándola para que hiciera lo que quieren.\n\nPero si dice con total franqueza que está en modo espera o que necesita recargar energía y utiliza su característico semblante impasible, la gente suele quedarse mirándola con cara de pasmados.\n\nEse momento de estupefacción es la oportunidad perfecta para que Lynette se escabulla de la escena con calma.\n\nAunque este truco ya no le funciona con sus conocidos, estos saben mejor que nadie que Lynette simplemente detesta los asuntos engorrosos. Además, todos están al tanto de las consecuencias que tendría obligarla a hacer algo que no quiere...\n\nEstas robóticas excusas que Lynette suele repetir abarcan prácticamente todo su conocimiento sobre mecánica.\n\nTanto es así, que en casa, todos saben que no deben dejar a Lynette a solas con la lavadora, la aspiradora o cualquier otra máquina.\n\nSi alguien llegara a dejarla sola con un mecanismo, para cuando llegue un tercero a salvar la situación (ese tercero suele ser Fréminet) la situación puede haberse desarrollado de dos formas.\n\n1.Lynette estará de pie en medio de un completo desastre con cara de no saber qué ha ocurrido, y la lavadora estará echando burbujas a borbotones o la aspiradora estará retorciéndose por toda la habitación.\n\n2.El aparato en cuestión seguirá en perfecto estado, Lynette estará echa un ovillo durmiendo plácidamente en algún rincón de la habitación y las tareas que tenía pendientes seguirán como estaban, sin hacer.\n\nEs curioso que hasta los más sencillos mecanismos escapen a su comprensión. De hecho, basta con que los toque para que se estropeen sin remedio.\n\nLa única excepción es probablemente cuando Lynette trastea con los mecanismos mágicos. En ese caso, no solo se muestra confiada, sino que también los maneja con mayor concentración y esmero incluso que Lyney y jamás comete errores.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl trabajo de asistente de magia es sin duda una continua disensión.\n\nLas grandes ovaciones siempre están dirigidas al mago principal y las flores y la fama no van más allá de la cara del espectáculo.\n\nY, aun así, no habría ovaciones ni flores ni fama si no fuera por la actuación de los asistentes de magia.\n\nAl ser la persona más cercana al mago, un asistente conoce todos sus secretos. En las situaciones más difíciles, la actuación del asistente es decisiva para garantizar que cada espectáculo tenga un final feliz.\n\nMago y asistente son como las dos caras de un espejo. Una de las caras es resplandeciente y atrae el interés del público. La otra cara, sin embargo, se mueve en las sombras, asegurándose de que todo ocurra según lo previsto. Ambos se intercambian los papeles en una continua e inopinada suplencia.\n\nPero para que esto sea posible, las habilidades del asistente tienen que estar al mismo nivel que las del mago.\n\nPero si se es tan diestro como el mago principal, ¿por qué iba nadie a sumir un papel de segundón? Por esa misma razón, muchos asistentes de magia acaban por ocupar el puesto de mago principal en el escenario.\n\nCuando Lyney se hizo famoso, muchos se fijaron también en la destreza de Lynette. Pensaban que, si decidía actuar por cuenta propia, se convertiría en una verdadera estrella, incluso más famosa de lo que era su hermano. Incluso hubo un director que la invitó a actuar como protagonista en una de sus kinografías.\n\nSus rasgos felinos, su belleza y su juventud y el hecho de que era una diestra maga eran rasgos suficientes para llamar la atención de cualquiera que yaciera sus ojos en ella.\n\nSin embargo, toda aquella atención resultaba fastidiosa para Lynette que se limitaba a rechazar a cuantos cazatalentos se acercaban a ella. Llegó un punto en el que hasta sentía pereza para seguir inventando excusas con las que rechazarlos y le encomendó a su hermano la tarea de redactar aquellas cartas llenas de justificaciones.\n\nLa actitud de su hermana le producía a Lyney cierta ansiedad. Entre el público suelen sentarse distinguidas figuras, y Padre ya les había advertido que no debían contrariarlas.\n\nSi llegaran a descubrir que era el propio Lyney el que denegaba su petición de promocionar a su propia asistente de magia, lo más probable es que la situación se volviera peliaguda.\n\nPor eso, Lyney ponía todo su esfuerzo en imitar la forma de hablar de su hermana para redactar incontables cartas de rechazo de la manera más políticamente correcta posible.\n\nSin embargo, para el locuaz hermano mayor, emular el conciso y escueto modo de hablar de su hermana resultaba una ardua tarea.\n\nCada vez que terminaba exhausto de escribir una de aquellas farragosas cartas y echaba un vistazo a su hermana, que descansaba tendida en el sofá, Lyney sentía la tentación de darle una oportunidad. Al fin y al cabo, no tenía nada de malo dar un paso atrás y dejar que su hermana ocupara los focos. Él era totalmente capaz de hacer de asistente.\n\n“Ni lo pienses”, decía Lynette, quien se había percatado del hilo de pensamientos que cruzaba por la mente de su hermano. “A mí me gusta ser tu asistente de magia”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nPreparar el té es una de las pocas aficiones de Lynette.\n\nLe gusta observar los remolinos de vapor que se forman en la tapa de la tetera y disfrutar del ligero aroma de la mezcla. Estos pequeños placeres le permiten recuperarse después de un duro día de trabajo.\n\nCuando reciben a algún visitante especial, Lyney suele ser la cara visible que lleva la conversación, mientras que Lynette se encarga de recibirlos con un delicioso té. Lo mismo ocurre cuando tienen una reunión en casa. Ella siempre es la encargada de preparar el té, mientras los demás se encargan de dialogar.\n\nNo importa si se trata de un acalorado debate o una tranquila conversación de sobremesa, Lynette siempre se sienta a un lado, sosteniendo su taza entre las manos mientras sopla delicadamente sobre ella antes de dar un pequeño sorbo.\n\nLynette tiene una sensibilidad especial en la lengua, por lo que no puede beber nada demasiado caliente.\n\nAdemás, se niega a añadir agua fría a la tetera, mezclar el té ya preparado o utilizar dos tazas distintas para enfriarlo. Lo considera casi un pecado mortal y un auténtico desperdicio.\n\nAñadir agua de cualquiera de las maneras estropea la concentración de la infusión y su textura al servirla. Por eso, la única solución posible es armarse de paciencia y soplar hasta conseguir la temperatura perfecta para no quemarse y asegurar al mismo tiempo que el té conserva todo su sabor.\n\nSin embargo, una vez conseguida la temperatura perfecta, uno no debe apresurarse en ingerir el contenido de la taza. Cuanto más tiempo permanezca en el recipiente, más intenso será su sabor.\n\nUna vez tomado el primer sorbo, uno debe dejarlo reposar unos minutos antes de proseguir. Por eso, Lynette siempre disfruta de su té con toda la calma del mundo.\n\nPara cuando la tetera se vacía por completo, la conversación prácticamente ha acabado también.\n\nEn cuanto al juego de té usado... Lo mejor será que otros se encarguen de recogerlo, vaya a ser que Lynette rompa el lavavajillas otra vez.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEn una ocasión, un funcionario de Fontaine quiso investigar los recientes movimientos de capital del Hotel Bouffes d'Été.\n\nSin embargo, cuando dicho funcionario presentó la propuesta, esta fue rechazada de manera tajante por su superior.\n\nNo entendía por qué su superior se mostraba tan en contra de dicha investigación. El motivo era sencillo. Su superior había recibido una carta en la que se adjuntaba una imagen de él junto a una joven dama.\n\nLo que aquel hombre no llegó a comprender nunca es que lo que le había delatado era un mero pañuelo que no le había regalado su esposa.\n\nLo había sacado durante una de las actuaciones como reacción natural a un espectáculo realmente conmovedor. Sin embargo, aquel inocente gesto no había pasado desapercibido a cierto par de ojos que escudriñaban la escena desde la oscuridad.\n\nLynette había aprovechado aquel descuido momentáneo para reunir toda la información que requería sin que el afectado se diera cuenta.\n\nCada día, la gente expone de manera inconsciente sus secretos. La ropa, una mirada, un movimiento e incluso la forma de hablar son capaces de decir mucho de una persona.\n\nEl problema está en que estas pequeñas pistas se camuflan entre un mar de detalles, de forma que suelen pasarles desapercibidos a la mayor parte de la gente. Pero Lynette no es como los demás. Nada pasa desapercibido a su atenta mirada.\n\nLe bastó observar a aquel hombre para conectar entre sí pequeños detalles y obtener toda la información que necesitaba.\n\nEl par de ojos que frecuenta el Hotel Bouffes d'Été, uno en la oscuridad, otro a plena vista, han sido capaces de obtener información clave de buena parte de los altos cargos de Fontaine. Sin embargo, los afectados se muestran perplejos y siguen creyendo que se trata de algún truco de magia.\n\nMantener la concentración necesaria para captar todos estos detalles es una tarea agotadora, por lo que, cuando Lynette está trabajando, siempre se muestra taciturna y callada, en un intento de ahorrar energía.\n\nDespués de tanto tiempo, Lynette ya ha adquirido el hábito de filtrar información de poca utilidad hasta en su día a día.\n\nEl problema está en que, en su tiempo libre, es ella misma la que decide qué es relevante y qué no.\n\nPor ejemplo, Lynette ha llegado a la conclusión de que el conocimiento de mecanismos y tareas del hogar le es totalmente irrelevante si no piensa dedicar ni un minuto de su tiempo a estas tareas.\n\nOtro ejemplo de ello son las tediosas conversaciones a la hora del té. Lynette ha aprendido que unos simples “No me digas”, “Ya veo...” o “¿Y qué pasó entonces?” son más que suficientes para cumplir con su requerida participación en el asunto.\n\nSin duda, ahorrar energía es su “modo” preferido.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nMuchos piensan que las orejas felinas de Lynette son parte de la actuación. Al fin y al cabo, Lyney y ella son hermanos biológicos y Lyney tiene el aspecto de una persona normal y corriente.\n\nSin embargo, las orejas y la cola de Lynette son tan reales como ella misma, no son de quita y pon.\n\nAl parecer, este tipo de manifestaciones de rasgos felinos se debe a una herencia biológica. Aunque la carga hereditaria tiende a disminuir de generación en generación, es frecuente que se produzca un efecto de atavismo.\n\nDe pequeña, Lynette no estaba precisamente conforme con su condición biológica.\n\nSiempre había un niño “bien intencionado” que a propósito o no, señalaba sus orejas o su cola y le preguntaba: “¿Por qué tú eres distinta al resto? ¿Acaso Lyney y tú no son hermanos?”. Lynette siempre ha sido muy tímida y Lyney no podía acompañarla a todas partes, así que cuando alguien le hacía esas preguntas, Lynette nunca sabía que contestar. Se limitaba a cubrirse las orejas y enroscar la cola y esconderse en algún rincón a solas.\n\nSolo los gatos callejeros le hacían compañía en ocasiones así. Se enroscaban en sus pies y se restregaban contra ella.\n\nLynette sabía que no podía permitir que su hermano la viera así. Su hermano ya tenía suficientes preocupaciones con las que lidiar. No podía permitirse que ese tipo de comentarios infantiles la afectaran tanto.\n\nPero tampoco podía fingir que no había pasado nada. Sin duda, su hermano se daría cuenta. Para engañar a un mago, primero hay que engañarse a uno mismo.\n\nLynette solía coger en brazos a aquellos gatitos y acariciarles el pelo. Solo así, comenzaba por fin a calmarse.\n\nPara cuando los gatos decidían saltar de su regazo, el rostro de la pequeña Lynette volvía a mostrar el semblante apacible de siempre.\n\nEntre las clases pudientes de Fontaine, también había todo tipo de degenerados que disfrutaban con aquello que consideraban exótico. Así, durante un banquete, una de aquellas prestigiosas figuras se fijó en los distinguidos rasgos de Lynette.\n\nSu Padre adoptivo por la época no dudó ni un instante antes de lanzarla de cabeza dentro del coche de aquel prestigioso ciudadano. No importó cuánto se resistiera o cuánto se opusiera Lynette. Al fin y al cabo, Lynette era como un pequeño gato al que uno echa del sofá.\n\n“¿Por qué yo? ¿Por qué tengo que tener estas orejas?”.\n\nDespués de tantos años de soledad, Lynette no fue capaz de contener todas sus frustraciones y se cubrió las orejas con tanta fuerza que se hizo daño.\n\n“Deja de esconderte, no servirá de nada”. Finalmente, Lynette escuchó una voz y una figura apareció frente a ella, como la luna cuando irrumpe en el oscuro manto de la noche. “Sal. Aquellos que querían hacerte daño ya están muertos”.\n\nAquella voz, aunque lúgubre y fría, hizo que Lynette se sintiera por fin a salvo. Lynette levantó el rostro y contempló a Padre.\n\n“Esas orejas son muy útiles para escuchar todo tipo de información. A partir de hoy, aprenderás a usarlas como es debido”.\n\nPadre le acarició las orejas. No fue un gesto cariñoso y sus palabras tampoco eran delicadas. Era tan distantes como la luna.\n\nPero, al igual que la luna, también desprendían un rayo de luz en mitad de la oscuridad.\n...\n\n\n“Si un gato tuerce las orejas hacia atrás, es porque tiene miedo o se siente amenazado. Si las levanta o extiende por completo es que está feliz”.\n\nAl escuchar la explicación de la nueva miembro del Hotel Bouffes d'Été, Lyney no pudo evitar dirigir una mirada hacia las orejas de su hermana.\n\nEstaban completamente rectas, incluso ligeramente ladeadas hacia fuera.\n\nA partir de aquel día, Lynette rara vez volvió a torcer las orejas hacia atrás.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Alimentadora “no tan automática”\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nFréminet encargó una vez una alimentadora automática para poder dar de comer al creciente número de animales de la casa.\n\nUn día, al acabar un espectáculo, Lynette se percató de que había una caja desatendida en la puerta de la Ópera.\n\nAl abrirla, un grupo de gatitos que no habrían cumplido ni un mes levantó la cabeza hacia ella. Estaban tan desnutridos que no pudieron ni intentar escapar. Se quedaron allí, contemplándola atentamente.\n\nLynette no medió palabra, y tampoco extendió la mano para no agitarlos más. Simplemente les devolvió la mirada.\n\nFinalmente, cuando comprendieron que Lynette no escondía malvadas intenciones, los gatitos bajaron la cabeza y se calmaron.\n\nFue entonces cuando Lynette tomó la caja entre sus brazos. Las crías no hicieron el menor ruido, se limitaron a tumbarse en la caja mientras la señorita que los cargaba los llevaba a su nuevo hogar.\n\nCuando llegó a casa, dio lugar un intenso debate entre todos los residentes acerca de si debían o no adoptar a aquellos gatitos. Lynette, que normalmente se mostraba tan taciturna, insistía vehementemente esta vez en que debían cuidar de ellos.\n\nFinalmente el debate llegó a oídos de Padre, quien puso punto y final a aquella infantil disputa.\n\n“Si quieres adoptarlos, hazlo. Pero tendrás que cuidar de ellos tú misma, no le causes problemas a los demás”.\n\nDespués de unos segundos de silencio, Padre añadió unas palabras: “Si para cuando acabe el invierno no les has enseñado a respetar las reglas, tendrás que deshacerte de ellos tú misma”.\n\nLas palabras de Padre habían sonado tan tajantes, que ninguno de los allí presentes se atrevió a decir nada más. Y así fue como Lynette asumió la responsabilidad de criar a aquellas pequeñas criaturas.\n\nFréminet, conocedor de lo mucho que detestaba su hermana los problemas, decidió encargar una alimentadora automática. Se trataba de una máquina equipada con un temporizador y un peso internos. También disponía de un recipiente antihumedad que garantizaba la conservación del pienso. Así, la máquina depositaba en el plato cada cierto tiempo la cantidad justa de alimento para los gatos.\n\nContra todo pronóstico, la máquina sobrevivió a los torpes cuidados de Lynette y se convirtió en un fiel aliado. Tras muchos años de servicio, tanto los mecanismos internos como el exterior se conservaban en perfecto estado. Tan solo el cuenco donde depositaba la comida mostraba señales de frecuente uso.\n\nEl problema estaba en que Lynette debía buscar el pienso adecuado, calcular los tiempos que introduciría en el temporizador y las cantidades que debía disponer la alimentadora. Al final, resultaba más fácil hacerlo a mano.\n\nAdemás, si Lynette se malacostumbraba a usar la alimentadora...\n\nLa joven solía agacharse junto a los gatos mientras comían y les cepillaba el pelo pensando en cómo haría para educarlos correctamente...\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nDe pequeña, Lynette solía escuchar las historias de su hermano sobre las Visiones.\n\nEn aquellas historias, no había nada que los portadores no pudieran hacer. Eran capaces de invocar una tormenta con un simple movimiento de la mano y disipar la niebla con un soplido.\n\nNo se trataba de un truco, aquello eran verdaderos milagros.\n\n“Ojalá tuviéramos Visiones”, solía pensar Lynette en aquella época.\n\n“Así podríamos hacer que nuestros trucos se convirtieran en verdadera magia. Podríamos sacar comida suficiente de la chistera para llenarnos los estómagos y podríamos crear un fuego para calentarnos. Así, Lyney no tendría que preocuparse por mantenernos vivos”.\n\nPero los dioses nunca escucharon sus plegarias. En los años venideros, los hermanos continuaron vagando por las calles, entre las mansiones de las clases más pudientes de la ciudad.\n\nFinalmente, ambos encontraron refugio bajo el amparo de Padre.\n\nEran conscientes de lo difícil que era conseguir una oportunidad así, por lo que siguieron un duro entrenamiento y cumplieron con incontables misiones.\n\nPronto dejaron atrás su infancia y aquellas fantasías sobre Visiones cayeron en el olvido.\n\nEn una de sus operaciones, fueron enviados a la mansión de cierto noble para llevar a cabo un número de magia. El objetivo real de aquella misión era encontrar la oportunidad para colarse en el estudio de dicho noble y obtener pruebas de los crímenes que había cometido.\n\nEra un encargo de lo más común. Con el número de magia como espectáculo, los hermanos trucaron una de las ventanas para poder colarse de nuevo en la mansión una vez acabada la función y se hicieron con la información que buscaban sin aparente dificultad.\n\nPero justo cuando se disponían a llevar a cabo la operación, tres fogonazos alumbraron el bosque a sus espaldas. Aquella era la señal que usaban en su familia para alertar del peligro.\n\nLos hermanos sabían muy bien lo que significaba aquello. La Oficina Judicial también estaba llevando a cabo una investigación sobre aquel particular objetivo y habían decidido mover ficha.\n\nSi seguían el plan y huían por donde habían acordado, había una buena probabilidad de que se toparan de bruces con la Oficina Judicial. Si descubrían que utilizaban su fachada de magos para llevar a cabo actividades secretas, no solo sería su fin, sino que también podrían acabar atrapando al resto de miembros de la familia.\n\nSi querían salir de allí sin que nadie los viera, solo había una pequeña y peligrosa solución.\n\nLa mansión estaba situada en lo alto de un precipicio, por lo que algunas de las ventanas daban directamente al acantilado. A los pies de la montaña, discurría un bravo río.\n\nLos hermanos intercambiaron una única mirada y, sin decir palabra alguna, se tomaron de las manos con fuerza y saltaron por la ventana.\n\nAntes de impactar contra el agua, Lyney cubrió como pudo con su cuerpo a su hermana y se preparó para el impacto. ¡*Pum*! Con un sordo sonido, Lyney cayó con fuerza de espaldas contra la superficie del agua. La brutalidad del impacto fue tal que Lyney perdió el conocimiento casi de inmediato.\n\nLynette, presa del pánico, se agarró a un pequeño tronco que flotaba en el agua y, asiendo a su hermano, intentaba llegar a la orilla. La corriente era tan fuerte que no dejaba de tragar agua.\n\nUna horrible quemazón empezó a extenderse por sus pulmones mientras se llenaban de agua helada. Cuando dirigió la vista hacia su hermano, vio que estaba demasiado pálido. Lyney mantenía los ojos cerrados con fuerza y su rostro había perdido cualquier rastro del vigor que solía radiar.\n\nLynette se aferró a él con fuerza para evitar que su temperatura se desplomara aún más. Al mismo tiempo, dirigió furtivas miradas al bosque que los rodeaba. En la penumbra de la noche, las grotescas siluetas de los árboles resultaban aún más amenazadores.\n\nLynette llamó el nombre de su hermano entre susurros, esperando que este se levantara como solía hacer con una sonrisa en la cara, pero solo la lamentosa respiración del joven le respondió.\n\nLos recuerdos de aquella terrible noche de su pasado la asaltaron de nuevo.\n\nHabía pasado tanto tiempo, habían vivido tanto desde entonces, había aprendido tanto...\n\n¿Por qué entonces aquellas horribles imágenes la atormentaban una vez más? ¿Por qué, al igual que entonces, solo podía limitarse a dejar que otros la protegieran? ¿Por qué se encontraba de nuevo atemorizada, temblando en la oscuridad?\n\nNo debería ser así...\n\nHabían llevado a cabo tantos pequeños milagros, habían superado tantas dificultades juntos...\n\nLynette había rezado una y otra vez por poder estar al lado de su hermano, por poder cubrirle las espaldas como él hacía, por poder trabajar codo con codo...\n\nPero estaba sola de nuevo. No podía arriesgarse a llamar a sus otros hermanos y alertar a la Oficina Legislativa.\n\nAsí que Lynette siguió adelante, cargando con su hermano sobre sus hombros. No veía claramente lo que tenía delante, así que estiró las orejas con fuerza y analizó cada sonido a su alrededor.\n\nPodía escuchar el viento entre las ramas de los árboles, acariciando a su paso los arbustos, soplando helado contra sus mejillas... Entonces, poco a poco, la joven empezó a distinguir una escena frente a ella.\n\nLynette continuó avanzando en la oscuridad, paso a paso, mientras las ramas y las zarzas le arañaban la piel y su sangre empapaba sus ropajes.\n\nPoco a poco, todo a su alrededor se volvió más nítido. Tal vez fuera que sus orejas se habían acostumbrado al sonido del viento, o que sus ojos se habían adaptado a la oscuridad, pero de pronto sintió que su paso era más seguro y estable.\n\nPor fin, en aquel escenario sin público ni ovaciones, Lynette era la estrella principal del número.\n\nCuando los primeros rayos del sol alumbraron el bosque, Lynette alcanzó por fin, con su hermano a la espalda, el campamento que había construido con sus hermanos. Sin embargo, una figura que no esperaba aguardaba su llegada. Padre había ido expresamente a buscarlos.\n\nHaciendo acopio de las fuerzas que le quedaban, Lynette sacó de entre sus ropas los documentos empapados que les habían pedido obtener. Sin embargo, tan débil como estaba, se precipitó contra el suelo aún con Lyney a cuestas.\n\nPadre los sostuvo a ambos antes de que chocaran contra el suelo, permitiendo que los documentos cayeran al barro.\n\n“Descansa. Esta noche habéis traído de vuelta algo mucho más valioso que unos documentos”.\n\nLa pequeña Visión que colgaba de la cintura de Lynette reflejaba los rayos del sol sobre los rostros durmientes de los dos hermanos.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Información de combate"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Talentos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Estocada veloz\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ahora me ves...\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Truco: Desvío de atención\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sinergia oportuna\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Atrezo preparado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hidrolocalización\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Instante del mar arbóreo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Engranaje de malla\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mecaengranaje recto\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Engranaje mecadinámico\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas del orden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía del orden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía del orden\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Constelación"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " anemo\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 1 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filo revelasombras\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando la acometida enigmática de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Ahora me ves..."
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " golpea a un enemigo con una marca de estoque sombrío, crea un vórtice en la ubicación del enemigo que atrae a los enemigos cercanos.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 2 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enigmas sin fin\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando la michicaja sorpresa de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Truco: Desvío de atención"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " dispara un proyectil michicromático, saldrá disparado un proyectil adicional.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 3 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cognición ilusoria\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Truco: Desvío de atención"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 4 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sincronía perfecta\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta en 1 las cargas de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Ahora me ves..."
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 5 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Oscuridad obstaculizadora\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Ahora me ves..."
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 6 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " El ojo de la verdad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando Lynette libera la acometida enigmática de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Ahora me ves..."
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ", se imbuye del elemento Anemo y obtiene un 20% de Bono de Daño Anemo durante 6s.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ascensión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Turquesa vayuda\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Recambio mecánico de Coppélia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Campanilla lumidulce\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Engranaje de malla\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mecaengranaje recto\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Engranaje mecadinámico\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Bono de Daño Anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1039.44177246\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3719.104\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 19.41072\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 69.452835083\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 59.6856765747\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 213.554245\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gachapón"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Vestuarios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Felis Alba.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Felis Alba\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Lynette.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Lynette - Profesionalidad.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Lynette - Profesionalidad"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Lynette.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Lynette 2.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Embajadores de la Sastrería Chiori Lynette.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Embajadores de la Sastrería Chiori\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arte de cumpleaños"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Lynette 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Lynette 2025.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2025\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dias festivos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de San Valentín 2024 - Lynette.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "San Valentín 2024 - Lynette\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte del Dia del niño 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Dia del niño 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diseños de Paimon - Emoticonos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 405 - Lynette - Viendo el espectáculo.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 26 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 406 - Lynette - Modo ahorro de energía.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 26 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 407 - Lynette - ¡Ajá!.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 26 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 408 - Lynette - Aplausos.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 26 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 444 - Lynette - ¡Tachán!.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 28 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones de personajes"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historias de personajes"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lyney "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 17\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lyney "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 7\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lyney "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 13 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lyney "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Rosalinde "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Lyney "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 23\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arlecchino "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 7 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 7\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diálogos de personajes"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Curiosidades"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "*Es la hermana mediana del trío, más joven que "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Lyney"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " pero mayor que "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Freminet"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fréminet"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n*La fuente de luz y el sombreado del diseño de personaje de Lynette difieren de los de su carta.\n**Además, su diseño de personaje en [https://wiki.hoyolab.com/pc/genshin/entry/3962 su entrada de la HoYoWiki] tiene ojos de color gris azulado similares a los de Lyney, mientras que todas sus otras representaciones, incluido su diseño de personaje en el juego, le dan ojos morados.\n*La marca en forma de estrella en su rostro puede ser una mouche, un lunar artificial que estuvo de moda en la Francia del siglo XVI (y más tarde, en toda Europa).\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Etimología "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "* El nombre Lynette se deriva del francés Lunete, que a su vez proviene del galés Eluned, que significa \"imagen\" o \"ídolo\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4.0"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Notas"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "references group=\"Note\" /"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Casa de la Hoguera"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "de:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:リネット"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Линетт"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Лінетт"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Lynette"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:琳妮特"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

@@ -1,0 +1,3116 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Femenino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fontaine\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Fuerte Merópide"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Zhao Shuang (赵爽)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "bilibili: [https://www.bilibili.com/video/BV1ss4y1k7CD 《原神》序曲PV——「致终幕的欢宴」] (Descripción del vídeo)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Kino Hina (木野日菜)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "YouTube: [https://youtu.be/tILKOAdPuIo 【原神】序曲PV「フィナーレへの歓宴」] (Descripción del vídeo)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Kim Chae-rin (김채린)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "YouTube: [https://youtu.be/jJfxBACf2_o 원신\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 서곡 PV-「종막을 향한 연회」] (Descripción del vídeo)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Sarah Williams"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "YouTube: [https://youtu.be/9SbgmM3mSps Avance de Genshin Impact: Festejando el gran final] (Descripción del vídeo)"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Melusina"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " la Heredera Dragontina\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4.7\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Arco\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ousia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arjé         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nereides\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 30 de Marzo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Comida equilibrada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " No en uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Apoyo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Supervivencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol3         "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox Personaje jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n'''Sigewinne''' es un personaje jugable de "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "''Genshin Impact''"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ".\n\nSigewinne es la enfermera jefe de la enfermería del "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fuerte Meropide"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fuerte Merópide"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ". Ella es una "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Melusina"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", aunque tiene un \"cuerpo especial\" que se parece al de un humano.\n\nHizo su primera aparición durante ''[https://youtu.be/9SbgmM3mSps Avance de Genshin Impact: Festejando el gran final]''.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Perfil"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "La enfermera jefa del Fuerte Merópide. Como melusina, utiliza su perspectiva única para observar y cuidar a quienes la rodean."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "12] "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "</"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Texto del sitio web oficial"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "ref"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Web: [https://genshin.hoyoverse.com/es/character/Fontaine?char"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "En el Fuerte Merópide, donde el sol no brilla, la enfermería es el lugar más cálido.\n\nSe dice que la enfermera jefa, encargada de la enfermería, fue quien la fundó. El Fuerte Merópide ha cambiado de manos varias veces en circunstancias caóticas a lo largo de los siglos, pero siempre ha existido un acuerdo tácito entre todos los que viven aquí de no perjudicar en modo alguno al personal médico.\n\nLa razón es sencilla: pocos médicos podrían soportar tratar a delincuentes y permanecer mucho tiempo en un lugar así.\n\nMenos aún serían tan amables, simpáticos, atentos y considerados como Sigewinne.\n\nEn una ocasión, un recluso al que Sigewinne salvó la vida tras resultar gravemente herido al causar unos problemas, la proclamó emisaria de los cielos enviada para traer la salvación a los pecadores —un \"ángel de la salvación\"—, llegando a decir que predicaría dicho apodo por doquier.\n\n\"Es un poco exagerado, ¿no?\". La enfermera jefa negó con la cabeza, sacudiendo los cuernos.\n\n\"No te preguntaré qué hiciste mal antes de salvarte, pero aún tendrás que terminar de cumplir tu condena una vez que te hayas curado\", dijo con las manos en las caderas. \"¡La adulación no te servirá de nada!\".\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Personalidad"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Sigewinne es extremadamente amable y siempre está dispuesta a ayudar a los demás. Cuando las Melusinas exploraron Fontaine por primera vez, los lugareños las trataron como monstruos, pero ella logró hacerse amiga de una joven y aprendió habilidades médicas de un médico dispuesto a enseñarle. La determinación de Sigewinne de ayudar a los demás culminó cuando su amiga humana enfermó, pero sus padres la rechazaron debido a su herencia melusina. Como no quería dejar morir a su amiga, renunció voluntariamente a su melusina para convertirse en una persona más humana con una poción especial. Después de ser sentenciada en el "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Fuerte Merópide"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " por violar una antigua ley, decidió quedarse atrás después de que se levantara su sentencia para ayudar a sus habitantes, lo que la convirtió en una persona querida universalmente.\n\nA diferencia de otras Melusinas, Sigewinne tiene una comprensión más compleja de la humanidad debido a que comprende el concepto de la muerte, del que las Melusinas están exentas. También entiende que hay enfermedades que no se pueden curar, pero de todos modos hace todo lo posible por cuidar de sus pacientes.\n\nComo Melusina, Sigewinne tiene una audición y una vista naturalmente desarrolladas, lo que le permite discernir rasgos que otras personas podrían pasar por alto. Su interpretación de la comida también es única: "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Wolsey"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Wriothesley"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " consideran que su comida es \"única\" a pesar de su insistencia en que es saludable.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Sigewinne es una Melusina, que comparte un tipo de cuerpo similar al del resto de sus hermanas, aunque tiene una complexión y un par de manos únicas y humanas. En comparación, su color de ojos rosado, sus orejas altas y azules con puntas escarchadas y su cola rizada recuerdan mucho más a una Melusina típica que se ve en Fontaine. Su color de cabello es azul pastel que se desvanece a un morado con reflejos blancos.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEn la colosal estructura submarina que es el Fuerte Merópide, la enfermería de Sigewinne es uno de los pocos lugares accesibles durante todo el día para todo el mundo.\n\nA horas intempestivas de la noche, un guardia nocturno enferma de repente y, cuando sus compañeros lo llevan a la enfermería, ya le están esperando una bebida caliente y un lecho confortable. Durante el almuerzo, un preso que acaba de terminar de trabajar se desmaya ante su mesa en el comedor debido a la extenuación de la labor y, cuando despierta en la enfermería, lo primero que ve es un recipiente de comida aún humeante junto al cabecero de su cama...\n\nCuando se dan este tipo de situaciones, Sigewinne alivia el miedo y el cansancio que sienten sus pacientes sin perder nunca la sonrisa, logrando que se tranquilicen y acepten sus cuidados.\n\nTodos alaban la dedicación de Sigewinne, aunque también albergan dudas sobre su entusiasmo.\n\nLa vida en el Fuerte Merópide ya es un castigo de por sí: incluso los guardias jóvenes y repletos de vigor acaban pidiendo un descanso tras trabajar un largo periodo que no parece tener fin. Sin embargo, antes de que Wriothesley se convirtiera en el alcaide del Fuerte Merópide, Sigewinne no solía pedir vacaciones. La luz de la enfermería siempre permanecía encendida, como si nunca pudiera extinguirse... Nadie lograba comprender cómo Sigewinne mantenía su entusiasmo, por más que tratara a guardias o a delincuentes.\n\n“¿Será que es una enviada del cielo para cuidarnos?”.\n\nUn buen día, uno de los presos murmuró tal cosa para sí mismo al ver las alas que tenía Sigewinne a la espalda. Sus palabras se extendieron como la pólvora y la mayoría se mostró de acuerdo. En aquel lugar del oscuro fondo marino donde no alcanzaban los rayos del sol, Sigewinne se convirtió en algo así como un sol que bañaba la húmeda y sombría prisión con su cálida luz.\n\nComo muestra de gratitud por los cuidados de tal “enviada”, los guardias instauraron una norma secreta que iba más allá de los muchos sistemas de control: todo delincuente que osara ofender a Sigewinne sufriría un castigo adicional. Esto también se volvió un pacto tácito entre los delincuentes, pues todos los criminales más crueles e inestables que ingresaban a prisión recibían una advertencia para que comprendieran que había una persona allí a la que no podían tocar.\n\nSigewinne desconoce el efecto que tiene en la gente a su alrededor, y simplemente lleva a cabo su trabajo con normalidad. Sin embargo, aún hay curiosos que le preguntan:\n\n“Enfermera jefa, ¿por qué estás dispuesta a quedarte aquí cuidando de nosotros? ¿Acaso nunca te cansas o te hartas?”.\n\nCada vez que ocurre esto, Sigewinne frunce el ceño, como hace muy raras veces, pues se le antoja realmente extraño que alguien pudiera hacerle tal pregunta.\n\n“Humm... ¿Alguna vez has criado un gatito? ¿Te has desvivido por cuidar de él, por admirar su apariencia adorable?... Eso en sí mismo trae una gran felicidad. ¿Cómo iba a cansarme o a hartarme de algo así?”.\n\nMuchos piensan que han oído mal al recibir una respuesta así y, cuando lo comparten con los demás, acaban siendo objetivo de burlas.\n\n“¡No inventes más cuentos! ¡Tiene mucho más sentido que sea una enviada del cielo!”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nCuando Sigewinne aún no llevaba mucho tiempo en el puesto de enfermera jefa, no eran pocos los presos del Fuerte Merópide que sufrían a causa de la extenuación en el trabajo.\n\nA la hora del descanso, aunque nadie les ordenaba continuar, muchos delincuentes preferían seguir trabajando, tal vez para pasar más tiempo luego dedicándose a la bebida y al ocio o tal vez para poder permitirse el precio de las apuestas de la siguiente lucha en la arena.\n\nSea como fuera, la existencia del sistema de los Cupones crediticios hacía que muchos eligieran sacrificar su salud a cambio de perseguir sus vicios.\n\nAl contemplar aquella situación, a Sigewinne la invadían las dudas y no sabía qué hacer. A su modo de ver, la extenuación también era en sí un tipo de enfermedad que sufrían los humanos, incluso si se entregaban a ella voluntariamente.\n\n“No obstante, ya que es una enfermedad, deberé desarrollar un remedio”.\n\nCon este pensamiento, Sigewinne comenzó a recolectar ingredientes y terminó elaborando una receta que logró satisfacerla. Según ella, dicha medicina contenía nutrientes clave y sabía deliciosa. Estaba segura de poder tratar la extenuación con ella.\n\nSin embargo, la primera vez que Sigewinne empleó la medicina, los delincuentes se negaron a tomársela al ver su aspecto.\n\nSin saber qué hacer, Sigewinne pidió ayuda a todo aquel que pudo y, al final, halló la respuesta en un preso cocinero.\n\n“Eso es bien sencillo. Hay un tipo de planta cuyo brote posee una apariencia nada agradable, al verlo se te quita el apetito. Pero tras prepararlo en las cocinas, se convierte en todo un manjar de lo más popular”.\n\nAunque Sigewinne no se mostraba de acuerdo con su definición de “nada agradable”, agradeció la ayuda del cocinero y le entregó los ingredientes ya preparados.\n\nEl cocinero, al verlos, se quedó en silencio durante un buen rato.\n\n“Enfermera jefa, haré todo lo que esté en mi mano. Por otra parte, tengo una petición que puede que no te guste, pero la próxima vez que me entregues estos ingredientes, no dejes que nadie más los vea”.\n\nLa Sigewinne de entonces no comprendió la preocupación del cocinero, pero al ver la sinceridad en su mirada, le prometió que así lo haría.\n\nDesde aquel momento, este medicamento recibió el nombre oficial de “comida nutritiva”, y es uno de los alimentos secretos del comedor. Cuando un preso trabaja hasta quedar extenuado, al día siguiente aparece sobre su mesa como por arte de magia."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nTras el nombramiento de Sigewinne como enfermera jefa, su identidad como melusina de apariencia humana se hizo un secreto a voces. Incluso llegó a oídos de muchos fuera del Fuerte Merópide.\n\nAlgunos conjeturan que Sigewinne es un híbrido entre humano y melusina, aunque aquellos que discuten sobre esta posibilidad reciben sin excepción una advertencia por parte de la Gendarmería Fantasmal. Incluso el juez supremo Neuvillette se encarga de desmentir personal y públicamente dichos rumores: “Es nuestro objetivo ponerle fin a tales ideas poco gentiles e inapropiadas”.\n\nOtros suponen que Sigewinne lleva una máscara y guantes para integrarse de forma más efectiva entre los humanos. Pero esta explicación también recibe rápidamente el rechazo de la mayoría. Al fin y al cabo, la era en que los humanos repudiaban a las melusinas terminó hace mucho tiempo, y las melusinas ya no necesitan esconderse.\n\nLa curiosidad de la gente hizo que los medios vieran beneficio económico en aquella oportunidad, y enviaron a algunos periodistas al Fuerte Merópide para entrevistar a Sigewinne.\n\n“Si me lo permite, me gustaría preguntarle por qué posee una apariencia así”.\n\nAunque los periodistas hablaban con tacto, demostraban gran avidez por saber más. Sigewinne meditó cuidadosamente sobre las palabras del reportero y comenzó a narrar una historia conformada por recuerdos lejanos...\n\nEn la era en la que humanos y melusinas aún no eran capaces de confiar los unos en los otros, solo una pequeña niña estuvo dispuesta a entablar amistad con Sigewinne. Un tiempo después, la niña cayó enferma de gravedad, y Sigewinne era la única médica capaz de actuar a tiempo. No obstante, como era una melusina, los padres de la pequeña se negaron a que la ayudara.\n\nCon tal de salvar a su amiga, Sigewinne buscó a la aterradora bruja y le rogó ayuda. Tras asegurarse de la determinación de Sigewinne, la bruja le entregó un frasco con una poción elaborada a partir del pecado. Tras beberla, la melusina obtuvo un rostro y extremidades humanos, y por fin pudo salvar a su amiga.\n\nTras oír la historia de Sigewinne, los periodistas se miraron perplejos.\n\n“Enfermera jefa, ¿es eso un cuento de hadas?”.\n\n“Es la verdad”.\n\nAl ver la expresión de Sigewinne, los periodistas volvieron a quedarse mudos. Todos eran expertos en su gremio, y se consideraban más que capaces de discernir la verdad de la mentira en las historias de aquellos a quienes entrevistaban, pero no eran capaces de vislumbrar ni un ápice de falsedad en los ojos de Sigewinne.\n\nPor tanto, los reporteros regresaron desanimados, sintiendo que habían fracasado en su empeño o que aquella historia no satisfaría la curiosidad de la gente. Por tanto, la respuesta que dio Sigewinne nunca fue publicada en los periódicos.\n\nDespués de eso, aquellos cercanos a Sigewinne interpretaron que esta no estaba dispuesta a hablar sobre aquel misterio, y acordaron en privado no volver a molestarla con más preguntas sobre el tema. Puede que solo Sigewinne sepa que no buscaba ocultar nada, y es que, en aquel entonces, ni siquiera ella sabía toda la verdad."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nTras ingresar al Fuerte Merópide, Sigewinne continuó la costumbre de intercambiar cartas con Neuvillette.\n\nElla se esmeraba en responder cada carta que le escribía Neuvillette, pues le preocupaba que se aburriera demasiado en el Palacio Mermonia. A veces, también le contaba los sucesos más interesantes que habían sucedido en el Fuerte Merópide.\n\n“Estimado Sr. Neuvillette: Por aquí todo anda bien, ya he recibido los suministros médicos que le pedí. ¡Se lo agradezco mucho!”.\n\nRecientemente ha ocurrido algo de gran interés. ¡El joven que acababa de ingresar a prisión ha derrocado al cruel tirano que llevaba tanto tiempo gobernando el lugar! Sin embargo, él también resultó herido. Es bastante joven, pero mucho más firme que cualquier adulto que haya visto. Incluso se negó a usar un anestésico cuando tuve que coserle la herida porque decía que quería mantenerse lúcido...\n\nLa nueva epístola de Neuvillette llegó mucho más pronto que las veces anteriores. Parecía haber reconocido al joven que había descrito Sigewinne y le encargó a esta que cuidara de él. Aunque Neuvillette seguía empleando un tono completamente oficial, Sigewinne podía sentir el interés que aquel chico despertaba en él.\n\nComo consecuencia, las cartas que ambos intercambiaban empezaron a incluir todo tipo de hazañas del chico.\n\n“Estimado Sr. Neuvillette: Hoy ha vuelto a resultar herido en una pelea y, como siempre, se ha negado a recibir anestesia... No obstante, le vertí unos narcóticos en el té que le preparé y esperé a que se durmiera para coserle las heridas. A pesar de que siempre aguanta el dolor sin quejarse, en realidad, sé que le duele”.\n\n“Estimado Sr. Neuvillette: Sigue negándose a beberse el batido que le he preparado, aunque está claro que le vendría muy bien...”.\n\n“Estimado Sr. Neuvillette: Ha crecido mucho, incluso podría ser más alto que usted ahora...”.\n\n“Estimado Sr. Neuvillette: Ya hemos encontrado los medicamentos que nos habían robado, todo gracias a él. Parece que no se le escapa nada de lo que ocurre por aquí...”.\n\n“Estimado Sr. Neuvillette: Debería llamarlo “duque” tal y como me pediste, ¿no es así?”.\n\n...\n\nMuchos años después, aquel joven llamado Wriothesley se convirtió en el nuevo alcaide del Fuerte Merópide y, por casualidad, descubrió un día la relación epistolar que mantenían Sigewinne y Neuvillette.\n\n“Parece que el juez supremo ha colocado a una espía en mi entorno”.\n\n“¿Por qué dices eso? Si te menciono en mis cartas es porque el Sr. Neuvillette muestra interés por ti”.\n\nComo era de esperar, Wriothesley no se creyó la historia de Sigewinne, aunque tampoco la refutó. Simplemente, le habló del encuentro que había tenido antes de entrar a prisión. En aquel entonces, había estado muy hambriento y había encontrado un periódico que alguien había perdido en la calle, con el que intentó buscar la manera de ganar algo de dinero. Sin embargo, a quien halló no fue al Sr. Neuvillette que “tanto interés por él mostraba”, sino a una oficial melusina de buen corazón que le dio de comer, ayudándolo a superar aquel momento difícil.\n\n“El juez supremo no puede... Para ser precisos, no puede mostrar interés por nadie. Esa es una de las restricciones que debe aceptar como juez supremo. En lo que a eso se refiere, sus subordinados tienen más libertad que él mismo”.\n\n“No obstante, espero que sigas escribiéndole cartas, enfermera jefa. Puedes contarle lo que plazcas, esa es una restricción que debo aceptar”.\n\nSigewinne no dijo nada hasta que Wriothesley se marchó. Le sorprendía que alguien con tal don para predecir lo que ocurría a su alrededor hubiera llegado a una conclusión tan errónea... Hacía mucho tiempo, cuando las melusinas acababan de llegar a la superficie, muchas entregaban regalos a los humanos como muestra de buenas intenciones. Sin embargo, mucha gente malvada se aprovechó de esto y puso en peligro a las melusinas, por lo que Neuvillette las convocó a todas y prohibió estrictamente dicho comportamiento. Sin la petición expresa de Neuvillette, aquella oficial melusina nunca le hubiera entregado comida a Wriothesley.\n\nTras meditarlo durante un rato, Sigewinne comenzó a escribir una nueva carta:\n\n“Estimado Sr. Neuvillette, por fin he encontrado un secreto que le es desconocido...”."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nPara las melusinas, que los humanos nazcan, envejezcan, enfermen y mueran es algo tan natural como que salga el sol por las mañanas.\n\nParece que eso fue lo primero que comprendieron las melusinas al intentar entender a los humanos, ya que esta era la mayor diferencia entre ambas razas. Por otra parte, la comprensión de estas sobre los humanos no iba mucho más allá. Tras salir a la superficie y encontrarse con la vigilancia y el rechazo por parte de los humanos, regresaron bajo el agua y abandonaron su idea de explorar la coexistencia con aquellos seres de vida tan breve.\n\nA diferencia de las demás, Sigewinne sentía una gran curiosidad por los humanos, así que decidió quedarse y descubrió un tipo de magia al que llamaban “medicina”. Se decía que tal maravilloso poder bastaba para alterar el fenómeno natural de la vida y la muerte humanas.\n\nSigewinne anhelaba dominar ese tipo de magia, ya que pensaba que así podría salvar las diferencias entre melusinas y humanos para que su raza pudiera integrarse con estos últimos y comprenderlos de verdad. Desafortunadamente, en la época en la que las melusinas intentaron entrar en la sociedad humana, nadie entendía la forma de pensar de Sigewinne, y mucho menos había alguien dispuesto a enseñarle medicina.\n\nY así fue hasta que un día se topó con una médica ambulante a la que los niños llamaban “bruja”, quien se detuvo a escuchar su idea.\n\n“¿Qué te piensas que es la medicina? ¡Pero qué infantil!”.\n\nSigewinne permitió sin rechistar que la “bruja” la regañara, preparada para ser rechazada una vez más. Sin embargo, esta empleó su mirada aterrorizante para alejar a unos huérfanos que pretendían mofarse de Sigewinne y le hizo un gesto para que la siguiera.\n\n“Ven conmigo, anda, que te daré una respuesta de verdad”.\n\nAsí es como Sigewinne se hizo con su botiquín y se convirtió en aprendiza de medicina de la “bruja”. Esta se trataba de una médica brillante y una maestra diligente y responsable. Apenas existía enfermedad alguna que no pudiera tratar y apenas existía conocimiento de medicina alguno que no fuera capaz de enseñar.\n\nA medida que ambas recorrieron Fontaine, Sigewinne fue aprendiendo a elaborar todo tipo de medicamentos y dominó los trucos para obligar a los niños a tomarse la medicina, como contarles historias de miedo para asustarlos. Así fue como empezó a referirse a la “bruja” como su maestra.\n\nUn buen día, la “bruja” médica ambulante volvió a detenerse y le pidió ayuda a Sigewinne con una mirada solemne que no había visto antes.\n\n“Maestra, ¿qué medicamento tendremos que emplear esta vez para tratar a la paciente?”\n\n“No podemos curarla, así que limítate a traer analgésicos”.\n\nLa primera vez que Sigewinne escuchó a su maestra dar una respuesta así, se quedó atónita, pero preparó los medicamentos que le había indicado. Luego observó cómo el dolor de la paciente se iba aliviando y esta se despedía de sus familiares antes de marcharse en paz.\n\nPor la noche, maestra y aprendiza volvieron a emprender su camino.\n\n“Maestra, ¿hay alguna otra enfermedad que no puedas sanar en este mundo?”.\n\n“Muchas. No importa cómo de evolucionada esté la medicina, siempre habrá enfermedades incurables”.\n\n“Entonces, ¿cuál es el sentido de la medicina?”.\n\n“Todos los humanos acaban muriendo. ¿Cuál es entonces el sentido de su existencia?”.\n\nSigewinne no entendió del todo la pregunta de su maestra. Acordándose de la despedida que acababan de presenciar, intentó hallar la respuesta en sus recuerdos.\n\n“¿Su sonrisa? ¿Sus lágrimas?”.\n\nLa maestra, que siempre se mostraba tan severa, esbozó una sonrisa benevolente.\n\n“Aún no tienes la respuesta. Cuando lo entiendas, comprenderás el sentido de la existencia de la medicina y del ser humano”."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n“Los habitantes de Fontaine fueron una vez Oceánidas, por lo que sus cuerpos podían disolverse en el agua del Mar Primigenio”.\n\nLa gran inundación se llevó consigo los pecados que arrastraban los habitantes de Fontaine y reveló una verdad que los dejó a todos atónitos. Sin embargo, Sigewinne sabía mucho más sobre el tema que la mayoría de la gente de aquella nación. Tras ofrecer refugio a los criminales que habían resultado heridos durante la inundación, regresó al Fuerte Merópide antes de tiempo y sacó aquella carta que llevaba sellada en un frasco de cristal desde hacía cientos de años.\n\n“Así que has abierto esta carta después de comprender aquello que me hacía dudar en aquel entonces, según lo que acordamos, ¿verdad?”.\n\n“Olvídalo, sé que no tengo nada de lo que preocuparme, siempre has hecho lo que te digo, siempre has confiado en mí sin restricciones. Por eso, quiero disculparme contigo, pues al final terminé contándote una mentira”.\n\n“Esa enfermedad inusual que descubrí provoca que los humanos se deshagan hasta que desaparecen todos sus tejidos, dejando poco más que un charco de líquido infinito muy similar al agua pura. Aunque me elegí a mí misma como sujeto de pruebas y me he situado en un callejón sin salida, no he logrado encontrar la respuesta de cómo tratar esta enfermedad a partir de este líquido. Solo he hecho un descubrimiento insignificante: si se mezcla este líquido con ciertos ingredientes especiales, se obtiene una poción transfiguradora que cualquier habitante de Fontaine puede usar para adoptar el aspecto que desee”.\n\n“Al principio, pensaba que este descubrimiento no era importante, hasta que me encontraste y me contaste que, debido a tu identidad como melusina, no te permitían salvar a tu amiga. Entonces recordé que el cuerpo de las melusinas también podía verse afectado por la poción en cierto grado. Tal vez mi esfuerzo haya valido la pena”.\n\n“Ese es el motivo por el que te mentí. El frasco que dejé sobre la mesa no era ninguna poción mágica misteriosa, sino el único regalo que pude dejarte antes de disolverme”.\n\n“Considéralo un tipo de medicamento, si quieres. Tal y como te enseñé, hay que obligar a los niños a tomarse su medicina aunque haya que recurrir a ciertos trucos. ¿No es así?”.\n\nTras leer la carta, Sigewinne volvió al lugar donde solía ofrecer respetos a su maestra siendo conocedora de toda la verdad.\n\nEra un simple pedazo de orilla, pues su maestra no tenía tumba. Sigewinne nunca había logrado encontrar los restos de su maestra, por lo que, tras asegurarse de que había desaparecido, solo pudo erigir un cenotafio en su honor. Y, tras cientos de años, este también había acabado siendo tragado por las aguas del mar, que no paraban de reclamar más y más tierra.\n\nSigewinne no pronunció queja alguna sobre la mentira de su maestra, pues cada vez que esta le había tocado el rostro con sus manos, ella había podido sentir el calor de su “mentira”.\n\n“Gracias, maestra”.\n\nSigewinne colocó la carta sobre el agua y observó cómo se alejaba flotando."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Equipamiento médico portátil integrado especial para melusinas\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nCuando el cuerpo principal del Instituto de Ciencias de Fontaine aún no había alzado el vuelo, los investigadores aceptaban encargos de investigación de la Corte de Fontaine como agradecimiento por la asignación de fondos para su causa.\n\nDichos encargos eran, en su mayoría, duros y tediosos, pero los aceptaban con tal de ganarse el favor de quienes los financiaban. De vez en cuando, ciertos encargos causaban gran revuelo y los investigadores se veían obligados a rechazarlos incluso aunque se estuvieran arriesgando a perder financiación.\n\nUn día, una misión similar apareció publicada en el tablón de anuncios, en el lugar que más miradas atraería.\n\nMisión urgente: desarrollo de equipo médico especial\n\nRequisitos:\n\n#Fácil de transportar, pequeño y ligero. Alguien con la constitución de un niño debería poder llevarlo sin esfuerzo.\n#Debe poder contener equipo médico para emergencias (si el equipo médico actual no puede satisfacer dicho requisito, se requerirá el desarrollo de aparatos compatibles).\n#Debe poseer la función de realizar un examen médico diario.\n#Debe tener una apariencia adorable.\n\nAquellos investigadores que se habían reunido en torno al tablón de anuncios fruncieron el ceño al terminar de leer aquellos requisitos, sin poder contener su ira.\n\n“¿Qué clase de requisitos son estos? Ser exigente es entendible, ¡pero esto es un disparate!”.\n“¿Una apariencia adorable? ¿Acaso se piensan que fabricamos juguetes?”.\n\nSin embargo, la persona que había colocado el anuncio no sintió preocupación alguna por la rabia de la muchedumbre.\n\n“Quien lo encarga es la enfermera jefa melusina del Fuerte Merópide”.\n\nTras escuchar esto, aquellos investigadores que se habían sentido indignados se quedaron callados un largo tiempo. Después, alguien gritó:\n\n“De esta misión no puede encargarse cualquiera. ¡Deberemos competir por ella! ¡Y quienes se hayan quejado antes han perdido el derecho a participar!”.\n\nTan solo un mes más tarde, Sigewinne recibió los suministros que esperaba. Desde entonces, este equipo médico con forma de corazón siempre la acompaña atado a su cintura, y se ha convertido en una de sus señas de identidad.\n\nSin embargo, nunca terminó de gustarle un nombre tan largo y aburrido como “Equipamiento médico portátil integrado especial para melusinas”.\n\nCuando Sigewinne recibió finalmente el equipo médico, no pudo evitar una sonrisa. El dispositivo era ligero y compacto, con un diseño encantador que sin duda lo haría menos intimidante para los más pequeños. Dentro, contenía todos los elementos necesarios para emergencias, organizados de manera eficiente y accesible.\n\nEl primer día que lo utilizó, una pequeña melusina se acercó a ella, observando con curiosidad el dispositivo. Sigewinne se agachó y le mostró cómo funcionaba, explicando cada herramienta con paciencia. La niña, fascinada, tocó suavemente el dispositivo con una sonrisa de admiración.\n\nA partir de entonces, Sigewinne se convirtió en una figura aún más querida entre las melusinas y los habitantes del Fuerte Merópide. Su compromiso con el cuidado y la salud de todos los que la rodeaban no pasaba desapercibido, y su equipo médico, siempre a su lado, se convirtió en un símbolo de esperanza y dedicación.\n\nCon el tiempo, el equipo médico especial se ganó un apodo cariñoso entre los niños: \"El Corazón de Sigewinne\". Y así, con su corazón en la mano y su espíritu inquebrantable, Sigewinne continuó su labor, uniendo corazones y curando heridas con su toque especial."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl talento médico de Sigewinne es verdaderamente exquisito. Desde que llegó al Fuerte Merópide no parece haber encontrado una sola enfermedad que no sea capaz de curar. Cuantos más pacientes ha tratado, mayor es el respeto que se ha granjeado en tal lugar. En cuanto a sus consejos médicos, todos los siguen al pie de la letra.\n\nNo obstante, existió una excepción.\n\nHabía un delincuente apodado “Pedrusco”, cuyo verdadero nombre permanecía siendo un misterio para todos. La gente solo sabía que había comenzado a servir condena hacía muchos años y que aún le quedaban muchos más. Tantos, que había dado la bienvenida a la vejez en aquel lugar submarino. Su salud se deterioraba rápidamente, pero nunca aceptaba recibir tratamiento de parte de Sigewinne.\n\n“No me importunes, nadie puede curarme”.\n\nPedrusco siempre la rechazaba de aquella forma cuando Sigewinne le aconsejaba hacerse un examen médico. Aprovechando la buena relación que tenía con el alcaide, hizo que varios guardias trajeran a Pedrusco a la fuerza a su enfermería. Aquel examen médico, que había tardado tanto en realizarse, se llevó a cabo por fin, pero el resultado hizo que Sigewinne quedara desesperada. Pedrusco padecía una enfermedad terminal, una que Sigewinne no era capaz de curar por mucho que estudiara.\n\n“¿Ves? ¡Te lo tenía dicho!”.\n\nAl ver la expresión de desesperación de Sigewinne, Pedrusco soltó una carcajada triunfal. Sin embargo, su risa se convirtió en un ataque de tos agudo y empezó a escupir gran cantidad de sangre hasta perder la consciencia.\n\nDespués de eso, el viejo arrogante no tuvo otra que pasar sus días en cama. Aquella fue la primera vez que Sigewinne se sintió intranquila en la enfermería que tan familiar le resultaba, pues no sabía cómo actuar, era como si solo pudiera quedarse mirándolo con los ojos muy abiertos esperando a que sus días llegaran a su fin.\n\nSin embargo, Sigewinne también se percató de que el viejo Pedrusco siempre miraba fijamente una fecha concreta en el calendario y que, en sus ojos, otrora sombríos, aún quedaba un rastro de algo difícil de abandonar.\n\n“No importa cómo de evolucionada esté la medicina, siempre habrá enfermedades incurables”.\n\n“¿Entonces cuál es el sentido de la medicina?”.\n\nSigewinne se acordó de la pregunta que le había hecho su maestra una vez y, de pronto, se dio cuenta de que por fin podía darle respuesta. Colocándose ante la cama, volvió a extenderle una invitación a Pedrusco:\n\n“Mi maestra me dijo que la responsabilidad más grande de un médico no es tratar todas las enfermedades, sino solo aquellas que pueda tratar. Por lo tanto, deja que te cure”.\n\n“¿Acaso hay algo que puedas hacer por mí?”.\n\n“Así es: aguantar hasta después de ese día”.\n\nPedrusco miró a Sigewinne sorprendido, y se sintió conmovido por la determinación que vio en su mirada.\n\nDurante los siguientes diez días, Pedrusco bebió la medicina que Sigewinne le preparaba a regañadientes y, aunque su enfermedad no mejoró y cada vez tosía más sangre, al final sobrevivió más allá del día en que le indicaron que abandonaría el mundo, alcanzando aquella fecha del calendario.\n\nAquel día entraron en la enfermería una mujer y su hijo. Este último había estado comerciando en Liyue, por lo que aquella era la fecha más temprana en que había podido regresar a Fontaine. Aunque lloró y maldijo a Pedrusco por no haber cumplido sus deberes como padre, al final, cuando este se encontraba a las puertas de la muerte, lo despidió con una sonrisa.\n\n...\n\nCuando concluyó el funeral de Pedrusco, la madre y el hijo le entregaron un regalo de agradecimiento. Cuando se preparaba para repartirlo entre sus pacientes, descubrió algo en la caja que despedía un brillo especial.\n\nSe trataba de una Visión completamente nueva. Era como si los dioses hubieran estado contemplando cada uno de sus actos y hubieran sido ellos quienes le habían enviado aquello como especial forma de agradecimiento.\n\nSin embargo, Sigewinne no mostró una gran sorpresa, sino que simplemente aceptó la visión como una de las posibles interpretaciones de aquella respuesta.\n\nDeseó que su maestra siguiera viva para poder devolverle aquella respuesta finalmente.\n\n“¡Sus sonrisas! ¡Sus lágrimas!”."
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Información de combate"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Talentos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "elemento"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Terapia dirigida\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hidroterapia de rebote\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Inyección de bondad sobresaturada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "3"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Reposo adecuado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Diagnóstico detallado, tratamiento meticuloso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Dosis de emergencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ojo del vórtice deslucido\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía de la ecuanimidad\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Condensado extramarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fragmento extramarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cristalización cromática\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Constelación"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ¿Puede el espíritu más feliz entender la ansiedad?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " El acuaglóbulo revitalizante de Hidroterapia de rebote puede rebotar 3 veces más, y los tres primeros rebotes de un acuaglóbulo grande harán que disminuya su tamaño."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, mejora los efectos del talento pasivo “Reposo adecuado”: al rebotar, el acuaglóbulo revitalizante otorga a Sigewinne 1 carga de convalecencia, y también cambia el aumento de daño otorgado por estas cargas, de manera que dicho daño aumenta en 100 pts. por cada 1000 pts. de Vida Máx. que Sigewinne tenga por encima de los 30 000 pts. El daño puede aumentar en un máximo de 3500 pts. de esta manera. Es necesario desbloquear el talento pasivo “Reposo adecuado”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ¿Puede el espíritu más compasivo derrotar a sus enemigos?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Mientras se usa Hidroterapia de rebote o Inyección de bondad sobresaturada, se crea un escudo burbujeante que absorbe una cantidad de daño equivalente al 30% de la Vida Máx., y que tiene un 250% de efectividad de absorción de Daño Hydro."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, cuando el acuaglóbulo revitalizante liberado con Hidroterapia de rebote o Inyección de bondad sobresaturada golpea a un enemigo, la RES Hydro de dicho enemigo se reduce en un 35% durante 8 s.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ¿Puede el espíritu más sano curar la fiebre?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Hidroterapia de rebote"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ¿Puede el espíritu más bello repudiar la decadencia?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La duración de Inyección de bondad sobresaturada aumenta en 3 s.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ¿Puede el espíritu más feliz apaciguar la agonía?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Inyección de bondad"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ¿Puede el espíritu más radiante rezar por mí?\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cuando Sigewinne realiza una curación, la Prob. CRIT de Inyección de bondad sobresaturada aumenta en un 0.4% por cada 1000 pts. de Vida Máx. que tenga, y el Daño CRIT de dicha habilidad aumenta en un 2.2% por cada 1000 pts. de Vida Máx. Este efecto dura 15 s y, de esta manera, la Prob. CRIT puede aumentar en un máximo de un 20%, y el Daño CRIT puede aumentar en un máximo de un 110%.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ascensión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Hydro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Lazurita varunada\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Agua intrascendible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Flor rociomarina\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Condensado extramarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Fragmento extramarino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cristalización cromática\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Vida\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 7.2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1039.1188\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4267.1836\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 14.9891\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 61.54885\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 38.8895\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 159.705\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gachapón"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Vestuarios"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Nereides.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Nereides\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Sigewinne (visualización).png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galeria de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Sigewinne VA Announcement JP.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Anuncio del actor de voz japones de Sigewinne"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "[https://twitter.com/Genshin_7/status/1675717423889088514 Twitter oficial de Genshin Impact en japonés]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Sigewinne - Terapia.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Sigewinne - Terapia"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Sigewinne.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Arte de cumpleaños"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Sigewinne 2025.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2025\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Dias festivos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de Navidad 2023.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Navidad 2023\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Mención de personaje"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Historias de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Neuvillette"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 5"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "8"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Wriothesley"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 3"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "6"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Curiosidades"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " \n*Sigewinne parece tener características físicas similares a las [https://es.wikipedia.org/wiki/Nudibranchia babosas de mar nudibranquios], cuyos órganos sensoriales (llamados rinóforos) son parecidos a largas orejas. Este parecido es compartido con las "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Melusinas"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Melusina"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", y "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menthe"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " afirma que es una compañera suya, pero que se parece más a un humano, lo que sugiere que podría estar emparentada con los de su especie de algún modo.\n*En el "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tablón de anuncios de la Galería Vasari"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " aparece [https://genshin-impact.fandom.com/es/wiki/Tablón_de_anuncios_de_la_Galería_Vasari#Columna_de_belleza_y_cuidado_de_la_piel una nota] de una columna de belleza y cuidado de la piel en la que se indica que Sigewinne ofrecerá una conferencia. \n**La redacción de este mensaje da a entender que Sigewinne solía dar conferencias, pero que hace tiempo que no lo hace.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Etimología "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " \n*Sigewinne puede deberse a Sigeminne, también llamada Sigewinne, de los poemas épicos del alto alemán medio "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ortnit"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "wikipedia:Ortnit"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y "
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Wolfdietrich"
+        }
+      ],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "wikipedia:Wolfdietrich"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", ambos en su versión D.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4.1"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Se añadió como personaje jugable junto al "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "gachapón"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " \""
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Corazón rociomarino"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\"."
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4.7"
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios2"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Referencias"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "references /"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Sigewinne"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Sigewinne"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Sigewinne"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:シグウィン"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Sigewinne"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Sigewinne"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Сиджвин"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Sigewinne"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Sigewinne"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Сіґвін"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Sigewinne"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:希格雯"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}

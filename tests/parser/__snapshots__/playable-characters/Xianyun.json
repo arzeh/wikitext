@@ -1,0 +1,3352 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Disponible\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " estado       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Catalizador\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " arma         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " La Grulla Emisaria "
+            },
+            {
+              "children": [],
+              "name": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "-"
+                }
+              ],
+              "type": "template"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nueva residente en Liyue\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " títulos      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4.4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " versión      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Adeptus\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especie      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Femenino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " sexo         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 11 de Abril\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " cumpleaños   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Grus Serena\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " constelación "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Liyue\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " región natal "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Montaña Aozang"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " afiliación   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Alegría envolvente\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " platillo     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Kang Si-hyeon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " chino        "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " [http://amuleto.jp/talents/nakatomimana.html Nakatomi Mana (中臣 真菜)]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " japonés      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " [https://zh.moegirl.org.cn/秦紫翼 Qin Ziyi (秦紫翼)]\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " coreano      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " "
+            },
+            {
+              "children": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Stephanie Panisello"
+                }
+              ],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "imdb:nm6234098"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " inglés       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " No en uso\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol          "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Apoyo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol2         "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Supervivencia\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rol3         "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Infobox_Personaje_jugable\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n'''Xianyun''' (chino: 闲云, ''Xiányún'') es un personaje jugable de ''"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Genshin Impact"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "''.\n\nXianyun es una inventora que se mudó recientemente al "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "puerto de Liyue"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", es en realidad la forma humana de la "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Adeptus"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Preservadora de Nubes"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y ha elegido un nuevo nombre para ocultar su identidad. "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ganyu"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ", "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Shenhe"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " y "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Shuyu"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": " son sus discípulas.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Perfil"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "¿Dices que alguien nuevo se ha mudado a la ciudad? Oh, es Preser... Ah, no, es Xianyun. No tengas en cuenta ese carácter que ella tiene... Cuando se le necesita en los momentos importantes, siempre estará ahí para quien lo necesite. Si algún día te ves en problemas, no dudes en acudir a ella, siempre es la primera en ofrecerse a ayudar\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Madam Ping"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Cita\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\nTodo el mundo tiene algo que decir sobre Xianyun: \"Esa mujer alta de pelo despeinado\", \"Esa artesana con gafas\", o quizás \"Esa vecina a la que le gusta tanto hablar\". Cada persona opina algo diferente, pero todos sus comentarios conforman la imagen de la impresión que ella deja en los demás: una mujer divertida, dicharachera, amable y de trato fácil.\n\nNo obstante, eso no tiene nada que ver con la imagen que Xianyun tiene de sí misma. A sus ojos, ella es una persona de pocas palabras, reservada, una vanidosa implacable... Más allá de sus venerables habilidades mecánicas y su don para crear todo tipo de artilugios extraños, definitivamente es una perspectiva muy distinta de la que describen los demás.\n\nHay algunos con una curiosidad un tanto obsesiva que consideran que Xianyun no se comporta como las personas comunes y corrientes. Alegan que ella es una heroína, y se dedican a averiguar información sobre ella por todas partes tratando de desenmascarar sus hallazgos o si se hace llamar con algún otro sobrenombre.\n\nCuando le preguntan al asesor de la Funeraria El Camino, él sacude la mano quitándole importancia al asunto: \"¿Xianyun? No tengo mucha familiaridad con ella... Sin embargo, al oír su nombre diría que se trata de una buena persona\".\n\nSi acuden a la Terraza Yujing para inquirir a Madam Ping, ella asentirá con la cabeza y afirmará: \"Xian... ¿Xianyun? Ah, sí, nos hemos cruzado por ahí alguna que otra vez. Es buena muchacha. Cuando la conozcas, sentirás que tus días transcurren con más paz\".\n\nSi le preguntan a Ganyu, ella también asentirá con la cabeza: \"En efecto, ella es una auténtica heroína, pero de las discretas. Es por ese motivo que ahora vive de incógnito en Liyue\".\n\nCuando piden la opinión de Shenhe, ella se queda pensativa y responde: \"Xianyun... Por supuesto, ella es una maestra. Más te vale no ofenderla bajo ningún concepto\".\n\nResulta que las especulaciones de la gente eran ciertas. Xianyun es mucho más de lo que cualquiera pudiera apreciar a simple vista, pero son pocos aquellos que conocen realmente su historia. Si alguien se refiriera a ella como \"Preservadora de Nubes\", otro gallo cantaría. La gente la reconocería de inmediato, y probablemente se escucharía una algarabía de voces exclamando: \"¿Quién no se acordaría de Preservadora de Nubes? Noble, valiente, leal, rebosante de sabiduría... ¡Una amiga sin igual!\".\n\n¿Y qué pasaría si le preguntasen a la misma Xianyun? \"¿Eres una heroína? O más bien... ¿Eres una Adeptus?\".\n\nDescubres a la nueva vecina trabajando en su último invento, su orgullo y su alegría, al que llama \"calderito de delicias a fuego lento\". Demasiado ocupada como para detenerse en explicaciones, se limita a restarle relevancia alegando que son \"tonterías suyas\". Entonces, pide que no la molesten, ¡¿no ves que está muy ocupada?!\n\nSi volvemos al tema de qué es eso de \"calderito de delicias a fuego lento\"... Sigue siendo una incógnita sin resolver para toda la humanidad. Hasta ahora, solo se sabe que es un caldero que intensifica los sabores de los ingredientes mucho mejor que cualquier otro. Del mismo modo, nadie sabe con certeza el impacto que podría llegar a causar en el futuro desarrollo de la gastronomía local. Solo hay una cosa que queda clara respecto a este tema, y es que si Xianyun dice que el caldero será fascinante, es porque lo será de verdad.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariencia"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Apariencia Física de Xianyun: tiene una figura esbelta y atlética, con una postura elegante que refleja su agilidad y gracia. Su rostro es delicado y armonioso, con facciones bien definidas, siempre teniendo puestos sus lentes rojizos, que la hacen ver madura. Su expresión suele ser serena y sabia, reflejando su conocimiento y experiencia. Xianyun tiene el cabello largo y ondulado, que fluye como el agua. Los tonos del cabello podrían variar entre azul oscuro y turquesa, evocando la tranquilidad de un lago o la profundidad del océano. Sus ojos son grandes y brillantes, con un tono azul o verde que sugiere una conexión con el viento. Los ojos reflejan una profundidad y serenidad que es casi hipnótica.  Su piel es de un tono claro y uniforme, con un brillo saludable que sugiere una conexión con la naturaleza y los elementos. Aunque, es de estatura media a alta, con una presencia que exuda confianza y autoridad. \n\nAtuendo de Xianyun:\n\nviste una túnica larga y fluida que se asemeja a un kimono o hanfu, con capas de tela que se mueven grácilmente con cada uno de sus movimientos. Los colores principales del atuendo son tonos de azul, verde y blanco, reflejando su afinidad con el agua.  La túnica está adornada con patrones de viento y otros elementos aéreos. Los bordes de las mangas y el dobladillo están decorados con bordados intrincados y perlas que recuerdan al viento.\n\nXianyun lleva varios accesorios que complementan su atuendo. Esto incluye una tiara o diadema decorada con piedras preciosas azules y verdes, brazaletes y collares y una faja ceñida a la cintura.\n\nSus zapatos son ligeros y decorados, permitiéndole moverse con agilidad y gracia.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Personalidad"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "Xianyun es una Adeptus compasiva. A lo largo de su vida ha tenido diversas discípulas, algunas de ellas con vidas complicadas. Aunque a veces sus entrenamientos han sido duros, les dio compañía, disciplina y un lugar que llamar hogar. Al ver que sus discípulas estaban muy ocupadas con sus vidas, decidió disfrazarse de humana para visitarlas. Ahora vive en el Puerto de Liyue para estar más cerca de ellas.\n\nComo humana, Xianyun no conoce algunas de las convenciones del mundo mortal, por lo que alguna vez la han estafado en tiendas. No es solitaria: suele ir a sitios de la ciudad acompañada de sus amigos.\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Detalles del personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nSegún la «Versión triplemente anotada de los registros del pabellón inmaculado», los Adeptus pueden deambular por el mundo a sus anchas y volar casi a la velocidad del rayo gracias al llamado “espíritu de las ocho purezas”. Además, son unos seres tan longevos que el equivalente a mil años humanos no es más que un breve descanso para los Adeptus, un fenómeno que estos denominan “percepción adéptica del tiempo”.\n\nEn cuanto a los lugares en los que habitan, los «Registros del pabellón inmaculado» recogen una teoría según la cual los Adeptus viven en todas partes del mundo, ya sean montañas, ríos, lagos o mares, lo cual explicaría las múltiples fuentes de Liyue que documentan encuentros con ellos.\n\nUna teoría distinta aparece registrada en un tratado clásico sobre el metal y la piedra, llamado «Catálogo de las rocas creavacíos», el cual, además de subrayar el valor de las rocas extraordinarias del Desfiladero Jueyun, explica de manera muy ambigua: “Los prominentes picos de Jueyun, con sus múltiples pabellones y templetes, se extienden a lo largo de centenas de pies, y cada uno tiene un dueño. La Cima Chingyun pertenece a Escultor de la Luna, la Montaña Hulao pertenece a Moldeador de Montañas, y la Montaña Aozang pertenece a Preservadora de Nubes. Las personas sabias no osarán poner un pie en aquellas montañas que tengan dueño, y no se atreverán a robar aquellas rocas que pertenezcan a otros”.\n\nDebido a un respeto similar al manifestado en esta cita, pocas son las fuentes escritas que describen el aspecto de los Adeptus. Sin embargo, si nos basamos en las pocas descripciones sobre Preservadora de Nubes que hay documentadas en la «Recopilación de escrituras en piedra» de Zichang y las canciones populares antiguas, uno puede suponer que los Adeptus tienen múltiples formas. Un ejemplo es la misma Preservadora, que al transformarse en humana, “adopta una figura hermosa, viste unos hilos carmesí y lleva un elegante maquillaje”; y al transformarse en una bestia, “vuela con majestuosidad bajo el manto de las nubes y el brillo de la luna”.\n\nCabe destacar que las anécdotas que se cuentan en los «Registros del pabellón inmaculado» también explican las habilidades sobrenaturales de los Adeptus. Una de ellas habla de un viajero que se encontró con Preservadora de Nubes en el Desfiladero Jueyun, y que alardeó ante ella de un mecanismo que había creado, que servía para medir el tiempo y al que llamó “reloj de agua jadeado”. En un instante, Preservadora le dijo todos los errores que tenía dicho mecanismo, por lo que tras pedirle consejo, el viajero se despidió de ella y descendió la montaña.\n\nAnte este tipo de historias, los mortales no pueden evitar suspirar, pues al conocer a un Adeptus libre y sin ataduras es cuando se dan cuenta de lo insignificantes que son sus vidas.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl bullicio del ir y venir del gentío siempre colma el puerto de Liyue. Comerciantes ricos locales, forasteros con vestimentas peculiares, funcionarios inteligentes y competentes, escoltas amables... No es nada raro encontrarse con personas de todo tipo.\n\nEn una ciudad como esta, nadie se sorprendería al ver una cara desconocida por la calle.\n\nY esa nueva cara que acaba de llegar a la ciudad de Liyue es la de una mujer que se hace llamar Xianyun, de complexión alta y esbelta, con un carácter inusual y unos lentes de color rojo.\n\nCuando los comerciantes de Fontaine que van a Liyue para vender sus artilugios mecánicos se encuentran con Xianyun, esta siempre se detiene en sus puestos para hablar durante la tarde entera sobre sus diseños. Parece que también es una buena conocida de Xiangling y el Chef Mao, ya que suele frecuentar el Restaurante Wanmin y sentarse a la misma mesa que Guoba mientras espera que le traigan un cuenco de fideos barba de dragón. La conocen las camareras del Quiosco Xinyue y el Pabellón Liuli, y a veces también va a comer con el Sr. Zhongli, asesor de la Funeraria El Camino, en calidad de invitada. Incluso la Abuela Shan, la dueña del puesto de juguetes, recuerda que suele visitar su tienda junto a una joven de pelo blanco —o sea, Shenhe—, y que aunque esta última nunca compra nada, Xianyun sigue llevándola consigo.\n\nIgual que los demás habitantes de Liyue, Xianyun también tiene sus propias aficiones, conoce a un montón de gente y tiene muchos amigos.\n\nTampoco es raro verla cerca del estanque de la Terraza Yujing charlando con Madam Ping.\n\n“Hace tiempo que no veo a Moldeador de Montañas, y Escultor de la Luna aún no me ha devuelto el talismán fulu limpiamundos interiores multifunción que le presté”.\n\n“¿Eh? ¿Qué es eso, un nuevo mecanismo-talismán que has creado?”.\n\n“Sí, te he hablado de él, ¿no te acuerdas?”.\n\nA veces, cuando las luces de la ciudad por fin descansan, Liyue se sume en un efímero silencio y no hay nada de actividad hasta que vuelve a despertar. Esos son los momentos en los que Xianyun decide hacer un viaje a la Cordillera Tianheng.\n\nLas rocas y el terreno escarpado no le suponen ningún problema, ya que no necesita más que crear una corriente de viento bajo sus pies para llegar a la cima de las montañas en un santiamén.\n\nAl contemplar desde la lejanía la ciudad entre la bruma, la humana de nombre Xianyun se transforma en grulla y bate sus alas para alzarse hacia el cielo.\n\nPero eso tampoco tiene nada de raro, pues Liyue es una ciudad de gran diversidad en la que es de lo más normal encontrarse a algunos Adeptus que también viven allí.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nUna parte de la historia de Liyue se ha perdido con el paso del tiempo; otra ha llegado a nosotros en forma de ruinas desperdigadas por toda la nación, y la restante ha sido registrada por personas locales que han tenido la fortuna de encontrarse con los Adeptus. Por ello, es muy recomendable que quienes tienen interés por la historia de Liyue, además de recorrer la nación, estudien asiduamente los documentos históricos existentes. Los coleccionistas de libros han jugado un papel muy importante en este aspecto, y en Liyue vive un erudito que se hace llamar Dongming y que precisamente es uno de esos coleccionistas.\n\nEl Sr. Zhongli, asesor de la Funeraria El Camino, es amigo de Dongming, el cual suele pedirle que evalúe la veracidad de los textos. Una vez, Zhongli no pudo ir a ayudarlo, y le pidió a una amiga que lo hiciera en su lugar.\n\nLa amiga era una mujer alta y esbelta, llevaba unos lentes rojos y se hacía llamar Xianyun. Dongming pensó que sería una mujer culta y refinada, igual que Zhongli, pero en cuanto entró por la puerta, no le prestó la más mínima atención a los libros antiguos, sino que lo único que le llamó la atención fue el viejo cerrojo mecánico de la puerta. El erudito empezó a ponerse nervioso, sin saber qué decir. Cuando la incomodidad ya se podía palpar en el ambiente, Xianyun empezó a hablar. Aunque tenía una vista lo suficientemente buena como para evaluar los textos, se puso a hablar de sus lentes para tranquilizar un poco a Dongming.\n\nLa amiga de Zhongli tenía una vista excelente y no necesitaba lentes para ver lo que tenía frente a sí misma. “Aparte de para ver mejor, los lentes también sirven como accesorio decorativo. Desde esa perspectiva, ¿para qué limitarme a los típicos colores aburridos? Si quiero, hasta puedo tener lentes rojos”, explicó Xianyun.\n\n“Vaya rarita”, pensó Dongming.\n\n“Además, los lentes me hacen parecer más cercana, más humana...”. La cara del erudito cambió al escuchar esas palabras.\n\n“Quiero decir, iría más a la moda de Liyue, porque al fin y al cabo, yo no soy de aquí”.\n\nDongming, que tampoco era de la ciudad de Liyue, se sintió inmediatamente más cercano a Xianyun al oírle decir eso, y entonces le habló de los libros antiguos para los que requería sus dotes de evaluación.\n\nTras ojear los textos, Xianyun frunció el ceño y replicó: “‘Con forma de buey y alas en la cola’... ¿Cómo va a presentarse Fujin, aquella que vive en el norte, con esa forma ante la gente? Y esto que dice aquí sobre Moldeador de Montañas... Qué cantidad de tonterías”.\n\nUno de los métodos para juzgar la veracidad de un documento antiguo es examinar su contenido. Como los expertos habían evaluado erróneamente los registros de ese libro, que además había sido comprado a un alto precio, era muy probable que se tratara de una falsificación. Coleccionar libros es una afición ardua y cara, y en ocasiones obliga a apretarse un poco el cinturón. Ante esto, Dongming no pudo evitar reírse de desesperación. No había tenido precisamente suerte en la vida y tanto sus padres como su esposa habían muerto hace mucho tiempo, así que los libros eran lo único que lo hacían olvidarse de las preocupaciones mundanas.\n\nCon sentimientos encontrados, comentó: “La vida de los mortales es tan difícil... No como la de los Adeptus, que viven libres y sin ataduras. Supongo que nunca he estado destinado a tener suerte con los Adeptus”.\n\nA través de los cristales de sus lentes, Xianyun se fijó en el demacrado aspecto del coleccionista de libros y, al cabo de un tiempo, le respondió: “Dicen que quienes antiguamente iban tras el camino de los Adeptus debían buscar por todas partes y mover cielo y tierra para encontrar una respuesta a sus inquietudes. Sin embargo, te puedo asegurar que los Adeptus sufren tanto como los humanos”.\n\n“Tiene usted razón. Perdone por meterme en sus asuntos y haber hablado de un tema que desconozco”.\n\nTras intercambiar toda una serie de cortesías, Dongming acompañó a Xianyun afuera de su estudio, y esta recordó algo antes de despedirse de él: “El libro es falso, pero puedes llevar el viejo cerrojo de la puerta de tu casa a un anticuario para que le eche un vistazo. Te dará un precio muy similar al del libro que compraste.\n\nY en cuanto a tu suerte con los Adeptus, créeme, sí la tienes. Aún tienes mucha vida por delante, así que conserva tu vitalidad y mira hacia el futuro”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nEl pensamiento general de los historiadores se puede ver reflejado en este enunciado: “En la antigüedad se crearon todos los seres, el cielo y la tierra tenían límites, y los ríos y los cuatro puntos cardinales tenían un fin. En el mundo, los Adeptus no necesitaban a los dioses para nacer, no dependían de energías positivas y negativas para caminar, se nutrían de las plantas y tenían una gran moral. Se regían por las leyes de la naturaleza y no tenían ni un comienzo ni un final determinados”. En líneas generales, esto quiere decir que el cielo y la tierra tienen fronteras y los Adeptus no son seres creados por los dioses.\n\nAntes de que el término “Adeptus” existiera en Liyue, estos seres ya iban y venían de las montañas, y los había de todos los tipos: algunos se dedicaban a proteger a la gente, y otros, a atacarla. En los «Registros del pabellón inmaculado» se conservan algunas alusiones a este periodo histórico:\n\n“El demonio de las sequías asolaba la tierra, y el fuego, con sus llamas, teñía los campos de un color escarlata, de modo que la gente se ahogaba con el humo y no tenía a nadie en quien apoyarse. Los desastres y las epidemias se sucedían uno tras otro, de manera que la gente estaba desolada y no tenía nadie que la ayudara.\n\nPero por fin llegó una Adeptus y, con ella, las nubes. Por fin llegó una Adeptus y, con ella, el viento. Así pues, las nubes convergieron para dejar caer copiosas lluvias que acabaron con las sequías, disiparon las enfermedades y la gente obtuvo la salvación”.\n\nEn la víspera de la gran catástrofe del mundo, la más tarde venerada como Preservadora de Nubes acabó con el demonio de las sequías, con lo que se ganó la gratitud de la gente y las alusiones anteriormente citadas.\n\nPosteriormente estalló la guerra entre los dioses. Morax, el misericordioso Patrono de los contratos, unió su determinación con la de Preservadora de Nubes y los demás Adeptus, quienes emprendieron una amplia expedición bajo sus órdenes, lograron apaciguar el caos del mundo y devolvieron la paz a la gente.\n\nAhora la gente se entusiasma al hablar de los incontables héroes y seres divinos de aquella época. La grandiosidad de los Adeptus se ha grabado a fuego en los anales de la historia, ha dado lugar a todo tipo de conmovedoras leyendas y ha acompañado en sus vidas a los habitantes de Liyue. Sin embargo, cuando Xianyun escucha a otros contar historias sobre los Adeptus —y en especial, sobre ella—, rara vez muestra un ápice de entusiasmo.\n\nCon el paso de los años, la soledad del Desfiladero Jueyun, donde antaño resonaban incontables canciones, se ha vuelto cada vez más dolorosa, y al recordar los buenos momentos que pasó con muchos de sus viejos amigos que ya no están en este mundo, no puede evitar sentir cierta desazón. Es cierto que ellos mismos decidieron sacrificarse para salvar el mundo, pero la pérdida de un amigo... siempre es motivo de tristeza.\n\nA pesar de ello, los Adeptus y Rex Lapis establecieron unas normas que jamás deberían quebrantar, las cuales se plasmaron en un contrato que representaba su persistencia y sus esperanzas. Xianyun nunca se ha planteado romper su promesa, y tiene en muy alta estima la amistad que compartió con sus antiguos amigos Adeptus, así que, aunque sea para proteger sus deseos, nunca dejará Liyue a su suerte.\n\nCon una mezcla de arrepentimiento y determinación y la cabeza absorta en una espiral de angustia y tranquilidad, cuando Xianyun escucha las leyendas de los humanos, siempre suele decir:\n\n“Sí, es una buena historia”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nCuando aún no habían perdido a sus amigos, los Adeptus solían reunirse para cantar, de manera que en el Desfiladero Jueyun siempre se podían oír múltiples melodías.\n\nCaminante Errante era la que mejor cantaba, y además sabía tocar la cítara; a Guizhong, la Diosa de la Arena, se le daba muy bien componer canciones, y los Yakshas Bonanus e Indarias tocaban los tambores y cantaban junto a Preservadora de Nubes para acompañar a Caminante Errante. A veces, Preservadora incluso adoptaba diversas formas y se ponía a bailar grácilmente con la fresca brisa.\n\nEn esos momentos, las criaturas de los ríos y las montañas afinaban el oído para disfrutar de las melodías adépticas, mientras que los demás Adeptus también se paraban para escuchar.\n\nHoy en día, el Desfiladero Jueyun es mucho más silencioso y prácticamente lo único que se escucha es el piar de los pájaros acompañado del silbido del viento.\n\nEn lo profundo de la morada adéptica de la Montaña Aozang, de vez en cuando también se escucha a Preservadora de Nubes charlando con sus discípulas.\n\nHa acogido a numerosas discípulas por compasión, y aunque algunas de ellas han tenido unas vidas de lo más complicadas, su miseria y angustia se han disipado gracias a un entrenamiento muy dedicado, como unas ramas de ciruelo cubiertas de nieve que, tras derretirse, se vuelven aún más tenaces que antes.\n\nPreservadora siente una enorme gratificación al ver esto, pues es una forma de hacer realidad los sueños y esperanzas que tenían sus amigos de antaño.\n\nEs precisamente por eso que siente la obligación de proteger a sus discípulas. A veces se preocupa incluso demasiado por ellas, cosa que estas no entienden del todo, aunque eso a ella le da igual.\n\nSus discípulas nunca han vivido la pérdida de un amigo ni están afligidas por el peso de la guerra y la sangre, así que es normal que no entiendan los auténticos valores de Preservadora. Sin embargo, a ella le basta con que tengan una vida tranquila y les vaya bien para sentirse satisfecha con lo que hace.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Historia del personaje 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLos misterios del cielo son inescrutables, pero ello ha dado lugar a una gran diversidad de métodos de entrenamiento entre los Adeptus.\n\nEl método de Preservadora de Nubes consiste en estudiar los fundamentos de las cosas, investigar el mundo externo, interiorizar esos conocimientos y enseñar a las personas a potenciar sus aptitudes innatas. Solo así podrá el corazón de un individuo fundirse con los fundamentos del mundo externo. El estudio de los fundamentos de las cosas se refiere a investigar la esencia de los principios de todos los seres y todas las cosas del mundo, pues independientemente de si se trata de seres conscientes o no, todo se rige por unos principios. Así pues, investigarlos y estudiarlos sirve para entender la esencia de todo lo existente en el mundo, y esa es la vía correcta.\n\nPreservadora de Nubes lleva milenios dedicándose a este estudio, por lo que sus conocimientos son muy superiores a los de cualquier mortal. La única lástima es que las criaturas de este mundo no suelen vivir mucho tiempo, así que aunque tuviera la intención, le sería imposible transmitir a sus discípulas la totalidad de ese conocimiento sobre los principios del mundo. Y eso por no hablar de aquellas personas más necias por naturaleza, que aunque Preservadora les transmitiera sus enseñanzas, jamás lograrían comprenderlas.\n\nDespués de devanarse los sesos durante mucho tiempo, por fin se le ocurrió un método: ya que a la gente normal le cuesta tanto comprender estos principios universales, los plasmaría en toda clase de objetos ingeniosos para enseñárselos a los humanos en forma de mecanismos.\n\nEn primer lugar, dichos principios son muy complicados de entender, así que a los humanos tal vez les costaría menos aprenderlos si los descompusiera en muchas pequeñas partes y, en consecuencia, las personas también podrían transmitir esos conocimientos a otros.\n\nY en segundo lugar, aplicar la mecánica a la producción podría ahorrar una cantidad incalculable de capital laboral y recursos materiales.\n\nPor ejemplo, teniendo máquinas que lavan la ropa, ¿quién iba a despertarse en medio de la noche al escuchar a otros hacer la colada?\n\nTeniendo máquinas que pueden transportar personas, ¿quién iba a necesitar salir de casa cargado con cosas?\n\nAhora el mundo está en una época de paz, y Liyue ya no necesita a Preservadora de Nubes para hacer que llueva y para terminar con las sequías, pues los humanos tienen sus propios métodos de gestión del agua y de mantenimiento de los cultivos. Además, ya casi no hay ninguna guerra, así que la gente vive tranquila y lo que busca es tener una vida plena.\n\nEn la era actual, matar y acabar con el mal no es la única manera que hay de respetar los contratos y proteger a la gente; crear mecanismos y mejorar la vida de las personas también es un excelente método para ese fin.\n\nLa vida de los humanos tiene un final, y sería muy complicado hacer uso de los principios universales para lograr grandes hazañas beneficiosas para el mundo. Sin embargo, con la ayuda de Preservadora, un mundo mejor no es tan solo un sueño.\n\nYa nadie puede recuperar las canciones que antaño se escuchaban en el Desfiladero Jueyun, pero lo que ella sí puede hacer —y que, de hecho, es su mayor deseo— es proteger las risas de todas y cada una de las familias de Liyue.\n\nPero a Preservadora de Nubes le gusta tanto la mecánica que, hasta ella, una Adeptus a la que le encanta la gastronomía, suele olvidarse de comer y dormir por estar investigando dicha disciplina.\n\nHace ya mucho tiempo que le encanta el estudio de la mecánica hasta el punto de ser una adicta a ello, cosa que saben todas sus discípulas.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Vacío de jade\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLas residencias legendarias de los Adeptus se conocen como “vacío de jade”, y de hecho, todas las moradas adépticas de las montañas del Desfiladero Jueyun lo son.\n\nDicha denominación procede de la impresión de vacío que dan las nubes. Al encontrarse por encima de estas en la Cima Chingyun, los mortales rara vez podían ver el lugar desde el que los Adeptus contemplaban el mundo, lo que daba una sensación de vacío.\n\nPor su parte, aquí “jade” es una alusión al material del que están hechos los cimientos de ese lugar, que en realidad son grandes trozos de plaustrita que le permiten flotar.\n\nEl camino de los Adeptus se encuentra oculto en ese vacío, así que solo quien ascendiera a la montaña podría encontrarlo. De hecho, la mayor prueba a la que se enfrentaban aquellas personas que en el pasado buscaban el camino de los Adeptus era que debían mover cielo y tierra para llegar a él.\n\nOriginalmente, el vacío de jade no lo crearon los Adeptus para meditar sobre la esencia del mundo, sino que fue obra de Preservadora de Nubes, que necesitaba un lugar donde sentirse en calma. Fueron Escultor de la Luna y Moldeador de Montañas los que más tarde la convencieron de que lo pusiera al servicio de quienes buscaban a los Adeptus. Dicha propuesta no solo contó con la aprobación de Rex Lapis, sino también con la de Guizhong y Caminante Errante, tras lo que la Adeptus cedió este espacio y en él se construyó un pequeño pabellón.\n\nEn el presente, pocas son las personas que llegan a ver a los Adeptus, por lo que el legendario vacío de jade prácticamente ha pasado a convertirse en una leyenda y ha vuelto a ser propiedad de Preservadora. Sin embargo, ahora, cuando va a ese lugar sobre las nubes, siente cosas muy diferentes.\n\nAunque el vasto mar de nubes y los amaneceres y puestas de sol son verdaderamente impresionantes, el bullicio y la fugacidad del mundo de los mortales también tienen su parte interesante.\n\nEn la actualidad, prefiere vivir con los humanos y que la conozcan por el nombre de Xianyun.\n\n“Me está entrando un poco de hambre, ¿vamos al Restaurante Wanmin a comer tofu con huevas de cangrejo?”.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visión\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "\nLos Adeptus de Liyue nacieron en el seno de la energía elemental que existe entre el cielo y la tierra, por lo cual son seres elementales de pureza absoluta y están más cerca de la esencia del mundo que los humanos.\n\nPara Xianyun, manipular los elementos es algo que hace casi de manera inconsciente y para lo que no necesita ni el cuerpo ni una Visión.\n\nNo obstante, como ahora convive con la gente con su forma humana, es mejor adaptarse a las normas y llevar una Visión con la que controlar su elemento. Es algo que no le cuesta nada hacer y que va acorde a las convenciones de los mortales.\n\nAunque para ella su Visión no es tan importante como lo es para los humanos, llevarla le ha hecho entender algunas cosas.\n\nPor ejemplo, una vez, se encontró con un agricultor en el Pantano Dihua. El hombre era alto y de complexión robusta y, aunque llevaba una azada, parecía estar temblando de miedo por dos bandidos bastante bajitos y débiles que lo habían asaltado y que tan solo llevaban unas dagas. Cuando fue a ayudarlo y el agricultor vio que era una mujer y, además, más bien delgada, le dijo que no se metiera para que no le hicieran daño.\n\nPero cuando Xianyun se acercó para hablarle, el agricultor se percató de que era una de esos “caballeros errantes” que lleva una Visión. Entonces, su tono de voz cambió de repente, e inmediatamente le pidió que lo ayudara a deshacerse de esos bandidos, tras lo que echó a correr hacia ellos con su azada. Al final, los ahuyentó simplemente sirviéndose de esa herramienta, y Xianyun lo único que hizo fue quitarle una daga a uno de ellos. Al observar la Visión que ella llevaba en el hombro, el agricultor no dejó de repetir que ojalá él también tuviera una.\n\nEn realidad, lo que aquel hombre necesitaba era un poco de valor, no una Visión, pero para él, la diferencia entre tener una y no tenerla era tan grande que la expresión de la cara y la opinión que tenía de Xianyun le cambiaron por completo. Con ello quedaba en evidencia que los mortales están atados a las cosas externas.\n\nAquel incidente le resultó de lo más incomprensible.\n\nAunque las cosas del mundo tienen propiedades claramente objetivas, los factores externos hacen que la gente se vuelva tonta, intente aprovecharse de otros e incluso trate a los demás con frialdad. Ella siempre ha tenido sus preferencias y sus opiniones, pero al juzgar algo, siempre lo hace basándose en su esencia, y no en elementos superficiales.\n\nYa sea bajo su identidad como Preservadora de Nubes o como “caballera errante”, a las personas amables las trata con amabilidad, y a las personas malvadas las trata como se merecen.\n\n“¿Quieres abrir los ojos? Yo no he hecho absolutamente nada. Has sido tú el que ha ahuyentado a esos bandidos por tu cuenta, así que, vamos, un poco de confianza en ti mismo”, dijo Xianyun, tras lo que se marchó en un abrir y cerrar de ojos.\n\nHoy en día, Xianyun sigue caminando a sus anchas por el mundo de los mortales, purificándolo con su gallardía y enseñando los principios universales con su sabiduría.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historia de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Información de combate"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Talentos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Palabra vientofloral\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Grulla del celaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Estrellas del crepúsculo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Brisa alboalada \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Cual Adeptus en su morada \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Encarnación de la grulla \n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 6 "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de talentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ojo del vórtice deslucido\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " único      "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Enseñanzas del oro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 1 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Guía del oro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 2 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Filosofía del oro\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " material 3 "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pergamino guía\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 1    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pergamino hechizado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 2    "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pergamino maldito\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común 3    "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaMaterialesTalentos\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Constelación"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " anemo\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 1 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " visión "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Vientos del destino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta en 1 las cargas de Grulla del celaje.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 2 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Graznido ermitaño\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tras efectuar un impulso célico de Grulla del celaje, el ATQ de Xianyun aumenta en un 20% durante 15&nbsp;s."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br /"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Además, los efectos del talento pasivo “Cual Adeptus en su morada” se fortalecen, de manera que, cuando el lucero de bambú de Estrellas del crepúsculo tiene cargas de potenciación adéptica, el daño del Ataque Descendente de los personajes en uso cercanos aumenta en una cantidad equivalente al 400% del ATQ de Xianyun. Este daño solo puede aumentar en un máximo de 18&nbsp;000&nbsp;pts. de esta manera."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br /"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "El daño aumentado de cada Ataque Descendente solo puede surtir efecto contra 1 enemigo, y cada personaje solo podrá activar este efecto una vez cada 0.4&nbsp;s."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br /"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Para activar este efecto, es necesario desbloquear el talento pasivo “Cual Adeptus en su morada”.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 3 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Creaciones lunastrales\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de Estrellas del crepúsculo&nbsp;+3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br /"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 4 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Maravillas del sorgo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tras dar 1/2/3 impulsos célicos en el estado de nimbogrulla de Grulla del celaje y golpear a un enemigo con una onda nublosa mientras dicho estado está activo, todos los miembros cercanos del equipo recuperan una cantidad de Vida equivalente al 50/80/150% del ATQ de Xianyun. Este efecto puede ocurrir una vez cada 5&nbsp;s.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 5 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Celaje arrebol\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Aumenta el nivel de habilidad de Grulla del celaje +3."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br/"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<!--"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nivel de constelación 6 "
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "-->"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Custodia de las nubes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Tras dar 1/2/3 impulsos célicos durante el estado de nimbogrulla de Grulla del celaje, el Daño CRIT de la onda nublosa liberada mientras dicho estado está activo aumenta en un 15/35/70%."
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "<"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "br /"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": ">"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "Durante 16&nbsp;s después de que Xianyun use Estrellas del crepúsculo, la habilidad Grulla del celaje no entrará en TdE al usarla. Este efecto se elimina tras haber usado 8 veces Grulla del celaje.\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Tabla de constelaciones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Ascensión"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " anemo\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemento     "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Turquesa vayuda\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental1   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Nimboescama\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " elemental2   "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Jade cristalino\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especialidad "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pergamino guía\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común1       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pergamino hechizado\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común2       "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Pergamino maldito\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " común3       "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "TablaAscensiones\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Estadísticas "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " rareza "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Ataque\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 7.2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " especial base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 810.322021484375\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3327.6201171875\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " vida ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 26.06800079345703\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 107.0414810180664\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " ataque ascendido "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 44.57334899902344\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa base "
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 183.04649353027344\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " defensa ascendido "
+            }
+          ]
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Estadísticas de personaje\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Gachapón"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Apariciones de banner"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Vestuarios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "DPL Vestuarios por personaje"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de constelación Grus Serena.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Constelación de Grus Serena\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Visualización de personaje Xianyun.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Imagen de la Galería de personajes\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Objeto Xianyun - Nimbogrulla.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "target": [
+                {
+                  "children": [],
+                  "type": "text",
+                  "value": "Xianyun - Nimbogrulla"
+                }
+              ],
+              "type": "internal link"
+            },
+            {
+              "children": [],
+              "type": "text",
+              "value": "\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Introducción de personaje Xianyun.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de introducción de personaje\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Arte de cumpleaños "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Xianyun 2024.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2024\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Cumpleaños de Xianyun 2025.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Arte de cumpleaños 2025\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diseños de Paimon - Emoticonos"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 464 - Xianyun.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 30 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 465 - Xianyun.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 30 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 466 - Xianyun.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 30 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Emoticono 467 - Xianyun.png"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Serie 30 de Diseños de Paimon\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Galería\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones de personajes"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historias de personajes"
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Gaming "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 5 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Shenhe "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Detalle del personaje "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Shenhe "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Shenhe "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 2 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 5 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 4\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Shenhe "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Historia del personaje 3 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 15 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 2\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Shenhe "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Peine de jade blanco "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yaoyao "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yuegui "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 9\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Yaoyao "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " Visión "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 3 "
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": " 1\n"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en historias\n"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Diálogos de personajes "
+        }
+      ],
+      "level": 3,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Menciones en diálogos"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Curiosidades "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "* "
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "PAGENAME"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "  aparece mencionada en las siguientes "
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "decoraciones"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ":\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "“¡Socorro!”"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "“¡D-de eso nada!”"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "“¡La campeona es Paimon!”"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n**"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "Preservadora de sueños suprema"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "R"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": " Referencias"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "<"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "references /"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": ">"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios "
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [],
+              "type": "text",
+              "value": "4.4"
+            }
+          ],
+          "type": "template parameter",
+          "name": []
+        }
+      ],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Historial de cambios"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navegación"
+        }
+      ],
+      "level": 2,
+      "type": "header"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "name": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Navbox Personajes"
+        }
+      ],
+      "type": "template"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "en:Xianyun"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "fr:Xianyun"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "it:Xianyun"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ja:閑雲"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pl:Xianyun"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "pt-br:Xianyun"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "ru:Сянь Юнь"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "th:Xianyun"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "tr:Xianyun"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "uk:Сянь Юнь"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "vi:Xianyun"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "zh:閒雲"
+        }
+      ],
+      "type": "internal link"
+    },
+    {
+      "children": [],
+      "type": "text",
+      "value": "\n"
+    },
+    {
+      "children": [],
+      "target": [
+        {
+          "children": [],
+          "type": "text",
+          "value": "Categoría:Orden de visualización de personajes"
+        }
+      ],
+      "type": "internal link"
+    }
+  ],
+  "type": "page"
+}
