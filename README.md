@@ -4,7 +4,7 @@
 **A zero-dependency wikitext parser for JavaScript.**
 
 [![GitHub](https://img.shields.io/github/license/arzeh/wikitext)](https://github.com/arzeh/wikitext/blob/main/LICENSE.md)
-[![npm](https://img.shields.io/npm/v/arzeh/wikitext?color=crimson&logo=npm&style=flat-square)](https://www.npmjs.com/package/arzeh/wikitext)
+[![npm](https://img.shields.io/npm/v/wikitext?color=crimson&logo=npm&style=flat-square)](https://www.npmjs.com/package/wikitext)
 </div>
 
 ## Description
