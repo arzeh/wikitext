@@ -16,7 +16,7 @@ manipulate the contents. It turns raw MediaWiki-style wikitext into a
 structured, machine-friendly representation you can explore, transform,
 lint, or post-process however you want.
 
-**This project is actuvely evolving.** Although the API is expected to
+**This project is actively evolving.** Although the API is expected to
 remain stable and focus mostly in finding edge-cases or supporting other
 wikitext elements, breaking changes may occur until 1.0.
 
@@ -82,6 +82,26 @@ Calling the previous function will print in the console:
     }}
     '''Item Name''' is an item in [[game]].
 
+### Paranoid mode
+
+Parsing wikitext can be prone to errors due to ambiguous tokens. Due to
+this, by default the `parse` function runs in “paranoid mode”, which
+will stringify the AST to compare it back to the input text, and will
+throw an error if it does not match. This step can be unnecessary for
+most cases, and you can disable it by passing an options object to the
+function:
+
+``` ts
+parse(input, { paranoid: false })
+```
+
+This **isn’t** an exhaustive list of cases where the parser can fail,
+but some examples are:
+
+- Pages with unbalanced tokens such as `{{` or `[[`.
+- Pages with parameters like `{{{1}}}`, which should not show in regular
+  pages but makes this parser unsuitable to parse template code.
+
 ## Use cases
 
 - Format pages.
@@ -91,4 +111,3 @@ Calling the previous function will print in the console:
 
 ## License
 
-MIT
