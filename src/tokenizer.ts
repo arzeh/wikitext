@@ -61,7 +61,7 @@ export class Tokenizer {
       } else if (NEXT_TWO === '[[') {
         this.flush();
         this.createInternalLinkStart();
-      } else if (state === State.INTERNAL_LINK && NEXT === '|') {
+      } else if (state === State.INTERNAL_LINK && NEXT === '|' && this.tokens.at(-1)?.type !== 'INTERNAL_LINK_DELIMITER') {
         this.flush();
         this.createInternalLinkDelimiter();
       } else if (state === State.INTERNAL_LINK && NEXT_TWO === ']]') {

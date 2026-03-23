@@ -1,12 +1,15 @@
 {
   "name": "wikitext",
-  "version": "0.0.2",
+  "version": "0.0.4",
+  "description": "Parse wikitext into an Abstract Syntax Tree",
   "packageManager": "yarn@4.9.2",
   "type": "module",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "./dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -14,6 +17,16 @@
       "require": "./dist/index.cjs"
     }
   },
+  "keywords": [
+    "wiki",
+    "wikitext",
+    "ast",
+    "parse"
+  ],
+  "homepage": "https://github.com/arzeh/wikitext#readme",
+  "bugs": "https://github.com/arzeh/wikitext/issues",
+  "license": "GPL-3.0",
+  "repository": "github:arzeh/wikitext",
   "devDependencies": {
     "@eslint/js": "^9.33.0",
     "@eslint/json": "^0.13.1",
