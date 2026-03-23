@@ -59,4 +59,11 @@ describe('template node', () => {
     expect(template.get(2)?.children.toString()).toStrictEqual('test');
     expect(template.toString()).toStrictEqual('{{template|1|2=test}}');
   })
+
+  it('template using magic word in name', ({ task }) => {
+    const input = '{{:{{PAGENAME}}}}'
+    const page = parse(input)
+
+    expect(page.toString()).toStrictEqual(input)
+  })
 });

@@ -14,7 +14,13 @@ enum State {
   HEADER = 'HEADER',
 }
 
-export function parse(input: string) {
+type ParseOptions = {
+  paranoid?: boolean;
+};
+
+export function parse(input: string, options: ParseOptions = {}) {
+  const { paranoid = true } = options;
+
   const tokens = new Tokenizer(input).tokenize();
   const root = new WikiPageNode();
   const path: WikiNode[] = [root];
@@ -27,15 +33,11 @@ export function parse(input: string) {
 
     if (token.type === 'INTERNAL_LINK_START') {
       const node = new WikiInternalLinkNode();
-      currentParent.children.push(node);
+      currentParent.push(node);
       path.push(node);
       states.push(State.INTERNAL_LINK);
 
-    } else if (state === State.INTERNAL_LINK && token.type === 'INTERNAL_LINK_DELIMITER') {
-      if (!(currentParent instanceof WikiInternalLinkNode)) {
-        throw new Error(`Expected current parent to be an internal link, but found: ${currentParent.type};`);
-      }
-
+    } else if (state === State.INTERNAL_LINK && token.type === 'INTERNAL_LINK_DELIMITER' && currentParent instanceof WikiInternalLinkNode && currentParent.state === 'target') {
       currentParent.state = 'display';
 
     } else if (state === State.INTERNAL_LINK && token.type === 'INTERNAL_LINK_END') {
@@ -44,7 +46,7 @@ export function parse(input: string) {
 
     } else if (token.type === 'TEMPLATE_START') {
       const node = new WikiTemplateNode();
-      currentParent.children.push(node);
+      currentParent.push(node);
       path.push(node);
       states.push(State.TEMPLATE);
 
@@ -129,6 +131,10 @@ export function parse(input: string) {
       currentParent.push(new WikiTextNode('</'));
 
     }
+  }
+
+  if (paranoid && input !== root.toString()) {
+    throw new SyntaxError('The parsed tree does not match the input text.');
   }
 
   return root;
