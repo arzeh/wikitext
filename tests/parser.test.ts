@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { parse } from '../src/parser';
+import { parse } from '../src';
 
 describe('parse', () => {
   it('simple link', ({ task }) => {

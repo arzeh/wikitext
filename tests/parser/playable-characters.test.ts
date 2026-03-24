@@ -1,7 +1,6 @@
 import { describe, expect, it } from 'vitest';
-import { parse } from '../../src/parser';
+import { parse, WikiTemplateNode } from '../../src';
 import { readdirSync, readFileSync } from 'fs';
-import { WikiTemplateNode } from '../../src/nodes/wiki-template-node';
 
 describe('playable characters', () => {
   const filenames = readdirSync(`./tests/__fixtures__/es.genshin-impact/playable_characters`);

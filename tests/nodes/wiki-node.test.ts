@@ -1,9 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { parse } from '../../src/parser';
-import { WikiTemplateNode } from '../../src/nodes/wiki-template-node';
-import { WikiPageNode } from '../../src/nodes/wiki-page-node';
-import { WikiTextNode } from '../../src/nodes/wiki-text-node';
-import { WikiTemplateParameterNode } from '../../src/nodes/wiki-template-parameter-node';
+import { parse, WikiTemplateNode, WikiPageNode, WikiTextNode, WikiTemplateParameterNode } from '../../src';
 
 describe('wiki node', () => {
   it('iterator', () => {

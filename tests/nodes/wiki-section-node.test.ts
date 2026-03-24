@@ -1,6 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { parse } from '../../src/parser';
-import { WikiTemplateNode } from '../../src/nodes/wiki-template-node';
+import { parse } from '../../src';
 
 describe('template node', () => {
   it('regular header', ({ task }) => {
