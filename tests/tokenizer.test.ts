@@ -9,7 +9,7 @@ describe('tokenizer', () => {
       { type: 'INTERNAL_LINK_START' },
       { type: 'TEXT', value: 'Simple link' },
       { type: 'INTERNAL_LINK_END' },
-    ])
+    ]);
   });
 
   it('internal link', () => {
@@ -21,7 +21,7 @@ describe('tokenizer', () => {
       { type: 'INTERNAL_LINK_DELIMITER' },
       { type: 'TEXT', value: 'Text' },
       { type: 'INTERNAL_LINK_END' },
-    ])
+    ]);
   });
 
   it('simple template', () => {
@@ -31,7 +31,7 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_START' },
       { type: 'TEXT', value: 'template' },
       { type: 'TEMPLATE_END' },
-    ])
+    ]);
   });
 
   it('template with unnamed parameter', () => {
@@ -43,7 +43,7 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_PARAMETER_DELIMITER' },
       { type: 'TEXT', value: 'value' },
       { type: 'TEMPLATE_END' },
-    ])
+    ]);
   });
 
   it('template with multiple unnamed parameters', () => {
@@ -57,7 +57,7 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_PARAMETER_DELIMITER' },
       { type: 'TEXT', value: 'value 2' },
       { type: 'TEMPLATE_END' },
-    ])
+    ]);
   });
 
   it('template with named parameter', () => {
@@ -71,8 +71,8 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_PARAMETER_ASSIGNS' },
       { type: 'TEXT', value: 'b' },
       { type: 'TEMPLATE_END' },
-    ])
-  })
+    ]);
+  });
 
   it('template with multiple named parameters', () => {
     const input = '{{template|a=b|c=d}}';
@@ -89,8 +89,8 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_PARAMETER_ASSIGNS' },
       { type: 'TEXT', value: 'd' },
       { type: 'TEMPLATE_END' },
-    ])
-  })
+    ]);
+  });
 
   it('template with unnamed and named parameters', () => {
     const input = '{{template|unnamed value|key=value}}';
@@ -105,8 +105,8 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_PARAMETER_ASSIGNS' },
       { type: 'TEXT', value: 'value' },
       { type: 'TEMPLATE_END' },
-    ])
-  })
+    ]);
+  });
 
   it('link followed by template', () => {
     const input = '[[link]] {{template}}';
@@ -119,84 +119,84 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_START' },
       { type: 'TEXT', value: 'template' },
       { type: 'TEMPLATE_END' },
-    ])
-  })
+    ]);
+  });
 
   it('single header without newline', () => {
     const input = '== title ==';
     const tokens = new Tokenizer(input).tokenize();
     expect(tokens).toStrictEqual([
-      { type: 'HEADER_START', level: 2 },
+      { level: 2, type: 'HEADER_START' },
       { type: 'TEXT', value: ' title ' },
-      { type: 'HEADER_END', level: 2 },
+      { level: 2, type: 'HEADER_END' },
       { type: 'HEADER_NEW_LINE', value: '' },
-    ])
-  })
+    ]);
+  });
 
   it('single header with newline', () => {
     const input = '== title ==\n';
     const tokens = new Tokenizer(input).tokenize();
     expect(tokens).toStrictEqual([
-      { type: 'HEADER_START', level: 2 },
+      { level: 2, type: 'HEADER_START' },
       { type: 'TEXT', value: ' title ' },
-      { type: 'HEADER_END', level: 2 },
+      { level: 2, type: 'HEADER_END' },
       { type: 'HEADER_NEW_LINE', value: '\n' },
-    ])
-  })
+    ]);
+  });
 
   it('invalid header', () => {
     const input = 'text== title ==\n';
     const tokens = new Tokenizer(input).tokenize();
     expect(tokens).toStrictEqual([
       { type: 'TEXT', value: 'text== title ==\n' },
-    ])
-  })
+    ]);
+  });
 
   it('header with template', () => {
-    const input = '== {{template}} =='
+    const input = '== {{template}} ==';
     const tokens = new Tokenizer(input).tokenize();
     expect(tokens).toStrictEqual([
-      { type: 'HEADER_START', level: 2 },
+      { level: 2, type: 'HEADER_START' },
       { type: 'TEXT', value: ' ' },
       { type: 'TEMPLATE_START' },
       { type: 'TEXT', value: 'template' },
       { type: 'TEMPLATE_END' },
       { type: 'TEXT', value: ' ' },
-      { type: 'HEADER_END', level: 2 },
+      { level: 2, type: 'HEADER_END' },
       { type: 'HEADER_NEW_LINE', value: '' },
-    ])
-  })
+    ]);
+  });
 
   it('simple html comment', () => {
-    const input = '<!-- text {{template}} -->'
+    const input = '<!-- text {{template}} -->';
     const tokens = new Tokenizer(input).tokenize();
     expect(tokens).toStrictEqual([
       { type: 'HTML_COMMENT_START' },
       { type: 'TEXT', value: ' text {{template}} ' },
       { type: 'HTML_COMMENT_END' },
-    ])
-  })
+    ]);
+  });
 
   it('header with commented newline', () => {
-    const input = '== title <!--\n--> =='
+    const input = '== title <!--\n--> ==';
     const tokens = new Tokenizer(input).tokenize();
     expect(tokens).toStrictEqual([
-      { type: 'HEADER_START', level: 2 },
+      { level: 2, type: 'HEADER_START' },
       { type: 'TEXT', value: ' title ' },
       { type: 'HTML_COMMENT_START' },
       { type: 'TEXT', value: '\n' },
       { type: 'HTML_COMMENT_END' },
       { type: 'TEXT', value: ' ' },
-      { type: 'HEADER_END', level: 2 },
+      { level: 2, type: 'HEADER_END' },
       { type: 'HEADER_NEW_LINE', value: '' },
-    ])
-  })
+    ]);
+  });
 
   it('infobox', () => {
     const input = `{{Example Infobox
 | name = Text
 | title = Other Text
-}}`
+}}`;
     const tokens = new Tokenizer(input).tokenize();
     expect(tokens).toStrictEqual([
       { type: 'TEMPLATE_START' },
@@ -210,14 +210,14 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_PARAMETER_ASSIGNS' },
       { type: 'TEXT', value: ' Other Text\n' },
       { type: 'TEMPLATE_END' },
-    ])
-  })
+    ]);
+  });
 
   it('infobox with nested template', () => {
     const input = `{{Example Infobox
 | name = Text
 | price = {{Price|100}}
-}}`
+}}`;
     const tokens = new Tokenizer(input).tokenize();
     expect(tokens).toStrictEqual([
       { type: 'TEMPLATE_START' },
@@ -237,8 +237,8 @@ describe('tokenizer', () => {
       { type: 'TEMPLATE_END' },
       { type: 'TEXT', value: '\n' },
       { type: 'TEMPLATE_END' },
-    ])
-  })
+    ]);
+  });
 
   it('html tag', () => {
     const input = '<div>text</div>';
@@ -251,8 +251,8 @@ describe('tokenizer', () => {
       { type: 'TAG_CLOSING' },
       { type: 'TEXT', value: 'div' },
       { type: 'TAG_END' },
-    ])
-  })
+    ]);
+  });
 
   it('html tag with attributes', () => {
     const input = '<div data="value">text</div>';
@@ -265,6 +265,6 @@ describe('tokenizer', () => {
       { type: 'TAG_CLOSING' },
       { type: 'TEXT', value: 'div' },
       { type: 'TAG_END' },
-    ])
-  })
+    ]);
+  });
 });

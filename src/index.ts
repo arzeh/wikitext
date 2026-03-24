@@ -1,2 +1,2 @@
-export { default as parse } from './lib/parser'
-export * from './lib/parser'
+export { default as parse } from './lib/parser';
+export * from './lib/parser';

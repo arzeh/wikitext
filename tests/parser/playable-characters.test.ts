@@ -1,9 +1,9 @@
+import { WikiTemplateNode, parse } from '../../src';
 import { describe, expect, it } from 'vitest';
-import { parse, WikiTemplateNode } from '../../src';
-import { readdirSync, readFileSync } from 'fs';
+import { readFileSync, readdirSync } from 'fs';
 
 describe('playable characters', () => {
-  const filenames = readdirSync(`./tests/__fixtures__/es.genshin-impact/playable_characters`);
+  const filenames = readdirSync('./tests/__fixtures__/es.genshin-impact/playable_characters');
 
   for (const filename of filenames) {
     const name = filename.replace('.txt', '');
@@ -14,10 +14,10 @@ describe('playable characters', () => {
 
       expect(page.toString()).toStrictEqual(content);
       expect(JSON.stringify(page, null, 2)).toMatchFileSnapshot(
-        `./__snapshots__/playable-characters/${ task.name.replace(/ /g, '_') }.json`
+        `./__snapshots__/playable-characters/${ task.name.replace(/ /g, '_') }.json`,
       );
       expect([...page.templates()].length).toMatchSnapshot();
-      expect(page.findTemplate(/infobox personaje jugable/i)).toBeInstanceOf(WikiTemplateNode)
-    })
+      expect(page.findTemplate(/infobox personaje jugable/i)).toBeInstanceOf(WikiTemplateNode);
+    });
   }
 });
