@@ -1,430 +1,432 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Femenino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sagitta Scutum\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región actual "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " La Devota Áurea "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Custodia de la Aldea Aaru\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lanza\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3.1\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 de Mayo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Yuzuki Ryoka (柚木 涼香)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Desconocido "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "(desde la "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "versión Luna II"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ")"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "</"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "</"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Shara Kirby\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sumeru\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aldea Aaru\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cuidado extremo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Zhang Qi (张琦)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jeon Yeongsu (전영수)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Humana\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " No en uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol           "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Apoyo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2          "
             }
           ]
@@ -432,726 +434,726 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox Personaje jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n'''Candace''' es un personaje jugable en "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "''Genshin Impact''"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\nDescendiente de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "al-Ahmar"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y guardiana de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Aldea Aaru"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", Candace es amable con los viajeros que la visitan, pero no perdona a quienes violan las reglas de la aldea.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Perfil "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\"Una vez le regalé unas cuantas alhajas a Candance y le dije que tenía que aprender a disfrutar de la vida y divertirse más a menudo. Pero ella me respondió que era feliz al contemplar la aldea en paz... *Suspira*, supongo que nuestra guardiana tiene su particular forma de disfrutar de la vida...\""
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Un comentario exasperado de Dehya"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Cita"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\"Esa tal Candace... es digna descendiente del Rey Deshret\".\n\nEste comentario lo hizo un avergonzado y tembloroso miembro de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Los Eremitas"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " en la taberna de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ciudad de Sumeru"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\nEsta guardiana con heterocromía bendecida por los dioses es capaz de invocar tormentas de arena que engullen a los enemigos a su paso.\n\nUn miembro de los "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ladrones de Tesoros"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " que acababa de anunciar que dejaba la organización añadió que Candace tiene control sobre cada grano de arena del desierto. Nada ni nadie escapa a su escrutinio.\n\nPor el contrario, un joven aventurero que se dirigía de nuevo al desierto afirmó que Candace, la Custodia de la Aldea Aaru, era una persona gentil y bondadosa.\n\nDurante una de sus visitas a la Aldea Aaru, el joven vio como Candace llevaba agua y alimento a un desnutrido ladrón de tesoros. En otra ocasión, la joven permitió que un exhausto Eremita descansara en su habitación de invitados... Para aquel joven, Candance no tiene nada de aterrador.\n\nAjena a la discusión que tenía lugar sobre ella en la ciudad, Candace pasea por el "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Gran Desierto Escarlata"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". De todos modos, la joven no presta oídos a los comentarios ajenos.\n\nComo custodia de la Aldea Aaru, su deber es preservar la paz del lugar.\n\nMientras se cumpla con las reglas estipuladas, todo el mundo es bienvenido a descansar y tomar un trago en la aldea, y se les ofrecerá la asistencia que requiera.\n\nPor el contrario, aquellos que no respeten las normas serán considerados enemigos.\n\nCandace se asegurará personalmente de que nunca tengan otra oportunidad de poner en peligro la aldea.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Apariencia "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Candace es una mujer de piel morena y pelo azul oscuro peinado en coletas bajas con la parte trasera cortada. Posee una forma de [https://es.wikipedia.org/wiki/Heterocrom%C3%ADa heterochromia iridum], que hace que su ojo derecho sea de un tono azul oscuro y el izquierdo de un amarillo dorado. Lleva una diadema negra adornada con un símbolo dorado en la parte delantera y un gran tocado dorado que se asemeja a una luna creciente.\n\nEl traje de Candace consiste en una gargantilla dorada alrededor del cuello y un top morado oscuro y blanco roto con detalles dorados que deja al descubierto parte de su pecho. Su top tiene mangas moradas sueltas con baratijas doradas. Candace lo combina con un taparrabos púrpura con rayas doradas sujeto con un gran trozo de tela blanca adornado con una baratija dorada en forma de luna que lleva sobre unos pantalones cortos de color oscuro. Candace lleva una gran baratija dorada alrededor de la pierna derecha y luce mangas moradas y doradas alrededor de las pantorrillas y sandalias con tiras doradas.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Personalidad "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Candace es una joven que se desempeña como guardiana de la Aldea Aaru. Ella protege a los habitantes de los peligros de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Gran Desierto Escarlata"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", como los bandidos y los peligros naturales. Ella trata a todos los visitantes del pueblo con el máximo respeto sin importar de dónde vengan, siempre y cuando cumplan con las reglas del pueblo. Sin embargo, si ponen en peligro a la aldea o a sus habitantes, se muestra que Candace es extremadamente despiadada y aterradora.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historia "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Detalles del personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nCandace, uno de cuyos rasgos más característicos es la heterocromía, es la custodia de la Aldea Aaru.\n\nSiempre es amable con los viajeros que llegan a la aldea y no insiste demasiado en la falta de cortesía de las personas, siempre y cuando la corrijan a tiempo.\n\nPara Candace, las tradiciones de la Aldea Aaru son lo más importante y, mientras las respeten, todas las personas son bienvenidas para descansar en la aldea.\n\nAhora bien, si alguien se toma eso como una debilidad e intenta hacer algo ilegal, pagará el mayor de los precios.\n\nAhí es cuando se dan cuenta de que la lanza y el escudo de Candace son de lo más temibles.\n\nDescendiente de Al-Ahmar, habitante del desierto, custodia... Ella es todo eso, pero también tiene la eterna labor de proteger la Aldea Aaru.\n\n\"En esta aldea solo damos la bienvenida a quienes respetan el orden\".\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n\"La Aldea Aaru es el último refugio que les queda a los descendientes del Rey Deshret, y la misión de los custodios de la aldea es defenderla hasta el día en que desaparezca el último de esos descendientes\".\n\nA los ocho años, Candace ya había sido nombrada la nueva custodia, y esa frase es lo que le dijo la persona que le pasó la responsabilidad.\nTras la muerte del Rey Deshret, era una bendición que sus descendientes pudieran tener un refugio como este en el mundo.\n\nGeneración tras generación, los custodios cumplían su labor silenciosamente para proteger a innumerables aldeanos hasta que fallecieran como \"descendientes del Rey Deshret\" y obtuvieran el descanso eterno.\n\nPoder desaparecer en paz era un deseo largamente anhelado por la gente de la Aldea Aaru.\nSin embargo, cuando en la aldea aparece nueva vida, es probable que todo lo que conocen tenga que cambiar un poco."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nCuando Anpu, el jefe de la aldea, anunció que una caravana de la Ciudad de Sumeru estaba a punto de llegar para hacer negocios, los anteriores custodios no podían creer lo que estaban escuchando.\n\nIndignados, acusaron a Anpu de querer acabar con las tradiciones y pidieron que Candace, la actual custodia, hiciera su trabajo y pidiera a los guardias que se llevaran a esos comerciantes.\n\nSin embargo, Candace se negó, pues ya había llegado a un acuerdo con el jefe de la aldea para hacer algunos cambios en el futuro de sus habitantes.\n\nLo explicaron una y otra vez, pero los antiguos custodios no daban el brazo a torcer, e incluso alegaron que, si Candace no estaba dispuesta a cumplir con su deber, retomarían el mando y llevarían a cabo la labor que se esperaba de ellos.\n\nFinalmente, el sonido metálico de una lanza chocando contra un escudo acalló la disputa. Escudo y lanza en mano, Candace se levantó, miró a su alrededor con una sonrisa y le dijo a un viejo y perplejo custodio:\n\n\"Me alegro de ver que está tan animado. Pero yo soy la actual custodia de la Aldea Aaru, así que, por favor, váyase a descansar\".\n\nEn ese momento, el poder de persuasión de las armas venció al de las palabras y parecía que iba a ser suficiente para detener el tumulto.\n\nTras una breve preparación, Candance acompañó al jefe de la aldea en calidad de custodia para recibir oficialmente a la caravana y comerciar con ella tras lo cual escoltó la caravana hasta las afueras de la aldea.\n\nUnos días después, los comerciantes volvieron a la aldea para formalizar una humilde transacción de ropa.\n\nTras ello, regresaron a la Ciudad de Sumeru con las noticias de su intercambio exitoso. Poco después, un nuevo tema surgió entre la gente de negocios de Sumeru; uno del que se había hablado poco en el pasado:\n\n\"Oye, ¿sabes que alguien fue a la Aldea Aaru para hacer negocios y ganó un montón de Moras? Deberíamos intentarlo nosotros también\"."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nEn realidad, Candace no suele usar su lanza y su escudo como herramientas de debate.\n\nLos niños de la Aldea Aaru siempre han pensado que, por muy enfadada que esté Candace, lo máximo que hace es fruncir el ceño o, como mucho, pedir a los niños revoltosos que copien unas cuantas veces la caligrafía preparada por la abuela Kulsum.\n\nEl resto de los guardias de la Aldea Aaru creen que, aunque Candace es estricta, nunca castiga físicamente a quienes holgazanean o a quienes son menos fuertes que ella, sino que, en su lugar, les enseña pacientemente.\n\nLos más ancianos de la aldea, por su parte, consideran que Candace es una persona que no muestra nunca emociones negativas y, de hecho, nunca la han visto triste.\n\nHasta los comerciantes que visitan la aldea son recibidos por Candace con gran hospitalidad. Ella lo organiza todo de la mejor manera, desde las presentaciones hasta el alojamiento.\n\nA veces hasta puede resultar demasiado hospitalaria para los comerciantes.\n\nDespués de todo, la aldea colinda con el Gran Desierto Escarlata. Dejando de lado a los monstruos, los bandidos que actúan fuera de la ley hace mucho que tienen a la aldea en el punto de mira.\n\n¿Puede una custodia proteger a todo el mundo y a sus negocios?\n\nUna noche, un comerciante borracho se atrevió a exclamar:\n\n\"Señorita custodia, podemos hacer negocios en esta aldea sin problema, pero como sabrá, el desierto es un nido de delincuentes\"...\n\n\"No se preocupe. Solo quienes cumplen las normas son bienvenidos a la Aldea Aaru. En cuanto a quienes no las cumplen\"..."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nQuienes no respeten las reglas serán los enemigos de la Aldea Aaru.\n\nYa sean Eremitas escondidos en el desierto, bandidos disfrazados de aventureros o ladrones de tesoros que intentan robar mercancías, quien ose invadir la aldea recibirá el castigo que se merece por mucho que intente esconderse o escapar.\n\nQuienes confiesen su crimen serán perdonados y se les dará suministros suficientes para cruzar el desierto. Eso sí, nunca más se les permitirá poner un pie en la Aldea Aaru.\nEn cuanto a los más insistentes... sus viles almas solo podrán estar acompañadas de la arena del desierto.\n\nUna vez, un antiguo Eremita advirtió a sus compañeros que Candace, la terrible custodia de la aldea, era una auténtica descendiente del Rey Deshret.\n\nSu escudo fue bendecido por al-Ahmar para que, mientras su portador lo sostuviera con firmeza, cada uno de los granos de arena del desierto respondieran a su llamada. Así que, si así lo deseara, Candace podría invocar una enorme tormenta de arena que engullera a sus enemigos.\n\nY no solo eso, sino que, con su ambarino ojo izquierdo, puede percibir el futuro y leer el destino de las personas. De hecho, tal es su poder que nadie ha conseguido nunca escapar de ella.\n\nAsí pues, la gente cree que Candace se ha deshecho de todos los enemigos de la Aldea Aaru gracias a todos estos poderes divinos."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nSolo Candance sabe que en realidad nunca ha gozado de la gracia de Al-Ahmar.\n\nY esto se debe a un secreto transmitido entre las generaciones de custodios: \"los dioses nunca han bendecido a los custodios con su gracia\".\n\nSin embargo, esto solo lo descubren cuando toman su escudo para asumir el cargo.\n\nLos efectos de conocer esta verdad han variado de custodio en custodio. Algunos abandonaron el cargo y quedaron tan desalentados que hasta dejaron de entrenar sus habilidades de combate. Otros comenzaron a creer que, ya que nadie se fijaba en ellos, no tenían que obedecer las normas y, en consecuencia, actuaban temerariamente e incluso incumplían la ley.\n\nPero Candace no se sintió tan triste.\n\n\"No porto mi lanza y mi escudo para rezar por la gracia de los dioses, así que, sea bendecida por ellos o no, mis deberes no cambiarán\".\n\nCandace entrena asiduamente día tras día, y así es como ha adquirido tanto su extraordinaria determinación como sus increíbles habilidades de combate.\n\nMuchas de las personas que han visitado la Aldea Aaru han invitado a Candace a salir de allí, pues no entienden por qué alguien tan competente como ella decide vivir en un lugar tan alejado de la mano de los Arcontes. Esa misma gente suele decir que, si estuviera dispuesta a marcharse, podría comenzar una nueva carrera.\n\nPero Candace siempre les responde de la misma manera:\n\n\"Un custodio no abandona lo que se propone defender\"."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Accesorios de Candace\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nCandace tiene por costumbre comprar accesorios a los comerciantes de la Aldea Aaru.\n\nUna horquilla adornada con perlas aguamarinas, una diadema de satén y seda, colgantes bañados en oro, pulseras de metal grabados con el patrón del loto kalpa, colgantes grabados con los escudos de las distintas escuelas de la Academia...\n\nAunque Dehya continúa animándola a que se arregle más de vez en cuando, Candace es de la opinión de que la fragilidad de ese tipo de objetos no terminan de encajar con su puesto, por lo que la mayoría de sus accesorios permanecen ocultos en lo más profundo de su armario.\n\nAl parecer, Candace solo desempolva estas baratijas cuando decide descansar temporalmente de su extenuante trabajo como custodia de la Aldea Aaru y se viste con otros ropajes para descansar por fin a la sombra. O, tal vez, decida utilizarlas a modo de regalo para alguno de sus amigos."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nCon la llegada de extranjeros a la Aldea Aaru, esta ha tenido que afrontar todo tipo de insólitas situaciones.\n\nLadrones de tesoros disfrazándose de comerciantes para infiltrarse en la aldea, grupos de mercenarios que secuestran las caravanas, comerciantes poco escrupulosos que son maestros en el arte de la charlatanería...\n\nAdemás, tras entrar en contacto con gente de otros lugares, el deseo de una vida fuera de la aldea ha comenzado a extenderse por el corazón de los lugareños. Por eso, cada vez más aldeanos intentan salir de la aldea para ganarse la vida y pocos jóvenes están dispuestos a permanecer en aquel lugar alejado de la mano de los Arcontes.\n\nLos antiguos custodios de la aldea, que ya habían mostrado su desaprobación hacia Candace por \"no respetar la tradición\", volvieron a la carga al percatarse de la situación.\n\n\"¡El deber de un custodio es mantener el orden en la aldea!\".\n\n\"¡Todo esto es culpa tuya, Candace! Has perturbado el orden que imperaba en la aldea\".\n\n\"¿Por qué no eres capaz de cumplir con tu deber?\".\n\nTras oír aquellas palabras, la muchacha se alzó, lanza en mano.\n\n\"¡Basta! ¡Si lo que quieren es proteger el 'pasado' de la aldea, adelante, no duden en hacerlo! No es asunto mío si quieren permanecer encerrados en casa o marcharse de la aldea.\n\nPero yo no permitiré que la gente de nuestra aldea permanezca anclada en el pasado.\n\nSi ustedes no están dispuesto a mirar hacia delante, ¡yo misma guiaré a nuestro pueblo hacia el futuro!\".\n\nAquellas palabras sorprendieron a los antiguos custodios, que, al contemplar el fulgor de aquella mirada joven, fueran incapaces de responder a sus palabras.\n\nCon una ira manifiesta muy poco propia de ella, Candace abandonó la estancia, con lo que zanjó la disputa.\n\nComo si de un aliento de apoyo se tratara, una perla apareció en la punta de su larga lanza.\n\nLos Arcontes habían posado su mirada sobre ella y le transmitían su amparo de la mejor forma que sabían.\n\nUna Visión es homóloga de un corazón fuerte y decidido, y no había mejor ornamento que ese para otorgarle a esta joven guerrera."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Información de combate"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Talentos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lanza radiante - En guardia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Rito sagrado: Garza guardiana\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Rito sagrado: Marea de aguzanieves\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Escudo antiflechas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Bóveda celestial de las arenas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Luz del alba\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 "
             }
           ]
@@ -1159,152 +1161,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lágrima de la diosa del desastre\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas de la exhortación\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía de la exhortación\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía de la exhortación\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Satén rojo descolorido\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Seda roja bordada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Brocado rojo lujoso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1312,489 +1314,489 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Constelación"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Heredera de las arenas escarlata"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta en 3 segundos la duración del estado de oración de la corona escarlata de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Rito sagrado: Marea de aguzanieves"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Brillo perforalunas"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Al golpear a un enemigo con "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Rito sagrado: Garza guardiana"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ", la Vida Máx. de Candace aumenta en un 20% durante 15 segundos.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Devoción por la caza"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Rito sagrado: Marea de aguzanieves"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15."
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Juramento de la guardiana"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Reduce el TdE de mantener pulsado "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Rito sagrado: Garza guardiana"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " hasta el mismo que el de ."
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Mirada heterocromática"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Rito sagrado: Garza guardiana"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15."
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Marea inundatoria"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cuando un personaje en uso (a excepción de Candace) que está en el estado de oración de la corona escarlata de Rito sagrado: Marea de aguzanieves inflige Daño Elemental con un Ataque Normal contra un enemigo, se libera una onda de agua de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Rito sagrado: Marea de aguzanieves"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " que inflige '''Daño Hydro en el AdE''' en una cantidad equivalente al 15% de la Vida Máx. de Candace."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Este efecto solo se puede activar una vez cada 2.3 s y su daño se considera daño de Habilidad Definitiva."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ascensión"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lazurita varunada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tetraedro guialuz\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Añoraescarlata\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Satén rojo descolorido\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Seda roja bordada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Brocado rojo lujoso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1802,185 +1804,185 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Estadísticas "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Vida\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 911.791\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3262.3718\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 17.808\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 63.7182\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 57.225\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 204.75\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa ascendido "
             }
           ]
@@ -1988,1303 +1990,1301 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Estadísticas de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Gachapón "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Vestuarios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Sagitta Scutum.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Sagitta Scutum\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Visualización de personaje Candace.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galería de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Candace - Garza real.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Candace - Garza real"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Candace.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Arte de cumpleaños"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Candace 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Candace 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Dias festivos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Fin del Ayuno 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Fin del Ayuno 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diseños de Paimon - Emoticonos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 281 - Candance - Protección.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 18 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 282 - Candance - ¡Feliz cumpleaños!.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 18 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 283 - Candance - Gracias.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 18 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 284 - Candance - Rezar.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 18 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones de personajes"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historias de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Néfer  "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Néfer  "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 18\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sethos "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sethos "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Diálogos de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Curiosidades "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "* Candace aparece mencionada en las siguientes "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Decoraciones"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ":\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Escudo fortalecido de madera de tamarisco"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Casa del desierto: Sueño breve"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Casa del desierto: Luz oculta"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Casa del desierto: Vida ordinaria"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Casa del desierto: Almacén"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Casa del desierto: Especias abundantes"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Pared del desierto: Defensa incondicional"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3.1"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " |3.1 = Se añadió como personaje jugable junto al gachapón \"nombre del banner\". "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navegación"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<!--"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Interwiki"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "-->"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "de:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "id:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:キャンディス"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Кандакия"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Кандаке"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Candace"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:坎蒂絲"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

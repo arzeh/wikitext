@@ -1,16 +1,16 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "title"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

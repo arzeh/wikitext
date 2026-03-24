@@ -1,375 +1,377 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mandoble\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Reina del Océano sin Corona "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Reina de la Flota Crux Meridianam "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Capitana Beidou\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Femenino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 14 de febrero\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Victor Mare (El Conquistador del Mar)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Liyue\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Flota Crux Meridianam\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tiras de carne salteadas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Yajing Tang (唐雅菁)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ami Koshimizu (小清水 亜美)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jeong Yoo-Mi (정유미)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Allegra Clark\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1.0\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Humana\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " No en uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Atacante principal\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Supervivencia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol3         "
             }
           ]
@@ -377,950 +379,950 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox Personaje jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n'''Beidou''' (chino: 北斗, ''Běidǒu'') es un personaje jugable de "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "''Genshin Impact''"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\nElla es la capitana de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Flota Crux Meridianam"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", una tripulación de renombre en "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". Además de sus capacidades como capitana de flota y su inmensa fuerza, muchos en Liyue la conocen por su falta de miedo hacia el Equilibrio Celestial de las "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Siete Estrellas de Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ninguang"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", un rasgo que la otra aprecia, pero que se irrita.\n\nLlegó por primera vez en la "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Versión 1.''‏‎''0"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Versión 1.0"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " en el gachapón.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Perfil "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Capitana de la Flota Crux Meridianam y su tripulación. Es una mujer bastante libre y franca."
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Texto de atributos en el juego"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Cita"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\nHay quienes dicen que puede dividir las montañas y separar el mar. Otros que dispara rayos con su espada. Algunos que incluso la más poderosa de las bestias marinas no es rival para ella.\n\nPara los que no son de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", creerán que están siendo exagerados, pero los que han navegado con ella dirán... \"No importa qué bestias marinas se encuentre, Beidou se asegurará de dividirlas todas en dos\".\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Apariencia "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Beidou tiene una constitución alta y curvilínea con largo cabello castaño oscuro, con la parte superior atada con una horquilla blanca y ojos color rubí, con un parche rojo en el ojo izquierdo y un pendiente en la oreja izquierda.\n\nSu atuendo consiste en un leotardo negro debajo de un vestido rojo de qipao sin mangas con aberturas laterales cortadas hasta las caderas y el área del pecho recortada, con su Visión encadenada debajo de su pecho izquierdo y un chal forrado de piel, además con un par de guantes sin dedos y botas hasta los muslos.\n\nBeidou, según el Maestro del te, Liu Su, medía 6 pies de alto (182,88 cm) y \"estaba más fornida que el hombre más fuerte que jamás hayan visto\".\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Personalidad "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "A Beidou le encanta viajar por los océanos, zarpar con su barco "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Alcor"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y su tripulación a cualquier lugar que deseen. Admite que está acostumbrada a navegar por los mares que no está acostumbrada a permanecer en tierra durante periodos prolongados de tiempo.\n\nEs una buena capitana, se lleva bien con toda su tripulación, priorizando los intereses de su barco y su tripulación por encima de todo lo demás. En parte debido a su tiempo en los mares, puede leer fácilmente a las personas en un instante y no muestra miedo contra las entidades poderosas, después de haber derrotado al leviatán "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Haishan"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", algo que "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Xiao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " considera notable. A menudo rompe las reglas en Liyue, lo que a menudo resulta en fuertes multas del "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tianquan"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ninguang"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", pero no parece importarle pagar, a pesar de haber perdido una cantidad significativa de Mora al hacerlo.\n\nBeidou también tiene una buena amistad con "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ganyu"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", pero debido a su mala posición con las "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Siete Estrellas de Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", la mantiene en secreto para evitar poner una luz negativa sobre ella. Sin embargo, con "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ninguang"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " es diferente. Beidou y ella parecen muy cercanas: aparecen en misiones juntas"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Por ejemplo, "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "El muelle bajo la luna"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", entre otras."
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "</"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", hablan una de la otra cuando no está y tienen varias líneas de voz/historias donde se mencionan mutuamente. Incluso ciertas historias de personaje dan a entender que cooperan con sus trabajos"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Beidou#Historia del personaje (3)"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "</"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". Su dinámica es algo peculiar, ya que ambas ven la vida de forma muy diferente. No parecen mantener su relación en secreto.\n\nLe gusta comer alimentos robustos, principalmente fritos o condimentados, y disfruta beber. Debido a esto, le gusta la cocina de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y no le importa probar ningún plato nuevo para ella cuando regrese al puerto.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historia "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Detalles del personaje "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Beidou es la líder de la Flota Crux Meridianam, una flota armada con sede en el puerto de Liyue.\n\nDicha flota es realmente lo que parece: un grupo de barcos armados hasta los dientes.\n\nSin entrar en demasiados detalles, todo lo que hace la Flota Crux está aprobado por las Siete Estrellas.\n\nBeidou es una exitosa líder adorada por sus fieles y leales marineros. Estos creen incluso que Beidou puede calmar las tormentas y las olas del mar.\n\n\"¡Esa es Beidou! ¡Incluso las tormentas más poderosas se inclinan ante su poder!\".\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa propia Beidou goza de bastante reputación en Liyue.\n\nAunque su nombre no es tan conocido como el de las Siete Estrellas de la ciudad, cualquier comerciante o mercader ha oído hablar del nombre de Beidou y la Flota Crux Meridianam.\n\nUna persona así da lugar a muchos rumores. Cuando la gente habla de ella, la mayoría son historias exageradas que comparan su poder con el de los dioses.\n\nOtro rumor dice que es capaz de invocar al trueno con su espada, y que partió a un monstruo de las profundidades del mar en dos con un solo golpe.\n\nLa gente lo toma como un rumor de borrachos, pero aquellos que han navegado junto a Beidou no se lo toman en broma. Según ellos, \"si de verdad hay un monstruo gigante en el mar, Beidou es capaz de partirlo en dos\".\n\nEs evidente que la capacidad de navegación de Beidou es tan buena como su reputación en los negocios. Es por eso que se ha ganado el mote de \"Reina del Océano\".\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa gente de negocios tiende a poner sus ganancias antes que la amistad. Esto es simplemente aceptado como una verdad absoluta. Al menos, es un tema con el que se bromea en los banquetes.\n\nPero las cosas son diferentes en Liyue, donde todo el mundo está involucrado en los negocios. Rechazan la noción por completo, alegando que Liyue es un lugar especial donde los lazos de amistad son sagrados.\n\nLos comerciantes extranjeros bromean diciendo que lo único especial sobre Liyue es que \"¡Hasta la amistad es moneda de cambio!\". A esto, los lugareños de Liyue responden: \"Entonces, ¿cómo explican la Flota Crux Meridianam?\".\n\nLa Flota Crux Meridianam ha ganado su reputación a lo largo de los años, y es extremadamente costoso contratarla para un servicio. Aun así, en una ocasión, cuando el barco se encontraba en medio de una fuerte tormenta, Beidou se fijó en un pequeño bote que había cerca. Al ver cómo las olas lo sacudían, ordenó a su tripulación que remolcara el bote a un lugar seguro, a pesar del riesgo de que la quilla del barco pudiera destruirse. Beidou compartió con los tripulantes del bote la poca comida y agua que le quedaba a la Flota Crux mientras navegaba a través de la tormenta.\n\nFinalmente, después de varios días, la flota llevó al bote rescatado a un lugar seguro para atracar. Agradecidos con Beidou por salvarles la vida, la tripulación del bote se convirtió en su fiel socio comercial a partir de entonces.\n\nCuando los lugareños de Liyue relatan esta historia, sonríen e insisten: \"¡Cuando alguien arriesga su vida así, puedes estar seguro de que se necesita mucho más que intereses para explicar sus acciones! ¿Realmente te atreverías a mirar a Beidou a los ojos y decirle que la compasión es moneda de cambio?\".\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nSe dice que quien maneja los hilos de la Flota Crux Meridianam es Ninguang, el Equilibrio Celestial de las Siete Estrellas.\n\nSin embargo, las dos personas involucradas en esta afirmación la niegan rotundamente, si bien sus argumentos para hacerlo son completamente distintos.\n\nComo miembro de las Siete Estrellas, Ninguang siempre necesita de alguien para ensuciarse las manos por ella. De entre todos los candidatos, escogió a Beidou. Que la Flota Crux Meridianam aceptara colaborar es meramente incidental.\n\nPero si Beidou llega a escuchar a la gente decir que es un títere de Ninguang, lo niega enfurecida y afirma que solamente cooperan.\n\nBeidou es única entre los colaboradores de Ninguang.\n\nA diferencia de la gente común, no tiene miedo de confrontarla, e incluso a menudo está en desacuerdo con ella.\n\nAl gabinete de Ninguang le preocupa el carácter descarado de Beidou, pero Ninguang solo sonríe y descarta una preocupación tan ridícula.\n\n\"¡Tonterías! Beidou es probablemente la persona más fácil de controlar de todo Liyue. Solo dile la verdad y lo que obtendrá como recompensa, y acabará aceptando\".\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nDespués de un largo viaje, la Flota Crux Meridianam llegó a tierra firme y llevó a cabo una celebración durante tres días, como de costumbre. El otoño había pasado como el de cualquier otro año, salvo por una nueva chef en la ciudad: Xiangling, la cocinera del Restaurante Wanmin.\n\nPara reducir los gastos de la celebración, engañaron a Xiangling para reunirse con ella en la entrada de la ciudad y, así, raptarla y llevarla al barco. Una vez allí, miró a Beidou y dijo: \"Si lo que quieren es comer platos de marisco al estilo Yue, entonces, lo siento, pero no puedo hacerlo. Mi objetivo es trascender los conflictos entre los dos grandes estilos de cocina...\"\n\nBeidou simplemente señaló un saco con monedas de oro a sus pies y dijo entre risas: \"Vos cocinad lo que se os dé bien. Hicimos un buen trabajo la última vez. ¿Qué os parece si os doy 50 000 Moras como pago?\".\n\nY así fue como, para probar su habilidad cocinando marisco, Xiangling aceptó a regañadientes la oferta.\n\nAl final, Beidou reconoció la habilidad de Xiangling y dijo frente a sus marineros: \"¡Recordad bien su nombre! ¡Xiangling será famosa en todo Liyue!\". Desde entonces, el resto de la tripulación consideró a la chef como una de los suyos.\n\nXiangling también admira a Beidou por su generosidad con el dinero y su franqueza. Frecuentemente viaja con ella en busca de ingredientes marinos exóticos. Como hija del mar que es, Beidou no deja de sorprender a Xiangling por su conocimiento sobre el marisco.\n\nAhora bien, que Xiangling haga caso a las recomendaciones de Beidou ya es otra historia.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nAlgunos dicen que un objeto se asemeja a su amo.\n\nAunque puede que no sea una descripción adecuada, la Flota Crux Meridianam sí se asemeja a Beidou, pues tiene las mismas cualidades.\n\nSin embargo, hay secretos entre la flota que se extienden a lugares de los que Beidou no se ha percatado.\n\nDespués de su primer viaje, su Primer Oficial siempre saca a los nuevos marineros a beber y les cuenta con todo lujo de detalles una vieja historia:\n\nEn el pasado, la Flota Crux emprendió un viaje para desafiar los mares desconocidos y se encontró con una terrible tormenta que los llevó a las puertas de la muerte.\n\nEn ese momento, Beidou estaba parada en la cubierta detrás del timón, cantando una canción de pescadores de Liyue en medio de aquella tormenta.\n\n\"... Hasta que las olas se calmaron y amaneció en el horizonte lejano\".\n\nEl Primer Oficial termina la historia con esta última frase y una expresión de anhelo en su rostro.\n\nA medida que el negocio creció y la flota se expandió, fue agregando detalles cada vez más increíbles para que los novatos adoraran a Beidou como a una diosa.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Rumores de los trabajadores del muelle\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n1. Frente a una hidra de tres cabezas de un tamaño inimaginable, Beidou lanzó su gran espada. Girando en el aire, cortó los tres cuellos de la hidra antes de regresar a su mano.\n\n2. Beidou venció a Ninguang dos veces en el ajedrez. ¡Dos veces! Lo importante no fue que, tras perder, Ninguang tuviera que pagarle mucho dinero, sino que Beidou se atrevió a desafiarla.\n\n3. Desde el día en que mató al monstruo marino "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Haishan"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ", Beidou no volvió a cantar una saloma nunca más.\n\n4. Sí, Beidou sabe muchas salomas, no hace falta que se lo preguntes. Solo los insensatos se atreven a hacerlo. ¿O acaso quieres acabar como la hidra de tres cabezas?\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLiyue e Inazuma comparten un dicho común: \"Sus aletas formaron el profundo océano, y su cola creó las altas montañas\". Los pescadores aprendieron esta frase mientras estaban en tierra hace mucho tiempo, y la cantaron una y otra vez, difundiendo la melodía hasta que se convirtió en la canción más alabada que la gente conoce hoy en día. Cada vez que la niebla se acumula sobre la superficie del mar, se puede escuchar una canción lejana cantada por los pescadores escondidos en sus blancas barcas: \"Sus aletas formaron el profundo océano, y su cola creó las altas montañas...\"\n\nEsta fue la canción de cuna de la infancia de Beidou. La historia de Rex Lapis derrotando a los monstruos marinos se había vuelto legendaria entre la gente de Liyue. De niña, a Beidou le encantaban esos cuentos, y a menudo pensaba que a ella también le gustaría ver a aquel pez gigante.\n\nSin embargo, un día cantó la canción con una emoción diferente en su corazón. Toda la tripulación cantaba mientras navegaba.\n\nHaishan estaba en el agua muy cerca. Mitad pez y mitad dragón, era temible como una pesadilla y poderoso como una deidad, y levantaba olas de decenas de metros de altura con facilidad.\n\nAquellos acostumbrados a jugarse la vida en el mar estaban destinados a encontrarse con Haishan. Beidou había deseado hacerlo desde que tenía nueve años, y soñaba con cortarle la cabeza de un solo golpe.\n\nMuchas veces había desafiado a la criatura, y muchas veces había fallado. Pero hubo un día que fue diferente. Ese día, cargó contra Haishan con su mejor espada mientras apartaba a sus marineros de en medio.\n\nLa feroz batalla duró cuatro días. La flota atacó a Haishan con cañones, arpones, flechas y cuerdas, mientras que Beidou luchó contra la criatura durante diez horas hasta bien entrada la noche.\n\nHaishan se sentía más cómodo en la oscuridad, así que ni un solo miembro de la flota se atrevió a dormir aquella noche. Beidou esperaba en la proa del barco mientras escuchaba el sonido del viento.\n\nUn golpe; tan solo un golpe. Eso era lo que necesitaba para derrotarlo. Y así esperó, inmóvil frente al gélido viento de la noche.\n\nAl alba, sin haber comido ni bebido en toda la noche, Beidou escuchó un cambio en el sonido de las olas.\n\nEntonces, asestó un golpe que fue como un trueno, como una furiosa ola que cortó la cabeza del gigantesco monstruo.\n\nLos truenos partieron el cielo, y un rayo púrpura cayó justo ante Beidou, que quedó completamente bañada en la sangre de su enemigo.\n\nEl deslumbrante destello púrpura que cayó del cielo como un rayo era incluso más valioso que la propia sangre de Haishan. Así fue como la matadragones obtuvo su Visión: un regalo divino para aquella persona capaz de subyugar a la terrible criatura.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Información de combate "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Talentos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "elemento"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Conquista del océano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Invocadora de mareas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "2"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Quebrantatormentas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Castigo divino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tormenta eléctrica\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Conquistador de mareas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "6"
             }
           ]
@@ -1328,152 +1330,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Suspiro de Stormterror\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas del oro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía del oro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía del oro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo de bronce\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo plateada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo dorada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1481,393 +1483,393 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Constelación "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cazador de ictiosaurios\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Al activar Quebrantatormentas, crea un escudo que absorbe daño en una cantidad equivalente al 16% de la Vida Máx. de Beidou durante 15 s."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "El escudo tiene un 250% de eficiencia de absorción de Daño Electro.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tormenta sobre el mar turbulento\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Los rayos de Quebrantatormentas rebotan a 2 objetivos adicionales.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Invocadora de la tormenta\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de Invocadora de mareas +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Venganza súbita\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tras recibir daño, los Ataques Normales de Beidou obtienen un 20% de Daño Electro adicional durante 10 s.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Caminante de mareas carmesí\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de Quebrantatormentas +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Flagelo del mal\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mientras esté activa la habilidad Quebrantatormentas, la RES Electro de los enemigos cercanos se reduce en un 15%.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Ascensión "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Amatista vajrada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Prisma del relámpago\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jade noctilucoso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo de bronce\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo plateada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo dorada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1875,185 +1877,185 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Estadísticas "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Bono de Daño Electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1094.1492\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3914.8462\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 18.87648\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 67.54129\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 54.36375\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 194.5125\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa ascendido "
             }
           ]
@@ -2061,1428 +2063,1426 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Estadísticas de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Gachapón "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Vestuarios "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Galería "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Victor Mare.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Victor Mare\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Beidou (visualización).png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galería de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Beidou - ¡Levad anclas!.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Beidou - ¡Levad anclas!"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Beidou.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Arte de cumpleaños "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Beidou 2021.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2021\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Beidou 2022.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2022 "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Hecho por [https://twitter.com/Atdan86 Atdan]\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Beidou 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2023 "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Hecho por [https://twitter.com/_Hitoto_ Hitoto]\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Beidou 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Beidou 2025.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2025\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Dias festivos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Año Nuevo Chino 2023 6.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Año Nuevo Chino 2023 N.6 \n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Diseños de Paimon - Emoticonos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 127 - Beidou - Carcajada.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 8 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 128 - Beidou - Adiós.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 8 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Menciones de personajes "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historias de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Xiangling "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mapa de Xiangling "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Kaedehara Kazuha "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Detalles del personaje "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Kaedehara Kazuha "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Kaedehara Kazuha "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cáscara de Visión "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Ninguang "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4  "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Yelan "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Yoimiya "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Yaoyao "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Diálogos de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Curiosidades "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "* Los diálogos de Beidou se han traducido al español usando la forma de hablar típica de los piratas. Esto se puede ver fácilmente porque habla de vos al viajero y utiliza expresiones piratescas como \"¡Arr!\" y \"Ah del barco\". En inglés, sin embargo, su forma de hablar no es diferente al resto de personajes.\n* Viendo la naturaleza de su relación con Ninguang y la forma en la que interactúan"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Véase la cinemática final del evento del "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Rito de la Linterna"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ": "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Iridiscencia fugaz"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "."
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "</"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", se puede saber que ambas tienen una relación muy estrecha.\n* Probablemente, el nombre de este personaje se haya inspirado en el sistema de navegación por satélite "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "BeiDou"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "wikipedia:es:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", oriunda de China.\n** La Osa Mayor se llama Beidou (北斗) en chino, exactamente el mismo nombre que el de Beidou, lo que implica que ella es una persona muy importante para las Siete Estrellas. Busque \"''Bei Dou''\" en los nombres chinos de las estrellas, y verá los nombres de las Siete Estrellas alineados junto a ella.\n*Beidou aparece mencionada en las siguientes "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Decoraciones"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ":\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fuegos ociosos"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historial de cambios "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1.0\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Navegación "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<!--"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "interwiki"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "-->"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "de:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:北斗"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Бэй Доу"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Бейдов"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Beidou"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:北斗"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

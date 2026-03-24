@@ -1,414 +1,416 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Catalizador\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " La Letrada Inocente\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Femenino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Bestia Iustitia (Bestia de la justicia/Bestia justa)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ziwu Su (苏子芜)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Yumiri Hanamori (花守 ゆみり)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cho Kyungyi (조경이)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lizzie Freeman\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 28 de Julio\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Oficina de Asesoría Jurídica de Yanfei "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Puerto de Liyue "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Adeptus de Liyue\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " A mi manera\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Liyue\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1.5\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Xiezhi ("
             },
             {
+              "type": "internal link",
               "children": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Bestia iluminada"
                 }
               ],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Bestias iluminadas"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ")\nHumana\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " En uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Atacante principal\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2         "
             }
           ]
@@ -416,843 +418,843 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox_Personaje_jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n'''Yanfei''' es un personaje jugable en "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "''Genshin Impact''"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\nElla es hija de un "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Adeptus"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y una mujer humana. Cuando creció, sus padres se fueron de aventura y la pusieron al cuidado de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Madam Ping"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". Ella reside en "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", sirviendo como asesora legal para su gente.\n\nLlegó por primera vez en la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Versión 1.5"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " en el gachapón \""
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Soledad de la nobleza (2)"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\".\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Perfil"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Una reconocida asesora legal que vive en Liyue. Esta joven tan perspicaz tiene parte de sangre de bestia iluminada."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Cita"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\nYanfei es una asesora legal en "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", pero también es, en parte, una bestia iluminada tal y como "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ganyu"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "; las astas a los lados de su cabeza son su símbolo de su herencia como tal.\n\nNi siquiera "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Morax"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " tiene control de todas las bestias iluminadas, siendo Yanfei de las pocas que no firmó un contrato con él. Ella nació en una época pacífica, así que no tenía necesidad de pelear en guerras como sus ancestros. Aún así, escogió la profesión de interpretar las leyes y ayudar a los demás con conflictos y disputas.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariencia"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Yanfei es una mujer joven y atractiva de piel pálida con brillantes ojos verde azulado revelando grandes pupilas muy claras y redondas. Tiene el pelo largo de color rosa salmón, con ello se le ven varios mechones superpuestos y uno central que cubre una buena porción de su rostro, su cabello baja hasta curiosos flequillos que terminan sobre sus cuernos, mas abajo destaca su cabello largo y lacio que se desvanece a un rosa claro en las puntas; que guarda debajo de un gran sombrero de bufón magenta. Debajo de su cabello, Yanfei tiene un par de cuernos de color crema y un par de escamas en los dorsales de sus manos, lo que indica su herencia adeptus.\n\nYanfei se viste a menudo con una blusa magenta recortada con mangas blancas sueltas y un cuello blanco decorado con un pompón. También usa una falda magenta atada con un lazo amarillo en un lado sobre un par de pantalones cortos negros. Su atuendo está decorado con pompones y detalles en negro y dorado. Usa además un par de botas magentas tipo bufón con suelas doradas y un forro esponjoso.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Personalidad"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "A Yanfei le gusta leer, sobre todo sobre la ley, y dedica su tiempo a estudiar la ley de las naciones de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Teyvat"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". No tiene problema en viajar para ayudar a sus clientes en caso de que tengan problemas con la ley en otra nación y tiene un fuerte sentido de la justicia. Es bien conocida por la gente de Liyue por su conocimiento de la ley. Todos acuden a ella en busca de asesoramiento legal y trata a todos sus clientes de manera formal. Incluso "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ninguang"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", la Tianquan de las "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Siete Estrellas de Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", afirma que su memorización de la ley le permite cerrar rápidamente las lagunas en las leyes existentes mucho más rápido de lo que hubiera podido hacerlo ella. Al resolver disputas, siempre obtiene todas las pruebas legales de antemano para presentar un argumento convincente.\n\nA pesar de tener la sangre de un "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Adeptus"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " en sus venas, Yanfei no está particularmente preocupada por su herencia adeptus, y es una de las pocas que no firmó un contrato con "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Morax"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". De hecho, simplemente pasa su tiempo como lo hace un humano normal. Ama a sus padres, pero debido a que se fueron poco después de que ella naciera para emprender un viaje, fue puesta al cuidado de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Madam Ping"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", a quien a menudo llama \"Abuela\".\n\nAdemás, tiene una amistad con "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Eula"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", ya que ella la salvó una vez y han mantenido correspondencia desde entonces.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historia"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Detalles del personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLiyue es el puerto de los contratos y el comercio, así como un lugar donde la riqueza no se deja de acumular.\n\nComerciantes de las Siete Naciones viven y trabajan aquí, lo cual ha traído prosperidad a la ciudad, pero también ha dado lugar a disputas. Por ello, Ninguang, el Equilibrio Celestial, elaboró una serie de detalladas leyes y normas que no todo el mundo ha estudiado con detenimiento.\n\nAsí fue como nació la profesión de asesor legal. Los asesores legales conocen muy bien las leyes de Liyue y ayudan a la gente a resolver sus disputas a cambio de una remuneración. Yanfei es la asesora legal de mayor reputación en Liyue.\n\nSiempre lucha por los intereses de sus clientes en la medida en que la ley lo permite. Algunas personas la llaman la “ley andante” de Liyue.\n\nSin embargo, como una de las pocas humanas con sangre de bestia iluminada que aún no ha firmado un contrato con Rex Lapis, lo que realmente quiere Yanfei es una vida libre y feliz.\n\nCon respecto a por qué lleva siempre consigo los «Principios legales de Liyue» y se dedica a trabajos relacionados con el código legal, Yanfei explica:\n\n“Si no quieres sentirte encadenado por las leyes, primero debes conocerlas en profundidad”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nComo la asesora legal que goza de mayor popularidad en Liyue, los precios de asesoría de Yanfei son los más altos.\n\nAun así, incontables personas desean contar con sus servicios. Los comerciantes no suelen escatimar en gastos a la hora de contratar a un mediador, pero son muy estrictos con respecto a quién es ese mediador.\n\n“No pasa nada si tengo que gastar más dinero. Solo estaré tranquilo y satisfecho si Yanfei se encarga de este asunto”.\n\nSi hay tantas personas que valoran así a Yanfei no es solo por su perspicacia y elocuencia, sino porque a ella le importa enormemente el pilar sobre el que se basa la ley: la justicia.\n\nTodos los casos en los que media acaban de manera satisfactoria, e incluso consigue que los comerciantes con conflictos de intereses dejen de lado sus prejuicios por un momento.\n\nAunque no tiene un contrato para ello, Yanfei siempre ha aportado su granito de arena para mantener la paz y la tranquilidad en Liyue.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nComo asesora legal, también hay cosas que no se le dan bien a Yanfei. Este es el caso de las disputas en las que hay implicados sentimientos y afecto entre personas. \n\nProblemas relacionados con divorcios y reparto de bienes, custodia de los hijos, cuidados a personas mayores, ruptura de relaciones, etc.\n\nHay quien dice que resolver una disputa familiar es complicado incluso para las personas más justas y honestas.\n\nYa que Yanfei creció en un entorno lleno de amor desde pequeña, estos problemas le resultan muy complicados.\n\nPodría decirse que son su punto débil. \n\nA veces, considera que ambas partes tienen razón. Otras, que ambas están equivocadas.\n\nAhora bien, en el caso de las disputas por la custodia de los hijos, Yanfei piensa que, sea cual sea el resultado de la mediación, los niños siempre saldrán perdiendo y sufrirán secuelas psicológicas. \n\nAun cuando alcanza una decisión en su mediación, este tipo de casos son agotadores para Yanfei. \"Solo espero que la gente pueda elegir bien las personas con las que se relaciona para reducir un poco esta clase de preocupaciones\".\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \nEl amplio círculo oscial del que disfruta Yanfei en Liyue se debe a su tolerancia e inclusividad. No importa si tocas un tema un poco incómodo o si no eres una persona muy habladora, todo el mundo se lleva bien con Yanfei al charlar con ella.\n\nEso sí, la única premisa es no intentar debatir y no hablar de derecho frente a ella. Cuando Yanfei entra en su \"modo trabajo\", transmite una sensación completamente distinta.\n\nAdemás, como ha estudiado durante años el código legal, tiene unas costumbres particularmente estrictas. Al hablar, evita a toda costa ambigüedades e inexactitudes, por lo que a veces parece que habla de manera muy enrevesada. Cuando se da cuenta de que, a causa de ello, la otra persona se siente confusa, Yanfei se da preocupadamente unos golpecitos en la cabeza con la esquina de un libro.\n\nSin embargo, es muy difícil que cambie esta costumbre si sigue pasando tanto tiempo inmersa en sus libros legales.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \nYanfei tiene como costumbre prestar atención al origen de las normas legales cuando estudia las frias cláusulas de las leyes.\n\nPor ello, es una maestra de la comprensión lectora incluso cuando de relaciones sociales se trata.\n\nPor ejemplo, una vez, un viajero que se encontró por casualidad con Yanfei le dijo: “No imaginé que te encontraría aquí”.\n\nEste saludo, que, teóricamente, debería ser de lo más normal, despertó otro significado distinto en la mente de Yanfei.\n\n“No imaginé que te encontraría aquí” significa que el viajero realizó el acto de “imaginar” una hipotética situación en la que podría o no encontrarse con ella.\n\nEntonces, ¿por qué dijo “no imaginé”? Lo correcto sería decir que el viajero tenía unas “determinadas expectativas” del lugar en el que aparecería Yanfei, pero que el sitio donde apareció al final iba en contra de esas expectativas. Ahora bien, ¿de dónde procedían esas expectativas? ¿Acaso el viajero la había estado observando a escondidas?\n\n“¿Tal vez el viajero estaba preocupado por mi?”.\n\nEsa noche, Yanfei no dejó de dar vueltas en la cama pensando en aquel enigma.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \nLa posesión más preciada de Yanfei es el equilibrio de acero que le dio su padre.\nSe dice que este equilibrio fue un tesoro dado por Rex Lapis que puede utilizarse para medir el valor de todas las cosas. Por conveniencia, Yanfei tiende a usar a Mora para equilibrar las escalas, lo que quiere decir que usa a Mora para evaluar objetos.\n\nLos precios de muchos objetos han cambiado lentamente a lo largo de los años, pero pesar un objeto con este equilibrio solo da su valor en el momento en que se creó el Mora, dejando el resto a Yanfei para que ejerza su propia sabiduría y juicio.\nA través de las medidas de innumerables objetos, Yanfei puede ver los cambios en Liyue. Algunos objetos que alguna vez fueron comunes se han vuelto extremadamente raros, y algunos objetos exóticos del pasado se han convertido en peatones en la actualidad.\n\nEste equilibrio de acero le recuerda que muchas cosas no pueden ser valoradas por los estándares del mundo.\nYanfei una vez trató de sopesar el valor de una Visión, pero no importa cuánto Mora agregara, la balanza no estaría equilibrada.\n\nFrustrada, colocó en la balanza la caja de su cintura, que contenía sus pesadas anotaciones legales escritas a mano. Solo entonces los pesos finalmente se igualaron.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " El último código legal\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \nEste es el código legal más especial de todos los que colecciona Yanfei.\n\nComparado con los antiguos códigos tan abstrusos y extensos, el grosor de este es difícil de creer.\n\nAl abrirlo, uno puede darse cuenta de que, aparte de un prólogo, en él tan solo hay escritas las teorías más básicas del derecho.\n\nPara Yanfei, este es el estado definitivo de la ley. En un futuro aún muy lejano, las leyes ya habrán calado hondo en las personas y todo el mundo vivirá amistosa, modesta y alegremente. Por su parte, los tribunales apenas tendrán casos de los que encargarse y los códigos legales, apilados como montañas, irán desapareciendo con el paso del tiempo.\n\nAunque parezca algo muy lejano para alguien con sangre de bestia iluminada, vivir hasta ese día no es algo difícil.\n\n\"Ahora que lo pienso, cuando llegue ese momento, probablemente me quedaré sin trabajo...\".\n\n¿Qué debería hacer en el futuro? Una vez, Yanfei se encontró por casualidad con uno de los conciertos de rock de Xinyan e inmediatamente se sintió atraida por esa nueva tendencia artística.\n\nPero aprender a tocar un instrumento musical desde el principio parecía algo un poco complicado. Por eso, tras leer una gran cantidad de información al respecto, se le ocurrió un plan: si de verdad ese día llegara, podría dedicarse a cantar.\n\nAlguien como ella, capaz de recitar de memoria las incontables leyes de Liyue en tan solo una hora, al menos cumpliría con el estándar de velocidad al cantar.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nEl padre de Yanfei es una bestia iluminada, mientras que su madre es una comerciante mortal ordinaria. Nacida en tiempos de paz, Yanfei no firmó un contrato con Rex Lapis, sino que tiene uno con sus padres para \"vivir feliz\".\n\nComo la principal exégeta legal de Liyue, no es ajena a explotar algunas lagunas legales existentes, a veces para sí misma y, a veces, para otros.\n\nSe ha dejado en claro con bastante frecuencia que Yanfei no es estricto con las reglas y no desea ser encadenado por restricciones.\n\nAun así, contribuye a la mejora de Liyue mientras busca su propio placer y no utilizará estas lagunas para el mal.\n\nAl hacer enmiendas a las lagunas legales cada año, el Equilibrio Celestial, Ninguang, a menudo estudiará las actividades de Yanfei, como si fuera la solucionadora de problemas legales no oficial de Liyue.\n\nEn cierto sentido, se podría argumentar que Yanfei mejora las leyes al precio más bajo posible ...Este principio es también la razón por la que nunca ha sido condenada por explotar tales lagunas.\n\nYanfei cree en \"ninguna estructura sin leyes\", y lo que desea es \"vivir como uno quiera sin sobrepasarse\".\n\nTodos en Liyue, Adeptus o mortales, lo protegen a su manera.\n\nEs por eso que Yanfei posee una Visión, una que tiene el mismo peso que sus principios.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Información de combate"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Talentos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "elemento"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sello ígneo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Trato cerrado\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "2"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Contrato vinculante\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Términos asociados\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ojos justicieros\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Conocimiento enciclopédico\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "6"
             }
           ]
@@ -1260,152 +1262,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Rama de jade carmesí\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas del oro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía del oro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía del oro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo de bronce\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo plateada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo dorada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1413,425 +1415,425 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Constelación"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insisto, Señoría\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " La RES a interrupción de Yanfei mientras canaliza un Ataque Cargado aumenta por cada sello escarlata que posea. Además, el Coste de Aguante de dicho Ataque Cargado se reduce en un 10% adicional por cada sello.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Derecho de interpretación final\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta en un 20% la Prob. CRIT del Ataque Cargado de Yanfei contra los enemigos con menos de un 50% de Vida.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sello pírico del samadhi\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Trato cerrado"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Absolución\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Al utilizar Contrato vinculante, se crea un escudo que dura 15 s y que absorbe daño en una cantidad equivalente al 45% de la Vida Máx. de Yanfei."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "El escudo tiene un 250% de eficiencia de absorción de Daño Pyro.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Declaración jurada\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Contrato vinculante"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cláusula adicional\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta en 1 la cantidad máxima de sellos escarlatas que puede llevar Yanfei.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ascensión"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ágata agnidus\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jade inmaduro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jade noctilucoso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo de bronce\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo plateada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Insignia de cuervo dorada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1839,185 +1841,185 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Estadísticas "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Bono de Daño Pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 784.14026\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2805.64\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 20.12304\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 72.001564\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 49.2135\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 176.085\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa ascendido "
             }
           ]
@@ -2025,944 +2027,942 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Estadísticas de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Gachapón"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Vestuarios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Bestia Iustitia.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Bestia Iustitia\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Yanfei (visualización).png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galería de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Yanfei - Imparcialidad.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Yanfei - Imparcialidad"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Yanfei.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Arte de cumpleaños"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Yanfei 2021.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2021 "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Hecho por [https://twitter.com/Esojiros 雨壱絵穹]\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Yanfei 2022.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2022\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Yanfei 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2023 "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Hecho por RoMaNa\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Yanfei 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024"
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Hecho por [https://x.com/428clv 北田 藻]\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Yanfei 2025.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2025\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Días festivos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Año Nuevo 2023 2.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Año Nuevo 2023 "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Hecho por [https://twitter.com/jeonghee1414 モ誰]\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Barco del Dragón 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Barco del Dragón 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones de personajes"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historias de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Eula "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Diálogos de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Curiosidades"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " \n\n*El padre de Yanfei es un Adeptus que se casó con una humana. A pesar de sus obligaciones con "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", recibió la bendición de "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Rex Lapis"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Morax"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " para casarse con una humana e ir libre por el mundo. Incluso el Arconte les dio un regalo de bodas.\n*Durante la misión de mundo \"Tetera, Dulce Tetera (I)\", Yanfei le hace firmar a la solicitante de un encargo PRIMERO, después es cuando le explica los detalles a la solicitante del encargo y le dice los honorarios que deberá pagar por el encargo. Esto legalmente no está permitido, el asesor legal debe esclarecer cualquier tipo de duda a un solicitante y decir de cuanto son sus honorarios por los servicios del asesor. Además, uno no puede firmar sin haber antes solicitado este tipo de información sensible.\n*Si nos fijamos en su diseño, su cornamenta es muy semejante a la típica con la que se suele representar a los nobles dragones orientales: cuernos no muy largos, sin punta o punta suave y curvados hacia abajo, o sea, más similares a los de un ciervo que a los de un dragón típico, esto es compatible con el hecho de que posee escamas en su diseño.\n*Cuando realiza sus ataques y se cambia de personaje interrumpiendo su animacion y luego se la vuelve a cambiar ella saca su lengua.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navegación"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Adeptus"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "de:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:煙緋"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Янь Фэй"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Yanfei"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:煙緋"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Яньфей"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

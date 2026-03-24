@@ -1,48 +1,48 @@
 {
+  "type": "page",
   "children": [
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "A "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "title"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " with other "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "display"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "link"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "."
     }
-  ],
-  "type": "page"
+  ]
 }

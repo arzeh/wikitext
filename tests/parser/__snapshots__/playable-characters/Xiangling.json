@@ -1,326 +1,328 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lanza\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Chef de Cocina\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Femenino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2 de Noviembre\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Trullae (Cucharón)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Liyue\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Restaurante Wanmin\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pescado hervido del Restaurante Wanmin\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Li Jiang (蒋丽), aka \"Xiao N (小N)\"\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ozawa Ari [小澤 亜 李]\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Yoon Ah-yeong [윤아영]\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jackie Lastra\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1.0\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Humana\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " No en uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Atacante principal\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2         "
             }
           ]
@@ -328,633 +330,633 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox Personaje jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n'''Xiangling''' es un personaje jugable de ''"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "''.\n\nElla es la jefa de cocina del "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Restaurante Wanmin"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y lo dirige junto con su padre, el "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Chef Mao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". Como chef, Xiangling no tiene miedo de probar diferentes recetas o ingredientes \"exóticos\". Haciendo sus platos a veces bastante únicos.\n\nLlegó por primera vez en la "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Versión 1.''‏‎''0"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Versión 1.0"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " en el gachapón.\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Perfil "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "La jefa de cocina del Restaurante Wanmin y también camarera allí, Xiangling es una apasionada de la cocina y destaca en sus platos picantes y característicos. Aunque todavía es joven, Xiangling es una verdadera maestra de las artes culinarias con todas las habilidades de un veterano de la cocina. Disfruta de una buena reputación entre los comensales abundantes de Chihu Rock. No hay absolutamente ninguna necesidad de estar nervioso si quiere que pruebes su última creación. No te defraudará.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Apariencia "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Xiangling tiene el cabello oscuro que mantiene en un par de moños trenzados como panda. Tiene ojos dorados, piel pálida y una sonrisa perpetua en su rostro. Xiangling usa una pinza de pelo dorada en forma de pata en un lado de su flequillo.\n\nXiangling usa un leotardo marrón y dorado con cintas rojas en la parte delantera y trasera. Lleva un cinturón dorado, que usa para llevar a su compañero panda rojo. Xiangling usa guantes y botas marrones sin dedos, así como una cinta roja trenzada alrededor de una pierna.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Personalidad "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "A Xiangling le encanta cocinar, ya que aprendió el arte de su padre. No tiene un ojo perspicaz hacia un tipo específico de cocina, ya que la comida es una forma de expandirse y experimentar. Ella usará cualquier cosa para sus recetas, incluso ingredientes poco convencionales que podrían asquear a otras personas. Incluso si algunos de los platos no son de su agrado, Xiangling no se rendirá y simplemente presionará para modificarlos o comenzar de nuevo desde cero.\n\nSu cocina poco convencional es lo que la llevó a ser aclamada tanto en Mondstadt como en Liyue. A diferencia de la mayoría de los cocineros, a Xiangling no le preocupa conseguir moras, afirmando que la comida es para nutrir y que las sonrisas en los rostros de sus clientes son más que suficientes para ella. No le gusta tener que limitarse a un estilo específico de cocina, ya que lo considera insípido y nada sorprendente.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historia "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\"¡Aquí está tu carne frita! Y tu carne de Mora. Y las albóndigas de rábano fritas, como pediste\".\n\nHay en Liyue una calle llamada Peñasco Chihu, donde hay un restaurante llamado Wanmin.\n\nUno debe prestar mucha atención al caminar por la bulliciosa calle.\n\nCualquier recién llegado se sentirá atraído por el aroma de la comida o querrá entrar en las tiendas a curiosear al escuchar las voces de sus vendedores.\n\nXiangling, mesera y chef del Restaurante Wanmin, acaba de servir unos platos bien calientes.\n\n\"Siéntese donde quiera y pida lo que quiera. ¡Puedo incluso preparar cosas que no están en el menú!\".\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nXiangling ha destruido innumerables sartenes en el restaurante. Ya sea que fueron carbonizadas por el calor de un Slime Pyro o se agrietaron congeladas por una Flor de neblina, algunos quedaron completamente irreconocibles después de sufrir pequeñas explosiones. Tras mucha consideración por parte del padre de Xiangling, finalmente aceptó el talento destructivo de su hija en la cocina.\n\nXiangling, tan imprudente, imaginativa e improvisadora, solo quería experimentar las nuevas recetas que se le acababan de ocurrir. \"¿Qué tiene eso de malo?\" , pensó para convencerse a sí misma.\n\nAl final, entre los gastos mensuales del Restaurante Wanmin, siempre se incluye una parte para sartenes nuevas.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n\"Hay muchos secretos para cocinar, pero el más importante es un corazón apasionado\".\n\nEsta frase estaba escrita en la página del título del diario de cocina que el padre de Xiangling le regaló cuando ella decidió aprender a ser chef; ese diario era el trabajo de su vida.\n\nSi ella fuera cualquier otra persona, probablemente lo habría considerado una frase ridícula y anticuada. Sin embargo, para Xiangling era un tesoro de valor incalculable.\n\nPara ella, su padre solo intentó asegurarle una posición en la eterna guerra entre la cocina de estilo Li y la Yue.\n\nSin embargo, en ese momento, ambos estilos estaban al borde de un conflicto total; muchos pequeños restaurantes fueron víctimas del injusto boicot que causó la disputa. El Restaurante Wanmin no fue una excepción.\n\n\"¡La buena comida es buena comida y punto!\"\n\nEl monopolio de los ingredientes lujosos, como el matsutake y el cangrejo, enfureció a Xiangling, y su forma de expresar tal ira fue asumiendo la posición de chef.\n\nYa era hora de que ella hiciera algunos cambios.\n\n\"¡Haré platos realmente deliciosos con cualquier ingrediente!\".\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa determinación de Xiangling puede considerarse un desastre para los Hilichurls del Desfiladero Jueyun. Podría ocurrir que se despertaran un día y descubrieran que sus bastones de pelea habían desaparecido.\n\nPor supuesto, la vegetación del Pantano Dihua tampoco encontró una mejor suerte.\n\nDespués de todo el trabajo que realizó, creó algunas recetas nuevas, como pescado asado Hilichurl, arroz glutinoso cola de caballo relleno de carne...\n\nNunca se crearían nuevas recetas si uno se apegase a las antiguas.\n\nHay que romper las cadenas de lo conocido para crear tus propias recetas.\n\nCuando Xiangling creó su \"maravillosa\" receta de Pollo frío especial del Chef, su padre tuvo que comer una simple sopa de arroz blanco durante dos días.\n\n\"Al comerlas juntas, la menta y la Flor Chingxin provocan diarrea...\"\n\nAprendió una experiencia valiosa que agregar a su diario.\n\nQué extraño. Ella también comió sus propios platos, pero nunca le pasó nada. Xiangling se sintió culpable.\n\nTal vez fue porque era joven y estaba sana, o de alguna manera había desarrollado una resistencia contra sus tóxicos platos... Nunca lo sabremos.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nCada vez que un cliente preguntaba qué era exactamente esa extraña criatura que la seguía, Xiangling contaba esta historia:\n\nUn día que fue a buscar un poco de Campanita de cristal, comenzó a llover de repente. A medio camino, ya estaba cansada y hambrienta. Se encontró con una cueva en la que había un extraño santuario.\n\nSe sentó junto al santuario y sacó dos panes de maíz picante.\n\nSe comió uno, pero dejó el otro en el santuario para más tarde.\n\nSin embargo, se quedó dormida debido al cansancio.\n\nCuando volvió, el otro pan de maíz picante ya no estaba. Una misteriosa criatura la estaba mirando.\n\n\"¿Estaba rico?\".\n\nLa misteriosa criatura asintió con la cabeza.\n\n\"¿Quieres más?\". Sacó un poco de carne en conserva de su mochila.\n\nLa misteriosa criatura asintió.\n\nAsí, Xiangling hizo un nuevo amigo. Quizás por sentirse atraída por su comida, la criatura comenzó a seguir a Xiangling allá donde fuese.\n\nElla lo llamó \"Guoba\", igual que el nombre de su aperitivo favorito desde que era pequeña.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nDespués de probar todo lo que había que probar en Liyue, las habilidades culinarias Xiangling mejoraron enormemente. Su especialidad, los platos picantes, llegaron a ser elogiados por su padre, un chef veterano.\n\nCreó un sabor único y complejo, al no escatimaren el uso de chiles y agregar frutas y hierbas para potenciar el aroma.\n\nXiangling también fue quien creó la especialidad del Restaurante Wanmin, el estofado de perca de lomo negro, un plato que combinaba el estilo Li, aceitoso, salado y colorido, y el estilo Yue, aromático y con un abundante uso del marisco.\n\nAlgunos intentaron imitar la receta, pero no consiguieron replicar su sabor.\n\n\"Estofar con Campanita de cristal fresca durante toda la noche y moler cuando esté seco. Utilizar como especia aromática para cualquier plato\".\n\nEsta es la receta especial de Xiangling.\n\nLa aprendió tras innumerables diarreas, magulladuras por golpearse contra paredes de rocas afiladas y sacrificar demasiados woks.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mapa de Xiangling\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nEste mapa de Teyvat está lleno de densas anotaciones con varios colores. Si lees con detenimiento, puedes encontrar los lugares donde ha estado Xiangling y dónde tiene la intención de ir en el futuro.\n\n\"El marisco de las aguas poco profundas alrededor del Bosque de Piedra Guyun es inigualable en frescura. ¿Dicen que 'aquí hay monstruos marinos'\".\n\n\"La carne de los monstruos marinos sabe muy bien. Debería buscar a Beidou para luchar contra otro. Quizás los huevos al vapor les darán mejor sabor\".\n\n\"¿Hay un dragón en Mondstadt? ¡Genial! Solo necesito tres días de provisiones para llegar allí\".\n\n\"Las Valbayas son dulces. Hay muchas aquí. Traeré una canasta para traerlas, a ver si crecen\".\n\n\"¡Los Matsutake salteados de este restaurante Mondstadt son un manjar! Deberían venderlo. Oh, ¿qué pasa si frío un poco con Chile de Jueyun? Suena bien. También podría pedir prestada una cocina mañana y probarlo\".\n\n\"Todavía no he encontrado al dragón. ¿Estoy en el lugar correcto?\".\n\n...\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n\"Puedes hacer algo súper delicioso con cualquier tipo de ingrediente\".\n\nXiangling obtuvo la aprobación de una Visión al apoyar este ideal de una manera sincera y sin reservas. Incluso cuando preparaba platos que podrían llamarse \"horripilantes\", su deseo de seguir tratando de combinar los ingredientes nunca vacilaría.\n\n\"Ugh... Lagarto frito con flor chingxin no sabe tan bien. Creo que los lagartos deberían ser asados a la piedra en el futuro\".\n\n\"El arroz frito con Slime no tiene nada de extraordinario. Quizás la próxima vez intentaré introducir champiñones en un Slime\".\n\nAunque sus amigos no pudieron soportar el sabor de su \"Batalla de los Dioses\" y le aconsejaron que se diera por vencido, Xiangling nunca dejó de pensar en cómo convertir estos ingredientes \"especiales\" en comida deliciosa.\n\nEn el corazón inocente y persistente de Xiangling, mientras no sean venenosos, no hay ingredientes buenos o malos.\n\nSu Visión, después todo, prueba que incluso los dioses aprueban forma de pensar.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cumpleaños...\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n¡Ah, allí estás! ¡Ven conmigo! He preparado una fiesta de cumpleaños para ti... No, en serio, ¡insisto! ¿Cuál de todos los platos que he preparado te gusta más? Tranquilo, pruébalos todos y luego me dices.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Información de combate "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Talentos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "elemento"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Kung-Fu pasta\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ataque de Guoba\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "2"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyronado\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Fuego cruzado\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ¡Cuidado, que pica!\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Chef de cocina\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "6"
             }
           ]
@@ -962,152 +964,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Garra de Stormterror\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas del esfuerzo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía del esfuerzo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía del esfuerzo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Condensado de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Babas de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Esencia de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1115,373 +1117,373 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Constelaciones "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Crujiente por fuera, tierno por dentro\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Reduce la RES Pyro de los enemigos atacados por Guoba en un 15% durante 6 s.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aceite y fuego\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " El último golpe del Ataque Normal aplica sobre el enemigo un estado de implosión durante 2 s. Tras ese tiempo, el enemigo explotará, infligiendo un 75% de Daño Pyro en el AdE.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Que quede bien frito\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de Pyronado +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " A fuego lento\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta en un 40% la duración de Pyronado.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guoba furioso\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de Ataque de Guoba +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyronado condensado\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mientras Pyronado esté activo, todos los miembros del equipo obtienen un 15% de Bono de Daño Pyro.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Ascensión "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ágata agnidus\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Semilla de fuego eterno\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Chile de Jueyun\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Condensado de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Babas de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Esencia de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1489,185 +1491,185 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Estadísticas "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Maestría Elemental\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 24\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 911.791\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3262.3718\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 18.87648\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 67.54129\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 56.0805\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 200.655\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa ascendido "
             }
           ]
@@ -1675,1206 +1677,1206 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Estadísticas de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Gachapón "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Vestuarios "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Galería "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Trullae.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Trullae\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Xiangling (visualización).png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galería de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Xiangling - Recién hecho.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Xiangling - Recién hecho"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Xiangling.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Arte de cumpleaños"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Xiangling 2020.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2020\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Xiangling 2021.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2021\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Xiangling 2022.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2022\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Xiangling 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Xiangling 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Dias festivos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Medio Otoño 2019.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Medio Otoño 2019\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Nochevieja china 2020.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Nochevieja china 2020\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Nochevieja china 2022.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Nochevieja china 2022\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Barco del Dragón 2022.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Barco del Dragón 2022\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Barco del Dragón 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Barco del Dragón 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Medio Otoño 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Medio Otoño 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Año Nuevo 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Año Nuevo 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Día de la Candelaria 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Día de la Candelaria 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diseños de Paimon - Emoticonos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 143 - Xiangling - Emocionada.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 9 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 144 - Xiangling - Ehehe~.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 9 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Menciones de personajes "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historias de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Beidou "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Chongyun "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Kuki Shinobu "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Xianyun "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Xinyan "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Yaoyao "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Yaoyao "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diálogos de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Curiosidades "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "* "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "PAGENAME"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "  aparece mencionada en las siguientes "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "decoraciones"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ":\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Leña y ahumados"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historial de cambios "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1.0"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Se actualizó el ícono de equipo de Xiangling."
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1.4"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Se añadió un nuevo diálogo \"Sobre Baizhu...\"."
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3.6"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Se añadió un nuevo diálogo \"Sobre Gaming...\"."
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4.4"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Se añadió un nuevo diálogo \"Sobre Lan Yan...\"."
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5.3"
             }
           ]
@@ -2882,269 +2884,267 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios2"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navegación"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "de:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:香菱"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Сян Лин"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Сянлін"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Xiangling"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:香菱"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

@@ -1,411 +1,413 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Espada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " La Estrella de la Noche"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br/"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Entre el sueño y la vigilia, pero completamente incrédula\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cryo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Luscinia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Akademiya de Sumeru"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br/"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
+              "type": "internal link",
               "children": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Escuela de Iluminacionismo"
                 }
               ],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Facultad Rtawahist"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Éxtasis soporífero\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sumeru\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región actual "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 19 de Diciembre\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Femenino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3.2\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tomita Miyu (富田美憂)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Kang Sae-Bom (강새봄)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hou Xiaofei (侯小菲)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ashely Biski\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ???\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " No en uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol           "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Supervivencia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2          "
             }
           ]
@@ -413,640 +415,640 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox_Personaje_jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n'''Laila''' es un personaje jugable de elemento Cryo en ''"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "''.\n\nEntre el sueño y la vigilia, pero completamente incrédula.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Perfil"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\"Siempre dice que está abrumada escribiendo su tesis y que dibujar mapas astrales la estresa, pero es más resistente que nadie, y se niega a quedarse atrás... ¿Por qué la conozco tan bien? Jeje...\""
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Una misteriosa joven que se hace llamar \"La bendición de las estrellas\""
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Cita"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\nEstudiante de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Facultad Rtawahist"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", Laila se está especializando en astrología teórica y dibuja incansablemente mapas astrales que incluir en su tesis.\n\nDebido a las altas expectativas de sus profesores, su escritorio siempre está cubierto de montones de papeles que no dejan de crecer por más que se esfuerce.\n\nAl sufrir de una severa falta de sueño, si detiene la mirada fijamente sobre un papel en blanco, montones de estrellas comenzarán a titilar frente a sus ojos.\n\nEs por eso que decidió tomarse un pequeño descanso, para ser capaz de afrontar la realidad con una mente lúcida y despejada.\n\nCuando abrió los ojos de nuevo, descubrió que una miríada de estrellas habían adornado el manuscrito que previamente dejó en blanco.\n\nLaila se frotó los ojos para asegurarse de que no estaba soñando. La tesis que debía presentarse al día siguiente estaba ahora claramente escrita en los papeles.\n\n¿Es una tesis que cayó del cielo? ¿O una bendición de las estrellas? ¿O es eso de... sonambulismo del que hablan en las leyendas?\n\n... No había tiempo para reflexionar sobre estas cuestiones: la próxima clase de Laila estaba a punto de empezar.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariencia"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Laila es una joven delgada de piel clara y ojos dorados con pupilas blancas. Tiene el pelo azul oscuro, que se va aclarando en las puntas, y está peinado con coletas que giran en las puntas y orejas puntiagudas. Su rostro está enmarcado por un flequillo que también gira en las puntas y que llega hasta más allá de la barbilla y hasta los hombros. Lleva un tocado dorado que parece una tiara adornada con un adorno de copos de nieve y una capucha puntiaguda de color índigo.\n\nEl atuendo de Laila consiste en una túnica negra con la parte delantera blanca y mangas abullonadas de color índigo. Alrededor de las muñecas lleva gruesos brazaletes de oro con cadenas que cuelgan de ellos y guantes negros con afiladas cuchillas doradas. Alrededor de la cintura lleva un largo trozo de tela añil atado para formar un cinturón con varios detalles dorados. Lleva unas mallas blancas con anillos dorados alrededor del muslo izquierdo y unas sandalias doradas. Su "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Visión"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " Cryo está sujeta a un punto detrás de su túnica, por encima del cinturón.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Personalidad"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Debido en parte al estilo de vida de la Akademiya, Laila está muy dedicada a sus estudios, pero esto también la ha dejado algo paranoica y con mucha falta de sueño, haciéndola muy tímida y pareciendo que podría colapsar por agotamiento en cualquier momento. A pesar de estos rasgos, Laila es inusualmente perseverante, ya que sobrevivió a varios de sus compañeros de clase que se unieron al mismo tiempo que ella.\n\nLa falta de sueño de Laila es hasta el punto de que termina sonámbula en la noche, donde se manifiesta una personalidad alternativa de ella. Esta persona es enérgica y decidida, ayudando a resolver todos sus problemas en un instante. Cuando Laila se despierta, expresa sorpresa de cómo sus papeles habían terminado por completo. Parece no ser consciente de su personalidad alternativa, sino que cree que está bendecida por las estrellas.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Detalles del personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa Facultad Rtawahist, a la que pertenece la Escuela de Iluminacionismo, es una de las Seis Facultades bajo la jurisdicción de la Academia de Sumeru.\n\nCada una de las Seis Escuelas tiene un área de investigación distinta. La Escuela de Iluminacionismo se dedica al estudio de la bóveda celeste que flota encima de todos los seres vivos desde tiempos inmemoriales.\n\nLaila es precisamente una de los tantos estudiantes que consagran su estudio en esta área de investigación.\n\nA pesar de que no lleva mucho tiempo en la Academia, ya se ha granjeado un sinnúmero de motes extraños.\n\n\"Sonámbula excéntrica\", \"calculadora andante\", \"tesis caída del cielo\"... Todo aquel que conoce a Laila se refiere a ella con esta clase de sobrenombres.\n\nPeor aún es que, conforme pasan los días, la lista de apodos se vuelve más y más larga.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nEn cada aula de la Academia existen dos clases de personas:\n\nPrimero, aquellas dotadas de conocimiento y que llevan una vida sosegada. Ya sea en la teoría o en la práctica, se desenvuelven con gran soltura, como un pez en el agua.\n\nY segundo, aquellas cuyos rostros están llenos de consternación y que van por la vida suspirando, desesperanzadas. A estas últimas se les puede ver aferrándose desconsoladas a sus herramientas de investigación o escribiendo sus tesis con frustración para luego desecharlas después de escribir solo dos palabras.\n\nSin duda alguna, Laila pertenece a la segunda clase de personas.\n\nEl cansancio y la falta de sueño son el pan de cada día de cualquier erudito, pero en el caso de Laila, la situación puede llegar a ser preocupante. El inmenso estrés al que se somete está patente en sus ojeras y su rostro exhausto.\n\nIncluso al pasar cerca de ella, se le puede escuchar murmurar frases que provocan un sentimiento de lástima a quienes las escuchan: \"no se me ocurre nada\", \"¿por qué...?\", \"estoy acabada\".\n\nAdemás de ser el palacio de la sabiduría para los eruditos con sed conocimiento, la Academia puede llegar a ser el origen de sus pesadillas. Incontables eruditos han pasado por el sufrimiento de experimentos fallidos y propuestas de tesis rechazadas. Se dice que son muchos los estudiantes que todos los años no soportan la presión y renuncian.\n\nPuede parecer que Laila se encuentra al borde del precipicio, pero a diferencia de todos aquellos que han decidido tirar la toalla, ella no se da por vencida.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nEl estado deplorable de Laila se debe a su constante falta de sueño. Y su falta de sueño se debe al estrés de sus estudios.\n\nTodo estudiante de la Academia debe aprobar el curso, completar la tesis y pasar la disertación. No parece nada fuera de este mundo, pero cada uno de estos aspectos requiere una gran cantidad de tiempo y esfuerzo.\n\nDesafortunadamente, Laila es más lenta escribiendo su tesis que el resto de sus compañeros.\n\nY es que pasa mucho tiempo reflexionando sobre cosas como: \"¿mi enfoque es razonable?\" o \"¿mi tema de estudio no es más simplón que el de mis compañeros?\". Incluso llega a dudar de sí misma: \"¿mis cálculos son correctos?\", \"y si lo son, ¿es el método más conciso?\"...\n\nSiendo estudiante de la Academia, sabe que no puede holgazanear en sus estudios, pero mientras más lo piensa, menos se atreve a sentarse a escribir su tesis.\n\nEs así como, presa de la duda, el tiempo se le escapa de las manos. Aún tiene asignaturas por cursar y una tesis por escribir.\n\nEsto la lleva a desvelarse por las noches y compensar sus horas de sueño durante el día. Sin embargo, al amanecer le esperan nuevas asignaturas, y el círculo vicioso se repite. Esto ha provocado que el organismo de Laila comience a actuar de manera anormal.\n\nMuchas veces se pone de pie mientras está dormida y comienza a caminar por doquier. Al despertar, no recuerda lo que hizo. Es tal y como la leyenda urbana de la sonámbula.\n\nAquellos estudiantes que han sido testigos de su sonambulismo dicen que la han visto aparecer de repente en lugares inesperados, pero nadie sabe a ciencia cierta en dónde ha estado ni lo que ha hecho.\n\nSus episodios de sonambulismo están acompañados de una serie de fenómenos extraños.\n\nCada vez que despierta, descubre que el ensayo que ni siquiera había comenzado está terminado. No solo eso, sino que la argumentación es impecable y los datos son correctos. Encima de todo, la caligrafía es la suya propia.\n\nLo más extraño es que la autora ha criticado sin pelos en la lengua las tesis de otras personas y sus métodos de investigación firmando con el nombre de \"Laila\".\n\nPor donde lo vea, es algo que ella no sería capaz de hacer. ¿Acaso alguien le está gastando una broma?\nPero después de reflexionar sobre su vida, desde que vivió en su pueblo natal hasta llegar a la Academia, nadie tiene un motivo para hacer algo así.\n\n\"Una tesis caída del cielo\". Esta es una expresión popular en Sumeru para referirse a un milagro. Sin embargo, en el caso de Laila, la expresión toma un sentido muy literal.\n\n¿De verdad se trata de un milagro? ¿Acaso los cielos se han conmovido al ver su dedicación al estudio de la astrología y finalmente la han bendecido?\n\nSea cual sea la verdad, la bendición de las estrellas ha resuelto sus noches de desvelo y ha podido entregar los ensayos de varias materias.\n\nEl resto depende de ella. Pero antes de ir a clase, debe descansar y recuperar sus energías.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nA pesar del ajetreo de sus clases, Laila busca un poco de tiempo para relajarse.\n\nUno de sus pasatiempos es ir de paseo a Puerto Ormos en barco. Los puestos comerciales, los vendedores pregonando chucherías novedosas y los sorprendentes actos que se pueden ver por las calles de Puerto Ormos son como una bocanada de aire fresco para Laila.\n\nHa visto a los habitantes del desierto más hábiles desafiarse entre sí arrojando cuchillos voladores para acertar en una manzana a lo lejos.\n\nTambién ha visto a personas excéntricas que afirman poder levitar y que, después de acostarse sobre una alfombra común y corriente, se desprenden del suelo.\n\nPero lo que más le impresionó fue un hombre que invitaba a la gente a probar su suerte en la lotería. Después de marcar diferentes premios en pedazos de papel y colocarlos en cajas de madera, aquel hombre revolvía las cajas a gran velocidad e invitaba a los espectadores a escoger una.\n\nLaila había participado muchas veces en loterías similares, pero nunca había obtenido premio alguno. Sin embargo, esta vez, poco a poco comprendió cuál era el truco.\n\nLos rápidos movimientos del tendero lograban confundir a los espectadores comunes y corrientes, pero Laila notó que, conforme movía las cajas de madera, su pulgar izquierdo no se movía nada.\n\nMientras más cerca estuviera de dicho pulgar, menos cambiaba de ubicación la caja de madera.\n\nFue así que, gracias a su vista aguda, Laila obtuvo una y otra vez el premio mayor. Cuando el tendero se dio cuenta de que Laila había descubierto su técnica con solo observarlo, sintió gran admiración por ella y le entregó el premio sin ningún reparo.\n\nSin embargo, para Laila, el haber obtenido el premio mayor pasaba a un segundo plano. Lo que más alegría le causaba era haber descubierto el truco.\n\nA diferencia de la gente conservadora de la Academia que veía con desprecio esa clase de artimañas y trucos baratos, Laila se sentía profundamente agradecida con aquellos vendedores de Puerto Ormos que le traían felicidad.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nAl concluir el primer año, Laila anotó sobre una hoja sus fortalezas y debilidades y elaboró un pequeño resumen.\n\nSu capacidad de observación y deducción no estaba nada mal, ya que podía predecir la órbita de los cuerpos celestes con solo observar los mapas astrales a una velocidad mucho mayor que otros.\n\nAdemás, su habilidad matemática era aceptable. Sin necesidad de papel y pluma, en un abrir y cerrar de ojos podía dar con la respuesta.\n\nAntes de entrar a la Academia, Laila se topó por casualidad con quien sería su futura tutora. En ese entonces, su tutora la elogió diciendo que era \"una niña bendecida por los cielos con una inclinación por el conocimiento\".\n\nFueron estas fortalezas las que la armaron de valor para ingresar en la Academia en busca de sabiduría.\n\nPero al poner un pie en ella descubrió que, en comparación con otras personas de su edad, sus habilidades no eran tan sobresalientes.\n\nAl estar al lado de tantas personas tan destacadas, Laila no pudo evitar sentirse decepcionada.\n\nEn cuanto a sus debilidades, sentía que eran demasiadas. Por ejemplo, al resolver un problema se devanaba los sesos por mucho tiempo sin poder llegar a una conclusión.\n\nTampoco se le daba bien socializar. Para evitar que los demás la tacharan de arrogante, al discutir evitaba expresar su punto de vista. Todo esto hizo que tuviera pocos amigos en la Academia.\n\nLo que más la desanimaba era que muchos ensayos escritos de su puño y letra no eran suyos, sino de aquella \"bendición de las estrellas\". Así pues, Laila se sentía insignificante.\n\nPero lo que no sabía es que la impresión de sus compañeros y profesores era totalmente distinta.\n\"Después de todo, ser enigmático y excéntrico es propio de alguien superdotado\".\n\n\"Al ir de excursión, ¿cómo puede terminar de dibujar el mapa astral tan rápido? ¿Acaso tiene ojos de Daguerrotipo?\".\n\n\"He visto sus ensayos y sus cálculos. Como profesor que soy, me han sorprendido su lógica impecable y su argumentación detallada. No debo despegar la mirada de ella\".\n\nHay quienes se menosprecian a sí mismos por ser extremadamente precavidos y prefieren ahorrarse sus comentarios.\nPero es precisamente su insatisfacción la que los motiva a seguir adelante hasta que, sin darse cuenta, han superado a los demás.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n¿Cómo puede una jovencita ser tan tenaz, inteligente y modesta? A veces incluso demasiado modesta...\nLaila se ve a sí misma como una persona competente, pero lejos de tener el don de un genio.\n\nAun así, aspira a convertirse en alguien sobresaliente, ponerse codo a codo con esas mentes brillantes y provocar la admiración de su familia y profesores.\n\nTales sentimientos encontrados la oprimen. Por un lado, no se atreve a mostrar su verdadero carácter, pero por el otro, se rehúsa a llevar una vida mediocre.\n\nCon el paso del tiempo, una tormenta de emociones arreciaba en su corazón. La vergüenza, la indecisión y el anhelo la abrumaban. Laila debía encontrar una forma de desahogar su alma.\n\nCuando su cuerpo y mente están despiertos, la constriñen todo tipo de ataduras. Pero cuando su cuerpo descansa, su mente obtiene un respiro de libertad y la faceta desinhibida que habita en su alma cobra vida.\n\nDurante su sonambulismo, las dudas se disipan, el sentimiento de opresión desaparece, escribe ensayos, diseña mapas de constelaciones y hace catálogos de estrellas. Todas las tareas que normalmente son un dolor de cabeza para ella se vuelven pan comido. Es entonces cuando expresa su opinión sin chistar y aborda temas difíciles como un desafío.\n\nDe esta manera, Laila desahoga los anhelos que se han anidado en su mente por tanto tiempo. Sin embargo, todos los sueños tienen su final. Al despertar, vuelve a ser la misma joven introvertida y sin autoestima. Después de volver en sí, no recuerda que ella está detrás de esos brillantes pasajes y cálculos intrincados.\n\nElla es esa joven modesta y tenaz, así como esa joven determinada y brillante. Ambas facetas pertenecen a una misma persona.\n\nComo el brote de una planta, Laila se divide entre la duda y el deseo de liberarse. Esta contradicción es precisamente la causa de su sonambulismo. Sin embargo, no importa cuál personalidad se manifieste, Laila siempre será Laila.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Álbum de imágenes de Laila\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nEn el escritorio de Laila, además de una gran pila de notas, mapas estelares y ensayos, también hay un grueso álbum de imágenes.\n\nNo importa cuántas cosas haya desperdigadas por el escritorio o cómo estén distribuidas, el álbum siempre estará en el lugar más llamativo.\n\nEn su interior hay un gran número de imágenes tomadas por la propia Laila de sus padres y sus amigos en su ciudad natal y de su tutora, quien la animó a entrar a la Academia.\n\nEn el reverso de cada imagen hay una descripción de aquello que más impactó a Laila en aquel momento. Siempre ha utilizado este método en lugar de un diario para recordar cada memorable instante de su viaje desde su hogar hasta la Academia de Sumeru.\n\nCuando revive las imágenes de su diario, esto le permite recordar claramente qué tipo de sentimientos la llevaron a tomar cada una de las decisiones reflejadas en el álbum, lo que la ayuda a relajarse y pensar con mayor claridad.\n\nHace poco, Laila añadió una nueva imagen al álbum: un retrato en el que aparece acompañada de un viajero de cabellos dorados. Uno no puede evitar preguntarse cuán grueso será el álbum para cuando Laila se gradúe.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLaila no es la clase de persona que se enzarza con otros en discusiones triviales, pues eso no va con su personalidad. Sin embargo, hubo una ocasión en la que sí participó en una discusión acalorada.\n\nEn un seminario sobre astrología teórica, un prestigioso y reconocido herbad leyó un artículo que Laila había escrito junto a algunos de sus compañeros y se detuvo a valorar uno de los puntos que Laila había analizado.\n\nPara aquel herbad, la astrología teórica suponía la consagración del conocimiento de los investigadores de épocas pasadas, y ya que sus teorías habían sido verificadas en incontables ocasiones por incontables eruditos, debían tomarse como verdad absoluta. Sin embargo, Laila puso en duda una de aquellas teorías e intentó corregirla, algo que el herbad consideró una auténtica blasfemia.\n\nAl recibir semejante crítica, Laila se mantuvo impasible y no replicó en el momento. Más tarde, adjuntó una detallada respuesta junto a sus conclusiones del seminario.\n\nDe inmediato, el herbad también la refutó en su informe.\n\nLlegados a este punto, la mayoría de los estudiantes habría dejado el asunto por las buenas.\n\nNo aprobar el seminario influiría enormemente en la evaluación final del alumno. Además, entrar en debate con un herbad sobre cuestiones teóricas es un acto tachado de presuntuoso e, independientemente de los conocimientos o calificaciones que el alumno posea, es un insulto a una figura de autoridad mucho mayor que la del estudiante.\n\nQuizás todo eso se trataba de un error en los cálculos de Laila, quien, negándose a ceder para no pasar vergüenza, se empeñaba en seguir la discusión.\n\nSin embargo, no cejó en su empeño y continuó intercambiando opiniones con el herbad e insistiendo en su teoría.\n\nSeis meses más tarde, el herbad buscó a Laila y le comentó que, tras estudiar el tema en profundidad con otros eruditos, habían llegado a la conclusión de que efectivamente existía un principio de inaplicabilidad a la teoría tratada que ni ellos mismos habían tenido en cuenta.\n\nTras explicarle en detalle la conclusión a la que habían llegado, elogió con manifiesta emoción que Laila se hubiera atrevido a debatir abiertamente su opinión con alguien como él, y que en los últimos años cada vez menos alumnos se atrevían a cuestionar a sus mentores.\n\nLo más importante en el camino de la erudición es alcanzar el verdadero conocimiento, cueste lo que cueste, y Laila había demostrado su constante determinación por alcanzar la cúspide de la sabiduría.\n\nCuando todo el asunto quedó zanjado, decidió ordenar sus apuntes sobre el seminario y encontró en el interior de la carpeta una deslumbrante Visión.\n\nYacía sobre una montaña de anotaciones, tan brillante y resplandeciente como las estrellas que ella tanto adoraba estudiar.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Información de combate"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Talentos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cryo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "elemento"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Senda radiante\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Noche solemne\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sueño acunaestrellas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Manifestación de la luz\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sueños imperturbables\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sueño premonitorio\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 "
             }
           ]
@@ -1054,152 +1056,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cryo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Espejo del mushin\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas del ingenio\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía del ingenio\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía del ingenio\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pergamino guía\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pergamino hechizado\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pergamino maldito\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1207,505 +1209,505 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Constelación"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cryo \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fortaleza fantástica"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta en un 20% la absorción de daño del escudo Cortina del Letargo de Noche solemne.\nAdemás, al usar Noche solemne, se crea para todos los personajes del equipo cercanos que no estén protegidos por Cortina del Letargo un escudo con una cantidad de absorción de daño del 35% de la de Cortina del Letargo. Este escudo dura 12 s y tiene un 250% de efectividad de absorción de Daño Cryo.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Remisión estelar"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cuando las estrellas fugaces de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Noche solemne"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " golpean a un enemigo, Laila recupera 1 pt. de Energía Elemental. Laila solo puede regenerar energía una vez por cada estrella fugaz de esta manera. \n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Secretos de la noche"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Noche solemne"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15. \n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Revelación astral"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cuando se empieza a lanzar un conjunto de estrellas fugaces de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Noche solemne"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ", otorga a todos los miembros del equipo cercanos el efecto de “lucero”, el cual aumenta el daño de sus Ataques Normales y Cargados en una cantidad equivalente al 5% de la Vida Máx. de Laila."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "El efecto de lucero dura 3 s y se anula 0.05 s después de infligir daño con un Ataque Normal o Cargado. \n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Flujo de consciencia"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Sueño acunaestrellas"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3.\nPuede ser aumentado hasta Niv. 15. \n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fulgor espirituardiente"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta en un 40% tanto el daño infligido por las estrellas fugaces de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Noche solemne"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " como el de los rayos estelares de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Sueño acunaestrellas"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Además, el intervalo de creación de estrellas nocturnas de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Noche solemne"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " se reduce en un 20%. \n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ascensión"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cryo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jade shivada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Resorte perpetuo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Loto nilotpala\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pergamino guía\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pergamino hechizado\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pergamino maldito\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1713,185 +1715,185 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Estadísticas "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Vida\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 930.0268\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3327.6194\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 18.16416\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 64.99256\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 54.936\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 196.56\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa ascendido "
             }
           ]
@@ -1899,1094 +1901,1092 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Estadísticas de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Gachapón"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Vestuarios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Luscinia.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Luscinia\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Visualización de personaje Laila.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galería de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Laila - Ensoñación.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Laila - Ensoñación"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Laila.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Arte de cumpleaños"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Laila 2022.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2022 "
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Hecho por [https://twitter.com/bukiiro 山吹色]\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Laila 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Laila 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diseños de Paimon - Emoticonos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 295 - Laila - Llorar de pobreza.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 19 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 296 - Laila - Sonambulismo.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 19 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 297 - Laila - Progreso 0.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 19 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 298 - Laila - Golpear mosquitos.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 19 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones de personajes"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historias de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Diálogos de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Curiosidades"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "*Por sus dialogos ofrecidos en su Encuentro, es de sospechar que Laila no es originaria de Sumeru.\n* "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "PAGENAME"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "  aparece mencionada en las siguientes "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "decoraciones"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ":\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Sol de castigo"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Reflejos estelares en el firmamento"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Ocaso circundante"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Vestigios de luna fragmentada"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Lividez de estrellas centelleantes"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Presagio de los albores"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3.2"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navegación"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Rtawahist"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "de:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "id:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:レイラ"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Лайла"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Лайла"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Layla"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:萊依拉"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Personajes afiliados a Facultad Rtawahist"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

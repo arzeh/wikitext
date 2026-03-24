@@ -1,343 +1,345 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lanza\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Dendro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Osmanthus\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Morada de Caminante Errante\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Plato casero de Chingtsé\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Liyue\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región actual "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 de Marzo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Femenino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3.4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Kadowaki Mai (門脇舞以)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Yu Hye-ji (유혜지)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Liu Yinuo (刘颐诺)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Kelsey Jaffer\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Humana\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " No en uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol           "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Supervivencia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2          "
             }
           ]
@@ -345,747 +347,747 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox_Personaje_jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n'''Yaoyao''' es un personaje jugable en "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\nOriginaria de una zona rural no muy lejos de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Aldea Chingtsé"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", Yaoyao creció con la naturaleza a su lado. Al ver potencial en Yaoyao, la "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Caminante Errante"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Madam Ping"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " la aceptó como su discípula, y Yaoyao dejó las tranquilas montañas para vivir con su maestro en el luminoso y bullicioso "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "puerto de Liyue"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Perfil "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariencia"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Yaoyao tiene piel clara, ojos rojo oscuro pálido que son dorados en la parte inferior y cabello castaño dorado.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Personalidad"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Yaoyao hace todo lo posible por actuar como una adulta joven adecuada con los demás, incluidos sus mayores, asegurándose de que tengan una dieta saludable y le gustan especialmente los "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "rábanos"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Rábano"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". Tiene mucha curiosidad por el mundo exterior, ya que originalmente vivió una vida recluida con sus padres en la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Aldea Chingtsé"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " hasta que "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Madam Ping"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " la acogió. Al igual que "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Dodoco"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Klee"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", Yaoyao está muy apegada a "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Yuegui"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Rabanal de las nubes"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", a quien la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Preservadora de Nubes"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " hizo para ella.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Detalles del personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLos Adeptus han cumplido con su parte del acuerdo que una vez firmaron con Rex Lapis y han defendido Liyue durante miles de años.\n\nEn cada situación de peligro que Liyue ha tenido que afrontar, los Adeptus han dado un paso adelante, y a veces incluso se muestran en el mundo de los mortales durante los tiempos de paz.\n\nA veces lo hacen para castigar a los viles de corazón, otras para rescatar a los inocentes. Y si se topan en el camino con alguien cuyo destino se haya entrelazado con los Adeptus, lo tomarán bajo su amparo y lo formarán en las artes adépticas.\n\nEntre los Adeptus, Caminante Errante siempre ha sido una de las que ha mantenido un mayor contacto con los mortales.\n\nCuenta con un gran número de discípulos a su cargo, siendo la pequeña Yaoyao la más joven de todos.\n\nYaoyao es una niña con mucho talento, muy inteligente y a la que le gusta estudiar. Aunque su corta edad le impida en ocasiones asimilar todo lo que ha aprendido y a veces provoca algún problemilla, con el tiempo, se convertirá en una joven bien instruida.\n\nYaoyao tiene una personalidad afable y considerada, y trata a todo el mundo con sinceridad y generosidad. No solo ha recibido el favor de Caminante Errante, sino que el resto de sus compañeras discípulas y otros maestros también sienten un gran aprecio por ella.\n\nLa mayoría de los mortales no podría soñar siquiera con llegar a cruzar el umbral de la morada de los Adeptus en el Desfiladero Jueyun, pero Yaoyao entra y sale a su libre antojo. El amor y el afecto que la pequeña recibe de los Adeptus siempre será motivo de admiración para otros.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa gente de Liyue coincidirá en que a Madam Ping suele vérsela siempre en compañía de la dulce Yaoyao. Las dos parecen la viva imagen de la relación perfecta entre una abuela y su nieta.\n\nSin embargo, lo cierto es que no comparten ningún lazo de sangre, sino que Yaoyao tan solo es la discípula de Madam Ping; o mejor dicho, de Caminante Errante.\n\nCuando Yaoyao comenzó el entrenamiento adéptico, era tan pequeña que apenas sabía leer o escribir. Por eso, Madam Ping empezó por instruirla en esas materias, al tiempo que le enseñaba modales y etiqueta con libros de poesía.\n\nConforme Yaoyao crecía, Caminante Errante fue añadiendo ritos adépticos, métodos de entrenamiento espiritual y el arte de la lucha con lanza en las lecciones de la pequeña.\n\nAunque era mucho contenido para una cabecita tan pequeña y Yaoyao no entendía todo lo que le explicaba, Caminante Errante era muy paciente con ella porque veía que la niña aprendía de sus consejos.\n\nDebido a su tamaño, la lanza resultaba demasiado pesada en manos de Yaoyao, pero ella se esforzaba en practicar todos los días. Igualmente, aunque los libros de poesía no eran nada fáciles de memorizar, Yaoyao recitaba sus lecciones y versos todos los días, hasta el punto de seguir recitando en sueños cosas como \"El buen alimento cría entendimiento, y la buena ropa hasta en invierno arropa\".\n\nAl principio, Caminante Errante pretendía mantener una filosofía de entrenamiento estricta, pero Yaoyao nunca le dio quebraderos de cabeza, por lo que al final acabó relajando su exigencia.\n\nAunque lo que de verdad hizo que sintiera ternura por la niña fue el hecho de que ella la tratara como si fuera su abuela.\n\nA pesar de que Yaoyao no mide más que unos cuantos palmos, es realmente responsable y se encarga personalmente de las comidas de su \"abuela\". Incluso le recuerda que debe abrigarse en invierno y cuidarse del sol en verano, casi como si se hubiera olvidado del hecho de que los Adeptus prácticamente son inmunes a los resfriados o los dolores de cabeza.\n\nAl ver el cariño con el que la trataba, Madam Ping se dio cuenta de que aquella niña se comportaba como si fuera su nieta, y ya no era capaz de seguir siendo estricta con ella.\n\nCuando la tomó bajo su tutela, no esperaba tomarle tanto cariño, pero ahora le resulta casi imposible separarse de ella. Aunque eso tampoco es un problema. Al fin y al cabo, aún tiene mucho que enseñarle a la pequeña Yaoyao.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa historia que nos atañe tuvo lugar antes de que Yaoyao hubiera nacido. Sus padres, que siempre habían deseado llevar una vida tranquila en las montañas, decidieron abandonar Liyue y buscar un pequeño hogar apartado pero cerca de la Aldea Chingtsé.\n\nAllí construyeron su casa y vivieron aislados del mundo durante un tiempo.\n\nSu hogar estaba rodeado de montañas y ríos, y vivían unidos como una familia. Detrás de la casa había un pequeño campo en el que cultivaban sus propias verduras y frutas.\n\nPuesto que vivían relativamente cerca de la Aldea Chingtsé, solían atravesar las montañas y pasarse por allí a vender sus cultivos si alguna vez andaban cortos de Moras.\n\nEsa fue la clase de familia en la que nació Yaoyao.\n\nEstaba aprendiendo a decir sus primeras palabras y ya se hacía amiga de los animales, y aprendió a caminar en el rabanal que había en la parte trasera de su casa.\n\nEsa inocencia y esa ternura tan características de Yaoyao provienen precisamente de la vida pacífica y cálida que tuvo durante su infancia en el campo.\n\nUn tiempo más tarde, cierta Adeptus se fijó en ella y la aceptó como discípula.\n\nEn un principio, sus padres se negaron. No querían que su pequeña se fuera a vivir con una Adeptus a Liyue, pues les preocupaba que las luces de la ciudad fueran demasiado brillantes para un espíritu tan puro como el suyo, acostumbrado a una vida en las montañas.\n\nSin embargo, fue el consejo de Caminante Errante lo que convenció a sus padres: \"Vivir recluida en las montañas evitará que el mundo contamine su alma, pero no creo que una vida de soledad sea el futuro con el que sueña su pequeña. Denle una oportunidad, permitan que descubra todas las maravillas que este mundo tiene que ofrecer\".\n\nFinalmente, sus padres aceptaron y dejaron a su hija en manos de la Adeptus. Es más, es un hecho que dejar a su pequeña en manos de Caminante Errante fue una buena decisión.\n\nAhora Yaoyao se siente acompañada y arropada por sus amigos y su mentora cuando pasea por las calles de Liyue, y su personalidad se ha vuelto aún más jovial de lo que ya era. Además, durante cada Rito de la Linterna, pide permiso a su maestra para ir a visitar a sus padres.\n\nY es que unos padres no podrían desear una mejor maestra que Caminante Errante para sus hijos.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nDe vez en cuando, viejos conocidos de Madam Ping le hacen una visita. Cuando eso ocurre, Yaoyao siempre acompaña a su mentora y a sus invitados a dar un paseo por la ciudad.\n\nPuesto que vienen de muy lejos, sus invitados siempre acostumbran a visitar las tiendas, los restaurantes y también la Casa de Té Heyu para escuchar algún recital de cuentos o ver una ópera.\n\nPero en la bulliciosa ciudad de Liyue, Yaoyao y sus acompañantes no son los únicos que disfrutan con su visita a la casa de té; muchos forasteros también disfrutan admirando las tradiciones de otras culturas.\n\nEn una ocasión, mientras escuchaban una ópera en la Casa de Té Heyu, tres forasteros que acababan de llegar a Liyue se sentaron en la mesa de al lado. Tras escuchar las historias adépticas que la ópera narraba, los tres siguieron charlando sobre el tema con una taza de té en la mano y algunos aperitivos de acompañamiento.\n\nAl no poder seguir el hilo de la conversación entre su maestra y su acompañante, Yaoyao terminó por aburrirse, así que decidió escuchar a escondidas a aquellos tres curiosos forasteros para matar el aburrimiento mientras degustaba unos dulces.\n\nUna de ellos era una señora procedente de Inazuma que afirmaba que los Adeptus de Liyue se parecían mucho a la sacerdotisa del Gran Santuario Narukami de Inazuma, pues ambos gestionaban los asuntos relacionados con lo divino y los textos clásicos.\n\nOtro era un señor de Fontaine que insistía en que los Adeptus trabajaban en los organismos de gobierno de Liyue. ¿Será que aquel señor conoció a Ganyu, la secretaria de las Siete Estrellas? ¿O tal vez su nación se regía por un sistema parecido?\n\nEl último era un viajero de Mondstadt al que le fascinaban las leyendas sobre los Adeptus. Al parecer, solo había escuchado historias de los dioses en boca de los bardos de su nación, pero nunca había tenido contacto con ellos o con sus familiares.\n\nTan emocionado como estaba, el joven aventurero le preguntó al maestro de la casa de té si alguna vez había tenido la oportunidad de hablar con un Adeptus en persona, a lo que el maestro contestó:\n\n\"No son más que historias, jovencito. Los mortales no nos pasamos el día en el Desfiladero Jueyun, así que la probabilidad de cruzarse con un Adeptus es ínfima\".\n\nAl escuchar aquello, Yaoyao no pudo contenerse y medió en la conversación: \"¡Eso no es cierto! Hay Adeptus aquí entre nosotros. De hecho, el señor Escultor de la Luna cree que su historia es muy interesante\".\n\nAl oír aquellas palabras, el acompañante de Madam Ping se quedó en silencio. \n\nFinalmente, ella dejó escapar una carcajada y se puso a hablar con el maestro de té para cambiar hábilmente de tema.\n\nYaoyao no lo comprendía. ¿Por qué la gente creía que los Adeptus y los mortales vivían tan lejos unos de otros? Era evidente que los Adeptus caminaban entre los mortales, es solo que no podían mostrarse en público así como así.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nNo todo el mundo tiene la oportunidad de ser discípulo de un Adeptus. Solo aquellos cuyo destino se entrelaza con el de estos seres iluminados pueden ser aceptados por ellos.\n\nYaoyao le preguntó una vez a su maestra: \"Maestra, ¿por qué siempre dices que nuestros destinos están conectados? ¿Qué significa eso?\".\n\n\"Quiere decir que ambas nos parecemos en ciertas cosas, y eso es lo que nos llevó a encontrarnos\".\n\nAquella respuesta fue como una máxima de un libro de filosofía, así que a Yaoyao le costó bastante entenderlo.\n\nLa pequeña recuerda estar jugando en las montañas, como de costumbre, cuando conoció a su maestra.\n\nPor aquel entonces, Yaoayao todavía vivía con sus padres, y solía compartir sus sentimientos con las piedras y las nubes, ya que, para ella, las plantas, los animales, las rocas y los riachuelos de la montaña eran sus mejores compañeros.\n\nAquel día, sin embargo, las piedras y las nubes respondieron a sus palabras. Yaoyao estaba tan contenta que se pasó el día charlando con ellas.\n\nNo fue hasta más tarde, cuando la Adeptus anuló sus artes adépticas, que esas piedras y esas nubes se desvanecieron, y entonces Caminante Errante se presentó ante la niña en su verdadera forma. Sin embargo, Yaoyao no pareció nada sorprendida.\n\nEstá en la naturaleza de un Adeptus proteger el mundo y a cuantos habitan en él. Los Adeptus de Liyue tienen el deber de velar por los demás, por la naturaleza y todo cuanto vive en ella. Todo en este mundo forma parte, a su vez, de un ciclo de vida que permite que todas las cosas y seres crezcan sin dañarse los unos a los otros.\n\nLa actitud de Yaoyao hacia las piedras, las nubes y el resto de sus curiosos amigos era el fiel reflejo de la moral adéptica. Por eso, Caminante Errante posó su mirada en la pequeña.\n\nLa pena es que, después de pasarse el día meditando al respecto con la cabeza reposada entre sus pequeñas manos, la tierna Yaoyao no consiguió comprender el profundo significado que dejaban entrever las palabras de su maestra, y tuvo que dejar a un lado la cuestión para otro día.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nDespués de vivir con su maestra durante un tiempo en Liyue, Yaoyao empezó a planificar sus días hasta el más mínimo detalle. Lecciones por la mañana, práctica de lanza por la tarde y, luego, ¡a jugar!\n\nHasta su maestra decía que jugar era parte fundamental de la vida de un niño y que no había que menospreciarlo, pues tenía tanto valor como estudiar.\n\nDurante sus ratos de juego por Liyue, Yaoyao conoció a mucha gente, como a la capitana de la Flota Crux Meridianam y al médico de la Farmacia Bubu y su pequeña ayudante herborista. Así, cada vez que hay algo que no entiende, puede pedirle su opinión a otra gente.\n\nYaoyao también disfruta mucho explorando el puerto, visitando el puesto de juguetes de la Abuela Shan, dándose una vuelta por el Restaurante Wanmin y viendo lo que pasa en los astilleros. De hecho, a Yaoyao le encanta curiosear allá donde la dejen entrar.\n\nAsí puede ver de primera mano todas esas cosas que no enseñan los libros, como los barcos zarpando a toda vela o una vista panorámica de toda Liyue desde la Terraza Yujing. Gracias a todo ello, Yaoyao puede ver lo grande y vasto que es este mundo.\n\nAprovechando sus ratos de juego, a veces va con su maestra a visitar al resto de los Adeptus en el Desfiladero Jueyun. Cuando los escucha hablar sobre cosas del pasado, se da cuenta de que las historias de los libros no siempre describen de manera fidedigna lo peligroso de las situaciones reales.\n\nCada día aprende algo nuevo y cada día el mundo que la rodea cambia, por lo que todos los días son distintos al anterior.\n\nEso es lo que más le gusta a Yaoyao de Liyue; que la vida en la ciudad sea como un río muy largo que no deja de fluir.\n\nEn comparación, la tranquila vida que llevaba con sus padres en las montañas no era más que un silencioso y tranquilo riachuelo. Y eso no estaba mal, pues ese apacible y parsimonioso riachuelo le había brindado todo tipo de bellos y cálidos recuerdos.\n\nPero el gran río de la ciudad también es genial, ya que la anima a seguir mejorando cada día, a crecer como persona hasta convertirse en una adulta para que tanto sus padres como su maestra puedan estar orgullosos de ella.\n\nY así, entre anhelos, es como crece la pequeña Yaoyao, soñando con el día en que se convierta en una gran persona.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Yuegui\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nCaminante Errante tiene conocidos a lo largo y ancho de Liyue, así que no tardó mucho en hacerles una visita a todos y cada uno de ellos para explicarles que, como Yaoyao aún no había terminado su instrucción, les agradecería enormemente que pudieran ayudarla si se la encontraban, pues pensó que así podría ampliar sus horizontes y aprender.\n\nCon lo que no contaba Caminante Errante era con que la ternura y la dulzura de la niña llegarían a encandilar a Preservadora de Nubes, que se tomó muy literalmente la petición de su compañera Adeptus.\n\nSin que ni ella ni Yaoyao lo supieran, Preservadora de Nubes decidió crear un conejo mecánico para la pequeña.\n\n\"Toma, Yaoyao, esto es para ti. Si alguna vez estás en peligro, no dudes en pedirle ayuda\".\n\nYaoyao se enamoró inmediatamente de su nuevo conejito y decidió llamarlo \"Yuegui\". Desde aquel momento, siempre lo ha llevado allá donde va.\n\nEn cuanto le entregó el obsequio a la pequeña, Preservadora de Nubes fue a hablar con su maestra.\n\n\"Has de saber que ese conejo mecánico tiene una función muy especial: si algún día pierdes de vista a la pequeña Yaoyao, grita '¡Yuegui!' y sabrás inmediatamente dónde se encuentra. Pero tampoco abuses de esa función. Cuando crezca, querrá tener su privacidad y no le gustará que la uses para encontrarla a la más mínima ocasión. Has de seguir mi ejemplo, pues yo no vigilo excesivamente a Shenhe\".\n\n\"Sí, sí, lo entiendo, Preservadora\".\n\n\"De acuerdo. Y no olvides que, si alguien osa meterse con Yaoyao, Yuegui no dudará en alertarnos al respecto. Y si eso ocurriera, más les vale rezar por sus vidas\".\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n\"¿Por qué recibí una Visión?\", no dejaba preguntarse Yaoyao cuando recibió la suya.\n\n¿Fue un regalo de los dioses por haberse portado bien? ¿O era porque, al respetar a su maestra y seguir el camino de los Adeptus, los dioses la consideraban una buena niña?\n\nAl pensarlo, se dio cuenta de que tanto Xiangling como Shenhe, que era discípula de Preservadora de Nubes, también tenían una Visión. ¿Será que, como los Adeptus contaban con el beneplácito de los dioses, los discípulos de los Adeptus también gozaban de ello por extensión?\n\nPor más vueltas que le diera al asunto, no terminaba de comprenderlo.\n\nUn día, Yaoyao se sentó en la montaña que hay a las espaldas de Liyue, pensativa, abrazando a un perrito que la había seguido todo el camino hasta la cima, y suspiró.\n\nAquella no era la primera vez que se topaba con una pregunta sin respuesta desde que había dejado atrás su vida en la montaña con sus padres. En esos casos, su solución era dejarlo pasar y esperar a ser un poco más mayor para entenderlo.\n\nPero ahora que tenía una Visión, sentía la presión de estar a la altura de ese símbolo de reconocimiento divino.\n\nComo digna discípula de su maestra, Yaoyao debía proteger a los demás de la misma manera en que lo hacía ella. Y eso no solo implicaba cuidar a su mentora, sus compañeras discípulas, su familia y sus amigos, sino también ser considerada con todo el mundo. Eso quería decir que aún tenía que seguir esforzándose, así que decidió que a partir de entonces entrenaría un poco más de tiempo con la lanza y escribiría una hoja más para practicar la escritura."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Información de combate"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Talentos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " dendro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "elemento"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Giralanza\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Rabanal de las nubes\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "2"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jadestello fugaz\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Propagación estelar\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Circunspección\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Rastreo sigiloso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "6"
             }
           ]
@@ -1093,152 +1095,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " dendro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cascabel de anulación\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Condensado de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Babas de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Esencia de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas del esfuerzo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía del esfuerzo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía del esfuerzo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1246,557 +1248,557 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Constelación"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Dendro\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 1 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tutelaje adéptico\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cuando explota un rábano jadeado, el personaje en uso dentro del AdE de la explosión obtiene un 15% de Bono de Daño Dendro durante 8 segundos y recupera 15 pts. de Aguante. Solo se puede recuperar Aguante de esta manera una vez cada 5 segundos.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 2 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Rectitud inocente\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Si un rábano jadeado explota y golpea a un enemigo cuando Yaoyao está en el estado de iluminación adéptica de Jadestello fugaz, Yaoyao recupera 3 pts. de Energía Elemental. Solo se puede regenerar Energía Elemental de esta manera una vez cada 0.8 segundos.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 3 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lealtad bondadosa\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Rabanal de las nubes"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 4 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tierna dulzura\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tras usar "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Rabanal de las nubes"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " o "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Jadestello fugaz"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ", la Maestría Elemental de Yaoyao aumenta en una cantidad equivalente al 0.3% de su Vida Máx. durante 8 segundos. La Maestría Elemental solo puede aumentar en un máximo de 120 pts. de esta manera.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 5 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Compasión pura\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Jadestello fugaz"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 6 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Benevolente caridad\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Por cada 2 rábanos jadeados que dispare el Lanzador Yuegui, la próxima vez que lance un rábano jadeado disparará adicionalmente 1 megarrábano superpoderoso. La explosión de este megarrábano tiene un AdE más grande y produce los siguientes efectos:\n*Inflige Daño Dendro en el AdE en una cantidad equivalente al 75% del ATQ de Yaoyao.\n*Restaura Vida al personaje en uso en una cantidad equivalente al 7.5% de la Vida Máx. de Yaoyao.\n\nCada Lanzador Yuegui solo puede lanzar un máximo de 2 megarrábanos superpoderosos.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ascensión"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " dendro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Esmeralda nagadus\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Trepadora supresora\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Chile de Jueyun\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Condensado de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Babas de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Esencia de Slime\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1804,185 +1806,185 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Estadísticas "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Vida\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1030.3239\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3686.4802\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 17.808\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 63.7182\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 62.9475\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 225.225\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa ascendido "
             }
           ]
@@ -1990,658 +1992,658 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Estadísticas de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Gachapón"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Vestuarios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Osmanthus.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Osmanthus\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Visualización de personaje Yaoyao.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galería de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Yaoyao - Yuegui.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Yaoyao - Yuegui"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Yaoyao.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Arte de cumpleaños"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Yaoyao 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Yaoyao 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Yaoyao 2025.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2025\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Dias festivos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Medio Otoño 2020.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Medio Otoño 2020\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Medio Otoño 2022.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Medio Otoño 2022\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Barco del Dragón 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Barco del Dragón 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Fiesta del Medio Otoño 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fiesta del Medio Otoño 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Año Nuevo 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Año Nuevo 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Pascua 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Pascua 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones de personajes"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historias de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diálogos de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Curiosidades"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "*Yaoyao dejó un mensaje en el tablón de anuncios de Wangshu Inn, en el que solicita alojamiento especial para "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ganyu"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Se añadió como personaje jugable junto al gachapón \""
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Confidencia exhortativa"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\" y \""
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Invitación al mundo mortal (4)"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\".\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3.4 "
             }
           ]
@@ -2649,289 +2651,287 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios2\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navegación"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<!--"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "-Interwiki---"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "-->"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "de:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:ヨォーヨ"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Яо Яо"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Яояо"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Yaoyao"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:瑤瑤"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

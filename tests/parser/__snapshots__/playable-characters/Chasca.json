@@ -1,624 +1,626 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Anemo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Femenino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Natlan\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lauren Amante\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Zhang Ruoyu (张若瑜)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Kaida Yuhko (甲斐田 裕子)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Arco\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " La Pacificadora del Firmamento"
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Mediadora de Tlalocán\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5.2\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Vultur Gryphus\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Tlalocán"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Chimpu"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "(madre sauria adoptiva)"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "</"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Coya"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "(hermana sauria adoptiva)"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "</"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Cusco"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "(padre adoptivo)"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "</"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Chuychú"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "(hermana menor adoptiva)"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "</"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "small"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " familia      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 10 de Diciembre\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Momento de alivio\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Su-hyeon (수현)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ???\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " En uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Atacante principal\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2         "
             }
           ]
@@ -626,669 +628,669 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox_Personaje_jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n'''Chasca''' es un personaje jugable de ''"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "''.\n\nElla es la pacificadora más infame de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tribu Plumaflora"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y conocida por la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Guerra de los Peregrinos"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", Chasca lleva el "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "nombre antiguo"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " de \"Vuka\". Chasca no es ajena a los conflictos (a veces lucha con muchos de los suyos propios), pero a pesar de cómo la vean muchos, siempre es capaz de mantenerse por encima de ellos. Ella hace su primera aparición durante [https://www.youtube.com/watch?v=O2ATH__rtQo Avance de Genshin Impact - Ignición: Un nombre forjado en llamas].  \n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Perfil "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Comprendemos que últimamente nuestro comportamiento ha sido imprudente e impulsivo, por lo que acordamos dejar atrás este conflicto y continuar a partir de ahora mano a mano... Esta declaración es completamente voluntaria y sin objeciones. Además, nos gustaría darle las gracias a la mediadora por su excelente contribución en el proceso de reconciliación."
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Una declaración conjunta y \"sincera\" de reconciliación redactada por dos jefes tras un conflicto tribal."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Cita"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\"... Esta niña no tiene salvación... ¡Por supuesto que yo tampoco puedo aceptarlo! Pero, por favor... desiste\".\n\nTal fue el primer conflicto que oyó Chasca desde que llegó al mundo.\n\n\"¿Qué le pasa a esta niña? ¿Acaso la criaron los Qucusaurios? Con razón es tan salvaje...\".\n\nAsí fueron los innumerables conflictos con los que se topó Chasca al regresar a la Tribu Plumaflora.\n\nAunque los recuerdos de su infancia se le antojen borrosos, Chasca se acuerda de las emociones que brotaban al escuchar palabras como aquellas: decepción, dolor, rencor y frustración... Enredada en tal vorágine de sentimientos, la gente acaba cayendo presa de los conflictos.\n\nPero todo conflicto tiene solución, tan solo requiere un giro de los acontecimientos.\n\n\"¿Chuuu?\", un Qucusaurio sobrevolaba el lugar mientras observaba a la niña que lloraba hambrienta más abajo.\n\n\"¡Avisa al menos la próxima vez!\", gruñó enfadada la joven muchacha tras recorrer un sinfín de montañas y encontrar a su \"hermana\", que se ha escapado de casa.\n\n... Puede que muchos conflictos no estén tan arraigados ni sean tan difíciles de resolver como la gente se piensa...\n\nCon el equipaje listo y el arma cargada, Chasca, convertida ya en mediadora, empujó la puerta y salió al exterior, dándole la bienvenida a la brisa matutina.\n\n\"Esta vez... ha llegado el momento de que sea yo quien resuelva los conflictos\", se dijo Chasca con una sonrisa mientras bajaba el ala de su sombrero.\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariencia"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Chasca tiene un largo cabello rojo que le llega hasta la mitad de la espalda, su flequillo cubre su ojo izquierdo, que se desvanece a morado en las puntas. Tiene ojos azules que se desvanecen a azul claro con pestañas gruesas y largas de color rojo oscuro, que parecen tener sombra de ojos morada y orejas largas y puntiagudas como las de un elfo. Su cabello está suelto con una pequeña trenza en el lado derecho de su cabeza. En el tráiler, parece usar un sombrero de copa, una bufanda roja alrededor de su cuello, un pendiente dorado en forma de abolladura en su derecha, una camisa sin mangas dividida por la mitad desde su abdomen hacia abajo, mostrando una parte de su estómago, un cinturón marrón, leggings negros de los cuales la parte derecha es más corta, una correa marrón para el muslo en su derecha y botas negras. También parece tener guantes sin mangas que muestran sus uñas pintadas de negro.\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Personalidad"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Chasca proviene de la Tribu Plumaflora. Padece una enfermedad rara que hizo que sus padres biológicos la abandonaran en la naturaleza, aunque sobrevivió y terminó siendo adoptada por un grupo de Qucusaurios. Finalmente, al regresar a la sociedad humana, fue adoptada por los padres de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Chuychú"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". Entre las tribus de Natlan, se la considera una pacificadora que resuelve las disputas tribales sin dificultad.\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Detalles del personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nTodos anhelan poder, pues nadie puede escapar del conflicto.\n\nAlgunas personas luchan por proteger la tribu o para resistir el embate del Abismo. Naturalmente, también los hay quienes lo hacen para demostrar que son superiores a sus congéneres, o más grandiosos, o más merecedores de Mora y licor, autoridad y reconocimiento.\n\nPero incluso aquellos más beligerantes tiemblan al escuchar el nombre de Chasca.\n\nCuando Chasca entra en escena, hasta el combate más fiero se desbarata en poco tiempo.\n\nEsto no solo se debe al don de Chasca para la mediación y las negociaciones, ni tampoco se debe enteramente a su gran entendimiento de la naturaleza humana que le otorga la capacidad de encontrar una solución que satisfaga a ambas partes. Al contrario, se debe a que...\n\nEsta mediadora es extremadamente poderosa y posee una técnica de combate tan sublime que desafía el sentido común. Enfrentarse a ella en un duelo sería como si un bebé desarmado quisiera plantarle cara al Qucusaurio más fiero.\n\nAquellos obsesionados con el conflicto también le temen al poder y, al verse obligados a enfrentarse a un oponente superior en fuerza, suele ser preferible mostrarse dispuestos a negociar con tranquilidad.\n\nLo que no alcanzan a comprender es cómo se las apaña Chasca para aparecer en mitad de cualquier conflicto en el momento adecuado.\n\nCon tal precisión y casualidad, podría decirse que es como si el conflicto mismo la atrajera, o tal vez... como si de una bestia que detecta el olor de su presa se tratase.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nDesde que Chasca tenía uso de razón, siempre había vivido con Qucusaurios.\n\nAl principio, había llegado a pensar que ella misma era una sauria, pero no había desarrollado un pico curvo ni garras afiladas como su madre y hermana, ni tampoco era capaz de volar, ni de alcanzar la copa de un árbol de un solo salto.\n\nSu madre cuidaba a Chasca igual que lo hacía con su propia hija, y cuando volvía después de cazar, las alimentaba a ambas antes de contentarse con lo que sobraba.\n\nSin embargo, a Chasca no le agradaba la idea de quedarse gimiendo por comida en el nido como un polluelo.\n\nUna vez que pudo correr por las montañas y atravesar ríos a la velocidad del rayo, empezó a salir del nido para ver a su madre y a su hermana en plena caza.\n\nTomó nota mental de sus movimientos de combate para luego emplearlos ella misma. No tenía forma de batir las alas para alzar el vuelo, pero podía saltar entre las ramas de los árboles. No tenía pico ni garras, así que usaba piedras en su lugar.\n\nAnsiosa por intentarlo, iba de un lado a otro en el bosque, hasta que al final dio con su primer gran adversario: un jabalí salvaje que había salido a buscar comida.\n\nImitando los movimientos de un Qucusaurio, atacó desde los aires al jabalí, pero este cargó y la derribó contra el suelo.\n\nSe giró y tomó una piedra de al lado para lanzársela, pero el animal la esquivó con agilidad.\n\nEsta emocionante contienda concluyó cuando Chasca regresó con las manos vacías, abatida y con el cuerpo lleno de cortes.\n\nSu madre le trajo hierbas medicinales para curarle las heridas, y su hermana se opuso rotundamente a que volviera a salir a cazar.\n\nChasca prometió que permanecería en el nido mientras se recuperaba, pero una vez que sus heridas se curaron, volvió a adentrarse en la montaña.\n\nCaminó por el bosque y el río, recogiendo todo tipo de pequeños objetos que pudieran servirle. Piedras con afiladas aristas, ramas resistentes, jugo pegajoso, la piel de animales muertos...\n\nSu madre y su hermana no entendían del todo para qué servían aquellos artículos inútiles, pero les pareció bien que Chasca tuviera un nuevo interés.\n\nLo que no imaginaban era que Chasca los utilizaría para crear una nueva arma: un tirachinas hecho a base de ramas y cuero con el que podía arrojar piedras más rápido y más lejos.\n\n...\n\nEl jabalí salvaje se disponía a arrinconar a una ardilla, pero no imaginaba que él mismo había entrado en el terreno de caza de otra criatura.\n\nDe pronto, sus pezuñas se vieron atrapadas en una sustancia muy pegajosa de la que no podía librarse por más que lo intentara. Después, una incesante salva de objetos voladores le golpearon el cráneo. El jabalí dejó escapar un gemido y perdió el conocimiento.\n\nChasca salió del arbusto y arrastró su nuevo trofeo al nido eufórica.\n\nSu madre y su hermana pensaron que Chasca se convertiría en una experta cazadora a partir de entonces, pero lo que ocurrió después superó todas sus expectativas.\n\nChasca fue perfeccionando cada vez más sus técnicas de combate, como si una voz en las sombras la instara a aprender más y más trucos.\n\nSin embargo, cuanto más seguía aquella voz, menos dispuesta parecía a permanecer en las sombras. Empezó a obsesionarse con aprovechar la iniciativa del ataque, compitiendo contra las aves y bestias de montes y bosques.\n\nAnsiosa, desafiaba a los ciervos pardos, a los esciúridos voladores y a los alabardos. La cazadora silenciosa que acechaba desde las sombras había quedado atrás, dando paso a una guerrera que se enfrentaba a su oponente de frente y a muerte.\n\nPero, cuanto más se entregaba al placer de la lucha, menos presas lograba atrapar... Los animales son criaturas perspicaces y, al reconocer que su oponente era una contrincante formidable, preferían huir.\n\nChasca tuvo que enfrentarse a un dilema: debía elegir entre la emoción de la lucha o la satisfacción de tener la barriga llena.\n\nPara la pequeña Chasca, aquella fue una decisión muy complicada.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nAl contrario que otros críos humanos de su edad, la primera palabra que Chasca aprendió a pronunciar no fue “mamá” ni “papá”.\n\nCuando su padre humano adoptivo, Cusco, la vio por primera vez dándole bocados a un trozo de carne cruda con aspecto salvaje, y al entender que la anciana Allpa pretendía entregarle a Chasca para que la criara como a una hija, se le quedó la boca tan abierta que podría haberse tragado un huevo de saurio.\n\n“Anciana... Yo me comprometí a adoptar una huérfana... ¡Pero nadie me dijo que sería una Qucusauria!”.\n\nEn Natlan, nación en la que el Abismo atacaba con frecuencia, adoptar a un huérfano de la guerra no era algo extraño, pero alguien como Chasca, que había sido abandonada por su propia familia y criada por saurios... Algo así solo ocurría en las leyendas.\n\nLos hechos prueban que Cusco subestimaba la capacidad de destrucción de esta Qucusauria. Aunque los Qucusaurios en Natlan son conocidos por tener una fuerte voluntad, el temperamento de Chasca era aún más indómito que el del saurio salvaje más orgulloso.\n\n“¡Esa buitre! ¡Ha vuelto a robar carne en el almacén!”.\n\n“¡Pero será...! ¡¿Qué haces construyendo un nido con ramas en mi tejado?!”.\n\n“Maldita sea... ¡Esa buitre ha vuelto a buscar pelea!”.\n\nLo que más quebraderos de cabeza traía a la gente era que el comportamiento de los Qucusaurios al menos tenía una motivación: o estaban buscando comida o luchando por su territorio... pero la pequeña Chasca solo parecía querer crear el caos. Aunque tuviera sobre la mesa un manjar mucho más sabroso que la carne cruda y una cama mucho más blandita que un nido de ramas, ella seguía creando problemas y conflictos día y noche sin cesar.\n\nCusco fruncía el ceño, percatándose de que tal vez aquello no se debía a un simple carácter indómito o a la incapacidad de ajustarse a su nuevo entorno, pero ¿por qué sería si no?\n\nLos humanos se desvivían por la riqueza y los monstruos luchaban hasta la muerte por llevarse algo a la boca, pero aquello era diferente. Aquella luchadora de la destrucción no buscaba ganar cierta ventaja ni se mostraba dispuesta a negociar. A Cusco solo se le ocurría una respuesta: el Abismo.\n\nTal vez había llegado la hora de tener una buena charla con Chasca.\n\nLa siguiente vez que Chasca se metió en problemas y fue retenida a duras penas por dos miembros de la Brigada de Vuelo, Cusco se vio obligado una vez más a pedir perdón por no vigilar bien a Chasca y, llevándose la mano a la frente, le preguntó, preocupado:\n\n“¿Qué es lo que quieres exactamente? Si no lo dices, nadie podrá entenderte jamás”.\n\n“¿Por qué le preguntas? ¡Esta buitre no es capaz ni de decir una sola palabra! De verdad que no entiendo qué estaban pensando la anciana y tú...”.\n\nLa pequeña Chasca les dirigió una mirada envenenada a los miembros de la Brigada de Vuelo que la sujetaban y soltó un grave gruñido hasta que al final casi rugió una palabra:\n\n“... ¡¡Bu... Buitres!!”.\n\nCusco no pudo evitar esbozar una sonrisa amarga. Bueno... Al menos un insulto podía considerarse como una forma de comunicación.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLas velas iluminaban el rostro dormido de Chasca. Cusco y un chamán se encontraban a su lado, con la luz de las llamas danzando sobre sus rostros.\n\n“El Abismo ya ha penetrado su alma y ha dejado la cicatriz del conflicto... Su influencia no hará más que crecer con la edad... No es un buen augurio. Es la primera vez que veo algo así”.\n\nEl chamán sacudió la cabeza, suspiró y, tras pensar un rato, continuó, meditabundo:\n\n“Tal vez sería mejor para todos enviarla de vuelta al bosque”.\n\nCusco pudo entender el verdadero significado de las palabras del chamán. Si de pequeña era tan difícil de contener, ¿cómo sería en un futuro?\n\nEl Abismo siempre había sido el gran enemigo de Natlan. Si permitían que permaneciera en la tribu, tarde o temprano ocurriría un desastre.\n\nPero, si no encontraban la forma de contener el Abismo... Bueno, enviarla de vuelta al bosque era una manera menos dolorosa de decir que debían dejarla morir sola.\n\nEl ansia de batalla de Chasca parecía un anhelo innato, igual que la gente común deseaba echarse a la boca un buen manjar. Los demás luchaban por alguna razón en particular y, tras alcanzar su objetivo, las ganas de pelear los acababan abandonando.\n\nSin embargo, su deseo por el conflicto era como un estómago sin fondo: incluso tras un sinfín de victorias, este solo quedaba satisfecho durante un tiempo.\n\nSi no encontraban la manera de controlarlo... tal vez su destino sería acabar con todo lo que la rodeara o perecer en un intenso combate a muerte.\n\n“Ahora es el momento... todavía pueden tomar la decisión”.\n\nLa voz del chamán vibró junto a las llamas de las velas en la oscuridad.\n\nCusco miró hacia donde se encontraba la pequeña Chasca. Dormida como estaba, parecía sumida en una gran tranquilidad. Su respiración pausada y los ligeros ronquidos la hacían parecer una niña normal y corriente.\n\nCusco acarició ligeramente su cabello y murmuró: “Es demasiado tarde... Ya es demasiado tarde...”.\n\n...\n\nChuychú, que se había levantado en plena noche, estaba escondida tras la puerta, allí donde la luz de las velas no alcanzaba a iluminar.\n\nDebido a su juventud, no fue capaz de comprender del todo la conversación entre los dos, pero la gravedad palpable en el aire y la frustración de su padre quedaron marcadas en su corazón.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nDesde aquel momento, los padres de Chuychú empezaron a viajar frecuentemente a lugares lejanos. Hoy era para reunirse con un anciano ermitaño, mañana para ir en busca de cierta medicina legendaria.\n\nCuando ambos salían, siempre intentaban dejar a alguien al cuidado de ambas, pero a veces, cuando surgía algo urgente, salían a toda prisa y la joven Chuychú se quedaba sola en casa con su “hermana mayor” que, al menos en lo que a su carácter y entendimiento se refiere, era más joven aún que ella.\n\nPor fortuna, desde que Chasca había aprendido la palabra “buitre”, parecía mostrarse más dispuesta a atenerse a las reglas que cuando acababa de llegar. Al menos ahora, cuando se enredaba en alguna pequeña disputa, soltaba una retahíla interminable de insultos, pero no intentaba resolver las cosas con los puños.\n\nChuychú no pudo evitar pensar que, tal vez, se había dado cuenta de que su padre y su madre no estaban, y nadie podría ayudarla a pedir disculpas después.\n\nNo, con su carácter, seguramente no llegaba a entender todo el esfuerzo que ponían sus padres en ella... ni sabía lo buenos que eran con ella.\n\nChuychú también había imaginado alguna vez una vida con una hermana mayor que la acompañara al jugar o cuando estuviera triste, y cuidara de ella cuando estuviera enferma...\n\nPero, desde que llegó Chasca, su padre y su madre estaban siempre ocupados, y los demás niños con los que jugaba antes parecían evitarla, ya fuera a propósito o sin darse cuenta.\n\nTodo era culpa de Chasca.\n\nAquella idea permaneció en la mente de Chuychú durante un instante, pero luego sacudió la cabeza rápidamente.\n\nNo podía pensar algo así. Los ancianos decían que todos en la tribu debían permanecer unidos, y sus padres decían que su hermana lo había pasado muy mal...\n\nPero si Chasca no estuviera...\n\n“¡Eh! ¿Está Cusco? ¡Chasca ha vuelto a pelearse!”.\n\nLos repentinos gritos sacaron a Chuychú de su ensimismamiento.\n\nEsta vez fue ella quien salió a toda prisa hacia el lugar del altercado, como habría hecho su padre, y vio la fiereza reflejada en el rostro de Chasca y a un grupo de niños que lloraba a pleno pulmón, entre los que se encontraban varios de sus antiguos amigos.\n\n“Estos... buitr...”, Chasca levantó la mano, señalando a los niños que sollozaban.\n\n“¡Otra vez peleándote!”. El pensamiento que Chuychú había tenido volvió a tomar fuerza en su mente. “¡Ya no juegan conmigo porque siempre te portas así! ¡Papá y mamá tampoco pasan tiempo conmigo!”.\n\n“Bui.. tres...”. Inconscientemente, Chasca bajó el dedo que señalaba a los niños y siguió repitiendo aquel insulto entre susurros cada vez más bajos.\n\n“¡Tú eres la peor de los buitres!”.\n\nChuychú por fin gritó lo que había guardado en su corazón durante tanto tiempo.\n\nChasca la miró con los ojos muy abiertos, abriendo y cerrando los labios como si quisiera decir algo. Después, bajó la mirada, se giró y salió corriendo hacia las afueras de la tribu.\n\n... No pasaba nada, no era la primera vez que se marchaba corriendo. Bastaría con ir a buscarla más tarde.\n\nSin embargo, Chuychú empezó a sentirse intranquila sin saber muy bien por qué.\n\n“¿Qué le pasa a esa niña? ¿No estaba mucho más relajada últimamente? ¿Qué habéis hecho para enfadarla tanto?”, masculló un adulto.\n\nLos niños a los que había pegado se miraron entre ellos, dudando, sin atreverse a decir nada. Después de un largo tiempo, uno de ellos alzó la mano y dijo con voz temblorosa:\n\n“Al principio solo estábamos discutiendo, pero luego alguien dijo... dijo...”.\n\n“Dijo que la familia del Sr. Cusco eran todos idiotas... por dejar que una buitre como ella se quedara en la tribu... Solo era una broma... ¡Además, los mayores también lo dicen!”.\n\n“También dijo que... no juguemos más con Chuychú... por si la enfermedad de su hermana es contagiosa...”.\n\nChuychú se quedó sorprendida mirando en dirección hacia donde había huido Chasca.\n\nEn el monte solo se escuchaba el aullido del viento, como si estuviera transmitiendo la tristeza de alguien que no podía expresarla en palabras.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n¿Por qué? Este no es mi nido.\n\nEsa “anciana”, o lo que sea, me forzó a ir a un nuevo nido.\n\nEsos humanos me hicieron comer, vestirme y pasar juntos muchas noches en las que no hacía tanto frío.\n\nPuedo volver a mi nido cuando quiera. Eso es, voy a volver a mi nido.\n\nAunque madre vuelva a intentar echarme, mi hermana la convencerá.\n\nDa igual cuánto me duela esa “enfermedad”, no necesito que los humanos me “curen”.\n\nLos pensamientos caóticos se arremolinaban en la mente de Chasca.\n\nSe movía de rama en rama con maestría, respirando el familiar aire de la montaña y el aroma de las hojas de los árboles, pero no era capaz de olvidar las danzantes llamas de las velas de la tribu.\n\nNo necesito encender una hoguera para calentarme, ni necesito la luz del fuego para iluminar la noche. Mi madre y mi hermana se las han apañado sin todo eso.\n\nLos débiles humanos prenden el fuego porque temen las frías noches. Los poderosos y orgullosos saurios no lo necesitan.\n\n... Pero el fuego de las velas era muy cálido.\n\nAquel pensamiento traicionero se hizo lugar en su mente sigilosamente, hasta que esa voz comenzó a resonar con fuerza. Entonces, Chasca sintió un intenso dolor de cabeza y cayó del árbol.\n\nHabía vuelto.\n\nChasca apretó los dientes y se alzó agarrándose al tronco. Sus dedos temblorosos dejaron huellas de sangre en la corteza.\n\nLucha, desgarra, destruye... Así olvidarás todo lo malo.\n\nOlvida la cobardía que te ha aportado este tipo de vida, olvida todas las restricciones del mundo de los humanos, ¡todos somos bestias al nacer!\n\nPodía oír aquella voz desde que era pequeña. Aunque al principio tan solo la había instado a cazar e hincar el diente en sus presas, luego se había vuelto mucho más frecuente, confundiéndola y mareándola, y solo sentía alivio al obedecerla.\n\nSi madre me envió al mundo de los humanos... ¿será porque esperaba que ellos pudieran curarme?\n\nPero no, el mundo de los humanos era mucho más ruidoso que el nido de un saurio. Los humanos pasaban todo el día peleando y discutiendo en un mar de conflictos sin fin. Y aquella voz sonaba más nítida y tentadora aún entre todo el caos.\n\nHermana, no quiero decepcionar a madre, es solo que...\n\nChasca acostumbraba a buscar a su hermana para quejarse, pero las gargantas humanas no eran capaces de producir los graznidos de los Qucusaurios.\n\nSé que ustedes no quieren que me pelee, pero...\n\nMuchas veces, Chasca había querido comunicarse con Cusco y su mujer, pero la hija de un Qucusaurio no era capaz de pronunciar palabras humanas.\n\n¡Se lo merecían! ¡Ellos me insultaron, y a ustedes también!\n\nChasca había deseado explicárselo a Chuychú, pero de su boca solo había surgido un atropellado “buitres”.\n\nNo pasa nada, es más que suficiente con que solo yo pueda oír tu voz y con que solo tú entiendas la mía.\n\n¡No tienes por qué dar explicaciones, ni hace falta que entiendas nada! ¡Destroza todo lo que te haga infeliz! ¡Despedaza cualquier cosa que no quieras ver!\n\nEn aquellos momentos, la voz seguía dando gritos en su cabeza.\n\n¡Ya basta! ¡Tú eres lo que más odio! ¡Tú eres el buitre más malvado y odioso!\n\nChasca rugía en su interior mientras descargaba sus puños contra un árbol, como si estuviera intentando agarrar aquella voz y hacerla pedazos.\n\nLos trozos de corteza y las hojas volaban por los aires, pero la voz se reía cada vez más fuerte.\n\n...\n\nLa luz de la luna asomaba entre las ramas, iluminando ciertas zonas del pálido rostro de Chasca.\n\nCayó al suelo con los puños en carne viva, dejando ver los perlados huesos de sus manos en algunos puntos.\n\nEl dolor le impedía moverse, mientras que sus ojos se iban cerrando impulsados por el cansancio. Ni siquiera la voz de su cabeza tenía fuerzas ya para seguir gritando.\n\nLógico, porque está a punto de morir... porque soy yo.\n\nNo estoy demasiado lejos de la tribu, y los árboles lo cubren todo... Seguramente, madre y mi hermana no podrán encontrarme.\n\nCusco y su mujer habían partido, así que no la encontrarían a tiempo.\n\nNadie se daría cuenta de que Chasca iba a morir en aquel lugar.\n\nPero no era algo tan malo, puesto que así el mundo se libraría de una buitre más y del aún peor buitre que había en su interior, pensaba Chasca obstinadamente.\n\nLa luz de la luna se le antojo demasiado fría.\n\n...\n\nVagamente, le pareció notar algo cálido en el rostro. Era como las ligeras plumas de su madre, o como las llamas que encendían los humanos. Chasca abrió los ojos lentamente.\n\nEnfrente encontró una hoguera sencilla, y a su lado se encontraba agachada una niña que empujaba las llamas con sumo cuidado. Era Chuychú.\n\n“¡Ah!”, al darse cuenta de que Chasca había despertado, Chuychú escondió rápidamente la mano tras la espalda. Gracias a la luz que desprendían las llamas, Chasca pudo percatarse de que parecía haberse quemado.\n\n“¿Cómo está tu mano?”, preguntó Chuychú intentando evitar el tema.\n\nEntonces, Chasca se dio cuenta de que le había vendado la mano con firmeza. Aunque la técnica era torpe, al menos había detenido la hemorragia.\n\n“No pude moverte, así que he tenido que atenderte aquí como he podido... Aunque he encendido una hoguera, así que los adultos de la tribu nos encontrarán pronto”.\n\nChasca no respondió, pero su mirada interrogante hablaba por sí sola.\n\n“Si te hubiera pasado algo, papa y mamá se habrían puesto muy tristes”.\n\n...\n\n“Además... Gracias por defenderme. Siento haberte gritado antes de preguntarte qué había pasado”.\n\n...\n\n“Bueno... Volvamos a casa”.\n\n“Casa...”, Chasca por fin abandonó su silencio y murmuró esa nueva palabra. Luego asintió y dijo: “Vamos a casa...”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " “Pacificadora”\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa primera vez que la anciana Allpa, de la Brigada de Vuelo, fue a instruir a Chasca, fue porque las denuncias sobre sus peleas empezaban a amontonarse en su puerta.\n\nPero no importaba cuánto se esforzara Allpa por explicar las normas del mundo de los humanos, la pequeña Chasca no parecía entender dónde estaba el problema.\n\nTanto para los saurios como para las bestias, la fuerza bruta era lo más importante. Si había salido victoriosa, ¿por qué la estaban interrogando?\n\nAllpa le hablaba y gesticulaba con paciencia mientras Chasca estudiaba a la anciana, pensando en si podría ponerle fin a sus largas lecciones si llegaba a derrotarla.\n\nLa segunda vez que Allpa fue a instruir a Chasca, se dio cuenta inmediatamente de que había algo diferente en su mirada.\n\n“Enseñar ser más fuerte”, le dijo Chasca burdamente. Había tenido la iniciativa de querer aprender de los humanos. “Querer vencer Abismo”.\n\n“... Está bien. Entonces, te enseñaré a usar el arma más poderosa que poseen los humanos”.\n\nAllpa sacó un pergamino de tela en el que aparecía bordada con suma delicadeza una pequeña frase: «Pacificadores: el arte de la comunicación humana».\n\n“El lenguaje humano es nuestra arma más poderosa”.\n\n¿Qué tendría que ver mover la boca con el poder? Chasca no entendió nada.\n\nHubiera preferido aprender las técnicas de combate de diferentes armas, desde el arco hasta las armas de fuego, o cómo usar el flogisto, o disparar desde el aire.\n\nLe bastaba con ser suficientemente poderosa, pues así no tendría que perder el tiempo discutiendo con la gente. Al menos, eso era lo que había llegado a pensar alguna vez.\n\nPero la Chasca de aquel momento no tenía forma de sacudirse la voz de su cabeza, darle una buena tunda y acallarla para siempre.\n\nAsí que intentó ser paciente y aguantar, aprendiendo las palabras de mano de Allpa, mascullando poco a poco el contenido de aquel pergamino de tela que antes pensó que nunca llegaría a poder leer en la vida.\n\nDespués, tal y como indicaba el pergamino, aprendió a comunicarse con otras personas, a colaborar con otros e intentar confiar en ellos, y su eficacia en la caza pareció mejorar.\n\nDespués, tal y como indicaba el pergamino, le escribió una carta a Chuychú para su cumpleaños felicitándola. La expresión de Chuychú y sus padres adoptivos fue de grata sorpresa.\n\nDespués, tal y como indicaba el pergamino, cargó sobre sus hombros con las esperanzas de los demás y se dirigió a la arena del Peregrinaje del Retorno del Fuego Sagrado. La expresión con que la miraban los miembros de la Tribu Plumaflora era de respeto.\n\n...\n\n“Ten, esto es lo que querías, posee un gran calibre y una increíble movilidad... Si no supiera de lo que eres capaz y me lo hubiera pedido cualquier otra persona, habría usado los materiales que me dieran para hacerlos volver a la realidad de un buen golpe”.\n\n“Gracias, Xilonen. Así, mi capacidad para la mediación resultará mucho más convincente”. Chasca tomó aquel riflespíritu ceremonial de tamaño extraordinario y usó las riendas para levantarlo y sentir su peso.\n\n“Sí, sí, sí... ¿Quién podría llevarte la contraria después de sufrir el poder de este trasto? Creo que esta es el arma más poderosa que he creado para la Tribu Plumaflora”.\n\n“... No, ‘el poder de convicción de una bala es más fuerte cuando aún no ha abandonado el cargador’”.\n\nChasca acarició el cargador de la pistola y, sin saber por qué, se acordó de las palabras de cierto pergamino de tela.\n\n“El arma más poderosa... A partir de hoy, somos pacificadoras”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nAquella chica salvaje que siempre andaba buscando problemas ya se había convertido en una mediadora capaz de ponerle fin a infinidad de disputas.\n\nYa fuera un conflicto entre humanos, entre tribus, entre saurios o entre saurios y humanos... apenas existía un problema imposible de resolver si Chasca intercedía.\n\nSi había algo que superara cualquier capacidad de razonamiento y no podía solucionarse ni hallar un consenso con las técnicas de comunicación más avanzadas, eso era el Abismo.\n\nA medida que aprendía a coexistir con la voz de su interior, esta se iba debilitando. Chasca incluso llegó a pensar que se había desvanecido del todo.\n\nPero durante la Guerra de los Peregrinos, incitada por el poder del Abismo, resurgió como una mariposa que sale de su crisálida y le mostró una visión, una ilusión indistinguible de ella misma.\n\n“Por fin nos encontramos... Hemos luchado durante tanto tiempo, pero ninguna ha podido vencer a la otra, así que lo mejor sería que lo dejáramos. Acércate y abrázame... Yo te concederé el mayor poder que existe”.\n\nDurante aquella larga lucha, cuanto a más monstruos daba muerte Chasca, mayor era la influencia que tenía sobre ella el poder del Abismo, y el ansia de conflicto que llevaba en su interior se hacía más y más intensa sin parar.\n\nBuscó ansiosa el siguiente objetivo al que matar, a sus pies se apilaba ya una montaña de casquillos de bala y cuerpos.\n\nLa ilusión extendió la mano hacia ella, con aspecto de pacificadora en aquella batalla desesperada.\n\nInstintivamente, Chasca alzó la pistola hacia ella. Era una gran oportunidad: poder darle muerte a aquella odiosa voz de una vez por todas.\n\n“¿Quieres matarme? Pero ¿quién te entiende a parte de mí? ¿Quién te acompaña?”.\n\nMás y más ilusiones empezaron a acosarla, una a una, fueron reapareciendo aquellas emociones que había enterrado en lo más profundo de su corazón.\n\nEl hecho de que la hubieran abandonado por considerarla un problema sin solución, o que los demás la hubieran visto como alguien diferente.\n\nElla no era un saurio, pero tampoco era una persona normal y corriente. Tenía un hogar, sí, pero aun así aquel camino lo recorría en solitario.\n\nNadie podía comprender las llamas que ardían en su corazón, ni tampoco había nadie que pudiera extinguirlas.\n\nY, al enfrentarse a aquella ilusión, se sentía como el viajero que llevaba buscando agua un largo tiempo en el desierto.\n\n¿Podría darle una conclusión a aquella lucha sin fin?\n\nAvanzó paso a paso y el poder del Abismo la rodeó por completo, estremeciéndole todo el cuerpo y confundiendo sus pensamientos. Pero aquella sensación le resultaba muy familiar, era como el infante que regresaba a los brazos de su madre.\n\nPara alguien como ella, que había sido abandonada, ¿no sería aquel su verdadero hogar?\n\n...\n\nJusto antes de extender la mano para rozar a la ilusión, oyó una voz cálida que la llamaba a sus espaldas:\n\n“Hermana, ¡la próxima vez que vayas a marcharte de casa, deja una nota aunque sea!”.\n\n“Puedes escoger la vida que quieras llevar, pero recuerda que este siempre será tu hogar”.\n\n“(Ya que has elegido quedarte entre humanos, no vuelvas más)”.\n\n“(Coya no sabe lo que dice, te echamos mucho de menos...)”.\n\nSacudiendo la cabeza, Chasca detuvo su avance.\n\nEn un pasado, había obedecido ciegamente a aquella voz y había anhelado el conflicto y una fuerza aún mayor.\n\nPero ahora, aunque se había acostumbrado a caminar en solitario, también comprendía el significado de los lazos que había forjado como humana.\n\nVolvió a alzar la pistola y apuntar a aquella ilusión, disparando todas las balas hasta vaciar el cargador.\n\nLa ilusión se hizo añicos como si estuviera hecha de cristal y de entre las grietas fluyó sangre escarlata.\n\n“Ja, qué hipócrita... Aseguras que quieres acabar con los conflictos y, sin embargo, has alzado tu pistola contra mí... Eres una decepción”.\n\nLa ilusión se desvaneció como una nube de humo, y solo quedó una voz vacía resonando en sus oídos.\n\n“Precisamente porque te conozco bien, estoy convencida de que esta es la única forma de mediar en nuestro conflicto”.\n\nChasca extrajo el cargador vacío, preparada para volver a llenarlo. Entonces, lo que le pareció una bala cayó al suelo, emitiendo un nítido tintineo.\n\nBajó la cabeza y vio aquella Visión que titilaba fulgurante.\n\nRecogió la Visión y la lanzó hacia arriba con el pulgar antes de tomarla al vuelo extendiendo la mano.\n\n“Vamos, no importa cuántos conflictos me esperen en un futuro, los resolveré uno a uno... Y eso te incluye a ti”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Información de combate"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Talentos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " anemo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "elemento"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Corriente plumífera\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Riendas persiguesombras\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "2"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Asalto espectral\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Truco balístico\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Voluntad protectora\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Fervor inextinguible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "6"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sentido mediador\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "7"
             }
           ]
@@ -1296,152 +1298,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " anemo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pluma de seda\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas del conflicto\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía del conflicto\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía del conflicto\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo joven\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo veterano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo de tirano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1449,549 +1451,549 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Constelación"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " anemo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cargador: Ruleta perpetua\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Al activarse la conversión espiritual del talento pasivo “"
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Truco balístico"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "”, la segunda bala persiguesombras que se recargue en el rifle también se convertirá en una brillobala persiguesombras."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Si en el equipo hay personajes cuyos tipos elementales cumplan con los requisitos necesarios para que se produzca un cambio elemental, la probabilidad de que se active la conversión espiritual aumenta en un 33.3%, hasta un máximo de un 100%.\n\nEs necesario desbloquear el talento pasivo “Truco balístico”."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Además, reduce en un 30% el coste de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "pts. de noctambulismo"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " y de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "flogisto"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " de la "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "bendición noctámbula"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " de Chasca cuando no está en combate.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cañón: Humo ardiente\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cuando Chasca entra en el campo de batalla, obtiene 1 carga del efecto espíritu brillosombra del talento pasivo “Truco balístico”. Para que se active este efecto, es necesario desbloquear el talento pasivo “Truco balístico”."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Además, al usar el multiapuntamiento de la Habilidad Elemental, "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Riendas persiguesombras"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ", cuando Chasca golpee a un enemigo con una brillobala persiguesombras, infligirá Daño en el AdE del elemento correspondiente en una cantidad equivalente al 400% de su ATQ según el tipo elemental de la brillobala persiguesombras. Este daño se considera Daño de Ataque Cargado, y este efecto solo se puede activar una vez por cada multiapuntamiento.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cuerdas: Control meticuloso\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de Riendas persiguesombras +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Chispa: Disparo fugaz\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Al golpear al enemigo con las espectrobalas rutilantes de la Habilidad Definitiva, Asalto espectral, Chasca recupera 1.5 pts. de Energía Elemental e inflige Daño en el AdE del elemento correspondiente en una cantidad equivalente al 400% de su ATQ según el tipo elemental de las espectrobalas rutilantes. Este daño se considera daño de Ataque Cargado."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Este efecto que inflige Daño en el AdE del elemento correspondiente solo se puede activar una vez por cada vez que se use Asalto espectral.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ala: Silueta sombrarena\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Asalto espectral"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Contienda: Honor de la batalla\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Reduce el tiempo de carga necesario para que Chasca ejecute el multiapuntamiento. Además, tras activar la conversión espiritual del talento pasivo “Truco balístico”, Chasca entra en el estado de “asalto letal”, de manera que durante los siguientes 3 s, la próxima vez que use el multiapuntamiento de la Habilidad Elemental, Riendas persiguesombras, el disparo se cargará inmediatamente y aumentará en un 120% el Daño CRIT de las balas persiguesombras y las brillobalas persiguesombras de dicho multiapuntamiento. El efecto de asalto letal solo se puede obtener una vez cada 3 s.\n\nPara que se activen estos efectos, es necesario desbloquear el talento pasivo “Truco balístico”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ascensión"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Anemo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Turquesa vayuda\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mirada abismática\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Purpuflor chamuscada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo joven\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo veterano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo de tirano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1999,1070 +2001,1070 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Gachapón"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Vestuarios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones de personajes"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historias de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Citlalí"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ifá "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diálogos de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "{| class=\"wikitable anemo\"\n!Personaje\n!Diálogos\n|-\n|"
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "50px"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Archivo:Personaje Ifá.png"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "-"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ifá"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n|'''Sobre Chasca... :''' Su trabajo como mediadora es muy importante. Ella cura las “dolencias” que yo no puedo curar.\n|-\n|"
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "50px"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Archivo:Personaje Ineffa.png"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "-"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ineffa"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n|'''Sobre Chasca... :''' Le estoy muy agradecida por la confianza que depositó en mí. Me ha llevado a volar por los alrededores de la Tribu Plumaflora varias veces. La vista desde arriba es preciosa. La Tribu Plumaflora ha cambiado mucho... aunque muchas cosas permanecen igual.\n|-\n|"
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "50px"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Archivo:Personaje Kachina.png"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "-"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Kachina"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n|'''Sobre Chasca... :''' Es una famosa mediadora en Natlan. Dicen que puede resolver cualquier conflicto sin problemas. Supongo que lo hace porque, como a mí, no le gusta que la gente se pelee...\n|-\n|"
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "50px"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Archivo:Personaje Kinich.png"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "-"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Kinich"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n|'''Sobre Chasca... :''' He visto cómo se encarga de su trabajo. Nuestros métodos de resolución de conflictos son muy diferentes. Yo suelo hacer callar a una de las partes, pero ella hace callar a las dos. Cuando se despiertan en sus camas, ya no tienen nada más que decir, porque han olvidado por qué se peleaban en primer lugar.\n|-\n|"
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "50px"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Archivo:Personaje Mavuika.png"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "-"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Mavuika"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n|'''Sobre Chasca... :''' Ser capaz de sobrevivir bajo la influencia de la corrosión del Abismo ya es un milagro, pero gracias a la gente y a los saurios de esta tierra, incluso encontró una razón no solo para sobrevivir, sino para vivir. Confío plenamente en su fortaleza, pero seguiré haciendo lo que pueda para que esta tierra sea un lugar más agradable al que llamar “hogar”, pues hasta los más fuertes necesitan un respiro.\n|-\n|"
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "50px"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Archivo:Personaje Mualani.png"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "-"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Mualani"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n|'''Sobre Chasca... :''' Conocí a Chasca cuando era pequeña. Nos peleamos varias veces por algunos juguetes... La verdad es que me quedé muy sorprendida tras enterarme de que se había convertido en mediadora. Dicen que hay quienes maduran lentamente y quienes lo hacen muy rápido. Me pregunto si todavía no me ha llegado a mí ese momento...\n|-\n|"
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "50px"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Archivo:Personaje Xilonen.png"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "-"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Xilonen"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n|'''Sobre Chasca... :''' Conseguir que la pistola de Chasca funcionara en una altitud tan elevada no fue tarea fácil. Primero tuve que asegurarme de que la pistola contara con una estabilidad que le permitiera moverse a grandes velocidades. Después, me encargué de crear munición normal y especial adecuada para el combate en altitud. Por último, tuve que considerar la fuerza de retroceso y los problemas de puntería que se originarían al abrir fuego en las alturas..."
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "br"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Sin embargo, Chasca afirmó que no tendría que preocuparme de eso último, puesto que ella lo podría resolver gracias a su técnica siempre y cuando instalara una mirilla mecánica sencilla. Debo admitir que Chasca se maneja con gran habilidad. Al fin y al cabo, por algo la llaman el “as del firmamento” en la Tribu Plumaflora.\n|}\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Vultur Gryphus.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Vultur Gryphus\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Chasca (visualización).png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galeria de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Chasca - Munición cargada.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Chasca - Munición cargada"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Chasca.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Arte de cumpleaños "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Chasca 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024 \n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Diseños de Paimon - Emoticonos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 559 - Chasca - Mediación.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 35 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 568 - Chasca - ¡Ya veremos más tarde!.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 36 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 577 - Chasca.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 37 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 578 - Chasca.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 37 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 579 - Chasca.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 37 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 580 - Chasca.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 37 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5.0\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Se añadió como personaje jugable junto al "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "gachapón"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \""
             },
             {
+              "type": "internal link",
               "children": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Disparo carmesí"
                 }
               ],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Disparo carmesí (1)"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\"."
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5.2"
             }
           ]
@@ -3070,527 +3072,525 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios2\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Curiosidades"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "*Chasca se mostró inicialmente con una "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Visión"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cryo"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cryo"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Color"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " en el [https://www.youtube.com/watch?v=O2ATH__rtQo avance Ingnición]. Sin embargo, su visión se cambió más tarde a "
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Anemo"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Anemo"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Color"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " en el [https://www.youtube.com/watch?v=w1BaF4fd1UM tráiler de la versión 5.0].\n*Chasca usa el "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "arco"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Penacho Engalanado"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " durante la "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "misión de Arconte"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Misiones de Arconte"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Capítulo V"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ": Acto II - "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Roca oscura bajo roca blanca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y maneja "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Pluma Carmesí Buitreastral"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " durante la [https://www.youtube.com/watch?v=5KxK37KN7Hk presentación de personaje de Xilonen].\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Etimología"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "*Chasca lleva el nombre de la diosa Inca [https://es.wikipedia.org/wiki/Chasca_Coillur Chasca Coyllur] que también es el planeta Venus en la cultura incaica\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Referencias"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "references /"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Navegación "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Chasca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Chasca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Chasca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:チャスカ"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Chasca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Chasca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Часка"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Chasca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Chasca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Часка"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Chasca"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:恰斯卡"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

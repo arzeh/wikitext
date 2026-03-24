@@ -1,35 +1,45 @@
 import { Tokenizer } from './tokenizer';
 import { WikiInternalLinkNode } from './nodes/wiki-internal-link-node';
-import { WikiNode } from './nodes/wiki-node';
 import { WikiPageNode } from './nodes/wiki-page-node';
 import { WikiSectionNode } from './nodes/wiki-section-node';
 import { WikiTemplateNode } from './nodes/wiki-template-node';
 import { WikiTemplateParameterNode } from './nodes/wiki-template-parameter-node';
 import { WikiTextNode } from './nodes/wiki-text-node';
 
-enum State {
-  INTERNAL_LINK = 'INTERNAL_LINK',
-  TEMPLATE = 'TEMPLATE',
-  TEMPLATE_PARAMETER = 'TEMPLATE_PARAMETER',
-  HEADER = 'HEADER',
-}
+/** @enum {string} */
+const State = Object.freeze({
+  HEADER: 'HEADER',
+  INTERNAL_LINK: 'INTERNAL_LINK',
+  TEMPLATE: 'TEMPLATE',
+  TEMPLATE_PARAMETER: 'TEMPLATE_PARAMETER',
+});
 
-type ParseOptions = {
-  paranoid?: boolean;
-};
+/**
+ * @typedef {Object} ParseOptions
+ * @property {boolean} [paranoid]
+ */
 
-export function parse(input: string, options: ParseOptions = {}) {
+/**
+ * @param {string} input
+ * @param {ParseOptions} options
+ */
+export function parse(input, options = {}) {
   const { paranoid = true } = options;
 
   const tokens = new Tokenizer(input).tokenize();
   const root = new WikiPageNode();
-  const path: WikiNode[] = [root];
-  const states: State[] = [];
+  /** @type {import('./nodes/wiki-node.js').WikiNode[]} */
+  const path = [root];
+  /** @type {State[]} */
+  const states = [];
 
   while (tokens.length) {
-    const token = tokens.shift()!;
-    const currentParent = path.at(-1)!;
+    const token = tokens.shift();
+    const currentParent = path.at(-1);
     const state = states.at(-1);
+
+    // this should never be the case
+    if (!token || !currentParent) continue;
 
     if (token.type === 'INTERNAL_LINK_START') {
       const node = new WikiInternalLinkNode();
@@ -62,7 +72,8 @@ export function parse(input: string, options: ParseOptions = {}) {
       states.push(State.TEMPLATE_PARAMETER);
 
     } else if ((state === State.TEMPLATE || state === State.TEMPLATE_PARAMETER) && token.type === 'TEMPLATE_END') {
-      let template: WikiTemplateNode | undefined = undefined;
+      /** @type {WikiTemplateNode | undefined} */
+      let template = undefined;
       while (states.length && states.pop() !== State.TEMPLATE);
       while (path.length) {
         const lastNode = path.pop();

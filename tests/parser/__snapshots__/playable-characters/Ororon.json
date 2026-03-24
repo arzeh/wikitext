@@ -1,367 +1,369 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Masculino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Natlan\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nathan Nokes\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Liang Daiwei (梁达伟)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Kondo Takashi (近藤隆)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " La Sombra del Viento Nocturno"
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "El murciélago de Mictlán\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5.2\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Vampyrum Spectrum\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Mictlán"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Fatui"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Seo Jung-ik (서정익)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Arco\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 14 de Octubre\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ceviche meloso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " No en uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Atacante principal\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2         "
             }
           ]
@@ -369,839 +371,839 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox_Personaje_jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n'''Ororon''' es un personaje jugable de ''"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "''.\n\nNacido con un alma \"incompleta\", Ororon forma parte de los "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Augures Vientonocturno"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y lleva el "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Nombre antiguo"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " de \"Bidii\". Vive una vida humilde fuera de los terrenos tribales, cuidando de sus vegetales y "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "flogistabejas"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Flogistabeja"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\nEl hace su primera aparición durante [https://www.youtube.com/watch?v=O2ATH__rtQo Avance de Genshin Impact - Ignición: Un nombre forjado en llamas]\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Perfil"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Ni el peor de los pacientes es tan terco como él. Una vez que tiene una idea, es imposible hacerle cambiar de opinión. Sin embargo, no me tengo que preocupar por él, ya que tiene su propia forma de pensar. Creo que sabe sobrevivir bien en este caótico mundo."
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Dice "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Ifá"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " mientras escribe un informe médico."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Cita"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "En una calurosa tarde cualquiera, un joven cierra la puerta de su casa y se despide de los brotes de verduras que hay en su jardín:\n\n\"Que tengan una buena tarde. Tengo que salir un rato, pero espero que a la vuelta se hayan vuelto aún más verdes. Ánimo\".\n\nAl cabo, vuelve con un amigo y, al pasar junto al gran árbol que hay en la entrada de su casa, le advierte amablemente:\n\n\"Ten cuidado de no tropezar. Últimamente, las raíces de Piñonzote están creciendo como locas\".\n\n\nNatlan es una tierra misteriosa y al buen médico Ifá, que ha vivido aquí desde siempre, ya no le parecen extrañas las cosas que hace Ororon. Ifá recuerda que, una vez, una alpaca de carga llamada \"Piñoncita\" se estampó contra este árbol, razón por la cual, tal vez, Ororon lo llamó \"Piñonzote\".\n\n\"Pero si ni siquiera es un pino...\", pensó Ifá, pero no llegó a preguntárselo a Ororon.\n\nComo tierra misteriosa que es, Natlan acoge tanto a los seres que han tenido un camino libre de obstáculos como a los que lo han tenido más complicado. Todo tiene una causa, unas consecuencias y, finalmente, una utilidad. Por eso, los imperfectos, los astutos, los testarudos... todos ellos arderán y sus llamas convergerán con el espléndido fuego de las almas.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariencia"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Ororon tiene piel pálida, cabello azul oscuro y ojos heterocromáticos, respectivamente de color rosa y cian. Ororon está vestido con jeans grises rotos, botas grandes acampanadas, una camisa negra y una chaqueta a juego con el color de sus jeans. Tiene tatuajes negros en ambos brazos que se asemejan a la forma de orbes estilizados y un tatuaje azul debajo de su ojo cian. Un velo en azul oscuro y negro cubre parte de su cabello y un par de guantes en ambas manos. Ororon tiene alas negras detrás de él y orejas de animal en su cabeza, similares a las de un murciélago.\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Personalidad"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Ororon es un hombre joven en los "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Augures Vientonocturno"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". De manera similar a su mentora "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Citlalí"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", Ororon es un atípico único en el sentido de que se lo considera excéntrico; No solo recogió algunos de los rasgos de Citlalí, sino que también prefiere vivir solo, lejos de las tierras tribales.\n\nEn su juventud, Ororon fue abandonado por sus padres biológicos por razones desconocidas, aunque más tarde se reveló que tiene una constitución única propia: tiene un alma \"dañada\", que en la tribu se considera que trae malas vibras y desgracias. Como tal, Ororon fue ostracado a pesar de ser criado por la tribu, dejándolo cuestionando el propósito de su vida. La tribu originalmente tenía la intención de sacrificarlo para traer almas perdidas al "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Reino de la Noche"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", pero el ritual falló, dejándolo con el deseo de sacrificar su vida para ayudar a los demás. Esto resultó en que estubiera de acuerdo con el plan de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Capitano"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\nCuando el alma del habitante de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Khaenri'ah"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Godofredo"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " intentó luchar contra el por el control de su cuerpo para servir a Capitano, Ororon se dio cuenta de que su vida tenía más significado de lo que originalmente había pensado y resolvió tener un impacto más significativo. Esto dio como resultado que el Wayob de su tribu fuera reconocido y reconoció que su apoyo inicial al plan de Capitano era defectuoso.\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Detalles del personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nEl territorio de los "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Augures Vientonocturno"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " se sitúa en el corazón de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Natlan"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ", al oeste de la "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Arena Sacrofuego"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ". Al contemplarlo desde la lejanía, podría dar la sensación de ser una nube de niebla púrpura fulgurante entre los valles.\n\nLos miembros de los Augures Vientonocturno también suelen dar una impresión similar: distantes, misteriosos y crípticos. Muy pocas veces se dejan ver fuera de la tribu, a no ser que se encuentren en alguna misión médica o adivinatoria.\n\nOroron es una excepción, aunque eso no significa que le guste mezclarse entre el gentío. Simplemente, encuentra una gran satisfacción en explorar las tierras más agrestes, adentrándose en las profundidades de lugares desiertos que muy pocos humanos han llegado a alcanzar. Ni siquiera diez Tatankasaurios serían capaces de arrastrarlo de vuelta.\n\nQue muy pocos humanos hayan llegado a alcanzar tales lugares va incluso más allá del sentido más literal. Esto se debe a que todos aquellos que han intercambiado un par de palabras con él, pronto se dan cuenta de que seguir sus ilaciones no es tarea fácil, sino una verdadera prueba de talento y esfuerzo.\n\nSin embargo, nada más lejos de la intención de Ororon. En realidad, la razón por la que hace o dice muchas cosas es bien sencilla, y no resulta para nada indescifrable.\n\nUn ejemplo de esto sería lo siguiente: una vez, un bondadoso viandante se topó con su morada en la naturaleza y le preguntó con cara de preocupación: “¿Estás aquí solo porque has tenido algún desencuentro con los miembros de tu tribu? ¿Necesitas ayuda?”.\n\n“Claro que no”.\n\nOroron, que se encontraba realizando labores de jardinería, se detuvo un momento, se levantó y señaló hacia las flogistabejas de los alrededores, mientras respondía con seriedad: “Es solo que a estas pequeñinas les gusta este lugar y yo estoy más que contento de poder acompañarlas”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nDebido a la existencia de los nombres antiguos, los habitantes de Natlan conceden una gran importancia al asunto de los nombres en general. Ororon también se ha visto afectado por la influencia del entorno en el que creció, por lo que encuentra satisfacción en otorgarle nombre a todo tipo de cosas, respiren o no.\n\nAlgunos nombres acompañan a sus dueños durante toda una vida: las flores acaban marchitándose, las vasos se hacen añicos... y sus nombres les hacen compañía durante una breve o una larga existencia. Aunque solo durara un minuto, seguiría teniendo un gran valor.\n\nNo obstante, otros nombres mutan a mitad de camino, y no porque Ororon cambie de idea, sino porque el dueño del nombre podría haber experimentado ciertos cambios y, naturalmente, necesitaría un nuevo nombre que lo reflejara. Por ejemplo, si un saurio se volviera más rechoncho al crecer, no podría seguir llamándose “Papelín”, ¿verdad?\n\nAunque a Ororon tampoco le importa demasiado el significado implícito de los nombres, porque, para empezar, los nombres que elige suelen ser muy directos y pueden entenderse con tan solo verlos una vez. Además, Ororon otorga nombres para poder referirse a tales objetos más fácilmente. No poseen otra intención ni están diseñados específicamente para portar sentimentalidad alguna. Un nombre es algo valioso, neutral, que proporciona igualdad y facilita la comunicación.\n\nOroron incluso ve así su propio nombre. La única diferencia es que desconoce su significado.\n\nEl nombre de Ororon venía escrito en el interior de la tela con la que estaba envuelto cuando lo encontraron. Estuvo investigando y leyendo ciertos tomos antiguos, e incluso le preguntó a varios ancianos, pero nadie conocía tal nombre, ni mucho menos su significado.\n\n¿Podría haber sido que la abuela estaba ya mayor y había leído mal las letras borrosas sobre la tela?\n\nOroron solo podía darle vueltas a aquella pregunta en silencio, pues sabía que si se la hacía a su abuela, se llevaría un buen coscorrón.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLos habitantes de los Augures Vientonocturno sienten predilección por registrar la historia, los relatos y las leyendas en pergaminos de tela. A diferencia de los registros históricos escritos, al usar tela y patrones bordados se pierden muchos detalles, por lo que lo abstracto y lo conceptual cobran mayor importancia, acompañados de la interpretación y las emociones del artista en concreto.\n\nEn otras palabras, el nivel de creatividad necesario para realizar tal tarea es muy elevado. El bordador deberá considerar el tema principal, el contexto, qué destacar y qué simplificar.\n\nLa razón de ser de tales características no parece demasiado compleja, pero, para Ororon, era motivo de confusión.\n\nPara empezar, no le gustaba la idea de tener que diferenciar entre lo principal y lo secundario. Los personajes y el trasfondo, edificios y naturaleza... para él, todos tenían la misma importancia, por lo que deberían requerir una distribución proporcional del material de bordado. Aunque tuviera que representar una pata de saurio que creciera de la tierra, a Ororon le agradaba mostrar el rocío sobre sus hojas. Lo propio ocurría con las arrugas de los rostros de los abuelos y abuelas de la tribu, que le daban vida a la imagen.\n\nEsto llevaba a un segundo problema: su paciencia tenía límites en cuanto a la confección de pergaminos de tela. Para ser justo, se veía obligado a representar el gran árbol junto a la puerta y las siluetas bajo su copa con la misma cantidad de capas y trazos. Como consecuencia, acababa simplificando todas las cosas que bordaba sobre la tela hasta tal punto que el resultado final no podía considerarse un pergamino de tela, sino una simple toalla con varios patrones.\n\nCiertas habilidades resultan muy difíciles de enseñar, especialmente aquellas que requieren de un talento artístico considerable. Teniendo en cuenta que el muchacho ya superaba con creces las capacidades de los demás en otros campos, como en el de la percepción de los espíritus y el entendimiento de las líneas ley, los maestros de la tribu dejaron de insistir en que Ororon refinara dicho arte y empezaron a considerarlo como una clase extracurricular, dejando que el chico hiciera un poco lo que quisiera.\n\nOroron se aprovechó al máximo de esto, y al final optó por no usar siquiera tela e hilo, sino que eligió papel y pincel en su lugar. Al fin y al cabo, si ciertas cosas solo requerían de unos cuantos trazos, ¿para qué esforzarse y sufrir tanto por bordarlas? Además, la realización de pintadas también era uno de los talentos de los habitantes de los Augures Vientonocturno, por lo que, cuando la gente veía a Ororon pintar, llegaban a pensar que se trataba de algún glifo místico ancestral imbuido con misteriosas bendiciones y sus caras mostraban gran reverencia.\n\nPero, en realidad, Ororon apenas llegó a dibujar nada que fuera demasiado útil. De entre todas sus obras, la que más significado cobró y para la que más esmero puso fue la señal de la clínica de Ifá. Sus trazos eran fluidos y los colores vívidos y, además...\n\n“Me da mucha lástima cuando un saurio se hiere el ala y tienen que vendársela, así que me he esforzado mucho más al pintarlo. Aunque ocupe una parte pequeña de la imagen, he usado la misma cantidad de tinta que cuando te pinté a ti”.\n\n“Está bien”. Ifá observó la mirada resolutiva de Ororon y la calma que desprendía. “Nunca me había visto representado de forma tan vívida. Muchas gracias, querido amigo”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nAquellos que muestran amabilidad, asimismo acabarán recibiéndola. Precisamente porque Ororon amaba a todos los seres vivos del mundo natural, las personas y animales del lugar también le devolvían el mismo trato.\n\nQué gracia, ¿te lo has tragado? En realidad aquella no era la razón. Los humanos trataban a Ororon de forma mayormente amistosa, pero el motivo poco tenía que ver con su amor por el mundo natural.\n\nUno de los motivos era la compasión: había sido un bebé abandonado que habían rescatado de la montaña, sin familia alguna, al que le habría resultado imposible sobrevivir por su cuenta. Prestarle ayuda, darle algo de comer o alguna prenda de ropa no era un problema, y la satisfacción que podía traer un niño sano al crecer superaba con creces cualquier inconveniente, así que ¿por qué no hacerlo?\n\nOtra de las razones era la opinión favorable que tenían de él: Ororon era obediente (la mayor parte del tiempo), (normalmente) honesto, tranquilo, inteligente, se esforzaba por aprender y nunca llegó a demostrar interés por travesuras como subirse a los tejados y quitar las tejas. Incluso sin maestro, él mismo aprendió a cultivar y criar flogistabejas, tras lo que se volvió completamente autosuficiente. Que el carácter de un muchacho tan joven no diera (normalmente) problemas a los demás le granjeaba la simpatía de los que lo rodeaban.\n\nLa última razón, aunque también la menos prevalente, era el sentimiento de culpabilidad. Debido a haber nacido con un alma fragmentada, cuando la tribu acababa de recibirlo en su seno, intentaron aprovechar esta característica única para poner a prueba cierto método para salvar las líneas ley de Natlan. Por suerte o por desgracia, el sacrificio no funcionó, lo que evitó un dilema ético que no podría haberse resuelto, pero algunos ancianos quedaron marcados por un intenso sentimiento de culpa.\n\nCuando Ororon creció, naturalmente, acabó enterándose de dicho asunto. Ocultarlo no habría tenido sentido, es más, habría traído consigo múltiples problemas. Ororon nunca ha albergado resentimiento alguno por tal acto, incluso podría decirse que se sintió bastante satisfecho al descubrirlo, pues, por muy dura que fuera la realidad, era preferible a vivir una mentira.\n\nÉl siempre tuvo muy claro los motivos por los que la gente cuidaba de él. Ya fuera por compasión, por afecto, por culpabilidad o por una mezcla de todos estos, él estaba dispuesto a aceptarlo sin condiciones.\n\nSegún decía Ifá, las relaciones sociales entre humanos eran extremadamente complicadas, y no merecía la pena gastar energía en conjeturas sobre sus intenciones, sino que era preferible fijarse tan solo en sus conclusiones y acciones. Tal estrategia resultaba mucho menos estresante. Aunque todos cuidaban muy bien de él, Ororon también les mostraba la misma amabilidad a cambio. Sí, las cosas pueden ser así de sencillas.\n\n“Menos mal que soy veterinario”, decía Ifá gesticulando. “Imagina que fuera médico y tuviera que tratar con pacientes... Las cosas serían mucho más complicadas...”.\n\nAl parecer, Ifá continuó enumerando una lista de casos extraños que podría encontrarse con los pacientes, pero la mente de Ororon empezó a volar. ¿Acaso el caso más raro podría compararse con su situación?\n\nHablando del tema... viendo las cosas desde cierto ángulo, yo también soy un paciente, y uno de los que no pueden tratarse, pensaba Ororon. Además, ya que mis orejas no son como las de los demás, tal vez eso signifique que soy un animal enfermo. Humm... Ahora que lo pienso, ¿son animales los humanos?\n\nLlegando a estas alturas de sus pensamientos, Ororon decidió interrumpir el discurso interminable de Ifá y preguntó: “¿Si yo estuviera enfermo, debería ir a ver a un veterinario?”.\n\nIfá dejó de hablar y se le quedó mirando durante un buen rato.\n\n“... No has escuchado nada de lo que he estado diciendo, ¿verdad?”.\n\n“No intentes evitar las preguntas que no quieres responder poniéndome a mí en una situación incómoda. Eso no te servirá de nada”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nSi tienes tiempo y paciencia para revisar los antiguos tomos y pergaminos de los Augures Vientonocturno, te sorprenderá la temática tan vasta que cubren.\n\nPor ejemplo, ¿quién querría leer una serie de novelas ligeras de Inazuma que acabó interrumpiéndose hace siglos?\n\nTambién está ese registro de predicciones aplicadas y análisis de tres mil seiscientas formas de cenizas de papel quemado... ¿Quién se ocuparía de algo así?\n\nEl origen de tales cosas no importa, pero lo triste es que, a día de hoy, es Ororon quien se encarga de leerlas y cuidarlas.\n\nAl principio, solo pretendía investigar si en los registros históricos había alguna referencia a la aparición de alguien con el alma fragmentada, pero después aparecieron en tropel palabras como las líneas ley, la Señora de la Noche y los espíritus. Pronto, le siguieron volúmenes sobre literatura y novelas de fantasía hasta que se le acumularon como cacahuatles un sinfín de documentos que nunca podría terminar de leer. Entonces, Ororon se convirtió en una especie de bibliotecario sin sueldo, sumergido por completo en un océano de conocimientos que no guardaban relación alguna con él.\n\n“En realidad, tampoco tengo tanta curiosidad”... Pensó Ororon exhausto. Pero, pensándolo mejor, tampoco tenía otra cosa que hacer. Además, esta larga entrega a la lectura tenía sus frutos.\n\nHasta el momento, la explicación más adecuada parecía proceder inesperadamente de un volumen recopilatorio de relatos sobre criaturas místicas con una portada bien ajada. En él, leyó que durante la antigua Guerra de los Arcontes, algunas deidades, con tal de alzarse con la victoria, intentaron combinar sangre de bestias con las personas para conseguir crear guerreros que superaran las capacidades de los humanos normales y corrientes. Los experimentos se dieron por concluidos tras múltiples fracasos, pero unos pocos especímenes defectuosos habían logrado sobrevivir incluso hasta la actualidad.\n\n“Parece plausible, pero solo es una recopilación de relatos”... pensaba Ororon.\n\n“... Y aun así, siendo solo una recopilación de historias, parece plausible”... volvía a cavilar.\n\nDesde un punto de vista pragmático, él solo podía depender de una cabeza de veintipocos años para pensar, y no sería capaz de averiguar la verdad por muchas vueltas que le diera. Algunas veces, la gente debía admitir y aceptar que era incapaz de realizar algo o no sabía lo suficiente, aunque también estaba la opción de inventarse una historia por pura diversión.\n\nAl final, como Ororon no quería seguir leyendo, pasó unos minutos pensando en una excusa concisa y sencilla.\n\nEra como un rompecabezas: cuando querías unir dos piezas que no encajaban, tendría lugar cierta distorsión, un choque, e incluso se produciría cierto daño. Y, un buen día, hacía veintitantos años, él había sido aquella pieza dañada que había tenido la mala suerte de caer sobre una piedra fría.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nCierta noche de clima apacible, Ororon se encontraba sentado en el campamento de los Fatui escuchando en silencio sus historias.\n\nEn realidad, él era el único que permanecía callado. Bueno, él y Capitano, que se les unió después. Los guerreros no se contenían y hablaban de cualquier tema con libertad, ya que sabían que él era aliado de su comandante y, aunque solo estuvieran charlando de asuntos triviales y riendo, no se cohibieron ante su presencia. Incluso, tras preguntarle su edad, uno de ellos le entregó una bebida transparente llamada ognev.\n\nLa probó con la curiosidad propia de un explorador y luego se la terminó de un trago, pues eso es lo que habían hecho los soldados, y después obtuvo una ovación resonante. Sin saber muy bien cómo, se sintió mucho mejor.\n\nLos guerreros charlaban a su lado sobre nimiedades de sus seres cercanos, y a veces se arrancaban a entonar canciones que todos conocían. Ororon no pronunciaba palabra; simplemente se quedó allí sentado, observando la hoguera o contemplando el firmamento. Con lo lejos que estaba el cielo de la tierra, las pequeñas estrellas parecían semillas blancas. La niebla también estaba formada por semillas... “Bruma de estrellas” era un buen nombre, pensaba Ororon sin motivo alguno.\n\nMás tarde aprendió que no todos entre los Fatui pertenecían a un equipo como aquel. Él había conocido al equipo de élite que lideraba el primero de Los Once, y todos eran veteranos de cierta edad y experiencia. Además, su comportamiento y ética eran impecables. Sin embargo, aparte de aquel escuadrón, en realidad muchos otros miembros de los Fatui eran aún más jóvenes que él y, al escuchar las cosas que hacían, no podía evitar fruncir el ceño.\n\nPero en aquella noche sin viento en la que se podían observar claramente las estrellas, aún no se había visto incomodado por aquel conocimiento. Tan solo se permitió olvidarse de sus preocupaciones momentáneamente, dándose el gusto de disfrutar la buena compañía y una copa de un licor de extraño sabor.\n\nUna noche así no volvería a repetirse. Tuvo aquella sensación incluso en aquel entonces, como cuando quería volver a tomar una copa y Capitano insistió en que no lo hiciera. A pesar de que con la primera copa no se sentía diferente y parecía tolerar muy bien el alcohol, era mejor no profundizar en ciertas cosas.\n\nAunque, evidentemente, Ororon no era una persona obediente. Más tarde, buscó en secreto al soldado que le había dado el licor y le preguntó la forma de destilado del ognev. Si lograba preparar por su cuenta aquel licor que reflejaba el cielo nocturno, llamaría a la primera botella “Bruma de estrellas”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Caja de refrigerios\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nNo eran refrigerios para personas, sino para los animales salvajes. Disponía y clasificaba los diferentes tipos de aperitivos en cajas con compartimentos según los gustos de cada animal.\n\nLa mayoría de los animales eran bastante inteligentes y, según las observaciones de Ororon, la diferencia entre humanos y animales no era tan grande como muchas personas creían. Los humanos podían vivir tranquilamente precisamente porque habían heredado la sabiduría de sus antecesores, pero aquellos animales que encontraban la vía de la supervivencia en entornos hostiles le resultaban aun más increíbles.\n\nAdemás, tras convivir con los humanos, muchos animales habían aprendido a tomar el atajo de pedirle ayuda a los primeros. A veces, Ororon se encontraba caminando distraído cuando de repente alguno se posaba sobre su espalda. Si reaccionaba con lentitud, su capa acababa con un par de nuevos rasguños de algún esciúrido volador.\n\nOroron creía firmemente que, entre los animales, también existía una red de comunicación fija. Los mensajeros animales eran quizá aun más increíbles que los humanos, pues no solo debían surcar los cielos y la tierra, sino que además necesitaban conocer las lenguas de los diferentes animales... Ororon no podía evitar sonreír al imaginarse que en todos los idiomas animales de Natlan existiría la frase: “¡Ororon lleva comida deliciosa en los bolsillos!”.\n\nPor eso, aunque conocía métodos de sobra para expulsar a los intrusos que se acercaban a comer sin invitación, Ororon nunca llegaba a usarlos. Fuera a donde fuera, los animales siempre lo consideraban como a uno más, y no todos contaban con tal honor.\n\nPor supuesto, cada animal tenía su propio carácter, por lo que su forma de dar las gracias podía ser muy diferente.\n\nPor ejemplo, Ahau, el dragón de Kinich, se comportaba de forma muy extraña. Siempre mostraba una actitud de superioridad, pero en realidad, no parecía capaz de separarse de los humanos. Ororon solía ignorar sus palabras y sacudía la comida frente a él mientras veía cómo los ojos de Ahau la seguían tras sus lentes de sol (Esos puntos de luz son sus ojos, ¿verdad?). Si Ahau no pronunciaba algo amable en el momento oportuno, Kinich le privaba de la libertad de hablar antes de poder obtener la comida.\n\nPor el contrario, Cacucu tenía el don de ganarse a los demás con sus palabras. Aunque no conocía muchas expresiones humanas, lo que decía siempre estaba lleno de emoción: “¡Eres el mejor, colega!”.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa primera noche soñó con una gruta gélida.\n\nSe giró y vio que a sus espaldas se encontraba la entrada de la caverna por la que se colaba la luz de la luna, como un haz de arena blanca. Ni un ápice de luz penetraba más allá de las profundidades de la cueva, de donde provenía una especie de murmullo, como si una bruma azabache habitara en su interior. Las gotas de agua caían desde el techo sobre sus manos extendidas, y se le antojaron un tanto pegajosas.\n\nPodía sentir la humedad y, con ella, los nutrientes en el aire. Asintió para sí, como diciéndose que allí podía crecer vida.\n\nEn aquel momento, despertó. Aquello no le había parecido un buen sueño, pero tampoco una pesadilla. Había sentido frío, ¿tal vez porque la temperatura había descendido durante la noche? Se dijo que el día siguiente se taparía con un edredón bien grueso.\n\nComo consecuencia, la segunda noche soñó con un viento ardiente.\n\nTodo lo que alcanzaba a ver eran columnas de piedra pálida y nubes de bordes escarlatas. Como había nubes, debía encontrarse en las alturas. Pero no veía el sol, ni tampoco fuego alguno y, sin embargo, el aire era sorprendentemente sofocante, como si fuera a carbonizar su mismísima alma.\n\nNo sabía dónde estaba su cuerpo, pero, por algún motivo, sabía que aquello era el final. Tan solo tenía que dar un paso más, solo un paso más...\n\nDespertó de improvisto. La gente solía sentir predilección por la calidez, y a él le agradaban las llamas de Natlan, pero la temperatura de aquel sueño lo había colmado de terror. No había sido una buena decisión, pensó sacudiendo la cabeza, sin saber muy bien si renegaba del sueño o de la realidad. Resultaba que taparse con una manta de lana de alpaca de carga durante aquella estación era un tanto exagerado.\n\nFinalmente, la tercera noche soñó con un universo negro como el carbón y un laberinto de espejos. En aquella superficie que se desdoblaba y lo rodeaba por completo, se encontró cara a cara con múltiples Ororones.\n\nLuego oyó una voz imaginaria decir: “¡Cuando tu sombra se refleje las veces suficientes, tal vez puedas formar un ‘yo’ completo!”. El tono no parecía demasiado amistoso, pero tampoco se le hacía hostil. Tan solo la mofa de un observador sin nada en juego.\n\nPero ¿cómo podía un reflejo crear algo que no existía en un principio? Además, ¿qué era lo que se movía por los espejos en aquel espacio de oscuridad?\n\nUn tanto irritado, una emoción no muy común en él, Ororon gritó: “¡Para poder recomponer una sombra, debe haber luz primero!”\n\nAparentemente, la gente puede oír sonidos en sueños, pues Ororon acabó despertándose por su propio arrebato. No volvió a intentar encontrar la razón de ser del sueño, porque ya no podía usar la excusa de la temperatura o el edredón. Incluso tras recuperar la lucidez del todo, aún podía sentir un ápice de ira y cierta pesadez a la que no estaba acostumbrado.\n\nPero lo que tenía encima no podía ser más ligero. Presionado contra su pecho, se hallaba aquello a lo que muchos se referían como la mirada de los dioses.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Información de combate"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Talentos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "elemento"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Flecha albergaespíritus\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "1"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Amparo de la noche\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "2"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Eco de la oscuridad\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "3"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sinestesia noctívaga\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Presencia manifiesta\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "5"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Salto brumasombra\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "6"
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cambiapieles\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "7"
             }
           ]
@@ -1209,152 +1211,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hilo de seda deslucido\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas de las brasas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía de las brasas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía de las brasas\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo joven\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo veterano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo de tirano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1362,172 +1364,172 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Constelación"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "(Por añadir...)\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ascensión"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Electro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Amatista vajrada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sello de la bendición vinculante\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cornihongo luminoso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo joven\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo veterano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Colmillo de tirano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1535,847 +1537,845 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Gachapón"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Vestuarios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Galería"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Vampyrum Spectrum.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Vampyrum Spectrum\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Ororon (visualización).png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galeria de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Ororon - Noctívago.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Ororon - Noctívago"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Ororon.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Días festivos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Día blanco - Ororon.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Día blanco 2025\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones de personajes"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historias de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Citlalí "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Ifá     "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Ifá     "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 8\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Ifá     "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 7 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diálogos de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Curiosidades"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "*Ororon aparece mencionado en la siguiente decoración:\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Estandarte clarividente: Ororon"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Etimología"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "* Es probable que Ororon reciba su nombre de [https://es.wikipedia.org/wiki/Olorun Olorun], la deidad suprema de la [https://es.wikipedia.org/wiki/Religi%C3%B3n_yoruba religión yoruba].\n*Aunque el yoruba y el maorí no están relacionados, el nombre de Ororon también puede estar parcialmente basado en la palabra maorí oro, que significa \"resonar, hacer eco, resonar\", ya que los murciélagos son conocidos popularmente por su uso de la ecolocalización.\n* Su constelación, Vampyrum Spectrum, es el nombre científico del [https://es.wikipedia.org/wiki/Vampyrum_spectrum murciélago espectral], un tipo de falso murciélago vampiro que vive en México, América Central y América del Sur.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navegación"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Personajes de Natlan"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Ororon"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Ororon"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Ororon"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:オロルン"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Ororon"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Ororon"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Оророн"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Ororon"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Ororon"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Олорун"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Ororon"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:歐洛倫"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

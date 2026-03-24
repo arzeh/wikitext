@@ -1,376 +1,378 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Masculino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región actual "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2.6\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Clan Kamisato, Comisión Yashiro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Gracilidad serena\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " El Vigoroso Estratega"
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Jefe del clan Kamisato de la Comisión Yashiro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " imagen        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cypressus Custos\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Zhaolu (赵路)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Akira Ishida (石田 彰)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Chris Hackney\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Espada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 26 de Marzo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Jang Min-hyeok (장민혁)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Inazuma\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Humano\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " En uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol           "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Atacante principal\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2          "
             }
           ]
@@ -378,876 +380,876 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox_Personaje_jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n'''Kamisato Ayato''' (神里綾人 en "
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "u"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Japonés"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "</"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "u"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ") es un personaje jugable de ''"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "''.\n\nEs el jefe del "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Clan Kamisato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Comisión Yashiro"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", y se compromete a mantener la prosperidad y la estabilidad de la región. Además es el hermano mayor de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Kamisato Ayaka"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Perfil "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Como jefe de la Comisión Yashiro, Kamisato Ayato se compromete a mantener la prosperidad y la estabilidad de la región.\n\nEn apariencia, es un hombre discreto y elegante. No le gusta hacer apariciones públicas, y mucho menos mostrar sus habilidades abiertamente.\n\nPero los que lo conocen saben que no hay que subestimarle. Hace mucho tiempo, durante su juventud, cuando la Comisión Yashiro pasaba por tiempos difíciles, y cuando el clan Kamisato estaba a punto de desmoronarse, fue él quien estabilizó la situación.\n\nNo podría haber alcanzado su posición sin un extraordinario ingenio y astucia. Pero tal vez, esa sonrisa impenetrable oculta ondas más oscuras.\n\nSin embargo, lo más intrigante es que, en la mayoría de estas negociaciones en las que participa, no es despiadado ni competitivo. Incluso está dispuesto a compartir los beneficios para que todos se lleven una parte relativamente satisfactoria del pastel.\n\n\"¿Qué está tramando exactamente?\", es lo que suele preguntarse la gente cuando soluciona las cosas.\n\nSin embargo, ya que todos han recibido un trozo de ese pastel, lo que está en la mente de Kamisato Ayato deja de ser tan relevante.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Apariencia "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Ayato es un joven alto con cabello largo azul pálido asimétrico hasta los hombros, piel pálida y ojos de color púrpura claro. Comparte varias similitudes con su hermana "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Kamisato Ayaka"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", como tener un pequeño lunar en la cara pero debajo de la boca.\n\nSu atuendo consiste en un abrigo de cuello blanco con mangas largas y sueltas, solapas azul oscuro y adornos dorados decorados con una serie de adornos que se usan sobre un kimono morado claro, una armadura negra y dorada en el hombro derecho, guantes negros y pantalones blancos. También tiene una gran cuerda dorada alrededor de su cuello y guanteletes blancos y morados en ambos brazos. Su "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Visión"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " cuelga de una gruesa cuerda dorada alrededor de su cintura.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Personalidad "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Ayato es una persona a la que no le gusta mostrar su rostro en público con frecuencia, prefiriendo trabajar en sus deberes como Comisionado Yashiro. Un hecho bien conocido sobre él es que está extremadamente ocupado y estresado, ya que tiene que lidiar con funcionarios corruptos del gobierno mientras hace malabarismos con su deber como líder de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Los Ocelos"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n\nSi bien no es particularmente conocido debido a su preferencia por permanecer tras bambalinas, quienes lo conocen notan que es increíblemente amable y ha inspirado la lealtad de muchas personas. Por ejemplo, "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Hirotatsu"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " afirma que continúa sirviendo a la Comisión Yashiro para pagar la generosidad que le mostró a él y a su maestro y está fuertemente implícito que Ayato fue quien inspiró a "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Thoma"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " hasta el punto de que este último recibió una "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Visión"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". Ayato ha declarado que valora mucho la lealtad y la obediencia (de ahí su preferencia por los perros), y en la demostración de su personaje se insinuó fuertemente que hubo numerosos asesinatos en su contra en el pasado, por lo que valora tanto esos dos rasgos para protegerse. clanes y organizaciones rivales.\n\nA pesar de su sucesión como cabeza de familia a una edad temprana, parece ser un hombre maduro y decidido, notablemente incluso más que Ayaka, quien es conocida por su firmeza. Al igual que Ayaka, Ayato se preocupa mucho por la gente común y no tiene miedo de mezclarse con gente de mala reputación, evidente por la forma en que a menudo juega a las cartas y peleas de escarabajos con "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Arataki Itto"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ". También es un hombre de familia y, como señaló uno de los ninjas de Los Ocelos en su demostración, arriesgó su vida para pasar de contrabando a las tropas de la Resistencia a "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tenshukaku"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " con el fin de \"hacerle un pequeño favor\" a Ayaka. Si la Resistencia y el "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Viajero"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " hubieran fallado contra "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Ei"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Shogun Raiden"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " y la Shogun, la Shogun no lo habría perdonado y seguramente ejecutado. Afortunadamente, ese no es el caso, ya que el Shogun declaró que lo ha perdonado por \"sus fechorías pasadas\".\n\nTambién se sabe que Ayato es astuto y travieso, ya que tanto la Shogun como "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Yae Miko"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " lo consideran impredecible y difícil de entender. "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Hiratsuka"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " señala que cada vez que sale con Thoma, lo obliga a comer comida extraña, lo que hace que Thoma se aterrorice cada vez que lo ve. Itto comenta que Ayato es un \"guerrero\" con gran carisma, y ​​que los dos están \"en la misma longitud de onda\". También es capaz de encontrar a "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Sayu"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " con facilidad a pesar de no parecer tener mucho entrenamiento ninja, aunque el resto de Los Ocelos tienen dificultades para encontrarla.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historia "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Detalles del personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nComo el líder del clan Kamisato de la Comisión Yashiro, la cual es una de las integrantes del Triunvirato, el nombre de Kamisato Ayato es bien conocido por todo el mundo en Inazuma.\n\nA diferencia de la elegante y bondadosa Ayaka, la Princesa Garza, la gente sabe más bien poco sobre su hermano Ayato.\n\nLo único que saben es que es una personalidad importante dentro del shogunato y que es el líder de un prestigioso clan noble. Ahora bien, nadie es capaz de dar ningún detalle más.\n\nAlgunas personas dicen: \"La Comisión Yashiro nunca deja ningún cabo suelto al organizar festivales y se preocupa por el bienestar de todos los vecinos. Esa labor sería imposible sin el trabajo del Comisionado\".\n\nPero también hay quien osa comentar: \"¡Hum! En política, hay muchos trapos sucios que nunca deben ser revelados. Si ha conseguido ese puesto es porque es un buen estratega que sabe esconder sus verdaderas intenciones\".\n\nSin embargo, a Kamisato Ayato no le importan en absoluto todas estas opiniones.\n\n\"Yo... no soy más que un funcionario bajo las órdenes de la Shogun que se toma en serio su trabajo y cumple con sus responsabilidades\".\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nComo el primogénito de una familia noble de Inazuma, Kamisato Ayato recibió mucha atención ya desde su nacimiento.\n\nAunque sus padres no podían pasar mucho tiempo con él por cuestiones de trabajo, eran muy protectores, y nunca faltaba gente que mimara y agasajara al \"joven amo\".\n\nAl hacerse un poco más mayor, Ayato cumplió con los deseos de su padre y comenzó el complicado y arduo aprendizaje que le correspondía como heredero de su clan.\n\nSin embargo, la voluntad del cielo es insondable y, debido a la presión por los asuntos de gobierno y la responsabilidad de revitalizar el clan Kamisato, el padre de Ayato enfermó y acabó falleciendo.\n\nAyato, que aún era demasiado joven, no tuvo más remedio que dedicarse a luchar por salvar la posición del clan, que estaba al borde del colapso.\n\nEn aquel entonces, nadie le tomaba en serio por su edad y falta de experiencia. Sin embargo, de la noche a la mañana pasó de vivir como un príncipe mimado a convertirse en el \"pobre joven amo del clan Kamisato\" y en el \"jovencito sin futuro\" del que se burlaban sus rivales políticos.\n\nPero el tiempo demostró que estaban equivocados.\n\nCon su gran valentía y sagacidad, y por medio de métodos ingeniosos, Kamisato Ayato honró a su clan como heredero y no solo evitó que cayera en desgracia, sino que incluso consolidó su posición.\n\nSe deshizo de la gran carga de trabajo que tenía y de las malignas artimañas y trampas que tenían contra él. Es más, todo ello lo convirtió en una ventaja a su favor.\n\nCon el paso del tiempo, la reputación del clan Kamisato de la Comisión Yashiro se restauró entre la gente y dentro del shogunato.\n\nHoy en día, Kamisato Ayato es el líder merecedero del clan Kamisato, uno de los más distinguidos de toda Inazuma, y ocupa el importante cargo de Comisionado Yashiro."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nLa Comisión Yashiro se encarga de los asuntos rituales en la Isla Narukami y de las actividades culturales y de ocio. Estos eventos deben complacer a los dioses y ser disfrutados por el pueblo, por lo que es una distinguida responsabilidad de la Comisión.\n\nSin embargo, mientras más tareas estén a cargo de la Comisión, más trabajo tendrá que hacer.\n\nPor suerte, Ayaka asume una gran parte de los asuntos del clan, de manera que es ella quien se encarga de la comunicación entre la Comisión Yashiro con la gente. Así, su hermano Ayato puede concentrar su energía en los asuntos de gobierno.\n\nPero negociar con los funcionarios del shogunato no es tarea fácil. Cada uno pertenece a una Comisión y a un clan distinto, por lo que sus ideas también difieren. Esto hace que, cuanta más gente haya implicada en un asunto, más difícil sea resolverlo.\n\nLa ventaja de Ayato es que se le da muy bien encargarse de ese tipo de cosas. Para él, el comportamiento humano siempre está motivado por ciertos intereses y, si conoces esos intereses, te ganarás fácilmente a la otra parte.\n\n\"Observa a tu objetivo, haz que entre en tu juego, dile lo que quiere oír, hazle algún favor y ya tendrás medio camino hecho\".\n\n\"Si te encuentras con alguien especialmente terco, solo tienes que hacer uso de una autoridad un poco mayor para presionarlo. Al fin y al cabo, por muy importante o arrogante que sea alguien, nadie puede estremecer la autoridad del rayo, ¿cierto?\".\n\nCon el tiempo, el cultivado líder de los Kamisato se forjó una buena reputación en el shogunato.\n\n\"Humm... No sé qué hacer sobre este asunto... Ya sé, ¡debería preguntarle al Comisionado Yashiro!\", suele decir la gente.\n\nAunque Ayato conoce muchos caminos para hacer las cosas, no siempre está dispuesto a prestar su ayuda.\nEn primer lugar, porque no todas las cosas le conciernen a la Comisión Yashiro, y en segundo, porque no merece la pena meter en un lío al clan Kamisato solo para conseguir unas migajas de poder.\n\nLa mayor parte del tiempo, Ayato se limita a observar mientras se ríe con una taza de té y finge ser alguien sin importancia.\n\n\"Vamos, Nagaoka, no te enojes. Solo servimos a Su Excelencia, la Shogun, no dudes ahora. Si hablamos las cosas con franqueza, seguro que podemos llegar a un acuerdo\"."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nDebido a su posición y trabajo, Kamisato Ayato no suele aparecer en público y tampoco tiene tiempo para dar paseos ociosos, pero eso no le impide enterarse de las novedades.\n\nA veces, cuando practica con la espada por la mañana, ve a una trabajadora de la Editorial Yae asomándose desde la puerta, como si viniera a la Comisión Yashiro para informar de algo. Entonces, Ayato hace como que no la ve con el fin de escuchar qué razones se inventa ella para escabullirse del trabajo, y luego se lo cuenta \"por casualidad\" a la Suma Sacerdotisa Yae.\n\nCuando tiene alguna reunión con los ancianos cascarrabias de Tenshukaku, no se precipita para hablar. Después de todo, observar a unos señores mayores furiosos que discuten por ganar un poco de dinero y poder le parece sumamente entretenido.\n\nCuando pasa por la zona comercial de la ciudad, toma una ruta alternativa al acordarse de una tienda de comida. Una vez allí, le pregunta al dueño si tiene algún plato nuevo, qué tal le va el negocio y, de paso, compra alguna bebida para llevar. Si le gusta, también lleva algo de beber para su familia.\n\nSabe que, últimamente, en Hanamizaka hay un joven oni al que se le dan muy mal las peleas de escaradiablos, así que, por buena voluntad, lo alienta para que recupere sus ánimos. Una de esas veces se dio cuenta de que el oni escarlata no sabe lo que representa el nombre de \"Ayato\"... Pero no pasa nada, tampoco hace falta explicárselo.\n\nAl pasar por el Bosque Chinju de camino a casa, si se encuentra con algún transeúnte al que un tanuki está gastando alguna broma, le indica el objeto en el que se ha transformado la criatura. De hecho, gracias a esto, algunos tanuki han perfeccionado sus habilidades de transformación.\n\nHay veces que ni siquiera a Thoma, una persona con tantas habilidades, se le ocurre qué hacer para cenar. ¡Ese es el momento perfecto para el juego de shabu shabu! Y, como no se podía esperar menos, Ayaka siempre es la que pone los ingredientes más sorprendentes.\n\nTodas estas actividades constituyen la vida de ocio del Comisionado Yashiro."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nGracias al trabajo del amo de llaves y los demás sirvientes, la Hacienda Kamisato siempre está limpia y ordenada, excepto por un lugar: el escritorio de Kamisato Ayato, que siempre queda desordenado cada vez que lo usa.\n\nDeja los libros abiertos o boca abajo y los montones de documentos de distintos tamaños apilados de cualquier manera. Nunca pone en su sitio la piedra de entintar y la tinta para escribir y, a veces, hasta deja piezas de ajedrez y cartas coleccionables tiradas en el suelo.\n\nCada vez que el líder del clan termina su trabajo de oficina, los sirvientes tienen que invertir algo de tiempo para recoger su escritorio.\n\nDescubrieron que, entre todo el desorden de papeles, a veces hay algunas pequeñas notas. Al mirarlas más de cerca, se aprecia que cada una está escrita con una caligrafía distinta y dice algo diferente.\n\"Señor, los sirvientes le han vuelto a regalar unas flores. Arreglé una esquina de su escritorio para ponerlas en un jarrón. Tenga cuidado de no tirarlo\".\n\n\"Señor, hoy nos visitará una miko del Gran Santuario Narukami. Al parecer, la Suma Sacerdotisa lo requiere para un asunto importante relacionado con el uso de algunas áreas de Ritou, y desea invitarlo para hablar en el santuario\".\n\n\"Sr. Comisionado, las orquídeas aún no se han marchitado. Sus ramas y hojas aún están creciendo, no se preocupe\".\n\n\"Hermano, fui al festival con la viajera/el viajero y aprendí la receta de un plato. Como ella/él es de fuera, ¿crees que... debería ajustar el plato a su gusto?\".\n\n\"Señor, los sirvientes no se atreven a decirle una cosa, así que me dijeron a mí, la más anciana de todos, que se lo comentara. Si desea comer algo, pídaselo al amo de llaves y, por favor, no use los ingredientes de la cocina. No podemos permitir que cocine usted personalmente, sería una vergüenza para nosotros\".\n\nKamisato Ayato es una persona muy ocupada y suele salir muy temprano y llegar tarde a casa. Cuando el personal de la Hacienda Kamisato no tiene la oportunidad de verlo en persona, se comunican con él a través de estas notas.\n\nCon este método que se le ocurrió a Ayato, el clan Kamisato mantiene el buen funcionamiento de toda su residencia.\n\nLa pena es que ello hace que el escritorio del líder del clan, ya desordenado de por sí, quede en un estado aún peor... Pero ¿qué más da? Solo es un pequeño precio a pagar."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nEn Inazuma, algunas personas hacen ofrendas de hojas de ciprés para rezar.\n\nSin embargo, como en la nación del trueno hay tantas formas de hacer ofrendas, esta en concreto ha sido ignorada por no estar tan extendida.\n\nYa ha pasado mucho tiempo, pero Ayato aún recuerda que su madre le dijo que, aunque los cipreses son árboles de hoja perenne, sus hojas no tienen forma de aguja.\n\nSon grandes, con nervios que se ven muy nítidamente y, aunque crezcan nuevas hojas, las antiguas no se caerán.\n\nPor eso, este árbol simboliza la prosperidad y, en la antigüedad, usaban sus hojas para hacer ofrendas de comida.\n\nEsto ya no se hace, pero aun así, la costumbre de ofrecer hojas de ciprés sigue vigente hoy en día.\n\nA la madre de Ayato le encantaba hablar largo y tendido sobre las costumbres rituales, tal vez porque le parecían interesantes, o tal vez porque era muy versada en el tema.\n\n\"Si el clan Kamisato ha dirigido la Comisión Yashiro durante generaciones, quizá sea porque estamos destinados a proteger a los dioses\".\n\nEn aquel entonces, el joven Ayato no estaba del todo de acuerdo con esa premisa.\n\nÉl pensaba que el clan Kamisato era el lugar al que pertenecía su familia, que la existencia del clan se debía a dicha familia, y que servir a los dioses solo era una ventaja que venía con el trabajo.\n\nSin embargo, no podía decir esto en alto, pues era una forma de pensar demasiado soberbia y, además, nadie quería interrumpir a la matriarca Kamisato cuando hablaba de estos temas por lo emocionada que se ponía.\n\nNo importaba durante cuánto tiempo hablara, Ayato siempre se sentaba frente a ella y escuchaba en silencio hasta el final aunque se le durmieran las piernas.\n\nEl tiempo pasó volando y Ayato se fue haciendo mayor. Todo el tiempo estaba ocupado practicando con la espada y estudiando. Su formación pasó de su madre a su padre, y en las clases pasó de aprender sobre los rituales a la obligación de ser el heredero del clan.\n\nAsí pues, cada vez tenía más responsabilidades. La Shogun Raiden dejó de ser una figura imaginaria de su niñez para convertirse en una deidad real, en Su Excelencia, aquella que salvaguardaba la eternidad y la paz en Inazuma.\n\n\"Una vez, el clan Kamisato recibió la bendición de la todopoderosa Shogun y así pudo seguir en pie. Por tanto, pase lo que pase, debemos cumplir sin vacilación el camino hacia la eternidad y seguir a la Shogun en su camino a lo eterno. Recuérdalo: esa es la promesa que hemos hecho y la inviolable norma de nuestro clan\".\n\nAyato descubrió hace tiempo las razones de estas palabras mientras leía unos documentos de sus antepasados: por una negligencia de sus ancestros, la valiosa forja de espadas de las Cinco Escuelas de Raiden se perdió en su mayoría. De no ser porque la Suma Sacerdotisa Yae aconsejó a la Shogun que reuniera toda su bondad para perdonar a los Kamisato, este clan habría desaparecido junto con otros que también estaban en apuros.\n\nFue una muestra de benevolencia por parte de la Shogun y un aviso por parte de su familiar.\nAsí pues, Kamisato Ayato no hizo caso omiso a las enseñanzas de su padre, ya que, si algo tenía muy claro, es que, aunque proteger a su clan era la causa más noble de todas, la existencia de Inazuma se debía a la protección de la Arconte Electro. Su clan solo podría prosperar si la paz reinaba en Inazuma.\n\nIndependientemente de cómo se desarrollaran las cosas, el clan Kamisato no podía traicionar a la todopoderosa Narukami bajo ningún concepto.\n\nAunque tuvieran diferentes opiniones, debía ocultarlas en el lugar más recóndito posible.\nTal y como su madre le dijo una vez:\n\n\"Si un ciprés es protegido por los dioses, de sus viejas ramas pueden brotar hojas nuevas. Así pues, la fragancia de un jardín de camelias puede perdurar incluso en el invierno más frío\"."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cajita de caligrafía de madera onírica\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nKamisato Ayato nunca habría imaginado que la práctica de escritura, la tarea que más le aburría de pequeño, se convertiría en un entretenido pasatiempo cuando se hiciera mayor.\n\nAntes se esforzaba en escribir bien para demostrar su valía como primogénito del clan, pero tras un tiempo copiando poemas, se transformó en una manera de ordenar sus pensamientos, en un momento para pensar en silencio.\n\nPor supuesto, otra razón es que usa la escritura como una excusa para parecer ocupado con asuntos oficiales incluso cuando no tiene nada que hacer, para no tener que ver a personas que no quiere y hacer cosas que no le apetecen.\n\nTras un tiempo, los sirvientes que lo ayudan a diario comenzaron a pensar que a Kamisato Ayato no solo le gusta el ajedrez, sino que también le encanta la caligrafía.\n\nEsta noticia se extendió como la pólvora y, en cada festividad o en su cumpleaños, Ayato siempre recibe pinceles de excelente calidad como regalo.\n\nIncluso hay algunos lisonjeros que le regalan plumas de escribir caras, exquisitas e importadas del extranjero para su disfrute.\n\nAyato no comenta nada al respecto y, en una ocasión, compró una hermosa cajita de madera para guardar todas estas herramientas de escritura.\n\nEs una persona a la que le gustan las cosas poco comunes, y realmente se siente feliz al probar la escritura con diferentes pinceles.\n\nAdemás, en los regalos que recibe suele haber información sobre las personas que los regalan. Dicha información le sirve para saber por dónde se mueven esas personas.\n\nAunque Ayato compró esta cajita de caligrafía para sus herramientas de escritura, hay tres pinceles en especial que nunca guarda.\n\nEl primero, de mango fino y exquisita elaboración, siempre está colocado sobre el escritorio del Comisionado Yashiro. Aunque está un poco deteriorado, con él se escribe bastante rápido, por lo que lo usa para escribir documentos oficiales en grandes cantidades.\n\nEl segundo lo guarda en el cajón inferior de su escritorio. Es un pincel de pocas cerdas y muy atesorado por Ayato, pues es el que usaba para practicar caligrafía de pequeño. Al ser muy adecuado para principiantes, Thoma y Ayaka lo solían tomar prestado.\n\nY el tercero lo resguarda en una bolsita de seda que esconde en el fondo de un armario de antigüedades. Está hecho con unos excelentes materiales, su diseño es exquisito y fue un obsequio de su madre en la ceremonia de adultez de Ayato."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nUna noche hace unos años, el enfermo padre de Ayato lo llamó desde la cama.\n\nParecía completamente agotado y, aunque conservaba una expresión de serenidad, la preocupación se podía ver en sus ojos.\n\nReunió fuerzas y le dijo a su hijo: \"¿Ya terminaste de estudiar hoy? ¿Has cenado bien? ¿Qué tal va tu práctica con la espada?\".\n\nCuando Ayato respondió a cada una de las preguntas, su padre asintió con una sonrisa de satisfacción. Sin embargo, pronto le cambió la expresión, como si hubiera algo que no pudiera decir.\n\nDudó de si hablar o no, hasta que vio la triste mirada de su esposa. Entonces, dijo en un tono más serio:\n\n\"Ayato, hijo... recuerda esto que te voy a decir: pase lo que pase con el clan Kamisato, tú siempre serás nuestro primogénito, el hermano de Ayaka, el digno heredero del clan\".\n\nTras repetirle a su padre que debía descansar, Ayato se despidió de él y entró en su cuarto.\n\nAbrió la puerta y se encontró con una brillante Visión sobre su escritorio.\n\nHabía escuchado desde pequeño que las Visiones significan que los dioses se han fijado en ti, y que nacen a raíz de los deseos de la gente.\n\nÉl desde siempre había deseado convertirse en alguien capaz de asumir responsabilidades y de proteger a su familia para que esta siguiera prosperando.\n\nQue una Visión le llegara justo en ese momento debía de ser porque ya era hora de que asumiera la responsabilidad.\n\nEntonces, sin la ayuda de sus sirvientes, Ayato encendió una lámpara y se sentó a un lado de la mesa.\nCientos de pensamientos pasaron por su mente.\n\nCon la enfermedad de su padre y el mal estado de salud de su madre, el clan carecía de un líder. \n\nDesde hace tiempo, mucha gente codiciaba el poder y la influencia de los Kamisato.\n\nAyaka aún era muy joven y, sea como fuere, había que asegurar que creciera en un buen entorno. \n\nAdemás, los funcionarios del shogunato eran como una marea oculta pero emergente; había que tener mucho cuidado con ellos.\n\nBajo ningún concepto podía perder a Los Ocelos, pues podrían ser una organización muy fiable para los sirvientes del clan durante algún momento de crisis.\n\nY también estaba Thoma, una persona procedente de otro lugar que, aunque también era un amigo y resultaba de gran ayuda, era incierto qué planes tendría en caso de que el clan Kamisato sufriera un declive.\n\nTodas estas cosas se fueron organizando en la cabeza de Ayato, pero siempre con una convicción central: con tal de asegurar el futuro y la seguridad de su familia, haría uso de lo que tuviera a su alcance para conseguir ese fin, y no dudaría ni un momento en deshacerse de cualquier obstáculo que se interpusiera en su camino.\n\nEsa noche, la única luz que lo acompañaba en su cuarto era la de su Visión.\n\nCuando el primer rayo del alba iluminó su escritorio a través de la ventana, el joven Ayato ya había hecho todos los preparativos para enfrentarse a lo que viniese."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Información de combate "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Talentos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Estilo Kamisato: Marobashi\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Estilo Kamisato: Belleza reflejada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Estilo Kamisato: Jardín ácueo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Estilo Kamisato: Corriente montañosa\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Estilo Kamisato: Crecida de la luna\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Estilo Kamisato: Cocina diaria\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 "
             }
           ]
@@ -1255,152 +1257,152 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mudra de la Shogun implacable\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas de la elegancia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía de la elegancia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía de la elegancia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guardamano viejo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guardamano gemelo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guardamano célebre\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1408,413 +1410,413 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Constelación "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Reflejo grácil"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta en un 40% el daño infligido por la hidroespada contra los enemigos cuya vida es igual o inferior al 50%.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Manantial de la tierra"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Oleaje centelleante puede acumularse hasta un máximo de 5 veces. Cuando Kamisato Ayato tiene al menos 3 acumulaciones de este efecto, su Vida Máxima aumenta en un 50%.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Admiración floral"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Estilo Kamisato: Belleza reflejada"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Flujo inagotable"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tras usar Estilo Kamisato: Jardín ácueo, la Vel. de Ataque Normal de los miembros del equipo cercanos aumenta en un 15% durante 15 segundos.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Rocío pluvial"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Aumenta el nivel de habilidad de "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Estilo Kamisato: Jardín ácueo"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " +3."
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Fuente infinita"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Tras usar Estilo Kamisato: Belleza reflejada, cuando Kamisato Ayato golpea a un enemigo con el siguiente ataque de hidroespada, se liberarán dos ataques de hidroespada adicionales que infligen cada uno un daño equivalente al 450% del ATQ de Kamisato Ayato."
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Estos dos ataques no pueden beneficiarse de los efectos de oleaje centelleante.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Ascensión "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Hydro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lazurita varunada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Rocío del rechazo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pétalos de cerezo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guardamano viejo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guardamano gemelo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guardamano célebre\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1822,185 +1824,185 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Estadísticas "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Daño Crítico\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 9.6\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1067.7184\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4384.629\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 23.275\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 95.57275\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 59.83\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 245.7\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa ascendido "
             }
           ]
@@ -2008,1201 +2010,1199 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Estadísticas de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Gachapón "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Vestuarios "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Galería "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Cypressus Custos.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Cypressus Custos\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Visualización de personaje Kamisato Ayato.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galería de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Kamisato Ayato - Ondulaciones.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Kamisato Ayato - Ondulaciones"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Kamisato Ayato.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Arte de cumpleaños"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Kamisato Ayato 2023.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2023\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Kamisato Ayato 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diseños de Paimon - Emoticonos"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 209 - Ayato - Té con leche.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 14 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 210 - Ayato - Pensando.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 14 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 211 - Ayato - Trabajando....png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 14 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 212 - Ayato - Confuso.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 14 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Menciones de personajes"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historias de personajes"
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Kamisato Ayaka"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Detalles del personaje"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Kamisato Ayaka"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 2"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Kamisato Ayaka"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 3"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Kamisato Ayaka"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Visión"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Thoma"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 5"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 8 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Thoma"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Visión"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 10\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias \n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Diálogos de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "2.6"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Curiosidades"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "*Según "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Nobumori"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", tiene un excelente manejo de la espada y una gran habilidad con la lanza.\n*Durante el [https://youtu.be/KGjnRThxe7k Avance de la trama de Genshin Impact - Arataki Itto], se puede escuchar a Ayato hablar brevemente y a "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Thoma"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " refiriéndose a él como \"Mi señor\".\n*En el doblaje Chino y Japonés, Ayato comparte el mismo actor de doblaje que el personaje Otto Apocalypse de ''Honkai Impact''.\n* "
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "PAGENAME"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "  aparece mencionado en las siguientes "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "decoraciones"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ":\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Colgador para kimonos de madera onírica: Decoro"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navegación"
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Navbox Personajes"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<!--"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "interwiki"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "-->"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "de:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "id:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:神里綾人"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Аято"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Камісато Аято"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Kamisato Ayato"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:神里綾人"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

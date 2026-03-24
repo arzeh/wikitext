@@ -1,393 +1,395 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Disponible\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " estado        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " La Ejecutora de la Ley"
             },
             {
+              "type": "template",
               "children": [],
               "name": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "-"
                 }
-              ],
-              "type": "template"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Capitana de la Unidad Especial de Seguridad y Vigilancia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " títulos       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4.3\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " versión       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Humana\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especie       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Femenino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " sexo          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " \n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región actual "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sclopetum Ensiferum\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " afiliación    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Lanza\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arma          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Sclopetum Ensiferum\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " constelación  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Erica Lindbeck\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " inglés        "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Delito: Procesamiento innecesario\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " platillo      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pan Danni\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " chino         "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Shimoji Shino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " japonés       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Chae Min-ji\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " coreano       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ousia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " arjé          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 10 de enero\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " cumpleaños    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Fontaine\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " región natal  "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " No en uso\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol           "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Apoyo\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol2          "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Supervivencia\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rol3          "
             }
           ]
@@ -395,757 +397,757 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Infobox_Personaje_jugable\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n'''Chevreuse''' es un personaje jugable en ''"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Genshin Impact"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".''\n\nEs la capitana de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Oficina Judicial#Unidad Especial de Seguridad y Vigilancia"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " de la "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Oficina Judicial"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Perfil "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Chevreuse creció en el "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Río Ceniciento"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "."
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref name=\":0\""
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "Evento "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Rosas y mosquetes"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ": "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Realidad y ficción dentro y fuera del visor"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "</"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " Ella es la actual Capitana de la Unidad Especial de Seguridad y Vigilancia y una cliente frecuente del "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Taller Beaumont"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", y a menudo compra materiales costosos para mantener su mosquete. Según "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Riqueti"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", Chevreuse ha comentado sobre el escaso uso de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Mecagendarme"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "s por parte de la Unidad mientras estaba bajo su mando, afirmando que \"¡Los Mecagendarmes sólo bloquearán nuestras balas!\"\n\nEn su tiempo libre, a Chevreuse le gusta leer, especialmente libros en los que la justicia prevalece sobre el mal. También tiene una obsesión enfermiza con la comida chatarra."
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "ref name=\":0\" /"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Apariencia "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "El atuendo de Chevreuse se parece al de un soldado francés del siglo XIX. Ella usa una camisa blanca con mangas separadas, que tiene un mono de color marrón oscuro con mangas separadas que llega hasta los muslos, la parte inferior es similar a unos pantalones cortos inflados. Es similar a sus mangas, que son blancas, que tienen las mismas mangas abullonadas de color marrón oscuro con puños dorados debajo. Hay una tela roja que tiene rayas doradas, las mangas tienen dos líneas doradas que bajan por delante y por detrás, con un pequeño puño blanco debajo. y guantes, cada uno tiene diseños rojos y dorados a juego, en los puños blancos hay un botón de diamante, en las muñecas de las mangas hay algún adorno dorado, su overol marrón oscuro tiene una tercera capa que es una tela res que se derrama en la parte superior, antes de bajar hasta llegar a donde están los muslos, mientras que hay dos telas rojas que están unidas a ella mediante clips algo dorados, la parte superior del overol rojo tiene 2 botones en forma de rombo, con el mismo clip dorado en la parte inferior de el espacio, y algunos otros en los lados, estando conectados por algún adorno rojo que tiene una punta dorada, toda la tercera capa está diseñada con patrones dorados.\n\nDebajo de sus pantalones cortos hinchados hay dos telas blancas que están cortadas en forma de triángulo, ambas con los mismos patrones dorados, mientras que hay una tela delgada entre ellas, que se asemeja a una flecha. Lleva polainas blancas largas, detalladas con una línea roja a cada lado. Lleva zapatos de color marrón oscuro y tiene clips dorados a los lados de los pies. Sus pantalones también están diseñados con diseños de color marrón más oscuro, con rojo también. Dos clips dorados encima de los patrones de triángulos rojos en los pantalones cortos y dos clips dorados grandes en el costado de sus pantalones cortos.\n\nLleva una corbata, que se parece un poco a una gorguera, y una segunda capa de corbata que es de color marrón oscuro, con un forro rojo debajo de la otra capa adjunta de la segunda capa que parece una corbata. Con una chispa dorada encima, y ​​otra pero más grande en el centro, con dos bordes más, también tiene dos collares similares a auriculares, ambos son de color marrón oscuro con rojo por dentro y diseños dorados. Su sombrero es un shakó alto y negro, decorado con muebles de latón. Su Visión Pyro está en la parte posterior, sostenida por dos cadenas de oro.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historia "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 1\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Una de las cosas que los padres de Fontaine les dicen a sus hijos cuando estos han hecho alguna travesura es:\n“Si te vuelves a portar mal, ¡la Unidad Especial de Seguridad y Vigilancia te arrestará!”.\n\nAunque los niños, asustados por sus padres, ya sean adultos y sepan que la Unidad Especial de Seguridad y Vigilancia nunca les haría nada por hacer cosas como no lavarse los dientes, quedarse dormidos, romper una ventana o comer pastel a escondidas, otra historia es cuando la que aparece es Chevreuse, la capitana de la Unidad. En ese momento, todos se ponen firmes, miran a otro lado y ponen las manos tras la espalda, como temiendo que los arresten por haber cometido algún delito del que no se han dado cuenta. Por mucho que respeten a los agentes de la Unidad Especial y sepan que son buenas personas que luchan contra el crimen, les es inevitable controlar el impulso de ponerse firmes.\n\nY es que la Unidad tampoco puede hacer mucho con respecto a esta reputación. Una vez, una persona le dijo a Chevreuse que esa mala fama solo dañaba la imagen de la Unidad Especial, pero es que esta organización es la ejecutora de la ley subordinada a la Oficina Judicial, y si utiliza la coerción y la fuerza es porque es la única manera de hacer frente a criminales tan atroces. Es por ello que la Unidad Especial no tiene más remedio que asustar a los niños.\n¿Por qué «El Pájaro de Vapor» nunca entrevista a Chevreuse? La misma capitana ha enfatizado alguna vez que la Unidad Especial de Seguridad y Vigilancia solo es una institución que se encarga de ejecutar la ley y luchar contra el crimen, así como de velar por la estabilidad y la seguridad de la Corte de Fontaine, por lo que nunca querría importunar a los ciudadanos.\nSin embargo, Chevreuse hizo una propuesta:\n“Si esa reputación termina calando entre la gente, tal vez nadie se atreva a sobrepasar ciertos límites por no querer hacer frente a las consecuencias de ir en contra de la Unidad Especial.\n\nAsí, a lo mejor nunca tendré que arrestar a nadie”."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 2\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "La Oficina Judicial de la Corte de Fontaine es un importante y estricto organismo encargado de velar por el cumplimiento de la ley en Fontaine y, como tal, todos sus empleados han de someterse a una investigación y una formación igual de estrictas. Sus palabras y sus acciones representan no solo a la Oficina Judicial, sino también al sistema legal de la Corte de Fontaine, por lo que no pueden cometer ni el más mínimo error.\n\nSin embargo, el modo de trabajo de la Unidad Especial de Seguridad y Vigilancia es completamente distinto al de otros organismos: no obligan a sus integrantes a llevar un tipo de arma concreta ni a vestir de uniforme en ocasiones extraoficiales. En cambio, desde que Chevreuse asumió la capitanía, todos los agentes de la Unidad empezaron a usar mosquetes como una de las armas con la que ejecutan la ley, y algunos incluso comenzaron a negarse a colaborar en misiones con los Mecagendarmes, alegando que estas máquinas se suelen quedar paradas para obstruir los disparos de los mosquetes y corren el riesgo de que los criminales las controlen para atacar a los agentes de la Unidad Especial. Por cierto, al reclutar nuevos integrantes, esta organización acepta a los descendientes de delincuentes infames.\n\nCon el fin de resolver crímenes lo más rápidamente posible, la Oficina Judicial permite algunas de esas acciones, aunque no lo reconoce oficialmente, y siempre mantiene la paciencia con la Unidad Especial y Chevreuse. Sin embargo, lo que la Oficina no tolera es que, cuando la capitana está a cargo de un caso, contrate a criminales para que la ayuden a investigar en calidad de “asesores”.\n\nAunque Chevreuse insiste en que lo hace para atrapar al culpable lo antes posible, algunos de sus colegas consideran que pedir ayuda a un infractor para arrestar a otro es un insulto a las leyes de Fontaine y sus ejecutores, y se preguntan dónde quedará la dignidad de la Corte de Fontaine y su sistema legal si las cosas se siguen haciendo así.\nAnte esas preguntas, Chevreuse siempre da la misma respuesta breve:\n“Lo que es un insulto a la ley es permitir que un criminal ande suelto por ahí.\nAdemás, ¿qué es más importante, la ‘dignidad’ o la seguridad de la Corte de Fontaine?”.\n\nEsa era una de las cosas que le enseñó su padre."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 3\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "“Donatello era un ejecutor de la ley con un gran sentido de la justicia”.\n\nEso es lo que siempre dice Chevreuse cuando habla de su padre, y también es uno de los recuerdos que tiene de él de cuando era pequeña.\nDonatello era una persona muy ocupada. Por la mañana se marchaba a toda prisa y, cuando volvía a casa agotado, lo primero que hacía era dar un abrazo a su mujer y a su hija y pedirles perdón por llegar tarde. A veces, cuando llegaba demasiado tarde, traía algún pastel para Chevreuse, pero ella ya se había lavado los dientes y no quería comer nada dulce.\nAl tratarse de un valioso regalo que, por desgracia, se echaba a perder de un día para otro, la madre de Chevreuse le dejaba probar un bocado de la crema batida del pastel, tras lo que lo llevaba a la habitación de su marido para que él se lo terminase junto a una taza de café.\nEn esos momentos, Donatello se quedaba embobado mirando la pared llena de imágenes y chinchetas, daba vueltas en la habitación, fumaba, se despeinaba y a veces incluso alzaba la mano y la bajaba lentamente para no golpear la mesa con demasiada fuerza. Todo eso lo veía Chevreuse a escondidas.\n\nLas pocas veces que ella veía a su padre en la calle, lo saludaba con emoción, a lo que él solo respondía con una sonrisa y seguía con su trabajo.\nSu esposa, vecinos, compañeros de trabajo e incluso los niños que vivían al lado de él y su familia siempre decían que era una persona buena y justa.\nEsos mismos compañeros de trabajo visitaron de repente un día la casa de Chevreuse.\nSu madre los miraba ir de un lado a otro sin entender qué pasaba. La pequeña Chevreuse, por su parte, estaba en su habitación, pero por la discusión que se escuchaba pudo suponer que su padre se había convertido en uno de esos criminales a los que solía arrestar, que iba a ser juzgado y que probablemente lo exiliarían al Fuerte Merópide.\n\n“¿Ha hecho algo malo mi papá?”, le preguntó a uno de los desconocidos que había entrado en su casa, el cual respondió sin poder contener la emoción:\n“... Tu padre es un ejecutor de la ley con un gran sentido de la justicia”.\nUn criminal justo.\nEse es uno de los dos recuerdos que tiene Chevreuse de su padre de cuando era pequeña."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 4\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Ni siquiera el mejor escritor de historias de la Corte de Fontaine sería capaz de explicarle a un niño por qué a veces se tarda tanto en declarar culpable a una persona que todo indica que lo es; por qué nadie dice nada cuando alguien difama a los ejecutores de la ley, que son inocentes; por qué quienes saben que han hecho algo malo no dicen la verdad, y por qué esas personas a las que difaman solo pueden hacer justicia a expensas de su propio futuro y reputación.\n\nY lo que es aún más difícil de explicar: por qué a veces, para hacer algo bueno, primero hay que hacer algo malo.\nEl mayor cambio en la vida de Chevreuse vino cuando su familia se mudó al Río Ceniciento.\nUna casa muy pequeña, comida bastante mala, amigos con los que perdió el contacto y una madre cada vez más agotada... Los compañeros de trabajo de su padre solían visitar a la familia de Donatello fuera del horario de trabajo llevando todo tipo de cosas. Le dijeron a la madre que todo el mundo estaba declarando a favor de Donatello, y que no solo lo hacía la Guardia o la Unidad Especial de Seguridad y Vigilancia, sino también varios funcionarios administrativos que conocían. Aunque era un hecho que Donatello había infringido la ley y que desde un punto de vista judicial era imposible rebajarle la condena, sus compañeros de trabajo al menos sí consiguieron reducir las críticas contra él. Aun así, su esposa no conseguía salir de la depresión en la que se encontraba.\n\nPara cuidar de ella, Chevreuse tuvo que asumir algunas responsabilidades que no debería haber asumido una niña de su edad, lo que la hizo adentrarse en las recónditas corrientes del Río Ceniciento.\nTal vez porque los habitantes del Río habían oído hablar del asunto, o tal vez porque su justo padre nunca había cuidado de Chevreuse, recibió la ayuda de mucha gente. Un jefe de buen corazón le dio un buen trabajo, y el matrimonio que vivía al lado de ella quería ayudarla a cuidar de su débil madre.\nPero cuando los niños del Río Ceniciento se enteraron de la llegada de la joven Guardia, fue como si hubieran encontrado la acusación y la defensa de un juicio, y dejaron que Chevreuse resolviera todos los problemas y disputas causados por el Mora.\n“¡Chevreuse, haz justicia!”, gritaban los niños al unísono, tras lo que todos estallaban a reír a la vez. En realidad, eso solo era un juego, ya que no querían que Chevreuse tuviera toda la carga de decidir quién tenía razón y quién no.\nAl día siguiente, Chevreuse volvió a encontrarlos mientras llevaba consigo toda una pila de documentos legales. En la mano tenía un cuaderno abierto por la primera página, y entonces les dijo a los niños, que no paraban de reír, en un tono estricto:\n“Bien. Que cada una de las partes presente sus pruebas”.\nEse día, surgió la primera ejecutora de la ley del Río Ceniciento, pero era una muy diferente a los de la superficie, pues ella misma supervisaba que sus decisiones se cumplieran.\n\nAllí aprendió todo tipo de métodos para hacer justicia de verdad."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Historia del personaje 5\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "“Bien, Srta. Chevreuse... Según lo investigado por este tribunal, exiliaron a su padre al Fuerte Merópide por infringir el reglamento de la Guardia y filtrar información confidencial sobre un caso de gran importancia."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\nTras ello, su madre y usted se mudaron al Río Ceniciento. ¿Tiene algo que decir en cuanto a los cargos de su padre y su experiencia viviendo en el Río Ceniciento?”."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n“En cuanto a mi experiencia viviendo ahí...”.\nDonatello, que había violado la ley y en consecuencia lo habían exiliado; su familia, que se vio obligada a mudarse al Río Ceniciento tras caer en la pobreza, y Chevreuse, que al ser la hija de un criminal no podía trabajar en la Oficina Judicial, razón por la cual decidió seguir combatiendo el crimen en la Unidad Especial de Seguridad y Vigilancia...\nCuando el entonces capitán de la Unidad investigó a Chevreuse, ella repitió las mismas explicaciones de siempre. Cuando Donatello cumplió su condena y entró a trabajar en la Unidad Especial de Seguridad y Vigilancia, examinó su caso numerosas veces, pero nunca encontró ni un solo error.\nHacía mucho tiempo que la Oficina Judicial lo había echado de su trabajo, pero él entendía el porqué. Si Chevreuse quería ser capitana de la Unidad, tendría que darle una explicación creíble a los señores de la Oficina Judicial para que anunciaran al mundo su nombramiento con claridad, contundencia, y también dejándoles un poco de margen por si surgía algún contratiempo.\nChevreuse, que ya no era una niña, sabía muy bien que si su padre había roto la confidencialidad de aquel caso, era para dar un impulso a la curiosidad de los reporteros y a sus investigaciones sobre el sospechoso. Cuando toda la familia se mudó al Río Ceniciento, en realidad no tuvieron una vida tan pobre gracias al apoyo financiero secreto que le daban algunos trabajadores —e incluso funcionarios de alto rango— de la Oficina Judicial. Mientras tanto, los oficiales y colegas de Chevreuse en la Unidad Especial de Seguridad y Vigilancia habían hecho los preparativos para que pudiera hacer prácticas y familiarizarse con el trabajo.\nY a pesar de todo, nada de eso fue realmente de gran ayuda para que Chevreuse asumiera el cargo de capitana.\nAunque a Donatello no terminaba de convencerle que su hija quisiera heredar su trabajo, ella lo dio todo para superar todas las pruebas que su padre le había puesto, inclusive aquellas que eran deliberadamente difíciles.\nCuando llegó el día en que Chevreuse nadó en el gélido mar invernal, Donatello tuvo que reunir toda la fuerza de voluntad posible para quedarse quieto mientras observaba a su joven hija y luchaba contra el impulso de ir a ayudarla. Cuando ella llegó temblando hasta la otra orilla del agua, su padre se dio cuenta de que se había vuelto incluso más tenaz que él, y que era incluso mejor candidata para impartir justicia.\nYa era hora de dejar atrás para siempre todo lo que había vivido en el Río Ceniciento.\nHacía mucho tiempo que padre e hija habían cruzado a nado el gélido mar invernal, y ya era el momento de mirar hacia delante."
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "br"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": ">"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n“... El veredicto es inequívoco: mi padre cometió un delito al violar el reglamento de la Unidad Especial de Seguridad y Vigilancia”.\nTras declarar su conclusión, Chevreuse cerró el cuaderno.\nDesde entonces, la justicia se impartió siempre que debía."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Mosquete Estándar Tipo II de la Unidad Especial de Seguridad y Vigilancia\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "En comparación con el modelo original, la forma de la culata y la longitud del cañón de los mosquetes estándar mejorados de la Unidad Especial de Seguridad y Vigilancia se modifican según la estructura de los hombros de cada persona. Entre ellas, a los mosquetes tipo II se les coloca un riel multifunción en la estructura principal y en el cañón, y en dicho riel se pueden instalar accesorios tales como una mira, un lanzagranadas, lanzadores de gases antidisturbios y de explosiones sónicas, un arma de combate cuerpo a cuerpo, etc., todo ello con el fin de adaptarse a todo tipo de situaciones de combate.\n\nAdemás de mejorar la fuerza de combate de los agentes de la Unidad Especial por medio de mosquetes mejorados, Chevreuse también endureció los estándares técnicos para manejar armas de fuego al incluir aptitudes que nada tenían que ver con dichas armas, como por ejemplo, el combate físico.\n“El trabajo de la Unidad Especial de Seguridad y Vigilancia es atrapar a los criminales, ¡no alardear de nuestras armas de fuego!\n¿O es que se negarían ustedes a cumplir con su deber si no llevaran esas armas?”.\nY así, debido a la introducción de los mosquetes estándar tipo II, las horas de entrenamiento de la Unidad Especial aumentaron considerablemente.\nNaturalmente, Chevreuse completó sin excepción todos los objetivos de dicho entrenamiento.\nAl ver a su capitana con una férrea compostura en medio del campo de entrenamiento, los demás agentes suspiraron y dijeron:\n“Capitana, por favor, termine con esta tortura...”."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Visión\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Chevreuse, capitana de la Unidad Especial de Seguridad y Vigilancia, no suele hablar de cómo consiguió su Visión. Según ella, esto se debe a que la autoridad de la Unidad proviene de la ley y la justicia, y si recalcara demasiado la importancia de su Visión, podría dar lugar a algunos malentendidos. Así que, para mantener la integridad de la ley, prefiere no hablar de ello.\n\nSin embargo, los agentes que mejor conocen a Chevreuse saben que, para ella, su Visión es una pesada carga.\n\nCuando se unió a la Unidad, superó todo el entrenamiento con su talento y determinación casi sobrehumanos, memorizó todas las normas de operaciones y cláusulas legales, y así se ganó muy merecidamente el primer puesto de toda su promoción. Pero tal vez lo que más admiraban de ella sus compañeros era su empeño en hacer justicia.\n\nNo obstante, Grizzetti, el subcapitán a cargo de supervisarlos, no opinaba lo mismo y nunca escogía a Chevreuse cuando había que salir para una misión. Sus compañeros pensaban que tal vez lo hacía para protegerla, puesto que, al fin y al cabo, Grizzetti era muy buen amigo de Donatello, había cuidado de Chevreuse en muchas ocasiones y ella lo trataba con mucha cercanía. O a lo mejor todo formaba parte de un plan de formación con el que capacitarla para asumir tareas más importantes.\n\nSea como sea, ella no pensó en todas esas opciones y, la sexta vez que el subcapitán la dejó fuera de una misión, no pudo aguantar más y le preguntó por qué nunca le dejaba participar.\n“Aún no estás preparada”, le respondió Grizzetti.\n“Aclara tus ideas, Chevreuse. Si tu justicia se basa en el ‘ojo por ojo, diente por diente’, será mejor que agarres tus cosas y te marches. Este es el lugar de la justicia, no el campo en el que ejecutar tu venganza personal”.\nEn aquel entonces, Chevreuse no comprendió del todo las palabras del subcapitán, ni tampoco sabía muy bien cuándo estaría preparada. A lo mejor necesitaría la vida entera para llegar a comprenderlo, pensó; o tal vez debía estar preparada para lo que fuera a ocurrir en aquel mismo instante.\nEn una operación de persecución, Grizzetti no tuvo más remedio que contar con la ayuda de Chevreuse debido a la falta de personal. Pero antes, le advirtió de que no se separase de él en ningún momento, que obedeciera todo lo que dijera y que bajo ningún concepto actuara por cuenta propia. No obstante, la operación requirió que el grupo se dividiera para acorralar a la banda criminal que estaban persiguiendo en medio de una fuerte tormenta.\nChevreuse y Grizzetti estaban escondidos entre la maleza esperando a que los criminales aparecieran. Como tardaban demasiado, pensaron que tal vez la información que les habían dado era errónea, pero justo cuando iban a retirarse, una fría bala alcanzó al subcapitán. Chevreuse reaccionó de inmediato: aprovechó el fogonazo del enemigo para localizarlo, apuntar y contraatacar con un disparo que lo tumbó. Por desgracia, el cuerpo de Grizzetti ya se encontraba completamente inmóvil...\n\nAhora solo quedaban Chevreuse y el criminal. Seguro que, si usaba su arma, el disparo no se oiría por el ruido de la lluvia, y puede que la Unidad Especial no investigara muy a fondo por qué habían disparado al criminal que asesinó a uno de sus agentes.\n\nY lo que era más importante: el asesino estaba enfrente de sus narices. Todo indicaba que ese era el mejor momento para hacer justicia. Así pues, alzó el mosquete apuntando al entrecejo del asesino y... bajó el arma.\nLa Unidad Especial de Seguridad y Vigilancia solo daba voz a la justicia, mientras que la auténtica justicia se impartía en el tribunal. Tal vez esa era la preparación que necesitaba Chevreuse para ser una miembro de pleno derecho de la Unidad.\n“Quedas arrestado en nombre de la Unidad Especial de Seguridad y Vigilancia”, declaró secamente Chevreuse.\nEl criminal no dudó ni un instante en echar a correr atropelladamente, tras lo que se escuchó un fuerte disparo. Chevreuse le había impactado en la pierna derecha, y el fugitivo se puso a gritar y a maldecir, para después acabar rodando hasta los demás agentes que por fin llegaron a la escena.\nEl tribunal se encargó de impartir justicia según la ley, y Chevreuse, de hacer su propia justicia.\nDe lo que no se había dado cuenta es de que, cuando bajó el mosquete, del mango colgaba una Visión.\nBrillaba muy tenuemente debido a lo oscuro que estaba por la tormenta; era pálida y lóbrega, como la justicia que aún no había sido declarada."
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historia de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Información de combate "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Talentos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Bayoneta de vanguardia (modificada)\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Fuego rápido de proximidad e intercepción\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Bombardeo radial\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Vigilancia coordinada\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Formación lineal integral\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 5 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Marcha rápida táctica\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6 "
             }
           ]
@@ -1153,147 +1155,147 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de talentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ojo del vórtice deslucido\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " único      "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Enseñanzas del orden\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 1 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Guía del orden\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 2 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Filosofía del orden\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " material 3 "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Engranaje de malla\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 1    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mecaengranaje recto\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 2    "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Engranaje mecadinámico\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común 3    "
             }
           ]
@@ -1301,453 +1303,453 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaMaterialesTalentos\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Constelación "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " pyro\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 1 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " visión "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Temple estabilizador en el frente\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cuando un personaje en uso (a excepción de Chevreuse) que está bajo el efecto de maniobra coordinada causa una reacción de Sobrecarga, recupera 6 pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 10 s.\nEs necesario desbloquear el talento pasivo “Vigilancia coordinada”.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 2 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Detonación de francotirador"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Al mantener pulsada la habilidad Fuego rápido de proximidad e intercepción y alcanzar a un objetivo con un disparo, cerca de la ubicación del objetivo tienen lugar 2 explosiones encadenadas, cada una de las cuales inflige Daño Pyro en una cantidad equivalente al 120% del ATQ de Chevreuse. Este efecto solo puede ocurrir una vez cada 10 s, y el daño infligido de esta forma se considera daño de Habilidad Elemental.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 3 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Recarga artificiosa\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta el nivel de habilidad de Fuego rápido de proximidad e intercepción +3.\nPuede ser aumentado hasta Niv. 15.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 4 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Técnica: Multidisparo rápido"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Tras usar Bombardeo radial, al mantener pulsado y lanzar Fuego rápido de proximidad e intercepción, este no entra en TdE. Este efecto dura un máximo de 6 s y finaliza tras lanzar 2 veces Fuego rápido de proximidad e intercepción manteniendo pulsado.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 5 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Potencia de fuego incremental"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Aumenta el nivel de habilidad de Bombardeo radial +3.\nPuede ser aumentado hasta Niv. 15.\n\n"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "<!--"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Nivel de constelación 6 "
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "-->"
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Persecución fenecedora del mal"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Tras haber transcurrido 12 s del efecto curativo de Fuego rápido de proximidad e intercepción, todos los personajes del equipo cercanos regeneran Vida una vez en una cantidad equivalente al 10% de la Vida Máx. de Chevreuse.\nDespués de que un personaje reciba curación a causa de Fuego rápido de proximidad e intercepción, obtiene un 20% de Bono de Daño Pyro y de Bono de Daño Electro. Este efecto dura 8 s y puede acumularse hasta 3 veces. Cada acumulación tendrá su propia duración individual.\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Tabla de constelaciones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Ascensión "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Pyro\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemento     "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Ágata agnidus\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental1   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Cuerno de corcel fontamarino\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " elemental2   "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Campanilla lumidulce\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especialidad "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Engranaje de malla\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común1       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Mecaengranaje recto\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común2       "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Engranaje mecadinámico\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " común3       "
             }
           ]
@@ -1755,185 +1757,185 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "TablaAscensiones\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Estadísticas "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 4\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " rareza "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Vida\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 6\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " especial base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1002.9700927734375\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 3588.609130859375\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " vida ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 16.205280303955078\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 57.98356246948242\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " ataque ascendido "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 50.701351165771484\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa base "
             }
           ]
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 181.4084930419922\n"
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " defensa ascendido "
             }
           ]
@@ -1941,861 +1943,861 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Estadísticas de personaje\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Gachapón "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Apariciones de banner"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Vestuarios "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "DPL Vestuarios por personaje"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Galería "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de constelación Sclopetum Ensiferum.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Constelación de Sclopetum Ensiferum\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Visualización de personaje Chevreuse.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Imagen de la Galería de personajes\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Objeto Chevreuse - Tipo II.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Chevreuse - Tipo II"
                 }
-              ],
-              "type": "internal link"
+              ]
             },
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Introducción de personaje Chevreuse.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de introducción de personaje\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Arte de cumpleaños "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Chevreuse 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2024\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Cumpleaños de Chevreuse 2025.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de cumpleaños 2025\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Dias festivos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Arte de Concierto 2024.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Concierto 2024.png\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Diseños de Paimon - Emoticonos "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 453 - Chevreuse.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 29 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 454 - Chevreuse.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 29 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 455 - Chevreuse.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 29 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 456 - Chevreuse.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 29 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Emoticono 488 - Chevreuse.png"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Serie 31 de Diseños de Paimon\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Galería\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Menciones de personajes "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historias de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " Émilie "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " «Creada con base en hechos reales» "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 1 "
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": " 9\n"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en historias\n"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Diálogos de personajes "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Menciones en diálogos"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Curiosidades "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "* Chevreuse se caracteriza por ser ambidiestra:\n** Ella sostiene y dispara su mosquete con su mano derecha como parte de su "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "habilidad elemental"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Fuego rápido de proximidad e intercepción"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ".\n** Cuando se enfrenta a "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Morris"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " durante una escena en la misión exclusiva del evento "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Donde florecen las rosas"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", ella sostiene una pistola con su mano izquierda.\n*Chevreuse aparece mencionada en la siguiente "
     },
     {
+      "type": "internal link",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "decoración"
         }
       ],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Decoraciones"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ":\n**"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "Poster de la kinografía «Los dos mosqueteros»"
             }
           ],
-          "type": "template parameter",
           "name": []
         }
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "R"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Etimología "
         }
       ],
-      "level": 3,
-      "type": "header"
+      "level": 3
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "* Chevreuse es el nombre de un personaje de [https://es.wikipedia.org/wiki/Los_tres_mosqueteros Los Tres Mosqueteros], su vida está basada en la de [https://es.wikipedia.org/wiki/Marie_de_Rohan Marie de Rohan], duquesa de Chevreuse.\n** En el evento "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Rosas y mosquetes"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ", Chevreuse desempeñó uno de los papeles principales en la adaptación cinematográfica de "
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Xavier"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": " del libro del juego \""
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Los dos mosqueteros"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\".\n* El nombre de Chevreuse puede provenir de la palabra francesa chevrotine \"[https://es.wikipedia.org/wiki/Cartucho_de_escopeta perdigones]\", un tipo de bala hecha de [https://es.wikipedia.org/wiki/Perdig%C3%B3n_(munici%C3%B3n) perdigones de plomo] y utilizada originalmente para la caza de animales.\n** Chevrotine en sí proviene del francés chevrotin \"[https://es.wikipedia.org/wiki/Capreolus_capreolus corzo] joven\".\n*** Por tanto, su nombre se puede descomponer en dos partes: chevreuil \"corzo\" o chèvre \"cabra\"; y -euse, la forma femenina de -eur \"-er\" o -eux \"-ous\".\n* [https://es.wikipedia.org/wiki/Chevreuse Chevreuse] es una comuna francesa cerca de París.\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Historial de cambios "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "template",
       "children": [
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4.3"
             }
           ],
-          "type": "template parameter",
           "name": []
         },
         {
+          "type": "template parameter",
           "children": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "'''Chevreuse''' fue mencionada por "
             },
             {
+              "type": "internal link",
               "children": [],
               "target": [
                 {
-                  "children": [],
                   "type": "text",
+                  "children": [],
                   "value": "Fréminet"
                 }
-              ],
-              "type": "internal link"
+              ]
             }
           ],
-          "type": "template parameter",
           "name": [
             {
-              "children": [],
               "type": "text",
+              "children": [],
               "value": "4.0"
             }
           ]
@@ -2803,257 +2805,255 @@
       ],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Historial de cambios2"
         }
-      ],
-      "type": "template"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "header",
       "children": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": " Referencias "
         }
       ],
-      "level": 2,
-      "type": "header"
+      "level": 2
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "<"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "references /"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": ">"
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "en:Chevreuse"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "fr:Chevreuse"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "it:Chevreuse"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ja:シュヴルーズ"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pl:Chevreuse"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "pt-br:Chevreuse"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "ru:Шеврёз"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "th:Chevreuse"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "tr:Chevreuse"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "uk:Шеврез"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "vi:Chevreuse"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "zh:夏沃蕾"
         }
-      ],
-      "type": "internal link"
+      ]
     },
     {
-      "children": [],
       "type": "text",
+      "children": [],
       "value": "\n"
     },
     {
+      "type": "internal link",
       "children": [],
       "target": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "Categoría:Orden de visualización de personajes"
         }
-      ],
-      "type": "internal link"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }

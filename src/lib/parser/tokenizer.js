@@ -1,43 +1,81 @@
-export type Token = { type: 'TEXT'; value: string }
-  | { type: 'INTERNAL_LINK_START' } // [[
-  | { type: 'INTERNAL_LINK_DELIMITER' } // |
-  | { type: 'INTERNAL_LINK_END' } // ]]
-  | { type: 'TEMPLATE_START' } // {{
-  | { type: 'TEMPLATE_END' } // }}
-  | { type: 'TEMPLATE_PARAMETER_ASSIGNS' } // =
-  | { type: 'TEMPLATE_PARAMETER_DELIMITER' } // |
-  | { type: 'HEADER_START'; level: number }
-  | { type: 'HEADER_END'; level: number }
-  | { type: 'HEADER_NEW_LINE'; value: string }
-  | { type: 'HTML_COMMENT_START' } // <!--
-  | { type: 'HTML_COMMENT_END' } // -->
-  | { type: 'TAG_START' } // <
-  | { type: 'TAG_CLOSING' } // </
-  | { type: 'TAG_END' }; // >
+/**
+ * @typedef {(
+ *  | { type: 'TEXT'; value: string }
+ *  | { type: 'INTERNAL_LINK_START' }
+ *  | { type: 'INTERNAL_LINK_DELIMITER' }
+ *  | { type: 'INTERNAL_LINK_END' }
+ *  | { type: 'TEMPLATE_START' }
+ *  | { type: 'TEMPLATE_END' }
+ *  | { type: 'TEMPLATE_PARAMETER_ASSIGNS' }
+ *  | { type: 'TEMPLATE_PARAMETER_DELIMITER' }
+ *  | { type: 'HEADER_START'; level: number }
+ *  | { type: 'HEADER_END'; level: number }
+ *  | { type: 'HEADER_NEW_LINE'; value: string }
+ *  | { type: 'HTML_COMMENT_START' }
+ *  | { type: 'HTML_COMMENT_END' }
+ *  | { type: 'TAG_START' }
+ *  | { type: 'TAG_CLOSING' }
+ *  | { type: 'TAG_END' }
+ * )} Token
+ */
 
-enum State {
-  ROOT = 'ROOT',
-  TEMPLATE = 'TEMPLATE',
-  INTERNAL_LINK = 'INTERNAL_LINK',
-  TEMPLATE_PARAMETER = 'TEMPLATE_PARAMETER',
-  TEMPLATE_PARAMETER_VALUE = 'TEMPLATE_PARAMETER_VALUE',
-  HEADER = 'HEADER',
-  HTML_COMMENT = 'HTML_COMMENT',
-  TAG_DEFINITION = 'TAG_DEFINITION',
-}
+/** @enum {string} */
+const State = Object.freeze({
+  HEADER: 'HEADER',
+  HTML_COMMENT: 'HTML_COMMENT',
+  INTERNAL_LINK: 'INTERNAL_LINK',
+  ROOT: 'ROOT',
+  TAG_DEFINITION: 'TAG_DEFINITION',
+  TEMPLATE: 'TEMPLATE',
+  TEMPLATE_PARAMETER: 'TEMPLATE_PARAMETER',
+  TEMPLATE_PARAMETER_VALUE: 'TEMPLATE_PARAMETER_VALUE',
+});
 
 export class Tokenizer {
-  public readonly input: string;
-  public cursor: number = 0;
-  public states: State[] = [State.ROOT];
-  public buffer: number = 0;
-  public tokens: Token[] = [];
+  /**
+   * @readonly
+   * @type {string}
+   * @since 1.0.0
+   */
+  input;
 
-  public constructor(input: string) {
+  /**
+   * @type {number}
+   * @since 1.0.0
+   */
+  cursor = 0;
+
+  /**
+   * @type {State[]}
+   * @since 1.0.0
+   */
+  states = [State.ROOT];
+
+  /**
+   * @type {number}
+   * @since 1.0.0
+   */
+  buffer = 0;
+
+  /**
+   * @type {Token[]}
+   * @since 1.0.0
+   */
+  tokens = [];
+
+  /**
+   * @param {string} input
+   * @since 1.0.0
+   */
+  constructor(input) {
     this.input = input;
   }
 
-  public tokenize() {
+  /**
+   * @returns {Token[]}
+   * @since 1.0.0
+   */
+  tokenize() {
     while (this.cursor < this.input.length) {
       const state = this.states.at(-1);
 
@@ -100,7 +138,12 @@ export class Tokenizer {
     return this.tokens;
   }
 
-  public peek(count: number) {
+  /**
+   * @param {number} count
+   * @returns {string}
+   * @since 1.0.0
+   */
+  peek(count) {
     if (count > 0) {
       return this.input.slice(this.cursor, this.cursor + count);
     } else {
@@ -108,14 +151,23 @@ export class Tokenizer {
     }
   }
 
-  public consume(count: number) {
+  /**
+   * @param {number} count
+   * @returns {string}
+   * @since 1.0.0
+   */
+  consume(count) {
     const substring = this.peek(count);
     this.cursor += count;
     this.buffer = this.cursor;
     return substring;
   }
 
-  public flush() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  flush() {
     if (this.buffer === this.cursor) return;
 
     const substring = this.input.slice(this.buffer, this.cursor);
@@ -123,61 +175,101 @@ export class Tokenizer {
     this.createText(substring);
   }
 
-  public createHtmlCommentStart() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createHtmlCommentStart() {
     this.consume(4);
     this.tokens.push({ type: 'HTML_COMMENT_START' });
     this.states.push(State.HTML_COMMENT);
   }
 
-  public createHtmlCommentEnd() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createHtmlCommentEnd() {
     this.consume(3);
     this.tokens.push({ type: 'HTML_COMMENT_END' });
     this.states.pop();
   }
 
-  public createInternalLinkStart() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createInternalLinkStart() {
     this.consume(2);
     this.tokens.push({ type: 'INTERNAL_LINK_START' });
     this.states.push(State.INTERNAL_LINK);
   }
 
-  public createInternalLinkDelimiter() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createInternalLinkDelimiter() {
     this.consume(1);
     this.tokens.push({ type: 'INTERNAL_LINK_DELIMITER' });
   }
 
-  public createInternalLinkEnd() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createInternalLinkEnd() {
     this.consume(2);
     this.tokens.push({ type: 'INTERNAL_LINK_END' });
     this.states.pop();
   }
 
-  public createTemplateStart() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createTemplateStart() {
     this.consume(2);
     this.tokens.push({ type: 'TEMPLATE_START' });
     this.states.push(State.TEMPLATE);
   }
 
-  public createTemplateDelimiter() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createTemplateDelimiter() {
     this.consume(1);
     this.tokens.push({ type: 'TEMPLATE_PARAMETER_DELIMITER' });
     this.states.push(State.TEMPLATE_PARAMETER);
   }
 
-  public createTemplateParameterAssign() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createTemplateParameterAssign() {
     this.consume(1);
     this.tokens.push({ type: 'TEMPLATE_PARAMETER_ASSIGNS' });
     this.states.pop();
     this.states.push(State.TEMPLATE_PARAMETER_VALUE);
   }
 
-  public createTemplateEnd() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createTemplateEnd() {
     this.consume(2);
     this.tokens.push({ type: 'TEMPLATE_END' });
     while (this.states.length && this.states.pop() !== State.TEMPLATE);
   }
 
-  public createHeaderStart() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createHeaderStart() {
     let count = 0;
     for (count; this.cursor + count < this.input.length; count++) {
       const next = this.peek(count + 1);
@@ -188,7 +280,11 @@ export class Tokenizer {
     this.states.push(State.HEADER);
   }
 
-  public createHeaderEnd() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createHeaderEnd() {
     let count = 0;
     for (count; this.cursor + count < this.input.length; count++) {
       const next = this.peek(count + 1);
@@ -204,7 +300,11 @@ export class Tokenizer {
     }
   }
 
-  public createHeaderNewLine() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createHeaderNewLine() {
     let count = 0;
     for (count; this.cursor + count < this.input.length; count++) {
       const next = this.peek(count + 1);
@@ -216,25 +316,42 @@ export class Tokenizer {
     this.states.pop();
   }
 
-  public createTagStart() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createTagStart() {
     this.consume(1);
     this.tokens.push({ type: 'TAG_START' });
     this.states.push(State.TAG_DEFINITION);
   }
 
-  public createClosingTag() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createClosingTag() {
     this.consume(2);
     this.tokens.push({ type: 'TAG_CLOSING' });
     this.states.push(State.TAG_DEFINITION);
   }
 
-  public createTagEnd() {
+  /**
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createTagEnd() {
     this.consume(1);
     this.tokens.push({ type: 'TAG_END' });
     this.states.pop();
   }
 
-  public createText(value: string) {
+  /**
+   * @param {string} value
+   * @returns {void}
+   * @since 1.0.0
+   */
+  createText(value) {
     this.tokens.push({ type: 'TEXT', value });
   }
 }

@@ -1,16 +1,16 @@
 {
+  "type": "page",
   "children": [
     {
+      "type": "template",
       "children": [],
       "name": [
         {
-          "children": [],
           "type": "text",
+          "children": [],
           "value": "template"
         }
-      ],
-      "type": "template"
+      ]
     }
-  ],
-  "type": "page"
+  ]
 }
