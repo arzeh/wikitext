@@ -1,4 +1,4 @@
-import { WikiTemplateNode, parse } from '../../src';
+import { WikiTemplateNode, parse } from '../../src/main.js';
 import { describe, expect, it } from 'vitest';
 
 describe('template node', () => {

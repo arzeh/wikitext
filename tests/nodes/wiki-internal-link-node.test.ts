@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { parse } from '../../src';
+import { parse } from '../../src/main.js';
 
 describe('template node', () => {
   it('empty template', () => {

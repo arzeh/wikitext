@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { Tokenizer } from '../src';
+import { Tokenizer } from '../src/main.js';
 
 describe('tokenizer', () => {
   it('simple internal link', () => {
