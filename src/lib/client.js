@@ -1,9 +1,35 @@
-export class Client {
-  public readonly api: URL;
-  public cookies: string[] = [];
-  public readonly options: ClientOptions;
+/**
+ * @typedef {Object} ClientOptions
+ * @property {RequestInit['headers']} [headers]
+ */
 
-  public constructor(api: URL | string, options?: ClientOptions) {
+export class Client {
+  /**
+   * @readonly
+   * @type {URL}
+   * @since 1.0.0
+   */
+  api;
+
+  /**
+   * @type {string[]}
+   * @since 1.0.0
+   */
+  cookies = [];
+
+  /**
+   * @readonly
+   * @type {ClientOptions}
+   * @since 1.0.0
+   */
+  options;
+
+  /**
+   * @param {URL | string} api
+   * @param {ClientOptions} [options]
+   * @since 1.0.0
+   */
+  constructor(api, options) {
     if (typeof api === 'string') {
       this.api = new URL(api);
     } else {
@@ -12,14 +38,24 @@ export class Client {
     this.options = options || {};
   }
 
-  public static formData(params: Record<string, unknown>): FormData {
+  /**
+   * @param {Record<string, unknown>} params
+   * @returns {FormData}
+   * @since 1.0.0
+   */
+  static formData(params) {
     return Object.entries(params).reduce((form, [key, value]) => {
       form.set(key, value);
       return form;
     }, new FormData);
   }
 
-  public static searchParams(params: Record<string, unknown>): URLSearchParams {
+  /**
+   * @param {Record<string, unknown>} params
+   * @returns {URLSearchParams}
+   * @since 1.0.0
+   */
+  static searchParams(params) {
     return Object.entries(params).reduce((result, [key, value]) => {
       if (Array.isArray(value)) value = value.join('|');
 
@@ -39,14 +75,29 @@ export class Client {
     }, new URLSearchParams());
   }
 
-  public async get<T = unknown>(params: Record<string, unknown>, options?: RequestInit): Promise<T> {
+  /**
+   * @template [T=unknown]
+   * @param {Record<string, unknown>} params
+   * @param {RequestInit} [options]
+   * @returns {Promise<T>}
+   * @since 1.0.0
+   */
+  async get(params, options) {
     const searchParams = Client.searchParams(params);
     const req = await this.request(`${this.api}?${searchParams}`, options);
-    return req.json() as T;
+    return /** @type {T} */ await req.json();
   }
 
-  public async post<T = unknown>(params: Record<string, unknown>, options: RequestInit = {}): Promise<T> {
-    let body: RequestInit['body'];
+  /**
+   * @template [T=unknown]
+   * @param {Record<string, unknown>} params
+   * @param {RequestInit} [options]
+   * @returns {Promise<T>}
+   * @since 1.0.0
+   */
+  async post(params, options = {}) {
+    /** @type RequestInit['body'] */
+    let body;
 
     // @ts-expect-error content-type exists in headers
     switch (options.headers['content-type']) {
@@ -68,10 +119,16 @@ export class Client {
     });
 
     const req = await this.request(this.api, options);
-    return req.json() as T;
+    return /** @type {T} */ await req.json();
   }
 
-  public async request(url: string | URL, options: RequestInit = {}) {
+  /**
+   * @param {string | URL} url
+   * @param {RequestInit} [options]
+   * @returns {Promise<Response>}
+   * @since 1.0.0
+   */
+  async request(url, options = {}) {
     const headers = Object.assign(
       {},
       this.options.headers || {},
@@ -88,6 +145,3 @@ export class Client {
   }
 }
 
-export interface ClientOptions {
-  headers?: RequestInit['headers'];
-}

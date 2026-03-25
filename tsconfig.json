@@ -4,7 +4,6 @@
     "lib": ["es2023"],
     "allowJs": true,
     "checkJs": true,
-    "noEmit": true,
     "moduleDetection": "force",
     "module": "preserve",
     "moduleResolution": "bundler",
@@ -14,12 +13,13 @@
     "noUnusedLocals": true,
     "declaration": true,
     "emitDeclarationOnly": true,
-    "declarationMap": true,
     "esModuleInterop": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
     "skipLibCheck": true,
-    "strictPropertyInitialization": false
+    "strictPropertyInitialization": false,
+    "rootDir": "src",
+    "outDir": "dist/types"
   },
-  "include": ["src"]
+  "include": ["src/**/*.js"]
 }
