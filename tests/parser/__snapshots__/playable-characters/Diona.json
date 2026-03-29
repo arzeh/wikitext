@@ -1349,27 +1349,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " y en un 15% la absorción de daño del escudo."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, al golpear a un enemigo, crea para el resto de personajes cercanos un escudo que absorbe hasta un 50% del daño de Zarpazo helado durante 5 s.\n"
+              "value": " y en un 15% la absorción de daño del escudo.<br>Además, al golpear a un enemigo, crea para el resto de personajes cercanos un escudo que absorbe hasta un 50% del daño de Zarpazo helado durante 5 s.\n"
             }
           ],
           "type": "template parameter",
@@ -1407,27 +1387,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1471,27 +1431,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Zarpazo helado +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Zarpazo helado +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1513,47 +1453,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Los personajes que estén dentro del área de Cóctel asesino obtienen uno de los siguientes efectos dependiendo de su Vida:"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "·Si su Vida es igual o inferior al 50%, aumenta su Bono de Curación recibida en un 30%."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "·Si su vida es superior al 50%, aumenta la Maestría Elemental en 200 pts.\n"
+              "value": " Los personajes que estén dentro del área de Cóctel asesino obtienen uno de los siguientes efectos dependiendo de su Vida:<br>·Si su Vida es igual o inferior al 50%, aumenta su Bono de Curación recibida en un 30%.<br>·Si su vida es superior al 50%, aumenta la Maestría Elemental en 200 pts.\n"
             }
           ],
           "type": "template parameter",

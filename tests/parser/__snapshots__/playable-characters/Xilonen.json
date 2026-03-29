@@ -1169,27 +1169,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Reduce en un 30% el consumo de pts. de noctambulismo y de flogisto de Xilonen mientras está en estado de bendición noctámbula, y aumenta en un 45% la duración de los pts. de noctambulismo."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, al activarse las muestras musicales de Xilonen, aumenta la RES a interrupción de los personajes en uso cercanos del equipo.\n\n"
+              "value": " Reduce en un 30% el consumo de pts. de noctambulismo y de flogisto de Xilonen mientras está en estado de bendición noctámbula, y aumenta en un 45% la duración de los pts. de noctambulismo.<br>Además, al activarse las muestras musicales de Xilonen, aumenta la RES a interrupción de los personajes en uso cercanos del equipo.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1389,27 +1369,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "&nbsp;+3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
+              "value": "&nbsp;+3.<br />Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1431,47 +1391,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Tras usar Mezcla de la yohual, Xilonen aplica sobre todos los personajes cercanos del equipo el efecto de “gracia de las flores” durante 15 s."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "El daño de los Ataques Normales, Cargados y Descendentes de los personajes bajo los efectos de gracia de las flores aumenta en una cantidad equivalente al 65% de la DEF de Xilonen. Este efecto se elimina tras activarse 6 veces o al terminar su duración."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Al golpear a varios enemigos, se consumirán activaciones dependiendo del número de enemigos golpeados. Las activaciones de los personajes que tengan el efecto de gracia de las flores se calculan de forma independiente..\n\n"
+              "value": " Tras usar Mezcla de la yohual, Xilonen aplica sobre todos los personajes cercanos del equipo el efecto de “gracia de las flores” durante 15 s.<br>El daño de los Ataques Normales, Cargados y Descendentes de los personajes bajo los efectos de gracia de las flores aumenta en una cantidad equivalente al 65% de la DEF de Xilonen. Este efecto se elimina tras activarse 6 veces o al terminar su duración.<br>Al golpear a varios enemigos, se consumirán activaciones dependiendo del número de enemigos golpeados. Las activaciones de los personajes que tengan el efecto de gracia de las flores se calculan de forma independiente..\n\n"
             }
           ],
           "type": "template parameter",
@@ -1509,27 +1429,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "&nbsp;+3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
+              "value": "&nbsp;+3.<br />Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1551,27 +1451,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Cuando Xilonen esprinta, salta o ejecuta un Ataque Normal o Descendente mientras está en estado de bendición noctámbula, obtiene la “bendición de la noche perpetua”, la cual ignora las restricciones del estado de bendición noctámbula y aumenta el daño que inflige con su Ataque Normal y Descendente durante 5 s."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Mientras este efecto está activo, ocurren los siguientes efectos:\n*Se suspende la restricción de duración de los pts. de noctambulismo; sus pts. de noctambulismo, de flogisto y de Aguante no disminuirán y, mientras tenga el máximo de puntos, la bendición noctámbula de Xilonen no terminará.\n*El daño que infligen sus Ataques Normales y Descendentes mientras está en estado de bendición noctámbula aumenta en una cantidad equivalente al 300% de la DEF de Xilonen.\n*Cada 1.5 s, restaura Vida a todos los miembros del equipo cercanos en una cantidad equivalente al 120% de la DEF de Xilonen.\n\nLa bendición de la noche perpetua solo se puede obtener una vez cada 15 s.\n"
+              "value": " Cuando Xilonen esprinta, salta o ejecuta un Ataque Normal o Descendente mientras está en estado de bendición noctámbula, obtiene la “bendición de la noche perpetua”, la cual ignora las restricciones del estado de bendición noctámbula y aumenta el daño que inflige con su Ataque Normal y Descendente durante 5 s.<br>Mientras este efecto está activo, ocurren los siguientes efectos:\n*Se suspende la restricción de duración de los pts. de noctambulismo; sus pts. de noctambulismo, de flogisto y de Aguante no disminuirán y, mientras tenga el máximo de puntos, la bendición noctámbula de Xilonen no terminará.\n*El daño que infligen sus Ataques Normales y Descendentes mientras está en estado de bendición noctámbula aumenta en una cantidad equivalente al 300% de la DEF de Xilonen.\n*Cada 1.5 s, restaura Vida a todos los miembros del equipo cercanos en una cantidad equivalente al 120% de la DEF de Xilonen.\n\nLa bendición de la noche perpetua solo se puede obtener una vez cada 15 s.\n"
             }
           ],
           "type": "template parameter",

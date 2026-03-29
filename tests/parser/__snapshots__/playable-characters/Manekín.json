@@ -349,27 +349,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "El manekín es la manifestación de tu voluntad en el Edén Miliastra. Podrás cambiar en cualquier momento su apariencia según tus preferencias."
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "br"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "Podrás combinar libremente los conjuntos o componentes que te gusten en Configuración de aspecto. Después de crear tu manekín, también podrás personalizar tu propio avatar.\n\n"
+      "value": "El manekín es la manifestación de tu voluntad en el Edén Miliastra. Podrás cambiar en cualquier momento su apariencia según tus preferencias.<br>Podrás combinar libremente los conjuntos o componentes que te gusten en Configuración de aspecto. Después de crear tu manekín, también podrás personalizar tu propio avatar.\n\n"
     },
     {
       "children": [
@@ -617,27 +597,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Qí'ǒu"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "ref"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "bilibili: [https://www.bilibili.com/video/BV1du4JzwEH4/ "
+              "value": " Qí'ǒu<ref>bilibili: [https://www.bilibili.com/video/BV1du4JzwEH4/ "
             },
             {
               "children": [
@@ -665,27 +625,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "]"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "ref"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": "]</ref>\n"
             }
           ],
           "type": "template parameter",

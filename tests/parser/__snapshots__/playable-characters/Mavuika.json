@@ -141,47 +141,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Diosa de la Guerra"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Arconte Pyro"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "El sol radiante de Natlan\n"
+              "value": " Diosa de la Guerra<br>Arconte Pyro<br>El sol radiante de Natlan\n"
             }
           ],
           "type": "template parameter",
@@ -249,27 +209,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Padre sin nombrar"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " Padre sin nombrar<br>\n"
             },
             {
               "children": [],
@@ -285,62 +225,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(madre)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " <small>(madre)</small><br>\n"
             },
             {
               "children": [],
@@ -356,27 +241,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(hermana menor)\n"
+              "value": " <small>(hermana menor)\n"
             }
           ],
           "type": "template parameter",
@@ -1700,27 +1565,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "&nbsp;+3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
+              "value": "&nbsp;+3.<br />Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1742,47 +1587,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Mejora el efecto del talento pasivo “Kiongozi”:"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "El aumento de daño de la Habilidad Definitiva, Infierno celestial, ya no disminuye con el tiempo y obtiene un 10% de bono de daño adicional."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Es necesario desbloquear el talento pasivo “"
+              "value": " Mejora el efecto del talento pasivo “Kiongozi”:<br>El aumento de daño de la Habilidad Definitiva, Infierno celestial, ya no disminuye con el tiempo y obtiene un 10% de bono de daño adicional.<br>Es necesario desbloquear el talento pasivo “"
             },
             {
               "children": [],
@@ -1859,27 +1664,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "&nbsp;+3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
+              "value": "&nbsp;+3.<br />Puede ser aumentado hasta Niv.&nbsp;15.\n\n"
             }
           ],
           "type": "template parameter",

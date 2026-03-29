@@ -295,47 +295,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(abuelo adoptivo)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " <small>(abuelo adoptivo)</small>\n"
             }
           ],
           "type": "template parameter",
@@ -625,27 +585,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "\nNadie sabe cuándo, pero una cara nueva apareció en la ciudad.\n\nSe trataba de un joven procedente del desierto que quería estar presente en todas las ocasiones. Actuaba de una manera tan natural que la gente solo se daba cuenta de que era alguien nuevo después de haber hablado un rato con él. Tras preguntar por todas partes, por fin averiguaban que el joven se llama Sethos.\n\n“¿Dónde lo conociste? ¿Es un viejo amigo tuyo?”, se preguntaban los unos a los otros, solo para descubrir que hacía muy poco tiempo que conocían a Sethos.\n\nEste se mezcló entre el gentío cual grano de arena que cruza un muro al ser arrastrado por el viento, y empezó a hablar con todo el mundo sobre su hogar natal y sus viajes. Sus ojos verdes y su facilidad para la palabra inspiraban confianza a la gente, que consideraba que podía ser un buen amigo.\n\nCuando llegaba el anochecer, este nuevo amigo contaba sus historias: cómo Los Eremitas y él evitaban las tormentas de arena del desierto junto a sus animales de carga; cómo acampaban en los oasis para pasar la noche; lo frías que son las noches en el desierto, y cómo al amanecer pensaban que había valido la pena haber aguantado esas bajas temperaturas...\nPara Sethos, las dificultades solo son una experiencia más, y toda experiencia puede convertirse en una historia. Así, a la gente le gustaba cada vez más escuchar lo que les contaba, y cada vez tenían más ganas de verlo.\n\nUna vez, su público estaba borracho y tumbado sobre la mesa mientras él aún estaba sobrio y girando su copa de vino.\nEntonces dijo:\n\n“Ustedes siempre dicen que soy muy normal en mis historias. Como protagonista, ¿debería tener una llave dorada con la que abrir cámaras de tesoros antiguas y guiar a la gente hacia lugares misteriosos? ¿Eso les gustaría más?”."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "“En mi opinión, así sería muy aburrido. ¡Es mucho más emocionante saber la historia de alguien corriente que vive cosas increíbles! Además, si en el mundo hubiera alguien tan fantástico, no sería tan joven como tú”, dijo el dueño de la taberna metiéndose en la conversación.\n\n“¡Eso mismo pienso yo!”, respondió Sethos, que por algún motivo se había puesto muy contento.\n"
+              "value": "\nNadie sabe cuándo, pero una cara nueva apareció en la ciudad.\n\nSe trataba de un joven procedente del desierto que quería estar presente en todas las ocasiones. Actuaba de una manera tan natural que la gente solo se daba cuenta de que era alguien nuevo después de haber hablado un rato con él. Tras preguntar por todas partes, por fin averiguaban que el joven se llama Sethos.\n\n“¿Dónde lo conociste? ¿Es un viejo amigo tuyo?”, se preguntaban los unos a los otros, solo para descubrir que hacía muy poco tiempo que conocían a Sethos.\n\nEste se mezcló entre el gentío cual grano de arena que cruza un muro al ser arrastrado por el viento, y empezó a hablar con todo el mundo sobre su hogar natal y sus viajes. Sus ojos verdes y su facilidad para la palabra inspiraban confianza a la gente, que consideraba que podía ser un buen amigo.\n\nCuando llegaba el anochecer, este nuevo amigo contaba sus historias: cómo Los Eremitas y él evitaban las tormentas de arena del desierto junto a sus animales de carga; cómo acampaban en los oasis para pasar la noche; lo frías que son las noches en el desierto, y cómo al amanecer pensaban que había valido la pena haber aguantado esas bajas temperaturas...\nPara Sethos, las dificultades solo son una experiencia más, y toda experiencia puede convertirse en una historia. Así, a la gente le gustaba cada vez más escuchar lo que les contaba, y cada vez tenían más ganas de verlo.\n\nUna vez, su público estaba borracho y tumbado sobre la mesa mientras él aún estaba sobrio y girando su copa de vino.\nEntonces dijo:\n\n“Ustedes siempre dicen que soy muy normal en mis historias. Como protagonista, ¿debería tener una llave dorada con la que abrir cámaras de tesoros antiguas y guiar a la gente hacia lugares misteriosos? ¿Eso les gustaría más?”.<br>“En mi opinión, así sería muy aburrido. ¡Es mucho más emocionante saber la historia de alguien corriente que vive cosas increíbles! Además, si en el mundo hubiera alguien tan fantástico, no sería tan joven como tú”, dijo el dueño de la taberna metiéndose en la conversación.\n\n“¡Eso mismo pienso yo!”, respondió Sethos, que por algún motivo se había puesto muy contento.\n"
             }
           ],
           "type": "template parameter",
@@ -1350,27 +1290,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Ataque Normal: Flechas de carrizo regias +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Ataque Normal: Flechas de carrizo regias +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1430,27 +1350,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",

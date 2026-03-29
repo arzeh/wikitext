@@ -1425,27 +1425,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1505,27 +1485,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Garra y trueno +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Garra y trueno +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1547,27 +1507,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " La espada de Razor se carga de electricidad cada 10 s, lo que hace que su próximo Ataque Normal libere un rayo que inflige un 100% del ATQ como Daño Electro."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Cuando no está bajo los efectos de Colmillo relámpago, cada rayo añade 1 insignia Electro a Garra y trueno.\n"
+              "value": " La espada de Razor se carga de electricidad cada 10 s, lo que hace que su próximo Ataque Normal libere un rayo que inflige un 100% del ATQ como Daño Electro.<br>Cuando no está bajo los efectos de Colmillo relámpago, cada rayo añade 1 insignia Electro a Garra y trueno.\n"
             }
           ],
           "type": "template parameter",

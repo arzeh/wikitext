@@ -232,27 +232,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " "
+              "value": " </br> "
             },
             {
               "children": [],
@@ -1411,27 +1391,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " se activa el efecto de \"sentencia\" del talento pasivo \"Juicio de la pluma\", la duración del aumento de Vel. de Ataque Normal se reiniciará. "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Es necesario desbloquear el talento pasivo \"Juicio de la pluma\".\n"
+              "value": " se activa el efecto de \"sentencia\" del talento pasivo \"Juicio de la pluma\", la duración del aumento de Vel. de Ataque Normal se reiniciará. <br> Es necesario desbloquear el talento pasivo \"Juicio de la pluma\".\n"
             }
           ],
           "type": "template parameter",
@@ -1491,27 +1451,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br/>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1549,27 +1489,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " y causa una reacción de Electrocargado, Superconductor, Sobrecarga, Aceleración, Intensificación, Sobreflorecimiento o Torbellino Electro, todos los miembros del equipo cercanos (a excepción de Cyno) recuperan 3 pts. de Energía Elemental."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Este efecto solo puede ocurrir 5 veces por cada uso de "
+              "value": " y causa una reacción de Electrocargado, Superconductor, Sobrecarga, Aceleración, Intensificación, Sobreflorecimiento o Torbellino Electro, todos los miembros del equipo cercanos (a excepción de Cyno) recuperan 3 pts. de Energía Elemental.<br/>Este efecto solo puede ocurrir 5 veces por cada uso de "
             },
             {
               "children": [],
@@ -1623,27 +1543,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br/>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1681,67 +1581,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " o tras activar el efecto de sentencia del talento pasivo \"Juicio de la pluma\", Cyno obtiene 4 cargas del efecto \"rito chacálico\". Al golpear a un enemigo con un Ataque Normal, consume una carga y lanza un rayo catastrófico."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Rito chacálico dura 8 segundos, puede acumularse un máximo de 8 veces y se anulará cuando termine la duración del estado de abrecaminos del juramento de Rito sagrado: Celeridad lupina."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Como máximo, puede lanzar un rayo catastrófico cada 0.4 segundos de esta manera."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Es necesario desbloquear el talento pasivo \"Juicio de la pluma\".\n"
+              "value": " o tras activar el efecto de sentencia del talento pasivo \"Juicio de la pluma\", Cyno obtiene 4 cargas del efecto \"rito chacálico\". Al golpear a un enemigo con un Ataque Normal, consume una carga y lanza un rayo catastrófico.<br/>Rito chacálico dura 8 segundos, puede acumularse un máximo de 8 veces y se anulará cuando termine la duración del estado de abrecaminos del juramento de Rito sagrado: Celeridad lupina.<br/>Como máximo, puede lanzar un rayo catastrófico cada 0.4 segundos de esta manera.<br/>Es necesario desbloquear el talento pasivo \"Juicio de la pluma\".\n"
             }
           ],
           "type": "template parameter",

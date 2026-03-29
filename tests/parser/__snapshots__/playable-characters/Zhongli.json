@@ -75,87 +75,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " El Vagabundo del Mundo Mortal "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Rex Lapis (en Liyue)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " \nMorax"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Sr. Refinado "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(por "
+              "value": " El Vagabundo del Mundo Mortal <br /> Rex Lapis (en Liyue)<br /> \nMorax<br>Sr. Refinado <small>(por "
             },
             {
               "children": [],
@@ -171,27 +91,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ")"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": ")</small>\n"
             }
           ],
           "type": "template parameter",
@@ -1549,27 +1449,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Dominus lapidis +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Dominus lapidis +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1591,27 +1471,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el AdE de Lluvia estelar en un 20%."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, aumenta en 2 s la duración de Petrificación de Lluvia estelar.\n"
+              "value": " Aumenta el AdE de Lluvia estelar en un 20%.<br>Además, aumenta en 2 s la duración de Petrificación de Lluvia estelar.\n"
             }
           ],
           "type": "template parameter",
@@ -1633,27 +1493,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Lluvia estelar +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "rb"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Lluvia estelar +3.<rb>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1675,27 +1515,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Cuando el escudo de jade recibe daño, el 40% del daño recibido se convierte en Vida para el personaje en uso."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "No se puede recuperar más del 8% de la Vida Máx. del personaje cada vez que se activa el efecto.\n"
+              "value": " Cuando el escudo de jade recibe daño, el 40% del daño recibido se convierte en Vida para el personaje en uso.<br>No se puede recuperar más del 8% de la Vida Máx. del personaje cada vez que se activa el efecto.\n"
             }
           ],
           "type": "template parameter",

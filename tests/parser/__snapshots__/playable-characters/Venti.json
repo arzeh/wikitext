@@ -999,47 +999,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "\nNo todo en Mondstadt es obra del Arconte Anemo.\n\nAhora, te cantaré una canción de alabanza a la belleza:\n\n"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "poem"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\nGracias, Viento del Oeste\nPor acariciar las flores de la florida primavera.\nPinzones, patos, conejos y jabalíes\nEl renacimiento de Mondstadt les permite prosperar.\nEn verano, el león camina por las llanuras\nNo hay más palabras de alabanza que las de esta canción.\nEl sudor en la frente hace que el vino se enfríe\nY su melena como el sol calienta el ambiente.\n\nLas bocas de las montañas y las gargantas mienten como caprichosos borrachos\nPero al Viento del Este no le importa, pues él no camina, ¡sino que vuela!\nVuela a la altura de los árboles frutales\nY con sus alas recoge las cosechas.\n\nEl Viento del Norte duerme en el silencioso bosque\nMientras por él pasan los lobos.\nMas nadie los ha visto, pues el viento sabe que al hombre no le interesa el invierno\nY el Arconte Anemo sabe que su sueño será un cálido ensueño.\n"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "poem"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n\nIgual que el paso del tiempo, el viento nunca se detendrá.\nEl mérito de esta obra fue mío, por supuesto\nYa que, sin los bardos, ¿quién difundiría las leyendas?\n"
+              "value": "\nNo todo en Mondstadt es obra del Arconte Anemo.\n\nAhora, te cantaré una canción de alabanza a la belleza:\n\n<poem>\nGracias, Viento del Oeste\nPor acariciar las flores de la florida primavera.\nPinzones, patos, conejos y jabalíes\nEl renacimiento de Mondstadt les permite prosperar.\nEn verano, el león camina por las llanuras\nNo hay más palabras de alabanza que las de esta canción.\nEl sudor en la frente hace que el vino se enfríe\nY su melena como el sol calienta el ambiente.\n\nLas bocas de las montañas y las gargantas mienten como caprichosos borrachos\nPero al Viento del Este no le importa, pues él no camina, ¡sino que vuela!\nVuela a la altura de los árboles frutales\nY con sus alas recoge las cosechas.\n\nEl Viento del Norte duerme en el silencioso bosque\nMientras por él pasan los lobos.\nMas nadie los ha visto, pues el viento sabe que al hombre no le interesa el invierno\nY el Arconte Anemo sabe que su sueño será un cálido ensueño.\n</poem>\n\nIgual que el paso del tiempo, el viento nunca se detendrá.\nEl mérito de esta obra fue mío, por supuesto\nYa que, sin los bardos, ¿quién difundiría las leyendas?\n"
             }
           ],
           "type": "template parameter",

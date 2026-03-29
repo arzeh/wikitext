@@ -78,47 +78,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " El Caminante Eterno"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Incontables adversidades y pruebas desconocidas"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Don Sombrero (por "
+              "value": " El Caminante Eterno<br>Incontables adversidades y pruebas desconocidas<br>Don Sombrero (por "
             },
             {
               "children": [],
@@ -134,47 +94,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ")"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Héroe de Simulanka "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(en "
+              "value": ")<br>Héroe de Simulanka <small>(en "
             },
             {
               "children": [],
@@ -190,22 +110,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ")\n"
+              "value": "</small>)\n"
             }
           ],
           "type": "template parameter",
@@ -1622,27 +1527,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "En el estado de gracia del viento, la Vel. de Ataque de Obliteración celeste y Ráfaga celeste del Trotamundos aumenta en un 10%."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, los proyectiles ventosos del talento pasivo \"Céfiro de la ensoñación\" infligen un daño adicional equivalente al 25% del ATQ. Para activar este efecto, es necesario desbloquear el talento pasivo \"Céfiro de la ensoñación\".\n"
+              "value": "En el estado de gracia del viento, la Vel. de Ataque de Obliteración celeste y Ráfaga celeste del Trotamundos aumenta en un 10%.<br/>Además, los proyectiles ventosos del talento pasivo \"Céfiro de la ensoñación\" infligen un daño adicional equivalente al 25% del ATQ. Para activar este efecto, es necesario desbloquear el talento pasivo \"Céfiro de la ensoñación\".\n"
             }
           ],
           "type": "template parameter",
@@ -1664,27 +1549,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "En el estado de gracia del viento, el daño infligido con Kyougen: Cinco actos aumenta en un 4% por cada punto de diferencia que haya entre el límite máximo de persistencia celeste y la cantidad actual."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Como máximo, el daño de Kyougen: Cinco actos solo puede aumentar en un 200% de esta manera.\n"
+              "value": "En el estado de gracia del viento, el daño infligido con Kyougen: Cinco actos aumenta en un 4% por cada punto de diferencia que haya entre el límite máximo de persistencia celeste y la cantidad actual.<br/>Como máximo, el daño de Kyougen: Cinco actos solo puede aumentar en un 200% de esta manera.\n"
             }
           ],
           "type": "template parameter",
@@ -1706,27 +1571,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Aumenta el nivel de habilidad de Kyougen: Cinco actos +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": "Aumenta el nivel de habilidad de Kyougen: Cinco actos +3.<br/>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1748,27 +1593,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Si al usar Ilustración emplumada: Balada del viento se activa el fortalecimiento de un tipo elemental mediante el talento pasivo \"Flor de jade\", se obtiene aleatoriamente un fortalecimiento más que no se haya activado al usar dicha habilidad. Solo se pueden obtener 3 fortalecimientos elementales al mismo tiempo."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Se necesita desbloquear el talento pasivo \"Flor de jade\".\n"
+              "value": "Si al usar Ilustración emplumada: Balada del viento se activa el fortalecimiento de un tipo elemental mediante el talento pasivo \"Flor de jade\", se obtiene aleatoriamente un fortalecimiento más que no se haya activado al usar dicha habilidad. Solo se pueden obtener 3 fortalecimientos elementales al mismo tiempo.<br/>Se necesita desbloquear el talento pasivo \"Flor de jade\".\n"
             }
           ],
           "type": "template parameter",
@@ -1790,27 +1615,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "#Aumenta el nivel de habilidad de Ilustración emplumada: Balada del viento +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": "#Aumenta el nivel de habilidad de Ilustración emplumada: Balada del viento +3.<br/>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",

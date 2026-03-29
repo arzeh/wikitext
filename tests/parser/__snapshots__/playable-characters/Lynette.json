@@ -360,47 +360,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Humana"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "ref group=Note"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "A pesar de sus rasgos Felinos, Lynette todavía sigue siendo considerada una humana con Atavismo"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "ref"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " Humana<ref group=Note>A pesar de sus rasgos Felinos, Lynette todavía sigue siendo considerada una humana con Atavismo</ref>\n"
             }
           ],
           "type": "template parameter",
@@ -450,22 +410,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " (\"Padre\" guardian)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": " (\"Padre\" guardian)<br>"
             },
             {
               "children": [],
@@ -481,22 +426,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " (Hermano gemelo)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": " (Hermano gemelo)<br>"
             },
             {
               "children": [],
@@ -1766,27 +1696,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
               "children": [],
@@ -1902,27 +1812,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
               "children": [],
@@ -3396,22 +3286,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "references group=\"Note\" /"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n"
+      "value": "<references group=\"Note\" />\n"
     },
     {
       "children": [],

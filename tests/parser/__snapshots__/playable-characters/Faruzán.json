@@ -41,27 +41,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " La Ingeniera Enigmática"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Celebridad de la Escuela de Semiótica\n"
+              "value": " La Ingeniera Enigmática<br>Celebridad de la Escuela de Semiótica\n"
             }
           ],
           "type": "template parameter",
@@ -145,17 +125,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": "<br>"
             },
             {
               "children": [
@@ -1373,27 +1343,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Aumenta el nivel de habilidad de Cielo ventoso del Nasamjñin +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": "Aumenta el nivel de habilidad de Cielo ventoso del Nasamjñin +3.<br/>Puede ser aumentado hasta Niv. 15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1415,27 +1365,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "El vórtice creado con derribo tormentoso regenera Energía Elemental para Faruzán en función del número de enemigos golpeados. Al golpear a un enemigo, Faruzán recupera 2 pts. de Energía Elemental. Por cada enemigo adicional golpeado, recupera 0.5 pts. de Energía."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Faruzán solo puede recuperar 4 pts. de Energía Elemental de esta manera por cada vórtice que se haya creado.\n\n"
+              "value": "El vórtice creado con derribo tormentoso regenera Energía Elemental para Faruzán en función del número de enemigos golpeados. Al golpear a un enemigo, Faruzán recupera 2 pts. de Energía Elemental. Por cada enemigo adicional golpeado, recupera 0.5 pts. de Energía.<br/>Faruzán solo puede recuperar 4 pts. de Energía Elemental de esta manera por cada vórtice que se haya creado.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1457,27 +1387,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Aumenta el nivel de habilidad de Camino del ascenso +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": "Aumenta el nivel de habilidad de Camino del ascenso +3.<br/>Puede ser aumentado hasta Niv. 15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -2593,22 +2503,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "references /"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\n"
+      "value": "<references />\n\n"
     },
     {
       "children": [

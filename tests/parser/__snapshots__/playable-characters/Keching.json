@@ -277,27 +277,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Desconocido "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(desde la "
+              "value": " Desconocido <small>(desde la "
             },
             {
               "children": [],
@@ -313,42 +293,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ")"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\nKayli Mills\n"
+              "value": ")</small><br>\nKayli Mills\n"
             }
           ],
           "type": "template parameter",
@@ -1472,27 +1417,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Cuando los Ataques Normales y Cargados de Keching golpean a enemigos afectados por Electro, hay una probabilidad del 50% de crear una partícula elemental."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Este efecto solo puede ocurrir una vez cada 5 s.\n"
+              "value": " Cuando los Ataques Normales y Cargados de Keching golpean a enemigos afectados por Electro, hay una probabilidad del 50% de crear una partícula elemental.<br>Este efecto solo puede ocurrir una vez cada 5 s.\n"
             }
           ],
           "type": "template parameter",
@@ -1530,27 +1455,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1610,27 +1515,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1652,27 +1537,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Al hacer un Ataque Normal, un Ataque Cargado, una Habilidad Elemental o una Habilidad Definitiva, Keching obtiene un 6% de Bono de Daño Electro durante 8 s."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Los efectos activados por Ataques Normales, Ataques Cargados, Habilidades Elementales y Habilidades Definitivas serán independientes unos de otros.\n"
+              "value": " Al hacer un Ataque Normal, un Ataque Cargado, una Habilidad Elemental o una Habilidad Definitiva, Keching obtiene un 6% de Bono de Daño Electro durante 8 s.<br>Los efectos activados por Ataques Normales, Ataques Cargados, Habilidades Elementales y Habilidades Definitivas serán independientes unos de otros.\n"
             }
           ],
           "type": "template parameter",

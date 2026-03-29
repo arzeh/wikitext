@@ -436,27 +436,7 @@
     {
       "children": [],
       "type": "text",
-      "value": ", Émilie trabaja por cuenta propia y sus productos son muy solicitados por las damas de moda de Fontaine."
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "ref"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "Diálogo con PNJ: "
+      "value": ", Émilie trabaja por cuenta propia y sus productos son muy solicitados por las damas de moda de Fontaine.<ref>Diálogo con PNJ: "
     },
     {
       "children": [],
@@ -472,22 +452,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "</"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "ref"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\nEs amiga de "
+      "value": "</ref>\n\nEs amiga de "
     },
     {
       "children": [],
@@ -1184,27 +1149,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Aumenta en un 20% el daño de Colección de fragancias y de “eau de pureté” del talento pasivo “Fragancia persistente”. Para esto último, es necesario desbloquear dicho talento pasivo."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, cuando un personaje cercano del equipo causa una reacción de Quemadura contra un enemigo o inflige Daño Dendro a un enemigo quemado, se crea una fragancia adicional. Este efecto solo puede ocurrir una vez cada 2.9 s.\n"
+              "value": "Aumenta en un 20% el daño de Colección de fragancias y de “eau de pureté” del talento pasivo “Fragancia persistente”. Para esto último, es necesario desbloquear dicho talento pasivo.<br>Además, cuando un personaje cercano del equipo causa una reacción de Quemadura contra un enemigo o inflige Daño Dendro a un enemigo quemado, se crea una fragancia adicional. Este efecto solo puede ocurrir una vez cada 2.9 s.\n"
             }
           ],
           "type": "template parameter",
@@ -1264,27 +1209,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1344,27 +1269,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1418,27 +1323,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ", Émilie obtiene el efecto de “sillage” durante 5 s."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Mientras este efecto esté activo, cuando Émilie ejecute un Ataque Normal o Cargado, se crea una fragancia, el daño de sus Ataques Normales y Cargados se transforma en Daño Dendro, el cual no puede sustituirse imbuyéndose de otro elemento, y el daño infligido aumenta en una cantidad equivalente al 300% del ATQ de Émilie.\n\nEl efecto de sillage se elimina cuando se hayan creado 4 fragancias de esta manera o al terminar su duración, y solo se puede obtener una vez cada 12 s."
+              "value": ", Émilie obtiene el efecto de “sillage” durante 5 s.<br>Mientras este efecto esté activo, cuando Émilie ejecute un Ataque Normal o Cargado, se crea una fragancia, el daño de sus Ataques Normales y Cargados se transforma en Daño Dendro, el cual no puede sustituirse imbuyéndose de otro elemento, y el daño infligido aumenta en una cantidad equivalente al 300% del ATQ de Émilie.\n\nEl efecto de sillage se elimina cuando se hayan creado 4 fragancias de esta manera o al terminar su duración, y solo se puede obtener una vez cada 12 s."
             }
           ],
           "type": "template parameter",
@@ -2459,22 +2344,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "references /"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\n"
+      "value": "<references />\n\n"
     },
     {
       "children": [],

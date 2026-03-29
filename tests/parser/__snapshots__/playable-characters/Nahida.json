@@ -125,17 +125,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": "<br/>"
             },
             {
               "children": [],
@@ -667,22 +657,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "TAlKhARUcoY&ab_channel=GenshinImpact"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "ref"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": "TAlKhARUcoY&ab_channel=GenshinImpact</ref>"
             }
           ],
           "type": "template parameter",
@@ -701,22 +676,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "ref"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "https://www.youtube.com/watch?v"
+              "value": "<ref>https://www.youtube.com/watch?v"
             }
           ]
         }
@@ -1875,27 +1835,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1971,27 +1911,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -3380,22 +3300,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "references /"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\n"
+      "value": "<references />\n\n"
     },
     {
       "children": [

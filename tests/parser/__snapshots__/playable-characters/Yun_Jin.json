@@ -2011,47 +2011,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Yun Jin - La Prima Donna del Escenario"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "ref"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "[https://genshin.hoyoverse.com/es/news/detail/18349 La Prima Donna del Escenario]"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "ref"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": "Yun Jin - La Prima Donna del Escenario<ref>[https://genshin.hoyoverse.com/es/news/detail/18349 La Prima Donna del Escenario]</ref>\n"
             }
           ],
           "type": "template parameter",
@@ -2827,22 +2787,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "references /"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\n"
+      "value": "<references />\n\n"
     },
     {
       "children": [],

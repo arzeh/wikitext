@@ -1440,27 +1440,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " se reducen en 3 segundos."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Este efecto solo puede ocurrir una vez cada 20 segundos.\n"
+              "value": " se reducen en 3 segundos.<br>Este efecto solo puede ocurrir una vez cada 20 segundos.\n"
             }
           ],
           "type": "template parameter",
@@ -1536,27 +1516,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Nivel 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Nivel 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1632,27 +1592,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Nivel 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Nivel 15.\n"
             }
           ],
           "type": "template parameter",

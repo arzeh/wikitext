@@ -12,7 +12,6 @@ export type Token = { type: 'TEXT'; value: string }
   | { type: 'HTML_COMMENT_START' } // <!--
   | { type: 'HTML_COMMENT_END' } // -->
   | { type: 'TAG_START' } // <
-  | { type: 'TAG_CLOSING' } // </
   | { type: 'TAG_END' }; // >
 
 enum State {
@@ -26,6 +25,10 @@ enum State {
   TAG_DEFINITION = 'TAG_DEFINITION',
 }
 
+export type TokenizerOptions = {
+  parseTags?: boolean;
+};
+
 export class Tokenizer {
   public readonly input: string;
   public cursor: number = 0;
@@ -37,7 +40,7 @@ export class Tokenizer {
     this.input = input;
   }
 
-  public tokenize() {
+  public tokenize({ parseTags = false }: TokenizerOptions = {}) {
     while (this.cursor < this.input.length) {
       const state = this.states.at(-1);
 
@@ -82,10 +85,7 @@ export class Tokenizer {
       } else if (state === State.HEADER && NEXT === '=') {
         this.flush();
         this.createHeaderEnd();
-      } else if (NEXT_TWO === '</') {
-        this.flush();
-        this.createClosingTag();
-      } else if (NEXT === '<') {
+      } else if (parseTags && NEXT === '<' && NEXT_TWO !== '< ') {
         this.flush();
         this.createTagStart();
       } else if (state === State.TAG_DEFINITION && NEXT === '>') {
@@ -219,12 +219,6 @@ export class Tokenizer {
   public createTagStart() {
     this.consume(1);
     this.tokens.push({ type: 'TAG_START' });
-    this.states.push(State.TAG_DEFINITION);
-  }
-
-  public createClosingTag() {
-    this.consume(2);
-    this.tokens.push({ type: 'TAG_CLOSING' });
     this.states.push(State.TAG_DEFINITION);
   }
 

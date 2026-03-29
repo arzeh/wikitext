@@ -41,27 +41,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " La Estrella de la Noche"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Entre el sueño y la vigilia, pero completamente incrédula\n"
+              "value": " La Estrella de la Noche<br/>Entre el sueño y la vigilia, pero completamente incrédula\n"
             }
           ],
           "type": "template parameter",
@@ -145,17 +125,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": "<br/>"
             },
             {
               "children": [
@@ -1346,27 +1316,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15. \n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15. \n"
             }
           ],
           "type": "template parameter",
@@ -1404,27 +1354,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ", otorga a todos los miembros del equipo cercanos el efecto de “lucero”, el cual aumenta el daño de sus Ataques Normales y Cargados en una cantidad equivalente al 5% de la Vida Máx. de Laila."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "El efecto de lucero dura 3 s y se anula 0.05 s después de infligir daño con un Ataque Normal o Cargado. \n"
+              "value": ", otorga a todos los miembros del equipo cercanos el efecto de “lucero”, el cual aumenta el daño de sus Ataques Normales y Cargados en una cantidad equivalente al 5% de la Vida Máx. de Laila.<br>El efecto de lucero dura 3 s y se anula 0.05 s después de infligir daño con un Ataque Normal o Cargado. \n"
             }
           ],
           "type": "template parameter",
@@ -1516,27 +1446,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, el intervalo de creación de estrellas nocturnas de "
+              "value": ".<br>Además, el intervalo de creación de estrellas nocturnas de "
             },
             {
               "children": [],

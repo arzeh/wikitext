@@ -1454,67 +1454,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Cuando tu personaje en uso golpea a un enemigo cercano, Baizhu libera un espíritu sérico cercenador"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Tras ejecutar un ataque como máximo, este espíritu regresa, inflige un Daño Dendro equivalente al 250% del ATQ de Baizhu y cura un 20% de lo que curaría el espíritu sérico creado mediante Diagnóstico universal."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "El daño infligido de esta manera se considera daño de Habilidad Elemental."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Este efecto solo puede activarse una vez cada 5 segundos.\n\n"
+              "value": " Cuando tu personaje en uso golpea a un enemigo cercano, Baizhu libera un espíritu sérico cercenador<br>Tras ejecutar un ataque como máximo, este espíritu regresa, inflige un Daño Dendro equivalente al 250% del ATQ de Baizhu y cura un 20% de lo que curaría el espíritu sérico creado mediante Diagnóstico universal.<br>El daño infligido de esta manera se considera daño de Habilidad Elemental.<br>Este efecto solo puede activarse una vez cada 5 segundos.\n\n"
             },
             {
               "children": [],
@@ -1572,27 +1512,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
               "children": [],
@@ -1692,27 +1612,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
               "children": [],
@@ -1754,27 +1654,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " El daño que inflige la espirituarteria de Sanación holística aumenta en una cantidad equivalente al 8% de la Vida Máx. de Baizhu."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, cuando el espíritu sérico o el espíritu sérico cercenador golpea a un enemigo, hay un 100% de probabilidad de crear un escudo incólume de Sanación holística. Cada espíritu sérico o espíritu sérico cercenador solo puede activar este efecto una vez.\n"
+              "value": " El daño que inflige la espirituarteria de Sanación holística aumenta en una cantidad equivalente al 8% de la Vida Máx. de Baizhu.<br>Además, cuando el espíritu sérico o el espíritu sérico cercenador golpea a un enemigo, hay un 100% de probabilidad de crear un escudo incólume de Sanación holística. Cada espíritu sérico o espíritu sérico cercenador solo puede activar este efecto una vez.\n"
             }
           ],
           "type": "template parameter",
