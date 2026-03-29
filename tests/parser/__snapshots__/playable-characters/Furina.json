@@ -1546,19 +1546,15 @@
               "value": " Al usar ¡Que el mundo entero festeje!, Furina obtiene 150pts. de algarabía."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1650,19 +1646,15 @@
               "value": " Aumenta el nivel de habilidad de ¡Que el mundo entero festeje! +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1754,19 +1746,15 @@
               "value": " Aumenta el nivel de habilidad de Salón Solitaire +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1816,19 +1804,15 @@
               "value": " Al usar Salón Solitaire, Furina obtiene el efecto de “atención del pueblo” durante 10&nbsp;s."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1836,19 +1820,15 @@
               "value": "Mientras este efecto está activo, el daño de los Ataques Normales, Cargados y Descendentes de Furina se transforma en Daño Hydro, el cual no puede sustituirse imbuyéndose de otro elemento. Además, el daño que inflige con dichos ataques aumenta en una cantidad equivalente al 18% de su Vida Máx."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1856,19 +1836,15 @@
               "value": "Mientras el efecto de atención del pueblo está activo, cada 0.1&nbsp;s, cuando Furina golpea a un enemigo con un Ataque Normal (esto no incluye los ataques de arjé: sacralidad y secularidad), Cargado o Descendente, se producen distintos efectos dependiendo de su tipo de arjé actual:\n\nArjé: ousía"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1876,19 +1852,15 @@
               "value": "Restaura Vida cada segundo a todos los miembros del equipo cercanos en una cantidad equivalente al 4% de la Vida Máx. de Furina durante 2.9&nbsp;s. Activar esto repetidamente prolongará la duración del efecto."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1896,19 +1868,15 @@
               "value": "Arjé: pneuma"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

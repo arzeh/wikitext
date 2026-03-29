@@ -440,19 +440,15 @@
       "value": ", Émilie trabaja por cuenta propia y sus productos son muy solicitados por las damas de moda de Fontaine."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -471,19 +467,15 @@
       ]
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -1190,19 +1182,15 @@
               "value": "Aumenta en un 20% el daño de Colección de fragancias y de “eau de pureté” del talento pasivo “Fragancia persistente”. Para esto último, es necesario desbloquear dicho talento pasivo."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1270,19 +1258,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1350,19 +1334,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1424,19 +1404,15 @@
               "value": ", Émilie obtiene el efecto de “sillage” durante 5 s."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -2458,19 +2434,15 @@
       "value": "\n"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "references /"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "references /"
+        }
+      ],
+      "name": "references"
     },
     {
       "type": "text",

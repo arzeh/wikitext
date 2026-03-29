@@ -81,19 +81,15 @@
               "value": " Bruja de las Rosas "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1378,19 +1374,15 @@
               "value": " Al mantener pulsado Arco violeta, Lisa recupera 2 pts. de Energía Elemental por cada enemigo golpeado."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1420,19 +1412,15 @@
               "value": " Al mantener pulsado, Arco violeta tiene los siguientes efectos:"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1440,19 +1428,15 @@
               "value": "·Aumenta en un 25% la DEF."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1482,19 +1466,15 @@
               "value": " Aumenta el nivel de habilidad de Rayo de la rosa +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1546,19 +1526,15 @@
               "value": " Aumenta el nivel de habilidad de Arco violeta +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1588,19 +1564,15 @@
               "value": " Al cambiar a Lisa, los enemigos cercanos acumulan 3 cargas de conducción de Arco violeta."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

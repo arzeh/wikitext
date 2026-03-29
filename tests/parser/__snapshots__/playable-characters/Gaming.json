@@ -1315,19 +1315,15 @@
               "value": "Aumenta el nivel de habilidad de Ascensión bestial +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1357,19 +1353,15 @@
               "value": "Aumenta el nivel de habilidad de Ascensión bestial +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1421,19 +1413,15 @@
               "value": "Aumenta el nivel de habilidad de Pirodanza del suanni +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

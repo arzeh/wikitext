@@ -64,19 +64,15 @@
               "value": " La Guinda del Pastel"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -219,19 +215,15 @@
               "value": " "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -239,19 +231,15 @@
               "value": "(anteriormente)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -1295,19 +1283,15 @@
               "value": "."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1415,19 +1399,15 @@
               "value": " contra un enemigo con un Ataque Normal, Cargado o Descendente, o con su Habilidad Elemental o Definitiva, se consumirá una carga de platos fríos y aumentará el daño infligido en una cantidad equivalente al 240% del ATQ de Escoffier."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1512,19 +1492,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1593,19 +1569,15 @@
               "value": ". Mientras este efecto está activo, la curación por medio de dieta rehabilitadora tiene una probabilidad equivalente a la Prob. CRIT de Escoffier de aumentar en un 100% la cantidad de curación realizada y de que Escoffier recupere 2 pts. de Energía Elemental. Este efecto puede ocurrir hasta 7 veces cada vez que dieta rehabilitadora está activa."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1667,19 +1639,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1787,19 +1755,15 @@
               "value": " en una cantidad equivalente al 500% del ATQ de Escoffier. Este daño se considera daño de Habilidad Elemental."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

@@ -142,19 +142,15 @@
               ]
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "internal link",
@@ -168,19 +164,15 @@
               ]
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "internal link",
@@ -194,19 +186,15 @@
               ]
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "internal link",
@@ -972,19 +960,15 @@
               "value": "\nNeuvillette siempre ha preferido los días lluviosos por encima de los soleados, ya que la humedad del ambiente le relaja, pero hace mucho tiempo que no puede disfrutar mojándose bajo la lluvia.\n\nEs como si, desde que decidió caminar hacia delante con Fontaine, interpretara el papel de una persona corriente que sigue las convenciones. Y las personas corrientes no salen sin paraguas de casa cuando llueve ni dejan que el pelo se les moje por la lluvia.\n\nCabe mencionar que, mientras que ser juez supremo es su mayor virtud y ser el Dragón del Agua es su esencia, ser un humano corriente es el papel que interpreta en el mundo.\n\nLa gente inventó una diosa que la juzgara porque se sentía sola y culpable, y creó una diosa que la salvara porque era avariciosa y se sentía culpable. Ahora que esa diosa ya no está en el trono, es Neuvillette quien cumplirá con esas expectativas.\n\nHoy en día ya ha perdonado a la humanidad y recuperado su forma original, por lo que ya puede disfrutar mojándose bajo la lluvia."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1505,19 +1489,15 @@
               "value": " Cuando Neuvillette entra en el campo de batalla, obtiene 1 carga del efecto “gloria del legado dacroniano” del talento pasivo “Legatario de toda agua” (es necesario desbloquear el talento pasivo Legatario de toda agua)."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1567,19 +1547,15 @@
               "value": " Fortalece el talento pasivo “Legatario de toda agua”, de modo que por cada carga de gloria del legado dacroniano, el Daño CRIT del Ataque Cargado: Sentencia ecuánime aumenta en un 14%, hasta un máximo del 42%."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1629,19 +1605,15 @@
               "value": " Aumenta el nivel de habilidad de Ataque Normal: Remanso acuático +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1749,19 +1721,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1811,19 +1779,15 @@
               "value": " Al ejecutar el Ataque Cargado: Sentencia ecuánime, Neuvillette absorbe las gotas primigenias que haya en cierta área. Por cada gota que absorba, la duración del Ataque Cargado: Sentencia ecuánime aumentará en 1s."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

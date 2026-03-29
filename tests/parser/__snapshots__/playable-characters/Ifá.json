@@ -98,19 +98,15 @@
               "value": " El Guiado por Vientos Errantes"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -448,19 +444,15 @@
       "value": ", ya que ambos prefieren estar con saurios que con humanos"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "internal link",
@@ -479,19 +471,15 @@
       "value": ", Historia del personaje 3."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -736,19 +724,15 @@
       "value": ", su amigo. Ambos se llevan muy bien y suelen expresarse de manera similar, lo que genera conversaciones muy graciosas entre ellos.\n\nIfá es el veterisaurio más renombrado de Natlan. Gente de todas las tribus llevan a sus saurios a su clínica en la Tribu Plumaflora. Es un experto en la materia y tiene buena mano con ellos, además de que disfruta de ser de ayuda para los demás"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "internal link",
@@ -768,19 +752,15 @@
       ]
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -788,19 +768,15 @@
       "value": ". También es una persona atenta. Como suele tratar más con animales que con seres humanos, le preocupa ser pesado y hablar de más."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "internal link",
@@ -820,19 +796,15 @@
       ]
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -840,19 +812,15 @@
       "value": "\n\nEn su tiempo libre escribe canciones y toca algún instrumento."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "internal link",
@@ -872,19 +840,15 @@
       ]
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -1667,19 +1631,15 @@
               "value": " que tengan todos los miembros del equipo en conjunto por encima de los 60 pts."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1687,19 +1647,15 @@
               "value": "Además, aumenta en 50 el límite de pts. de fundamentos de rescate que puede tener Ifá."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1761,19 +1717,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1819,19 +1771,15 @@
               "value": "."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1877,19 +1825,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1958,19 +1902,15 @@
               "value": " en una cantidad equivalente al 120% de su ATQ. Este daño se considera daño de Ataque Normal."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -2849,19 +2789,15 @@
       "value": "\n"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "references /"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "references /"
+        }
+      ],
+      "name": "references"
     },
     {
       "type": "text",

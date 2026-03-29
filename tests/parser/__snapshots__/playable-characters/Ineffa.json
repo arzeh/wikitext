@@ -333,19 +333,15 @@
               "value": " "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -353,19 +349,15 @@
               "value": "(creadora)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -1466,19 +1458,15 @@
               "value": " +3. "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1530,19 +1518,15 @@
               "value": " Aumenta el nivel de habilidad de Orden suprema: Exterminación zonal +3. "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

@@ -107,19 +107,15 @@
               "value": "Dragón que domina la tierra de las miles de estrellas "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -143,19 +139,15 @@
               "value": ")"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -196,19 +188,15 @@
               "value": " "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -216,19 +204,15 @@
               "value": "(creadora)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -252,19 +236,15 @@
               "value": " "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -272,19 +252,15 @@
               "value": "(hermano mayor)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -2290,19 +2266,15 @@
               "value": "&nbsp;+3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -2399,19 +2371,15 @@
               "value": "&nbsp;+3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br /"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br /"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -2441,19 +2409,15 @@
               "value": " El daño de la Habilidad Definitiva de Durin ignora el 30% de la DEF del enemigo."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

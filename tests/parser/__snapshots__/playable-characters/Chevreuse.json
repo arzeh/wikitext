@@ -494,19 +494,15 @@
       "value": "."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref name=\":0\""
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref name=\":0\""
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -541,19 +537,15 @@
       ]
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -609,19 +601,15 @@
       "value": "s por parte de la Unidad mientras estaba bajo su mando, afirmando que \"¡Los Mecagendarmes sólo bloquearán nuestras balas!\"\n\nEn su tiempo libre, a Chevreuse le gusta leer, especialmente libros en los que la justicia prevalece sobre el mal. También tiene una obsesión enfermiza con la comida chatarra."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref name=\":0\" /"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref name=\":0\" /"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -844,19 +832,15 @@
               "value": "“Bien, Srta. Chevreuse... Según lo investigado por este tribunal, exiliaron a su padre al Fuerte Merópide por infringir el reglamento de la Guardia y filtrar información confidencial sobre un caso de gran importancia."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -864,19 +848,15 @@
               "value": "\nTras ello, su madre y usted se mudaron al Río Ceniciento. ¿Tiene algo que decir en cuanto a los cargos de su padre y su experiencia viviendo en el Río Ceniciento?”."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -884,19 +864,15 @@
               "value": "\n“En cuanto a mi experiencia viviendo ahí...”.\nDonatello, que había violado la ley y en consecuencia lo habían exiliado; su familia, que se vio obligada a mudarse al Río Ceniciento tras caer en la pobreza, y Chevreuse, que al ser la hija de un criminal no podía trabajar en la Oficina Judicial, razón por la cual decidió seguir combatiendo el crimen en la Unidad Especial de Seguridad y Vigilancia...\nCuando el entonces capitán de la Unidad investigó a Chevreuse, ella repitió las mismas explicaciones de siempre. Cuando Donatello cumplió su condena y entró a trabajar en la Unidad Especial de Seguridad y Vigilancia, examinó su caso numerosas veces, pero nunca encontró ni un solo error.\nHacía mucho tiempo que la Oficina Judicial lo había echado de su trabajo, pero él entendía el porqué. Si Chevreuse quería ser capitana de la Unidad, tendría que darle una explicación creíble a los señores de la Oficina Judicial para que anunciaran al mundo su nombramiento con claridad, contundencia, y también dejándoles un poco de margen por si surgía algún contratiempo.\nChevreuse, que ya no era una niña, sabía muy bien que si su padre había roto la confidencialidad de aquel caso, era para dar un impulso a la curiosidad de los reporteros y a sus investigaciones sobre el sospechoso. Cuando toda la familia se mudó al Río Ceniciento, en realidad no tuvieron una vida tan pobre gracias al apoyo financiero secreto que le daban algunos trabajadores —e incluso funcionarios de alto rango— de la Oficina Judicial. Mientras tanto, los oficiales y colegas de Chevreuse en la Unidad Especial de Seguridad y Vigilancia habían hecho los preparativos para que pudiera hacer prácticas y familiarizarse con el trabajo.\nY a pesar de todo, nada de eso fue realmente de gran ayuda para que Chevreuse asumiera el cargo de capitana.\nAunque a Donatello no terminaba de convencerle que su hija quisiera heredar su trabajo, ella lo dio todo para superar todas las pruebas que su padre le había puesto, inclusive aquellas que eran deliberadamente difíciles.\nCuando llegó el día en que Chevreuse nadó en el gélido mar invernal, Donatello tuvo que reunir toda la fuerza de voluntad posible para quedarse quieto mientras observaba a su joven hija y luchaba contra el impulso de ir a ayudarla. Cuando ella llegó temblando hasta la otra orilla del agua, su padre se dio cuenta de que se había vuelto incluso más tenaz que él, y que era incluso mejor candidata para impartir justicia.\nYa era hora de dejar atrás para siempre todo lo que había vivido en el Río Ceniciento.\nHacía mucho tiempo que padre e hija habían cruzado a nado el gélido mar invernal, y ya era el momento de mirar hacia delante."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -2833,19 +2809,15 @@
       "value": "\n"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "references /"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "references /"
+        }
+      ],
+      "name": "references"
     },
     {
       "type": "text",

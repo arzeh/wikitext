@@ -85,19 +85,15 @@
               "value": " Reina de la Metrópolis de las Constelaciones "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -121,19 +117,15 @@
               "value": ")"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -433,19 +425,15 @@
               "value": " (padre)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "internal link",
@@ -1810,19 +1798,15 @@
               "value": " Al usar Etiqueta vidriopírica, la Prob. CRIT de dicha habilidad aumenta en un 12% por cada fragmento de metralla consumido. La Prob. CRIT puede aumentar en un máximo de un 36% de esta manera."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1872,19 +1856,15 @@
               "value": " Aumenta el nivel de habilidad de Etiqueta vidriopírica +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1976,19 +1956,15 @@
               "value": " Aumenta el nivel de habilidad de Aluvión artillero +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

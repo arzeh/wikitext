@@ -724,19 +724,15 @@
       "value": " cuando este cayó al Abismo siendo un niño. Skirk se apiadó de él y fue su maestra durante tres meses, aunque como el tiempo pasa más lento allí, pareció más largo. Tartaglia la aprecia mucho y desde entonces ha intentado buscarla, pero ella lo esquiva porque no quiere estrechar lazos con nadie. Aunque en el fondo le tiene mucho cariño.\n\nSu técnica de espada es la que le enseñó Surtalogi. Ella se entrena duramente para poder hacerle frente algún día, ya que su maestro se hace cada vez más poderoso y es conocido por devorar planetas enteros. Tanto Surtalogi como Skirk saben que algún día se tendrán que enfrentar."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -776,19 +772,15 @@
       "value": "."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -1564,19 +1556,15 @@
               "value": ", de manera que, por cada fisura del vacío que absorba, invoca un filo cristalino que ataca a los enemigos cercanos y les inflige Daño Cryo en una cantidad equivalente al 500% del ATQ de Skirk. Este daño se considera daño de Ataque Cargado."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1638,19 +1626,15 @@
               "value": "."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1728,19 +1712,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1786,19 +1766,15 @@
               "value": ", de manera que cada acumulación de vado de la muerte también aumenta el ATQ de Skirk en un 10/20/40%."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1844,19 +1820,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1918,19 +1890,15 @@
               "value": ". Este efecto dura 15 s, puede acumularse hasta 3 veces y cada acumulación tiene su propia duración individual."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

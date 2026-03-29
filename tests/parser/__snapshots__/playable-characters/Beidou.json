@@ -730,19 +730,15 @@
       "value": " es diferente. Beidou y ella parecen muy cercanas: aparecen en misiones juntas"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -766,19 +762,15 @@
       "value": ", entre otras."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -786,19 +778,15 @@
       "value": ", hablan una de la otra cuando no está y tienen varias líneas de voz/historias donde se mencionan mutuamente. Incluso ciertas historias de personaje dan a entender que cooperan con sus trabajos"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "internal link",
@@ -812,19 +800,15 @@
       ]
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -1550,19 +1534,15 @@
               "value": " Al activar Quebrantatormentas, crea un escudo que absorbe daño en una cantidad equivalente al 16% de la Vida Máx. de Beidou durante 15 s."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1614,19 +1594,15 @@
               "value": " Aumenta el nivel de habilidad de Invocadora de mareas +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1678,19 +1654,15 @@
               "value": " Aumenta el nivel de habilidad de Quebrantatormentas +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -3032,19 +3004,15 @@
       "value": "* Los diálogos de Beidou se han traducido al español usando la forma de hablar típica de los piratas. Esto se puede ver fácilmente porque habla de vos al viajero y utiliza expresiones piratescas como \"¡Arr!\" y \"Ah del barco\". En inglés, sin embargo, su forma de hablar no es diferente al resto de personajes.\n* Viendo la naturaleza de su relación con Ninguang y la forma en la que interactúan"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",
@@ -3084,19 +3052,15 @@
       "value": "."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "ref"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/ref"
+        }
+      ],
+      "name": "ref"
     },
     {
       "type": "text",

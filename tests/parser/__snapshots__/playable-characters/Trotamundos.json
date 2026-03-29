@@ -84,19 +84,15 @@
               "value": " El Caminante Eterno"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -104,19 +100,15 @@
               "value": "Incontables adversidades y pruebas desconocidas"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -140,19 +132,15 @@
               "value": ")"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -160,19 +148,15 @@
               "value": "Héroe de Simulanka "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -191,19 +175,15 @@
               ]
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "small"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/small"
+                }
+              ],
+              "name": "small"
             },
             {
               "type": "text",
@@ -1628,19 +1608,15 @@
               "value": "En el estado de gracia del viento, la Vel. de Ataque de Obliteración celeste y Ráfaga celeste del Trotamundos aumenta en un 10%."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1670,19 +1646,15 @@
               "value": "En el estado de gracia del viento, el daño infligido con Kyougen: Cinco actos aumenta en un 4% por cada punto de diferencia que haya entre el límite máximo de persistencia celeste y la cantidad actual."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1712,19 +1684,15 @@
               "value": "Aumenta el nivel de habilidad de Kyougen: Cinco actos +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1754,19 +1722,15 @@
               "value": "Si al usar Ilustración emplumada: Balada del viento se activa el fortalecimiento de un tipo elemental mediante el talento pasivo \"Flor de jade\", se obtiene aleatoriamente un fortalecimiento más que no se haya activado al usar dicha habilidad. Solo se pueden obtener 3 fortalecimientos elementales al mismo tiempo."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1796,19 +1760,15 @@
               "value": "#Aumenta el nivel de habilidad de Ilustración emplumada: Balada del viento +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br/"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br/"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

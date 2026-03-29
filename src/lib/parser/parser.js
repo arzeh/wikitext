@@ -2,6 +2,7 @@ import { Tokenizer } from './tokenizer';
 import { WikiInternalLinkNode } from './nodes/wiki-internal-link-node';
 import { WikiPageNode } from './nodes/wiki-page-node';
 import { WikiSectionNode } from './nodes/wiki-section-node';
+import { WikiTagNode } from './nodes/wiki-tag-node';
 import { WikiTemplateNode } from './nodes/wiki-template-node';
 import { WikiTemplateParameterNode } from './nodes/wiki-template-parameter-node';
 import { WikiTextNode } from './nodes/wiki-text-node';
@@ -12,11 +13,13 @@ const State = Object.freeze({
   INTERNAL_LINK: 'INTERNAL_LINK',
   TEMPLATE: 'TEMPLATE',
   TEMPLATE_PARAMETER: 'TEMPLATE_PARAMETER',
+  TAG: 'TAG',
 });
 
 /**
  * @typedef {Object} ParseOptions
  * @property {boolean} [paranoid]
+ * @property {import('./tokenizer.js').TokenizerOptions} [tokenizer]
  */
 
 /**
@@ -26,7 +29,7 @@ const State = Object.freeze({
 export function parse(input, options = {}) {
   const { paranoid = true } = options;
 
-  const tokens = new Tokenizer(input).tokenize();
+  const tokens = new Tokenizer(input).tokenize(options.tokenizer);
   const root = new WikiPageNode();
   /** @type {import('./nodes/wiki-node.js').WikiNode[]} */
   const path = [root];
@@ -133,13 +136,14 @@ export function parse(input, options = {}) {
       currentParent.push(new WikiTextNode('-->'));
 
     } else if (token.type === 'TAG_START') {
-      currentParent.push(new WikiTextNode('<'));
+      const node = new WikiTagNode();
+      currentParent.push(node);
+      path.push(node);
+      states.push(State.TAG);
 
-    } else if (token.type === 'TAG_END') {
-      currentParent.push(new WikiTextNode('>'));
-
-    } else if (token.type === 'TAG_CLOSING') {
-      currentParent.push(new WikiTextNode('</'));
+    } else if (state === State.TAG && token.type === 'TAG_END') {
+      path.pop();
+      states.pop();
 
     }
   }

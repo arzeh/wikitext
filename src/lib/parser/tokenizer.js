@@ -14,7 +14,6 @@
  *  | { type: 'HTML_COMMENT_START' }
  *  | { type: 'HTML_COMMENT_END' }
  *  | { type: 'TAG_START' }
- *  | { type: 'TAG_CLOSING' }
  *  | { type: 'TAG_END' }
  * )} Token
  */
@@ -30,6 +29,10 @@ const State = Object.freeze({
   TEMPLATE_PARAMETER: 'TEMPLATE_PARAMETER',
   TEMPLATE_PARAMETER_VALUE: 'TEMPLATE_PARAMETER_VALUE',
 });
+
+/** @typedef {Object} TokenizerOptions
+  * @prop {boolean} [parseTags]
+  */
 
 export class Tokenizer {
   /**
@@ -73,9 +76,10 @@ export class Tokenizer {
 
   /**
    * @returns {Token[]}
+   * @params {TokenizerOptions} [options]
    * @since 1.0.0
    */
-  tokenize() {
+  tokenize({ parseTags = true } = {}) {
     while (this.cursor < this.input.length) {
       const state = this.states.at(-1);
 
@@ -120,10 +124,7 @@ export class Tokenizer {
       } else if (state === State.HEADER && NEXT === '=') {
         this.flush();
         this.createHeaderEnd();
-      } else if (NEXT_TWO === '</') {
-        this.flush();
-        this.createClosingTag();
-      } else if (NEXT === '<') {
+      } else if (parseTags && NEXT === '<' && NEXT_TWO !== '< ') {
         this.flush();
         this.createTagStart();
       } else if (state === State.TAG_DEFINITION && NEXT === '>') {
@@ -326,15 +327,6 @@ export class Tokenizer {
     this.states.push(State.TAG_DEFINITION);
   }
 
-  /**
-   * @returns {void}
-   * @since 1.0.0
-   */
-  createClosingTag() {
-    this.consume(2);
-    this.tokens.push({ type: 'TAG_CLOSING' });
-    this.states.push(State.TAG_DEFINITION);
-  }
 
   /**
    * @returns {void}

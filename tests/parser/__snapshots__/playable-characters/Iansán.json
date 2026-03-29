@@ -64,19 +64,15 @@
               "value": " La Entrenadora Funderrocas"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1462,19 +1458,15 @@
               "value": "Mientras el indicador de energía cinética esté activo, después de que tu personaje en uso del equipo (a excepción de Iansán) utilice su Habilidad Definitiva, Iansán obtendrá dos cargas de “potenciación vigorosa” hasta que el indicador de energía cinética sea retirado del campo de batalla. Este efecto solo se puede activar una vez por cada indicador de energía cinética invocado. Cuando Iansán recupera pts. de noctambulismo por medio de dicho indicador, consume una carga de potenciación vigorosa para recuperar 4 pts. de noctambulismo adicionales."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1558,19 +1550,15 @@
               "value": "La duración del indicador de energía cinética aumenta en 3 s."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -2538,19 +2526,15 @@
       "value": "\n"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "references /"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "references /"
+        }
+      ],
+      "name": "references"
     },
     {
       "type": "text",

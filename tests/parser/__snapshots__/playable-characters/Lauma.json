@@ -508,19 +508,15 @@
       "value": "\n\nA pesar de ser los habitantes originales de la tierra en la que viven, los Descendientes Lunaescarcha parecen no encajar con la Nod Krai de hoy en día."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "br"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "br"
+        }
+      ],
+      "name": "br"
     },
     {
       "type": "text",
@@ -528,19 +524,15 @@
       "value": "\nSon una comunidad muy antigua, de ideas muy rígidas y con una fe demasiado arraigada en la adoración a una deidad que nunca han visto."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "br"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "br"
+        }
+      ],
+      "name": "br"
     },
     {
       "type": "text",
@@ -548,19 +540,15 @@
       "value": "\nCreen que las sombras de las arboledas son su refugio, y que la esplendorosa luz lunar hará desaparecer todas sus dolencias y aflicciones."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "br"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "br"
+        }
+      ],
+      "name": "br"
     },
     {
       "type": "text",
@@ -568,19 +556,15 @@
       "value": "\nRezan a la luna, siempre con una pregunta: \"Oh, gran Diosa de la Luna Escarchada, ¿cuándo responderá a nuestras plegarias?\"."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "br"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "br"
+        }
+      ],
+      "name": "br"
     },
     {
       "type": "text",
@@ -588,19 +572,15 @@
       "value": "\nAl no obtener respuesta, vuelven a preguntar: \"Oh, venerable Cantalunas, ¿cuándo responderá la Diosa Lunar a nuestras plegarias?\"."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "br"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "br"
+        }
+      ],
+      "name": "br"
     },
     {
       "type": "text",
@@ -608,19 +588,15 @@
       "value": "\nEntonces, Lauma sale de entre las sombras de los árboles y se detiene bajo la luz de la luna."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "br"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "br"
+        }
+      ],
+      "name": "br"
     },
     {
       "type": "text",
@@ -1444,19 +1420,15 @@
               "value": ", obtendrá el efecto de “hilos de la vida” durante 20 s."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1480,19 +1452,15 @@
               "value": ", los personajes en uso cercanos recuperarán Vida en una cantidad equivalente al 500% de la Maestría Elemental de Lauma. Dicho efecto solo se puede activar una vez cada 1.9 s."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1586,19 +1554,15 @@
               "value": " causadas por todos los personajes cercanos del equipo aumenta adicionalmente en una cantidad equivalente al 500% de la Maestría Elemental de Lauma, y el daño de Florecimiento Lunar también aumenta adicionalmente en una cantidad equivalente al 400% de su Maestría Elemental.\n\n'''Presagio lunar: resplandor ascendente'''"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1781,19 +1745,15 @@
               "value": " equivalente al 185% de la Maestría Elemental de Lauma y que se considera daño de Florecimiento Lunar. En lugar de consumir cargas de letanía albar, esto le otorgará a Lauma 2 cargas de dicho efecto y reiniciará la duración de la letanía albar obtenida de esta forma."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1817,19 +1777,15 @@
               "value": ", se eliminarán todas las cargas de letanía albar obtenidas de esta forma.\n\nAdemás, al realizar un Ataque Normal mientras Lauma esté bajo los efectos de letanía albar, se consumirá una carga de dicho efecto e infligirá Daño Dendro equivalente al 150% de la Maestría Elemental de Lauma, el cual se considerará daño de Florecimiento Lunar.\n\n'''Presagio lunar: resplandor ascendente'''"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",

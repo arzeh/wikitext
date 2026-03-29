@@ -353,19 +353,15 @@
       "value": "El manekín es la manifestación de tu voluntad en el Edén Miliastra. Podrás cambiar en cualquier momento su apariencia según tus preferencias."
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "br"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "br"
+        }
+      ],
+      "name": "br"
     },
     {
       "type": "text",
@@ -623,19 +619,15 @@
               "value": " Qí'ǒu"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -671,19 +663,15 @@
               "value": "]"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",

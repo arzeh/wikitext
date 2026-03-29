@@ -97,19 +97,15 @@
               "value": " Zhao Shuang (赵爽)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -117,19 +113,15 @@
               "value": "bilibili: [https://www.bilibili.com/video/BV1ss4y1k7CD 《原神》序曲PV——「致终幕的欢宴」] (Descripción del vídeo)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -154,19 +146,15 @@
               "value": " Kino Hina (木野日菜)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -174,19 +162,15 @@
               "value": "YouTube: [https://youtu.be/tILKOAdPuIo 【原神】序曲PV「フィナーレへの歓宴」] (Descripción del vídeo)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -211,19 +195,15 @@
               "value": " Kim Chae-rin (김채린)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -248,19 +228,15 @@
               "value": " 서곡 PV-「종막을 향한 연회」] (Descripción del vídeo)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -279,19 +255,15 @@
               "value": " Sarah Williams"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -299,19 +271,15 @@
               "value": "YouTube: [https://youtu.be/9SbgmM3mSps Avance de Genshin Impact: Festejando el gran final] (Descripción del vídeo)"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -677,19 +645,15 @@
               "value": "12] "
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/ref"
+                }
+              ],
+              "name": "ref"
             }
           ],
           "name": [
@@ -699,19 +663,15 @@
               "value": "Texto del sitio web oficial"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "ref"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "ref"
+                }
+              ],
+              "name": "ref"
             },
             {
               "type": "text",
@@ -1519,19 +1479,15 @@
               "value": " El acuaglóbulo revitalizante de Hidroterapia de rebote puede rebotar 3 veces más, y los tres primeros rebotes de un acuaglóbulo grande harán que disminuya su tamaño."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1561,19 +1517,15 @@
               "value": " Mientras se usa Hidroterapia de rebote o Inyección de bondad sobresaturada, se crea un escudo burbujeante que absorbe una cantidad de daño equivalente al 30% de la Vida Máx., y que tiene un 250% de efectividad de absorción de Daño Hydro."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1619,19 +1571,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -1699,19 +1647,15 @@
               "value": " +3."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -2242,19 +2186,15 @@
               "value": "Anuncio del actor de voz japones de Sigewinne"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "br"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "br"
+                }
+              ],
+              "name": "br"
             },
             {
               "type": "text",
@@ -2858,19 +2798,15 @@
       "value": "\n"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "references /"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "references /"
+        }
+      ],
+      "name": "references"
     },
     {
       "type": "text",

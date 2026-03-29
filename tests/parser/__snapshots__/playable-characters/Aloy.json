@@ -606,19 +606,15 @@
           "type": "template parameter",
           "children": [
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -626,19 +622,15 @@
               "value": "Aloy fue tratada como paria desde su nacimiento, siendo marginada y temida por su tribu. Fue criada por un cazador experimentado llamado Rost en las montañas, cerca de donde habitaba su tribu.\n\nÉl le enseñó todo lo que sabía sobre la caza, como por ejemplo, cómo merodear cual felina desempeñando una precisión mortal. Sin embargo, Rost no pudo transmitirle lo que más le importaba a Aloy: la verdad sobre su nacimiento. ¿Quiénes fueron sus padres realmente? ¿Por qué fue rechazada por su tribu?\n\nSolo las Matriarcas de la tribu que la repudió sabían las respuestas a estas preguntas."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -680,19 +672,15 @@
           "type": "template parameter",
           "children": [
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -700,19 +688,15 @@
               "value": "Solo podría conseguir que las Matriarcas le desvelaran qué sucedió con sus padres si se hacía con la victoria en La Prueba, la competición anual de caza de su tribu, en la que el ganador podría pedir cualquier cosa como premio.\n\nDesde que tuvo uso de razón, Aloy puso todo su esfuerzo en sus entrenamientos para prepararse para La Prueba. Sin embargo, cuando por fin llegó el gran día, ocurrió un terrible desenlace.\nUnos asesinos misteriosos atacaron por sorpresa en la competición y Rost tuvo que sacrificarse para que Aloy pudiera escapar.\n\nFinalmente, Aloy descubrió que esos asesinos venían por ella porque su rostro es exactamente igual que el de una misteriosa mujer de la antigüedad."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -754,19 +738,15 @@
           "type": "template parameter",
           "children": [
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -774,19 +754,15 @@
               "value": "Aloy comprendió que la única forma de averiguar sus orígenes era encontrando a aquellos asesinos.\n\nSu búsqueda la llevó hasta un mundo salvaje y peligroso que nunca hubiera imaginado, repleto de poderosas y extrañas tribus, ruinas antiguas llenas de enigmas, y enemigos terroríficos, tanto humanos como máquinas.\nFinalmente, el verdadero enemigo, HADES, apareció frente a ella. Era una inteligencia artificial rebosante de maldad que deseaba exterminar cualquier rastro de vida en el mundo.\n\nSolo era posible derrotar a HADES al desvelar la relación de Aloy con esa misteriosa mujer de la antigüedad. Esa \"Aloy del pasado\"... ¿quizás era la madre de Aloy?"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -828,19 +804,15 @@
           "type": "template parameter",
           "children": [
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -848,19 +820,15 @@
               "value": "Siguiendo el rastro de HADES, Aloy atravesó incontables ruinas del pasado hasta descubrir finalmente su origen: ella no nació de sangre y carne humana, sino que era el resultado de una clonación.\n\nLa base de su creación fue la mujer que salvó al mundo hace miles de años.\nEsto no solo le concedió sus habilidades innatas, sino que además guio su destino, porque su material genético era la clave para prevenir que sucediera un segundo apocalipsis.\n\nAprovechando este conocimiento, y con la ayuda de los aliados de numerosas tribus, Aloy pudo derrotar a HADES y a sus secuaces mecánicos y humanos en una batalla decisiva en la ciudad resplandeciente de Meridian."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -902,19 +870,15 @@
           "type": "template parameter",
           "children": [
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -922,19 +886,15 @@
               "value": "Después de derrotar a HADES, Aloy comenzó un nuevo viaje para buscar antiguas tecnologías y limpiar la tierra que HADES había corrompido.\n\nEn su largo viaje, encontró todas las ruinas existentes en busca de los secretos perdidos de los antiguos.\nEn un viejo laboratorio deteriorado, encontró algo que nunca antes había visto: un brillante portal teletransportador. Al acercarse, una poderosa energía la rodeó y vio su propia imagen en el portal como si de un espejo se tratase, y se sintió como si estuviera en dos lugares diferentes al mismo tiempo.\n\nCon un repentino destello, el mundo que Aloy conocía desapareció de su vista por completo y se encontró en un mundo precioso y extraño que esperaba a ser explorado."
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -980,19 +940,15 @@
       "value": "* '''¿Cómo puedo obtener a Aloy?'''\n** Todos los viajeros con un Rango de Aventura 20 o superior podrán obtener el personaje exclusivo de 5* Aloy, \"la Salvadora de Otro Mundo\" (Cryo) a través del correo interno del juego.\n** "
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "u"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "u"
+        }
+      ],
+      "name": "u"
     },
     {
       "type": "text",
@@ -1000,19 +956,15 @@
       "value": "Este evento estará divido en dos fases"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "u"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/u"
+        }
+      ],
+      "name": "u"
     },
     {
       "type": "text",

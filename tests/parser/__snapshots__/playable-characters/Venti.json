@@ -1005,19 +1005,15 @@
               "value": "\nNo todo en Mondstadt es obra del Arconte Anemo.\n\nAhora, te cantaré una canción de alabanza a la belleza:\n\n"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "<"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",
@@ -1025,19 +1021,15 @@
               "value": "\nGracias, Viento del Oeste\nPor acariciar las flores de la florida primavera.\nPinzones, patos, conejos y jabalíes\nEl renacimiento de Mondstadt les permite prosperar.\nEn verano, el león camina por las llanuras\nNo hay más palabras de alabanza que las de esta canción.\nEl sudor en la frente hace que el vino se enfríe\nY su melena como el sol calienta el ambiente.\n\nLas bocas de las montañas y las gargantas mienten como caprichosos borrachos\nPero al Viento del Este no le importa, pues él no camina, ¡sino que vuela!\nVuela a la altura de los árboles frutales\nY con sus alas recoge las cosechas.\n\nEl Viento del Norte duerme en el silencioso bosque\nMientras por él pasan los lobos.\nMas nadie los ha visto, pues el viento sabe que al hombre no le interesa el invierno\nY el Arconte Anemo sabe que su sueño será un cálido ensueño.\n"
             },
             {
-              "type": "text",
-              "children": [],
-              "value": "</"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": "poem"
-            },
-            {
-              "type": "text",
-              "children": [],
-              "value": ">"
+              "type": "tag",
+              "children": [
+                {
+                  "type": "text",
+                  "children": [],
+                  "value": "/poem"
+                }
+              ],
+              "name": "poem"
             },
             {
               "type": "text",

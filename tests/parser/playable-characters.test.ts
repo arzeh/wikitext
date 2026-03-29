@@ -8,12 +8,12 @@ describe('playable characters', () => {
   for (const filename of filenames) {
     const name = filename.replace('.txt', '');
 
-    it(name, ({ task }) => {
+    it(name, async ({ task }) => {
       const content = readFileSync(`./tests/__fixtures__/es.genshin-impact/playable_characters/${filename}`).toString();
       const page = parse(content);
 
       expect(page.toString()).toStrictEqual(content);
-      expect(JSON.stringify(page, null, 2)).toMatchFileSnapshot(
+      await expect(JSON.stringify(page, null, 2)).toMatchFileSnapshot(
         `./__snapshots__/playable-characters/${ task.name.replace(/ /g, '_') }.json`,
       );
       expect([...page.templates()].length).toMatchSnapshot();

@@ -392,19 +392,15 @@
       "value": "\n\n'''Kamisato Ayato''' (神里綾人 en "
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "<"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "u"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "u"
+        }
+      ],
+      "name": "u"
     },
     {
       "type": "text",
@@ -412,19 +408,15 @@
       "value": "Japonés"
     },
     {
-      "type": "text",
-      "children": [],
-      "value": "</"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": "u"
-    },
-    {
-      "type": "text",
-      "children": [],
-      "value": ">"
+      "type": "tag",
+      "children": [
+        {
+          "type": "text",
+          "children": [],
+          "value": "/u"
+        }
+      ],
+      "name": "u"
     },
     {
       "type": "text",

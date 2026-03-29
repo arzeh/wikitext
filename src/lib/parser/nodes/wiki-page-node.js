@@ -1,4 +1,5 @@
-import { WikiNode } from './wiki-node';
+import { WikiNode, WikiNodeList } from './wiki-node';
+import { WikiTagNode } from './wiki-tag-node';
 import { WikiTemplateNode } from './wiki-template-node';
 
 export class WikiPageNode extends WikiNode {
@@ -50,6 +51,43 @@ export class WikiPageNode extends WikiNode {
     for (const node of this) {
       if (node instanceof WikiTemplateNode) yield node;
     }
+  }
+
+  /**
+   * @returns {WikiNodeList}
+   * @since 1.0.0
+   */
+  sliceReferences() {
+    let insideRef = false;
+    const nodes = new WikiNodeList();
+
+    // when iterating a tag node, it will yield nodes for whatever was
+    // within `<` and `>`, which includes the tag's name and html attributes.
+    let skipCount = 0;
+    for (const token of this) {
+      if (skipCount > 0) {
+        skipCount--;
+        continue;
+      }
+
+      if (insideRef) {
+        if (token instanceof WikiTagNode && token.isClosing()) {
+          insideRef = false;
+          nodes.push(token);
+          continue;
+        } else {
+          nodes.push(token);
+        }
+      } else {
+        if (token instanceof WikiTagNode && !token.isSelfClosing()) {
+          insideRef = true;
+          skipCount = token.children.length;
+          nodes.push(token);
+        }
+      }
+    }
+
+    return nodes;
   }
 }
 

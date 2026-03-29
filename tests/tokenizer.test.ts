@@ -242,28 +242,28 @@ describe('tokenizer', () => {
 
   it('html tag', () => {
     const input = '<div>text</div>';
-    const tokens = new Tokenizer(input).tokenize();
+    const tokens = new Tokenizer(input).tokenize({ parseTags: true });
     expect(tokens).toStrictEqual([
       { type: 'TAG_START' },
       { type: 'TEXT', value: 'div' },
       { type: 'TAG_END' },
       { type: 'TEXT', value: 'text' },
-      { type: 'TAG_CLOSING' },
-      { type: 'TEXT', value: 'div' },
+      { type: 'TAG_START' },
+      { type: 'TEXT', value: '/div' },
       { type: 'TAG_END' },
     ]);
   });
 
   it('html tag with attributes', () => {
     const input = '<div data="value">text</div>';
-    const tokens = new Tokenizer(input).tokenize();
+    const tokens = new Tokenizer(input).tokenize({ parseTags: true });
     expect(tokens).toStrictEqual([
       { type: 'TAG_START' },
       { type: 'TEXT', value: 'div data="value"' },
       { type: 'TAG_END' },
       { type: 'TEXT', value: 'text' },
-      { type: 'TAG_CLOSING' },
-      { type: 'TEXT', value: 'div' },
+      { type: 'TAG_START' },
+      { type: 'TEXT', value: '/div' },
       { type: 'TAG_END' },
     ]);
   });
