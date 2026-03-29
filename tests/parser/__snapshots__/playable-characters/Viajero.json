@@ -24,27 +24,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "gallery"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\nCarta de personaje Viajero.png\n"
+              "value": " <gallery>\nCarta de personaje Viajero.png\n"
             }
           ],
           "type": "template parameter",
@@ -116,27 +96,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Modelo (Lumina)\n"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "gallery"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " Modelo (Lumina)\n</gallery>\n"
             }
           ],
           "type": "template parameter",
@@ -4547,27 +4507,7 @@
                     {
                       "children": [],
                       "type": "text",
-                      "value": " +3."
-                    },
-                    {
-                      "children": [],
-                      "type": "text",
-                      "value": "<"
-                    },
-                    {
-                      "children": [],
-                      "type": "text",
-                      "value": "br"
-                    },
-                    {
-                      "children": [],
-                      "type": "text",
-                      "value": ">"
-                    },
-                    {
-                      "children": [],
-                      "type": "text",
-                      "value": "Puede ser aumentado hasta Niv. 15.\n"
+                      "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
                     }
                   ],
                   "type": "template parameter",
@@ -4666,27 +4606,7 @@
                     {
                       "children": [],
                       "type": "text",
-                      "value": " +3."
-                    },
-                    {
-                      "children": [],
-                      "type": "text",
-                      "value": "<"
-                    },
-                    {
-                      "children": [],
-                      "type": "text",
-                      "value": "br"
-                    },
-                    {
-                      "children": [],
-                      "type": "text",
-                      "value": ">"
-                    },
-                    {
-                      "children": [],
-                      "type": "text",
-                      "value": "Puede ser aumentado hasta Niv. 15.\n"
+                      "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
                     }
                   ],
                   "type": "template parameter",

@@ -41,27 +41,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " El Agrimensor Nieveclara"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Topógrafo de avanzada de los Caballeros de Favonius\n"
+              "value": " El Agrimensor Nieveclara<br>Topógrafo de avanzada de los Caballeros de Favonius\n"
             }
           ],
           "type": "template parameter",
@@ -365,47 +345,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(hermano mayor)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " <small>(hermano mayor)</small>\n"
             }
           ],
           "type": "template parameter",
@@ -696,27 +636,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "Aparentemente tímido y distante al principio, Mika acaba por acercarse a las personas que conoce. A los que no le son familiares, especialmente a los de alto rango, Mika prefiere observarlos y entender sus personalidades antes de interactuar adecuadamente con ellos como señal de respeto."
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "ref"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "Evento "
+      "value": "Aparentemente tímido y distante al principio, Mika acaba por acercarse a las personas que conoce. A los que no le son familiares, especialmente a los de alto rango, Mika prefiere observarlos y entender sus personalidades antes de interactuar adecuadamente con ellos como señal de respeto.<ref>Evento "
     },
     {
       "children": [],
@@ -748,47 +668,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "''"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "</"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "ref"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": " Parece depender de otras personas para tomar decisiones, como cuándo hablar o qué decir."
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "ref"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "Evento "
+      "value": "''</ref> Parece depender de otras personas para tomar decisiones, como cuándo hablar o qué decir.<ref>Evento "
     },
     {
       "children": [],
@@ -820,27 +700,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "''"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "</"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "ref"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\nA pesar de su corta edad, Mika es maduro y responsable, cuida a su hermano mayor cuando llega borracho a casa y completa sus tareas sin quejarse ni tener problemas con ellas. Le gusta la cartografía, quiere convertirse en el cartógrafo experto de Mondstadt y expresa su deseo de cartografiar todo "
+      "value": "''</ref>\n\nA pesar de su corta edad, Mika es maduro y responsable, cuida a su hermano mayor cuando llega borracho a casa y completa sus tareas sin quejarse ni tener problemas con ellas. Le gusta la cartografía, quiere convertirse en el cartógrafo experto de Mondstadt y expresa su deseo de cartografiar todo "
     },
     {
       "children": [],
@@ -1667,27 +1527,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " golpea por primera vez a un enemigo o cuando la señal astrogélida golpea a los enemigos, se genera 1 carga de detección del talento pasivo \"Supresión fuegorrápido\"."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Es necesario desbloquear el talento pasivo \"Supresión fuegorrápido\".\n\n"
+              "value": " golpea por primera vez a un enemigo o cuando la señal astrogélida golpea a los enemigos, se genera 1 carga de detección del talento pasivo \"Supresión fuegorrápido\".<br>Es necesario desbloquear el talento pasivo \"Supresión fuegorrápido\".\n\n"
             },
             {
               "children": [],
@@ -1745,27 +1585,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
               "children": [],
@@ -1881,27 +1701,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
               "children": [],
@@ -1959,47 +1759,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Es necesario desbloquear el talento pasivo \"Supresión fuegorrápido\"."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, cuando un personaje en uso está bajo los efectos de aeroánima, el Daño CRIT de sus ataques que infligen Daño Físico aumenta en un 60%.\n"
+              "value": ".<br>Es necesario desbloquear el talento pasivo \"Supresión fuegorrápido\".<br>Además, cuando un personaje en uso está bajo los efectos de aeroánima, el Daño CRIT de sus ataques que infligen Daño Físico aumenta en un 60%.\n"
             }
           ],
           "type": "template parameter",
@@ -2899,27 +2659,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "\n"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "references /"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\n"
+      "value": "\n<references />\n\n"
     },
     {
       "children": [],

@@ -1516,47 +1516,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las Reacciones Elementales con Hydro se potencian durante 8 s:"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "·Aumenta en un 15% la duración de Congelado en enemigos.\n"
+              "value": " Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las Reacciones Elementales con Hydro se potencian durante 8 s:<br>·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.<br>·Aumenta en un 15% la duración de Congelado en enemigos.\n"
             }
           ],
           "type": "template parameter",
@@ -1578,27 +1538,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Este efecto solo puede ocurrir una vez cada 5 s.\n"
+              "value": " Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.<br>Este efecto solo puede ocurrir una vez cada 5 s.\n"
             }
           ],
           "type": "template parameter",
@@ -1620,27 +1560,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Órbita divina +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Órbita divina +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1684,27 +1604,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Espejismo del agua +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Espejismo del agua +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",

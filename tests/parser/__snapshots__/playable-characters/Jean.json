@@ -75,47 +75,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Gran Maestra Intendente "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Caballera de Dandelion "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Caballera de Diente de León\n"
+              "value": " Gran Maestra Intendente <br /> Caballera de Dandelion <br /> Caballera de Diente de León\n"
             }
           ],
           "type": "template parameter",
@@ -352,27 +312,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " (Padre) "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " "
+              "value": " (Padre) <br /> "
             },
             {
               "children": [],
@@ -388,27 +328,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " (Madre) "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " "
+              "value": " (Madre) <br /> "
             },
             {
               "children": [],
@@ -1512,27 +1432,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Brisa de Dandelion +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Brisa de Dandelion +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1576,27 +1476,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Filo de ventisca +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Filo de ventisca +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",

@@ -105,47 +105,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(anteriormente)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " <small>(anteriormente)</small>\n"
             }
           ],
           "type": "template parameter",
@@ -492,27 +452,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "\"Está bien, te daré la mano y no me iré. Aunque, como la última vez tardaste más en dormirte que la anterior, sugeriría probar el método favorito de Aino para conciliar el sueño: un buen abrazo\"."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\"De acuerdo, Jahoda, te abrazaré. No voy a marcharme\"."
+              "value": "\"Está bien, te daré la mano y no me iré. Aunque, como la última vez tardaste más en dormirte que la anterior, sugeriría probar el método favorito de Aino para conciliar el sueño: un buen abrazo\".<br>\"De acuerdo, Jahoda, te abrazaré. No voy a marcharme\"."
             }
           ],
           "type": "template parameter",

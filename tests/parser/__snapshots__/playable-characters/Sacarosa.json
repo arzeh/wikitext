@@ -245,27 +245,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Desconocido "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(desde la "
+              "value": " Desconocido <small>(desde la "
             },
             {
               "children": [],
@@ -281,42 +261,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ")"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Valeria Rodriguez\n"
+              "value": ")</small></br>Valeria Rodriguez\n"
             }
           ],
           "type": "template parameter",
@@ -538,47 +483,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Una alquimista con una insaciable curiosidad por el mundo y todo lo que hay en él. Adscrita a los Caballeros de Favonius como asistenta de Albedo, su área de interés es la \"bio-alquimia\"."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Se esfuerza por enriquecer el mundo transformando seres vivos con el poder de la alquimia."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Es cierto que los productos de sus investigaciones a veces resultan más extraños que maravillosos, pero en general, ha hecho contribuciones notables en el campo de la bio-alquimia."
+              "value": "Una alquimista con una insaciable curiosidad por el mundo y todo lo que hay en él. Adscrita a los Caballeros de Favonius como asistenta de Albedo, su área de interés es la \"bio-alquimia\".<br>Se esfuerza por enriquecer el mundo transformando seres vivos con el poder de la alquimia.<br>Es cierto que los productos de sus investigaciones a veces resultan más extraños que maravillosos, pero en general, ha hecho contribuciones notables en el campo de la bio-alquimia."
             }
           ],
           "type": "template parameter",
@@ -1525,27 +1430,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Creación del espíritu del viento: Experimento 6308 +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Creación del espíritu del viento: Experimento 6308 +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1589,27 +1474,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Creación prohibida del espíritu del viento: Isomorfo 75 tipo II +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Creación prohibida del espíritu del viento: Isomorfo 75 tipo II +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",

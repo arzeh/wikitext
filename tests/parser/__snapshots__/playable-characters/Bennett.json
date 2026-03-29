@@ -75,47 +75,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Prueba de fuego "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Líder de la Brigada de Benny "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Tentador del Destino\n"
+              "value": " Prueba de fuego <br /> Líder de la Brigada de Benny <br /> Tentador del Destino\n"
             }
           ],
           "type": "template parameter",
@@ -1399,27 +1359,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1457,27 +1397,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ": Carga 1 permite realizar un ataque adicional."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Este ataque adicional es equivalente al 135% del daño del segundo ataque.\n"
+              "value": ": Carga 1 permite realizar un ataque adicional.<br>Este ataque adicional es equivalente al 135% del daño del segundo ataque.\n"
             }
           ],
           "type": "template parameter",
@@ -1515,27 +1435,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",

@@ -178,47 +178,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(anteriormente)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ", "
+              "value": " <small>(anteriormente)</small>, "
             },
             {
               "children": [],
@@ -234,47 +194,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(anteriormente)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ", "
+              "value": " <small>(anteriormente)</small>, "
             },
             {
               "children": [],
@@ -290,47 +210,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(anteriormente)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " <small>(anteriormente)</small>\n"
             }
           ],
           "type": "template parameter",
@@ -1651,27 +1531,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " La velocidad de acumulación de fuerza gravitatoria aumenta en un 34%."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Cuando se active una interferencia gravitacional, Colombina obtendrá el efecto de esplendor argénteo, el cual aumenta su Vida Máx. en un 40% durante 8 s.\n\n'''Presagio lunar: resplandor ascendente'''\nMientras el efecto de esplendor argénteo esté activo, si la Reacción Lunar que más fuerza gravitatoria ha otorgado a Colombina durante la interferencia gravitacional es:\n*"
+              "value": " La velocidad de acumulación de fuerza gravitatoria aumenta en un 34%.<br>Cuando se active una interferencia gravitacional, Colombina obtendrá el efecto de esplendor argénteo, el cual aumenta su Vida Máx. en un 40% durante 8 s.\n\n'''Presagio lunar: resplandor ascendente'''\nMientras el efecto de esplendor argénteo esté activo, si la Reacción Lunar que más fuerza gravitatoria ha otorgado a Colombina durante la interferencia gravitacional es:\n*"
             },
             {
               "children": [],
@@ -1757,27 +1617,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "]] +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": "]] +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1815,27 +1655,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " reciben daño adicional. Este efecto se fortalece con el tiempo.\nCuando se active una interferencia gravitacional, Colombina recuperará 4 pts. de Energía Elemental."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, el daño de Reacción Lunar de la interferencia gravitacional aumentará según la Reacción Lunar que más fuerza gravitatoria haya otorgado a Colombina. Si dicha reacción ha sido Electrocargado Lunar/Florecimiento Lunar/Cristalización Lunar, el daño aumentará, respectivamente, en una cantidad equivalente al 12.5/2.5/12.5% de la Vida Máx. de Colombina. Este efecto solo puede ocurrir una vez cada 15 s.\n"
+              "value": " reciben daño adicional. Este efecto se fortalece con el tiempo.\nCuando se active una interferencia gravitacional, Colombina recuperará 4 pts. de Energía Elemental.<br>Además, el daño de Reacción Lunar de la interferencia gravitacional aumentará según la Reacción Lunar que más fuerza gravitatoria haya otorgado a Colombina. Si dicha reacción ha sido Electrocargado Lunar/Florecimiento Lunar/Cristalización Lunar, el daño aumentará, respectivamente, en una cantidad equivalente al 12.5/2.5/12.5% de la Vida Máx. de Colombina. Este efecto solo puede ocurrir una vez cada 15 s.\n"
             }
           ],
           "type": "template parameter",
@@ -1873,27 +1693,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -2363,27 +2163,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "\n|'''Sobre Kuutar... :''' Un pez gordo de verdad... *Suspira*, si me hubiera encontrado con alguien con un historial como el suyo hace un tiempo, ¡habría salido corriendo bien lejos! Pero... me salvó la vida, así que estoy en deuda con ella. Y una deuda es una deuda."
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "br"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "Aun así, es fácil decirlo, pero vida solo hay una... A estas alturas, ¿cuántas vidas necesitaría para pagárselo? ¡Ay, jefa! Sálvame...\n|-\n|"
+      "value": "\n|'''Sobre Kuutar... :''' Un pez gordo de verdad... *Suspira*, si me hubiera encontrado con alguien con un historial como el suyo hace un tiempo, ¡habría salido corriendo bien lejos! Pero... me salvó la vida, así que estoy en deuda con ella. Y una deuda es una deuda.<br>Aun así, es fácil decirlo, pero vida solo hay una... A estas alturas, ¿cuántas vidas necesitaría para pagárselo? ¡Ay, jefa! Sálvame...\n|-\n|"
     },
     {
       "children": [
@@ -2437,27 +2217,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "\n|'''Sobre Kuutar... :''' Nadie le enseña a una diosa recién nacida a vivir en armonía con sus seguidores. Debe haber tenido un pasado muy difícil..."
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "br"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "Con la esperanza de lograr cierta reconciliación, le realicé una petición a la diosa que podría parecer algo irrespetuosa. Ella afirma que prefiere vivir en solitario, pero yo sigo soñando con el día en que Kuutar y los Descendientes Lunaescarcha, la luna y sus seguidores, puedan brindar juntos bajo un mismo cielo.\n|-\n|"
+      "value": "\n|'''Sobre Kuutar... :''' Nadie le enseña a una diosa recién nacida a vivir en armonía con sus seguidores. Debe haber tenido un pasado muy difícil...<br>Con la esperanza de lograr cierta reconciliación, le realicé una petición a la diosa que podría parecer algo irrespetuosa. Ella afirma que prefiere vivir en solitario, pero yo sigo soñando con el día en que Kuutar y los Descendientes Lunaescarcha, la luna y sus seguidores, puedan brindar juntos bajo un mismo cielo.\n|-\n|"
     },
     {
       "children": [

@@ -61,47 +61,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " La Estrella de Obsidiana"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Observadora de estrellas de Mictlán"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Abu Itztli\n"
+              "value": " La Estrella de Obsidiana<br> Observadora de estrellas de Mictlán<br>Abu Itztli\n"
             }
           ],
           "type": "template parameter",
@@ -543,67 +503,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Dicen que Citlalí, conocida como la “abu Itztli”, ha visto crecer a varias generaciones de los Augures Vientonocturno. ¿Que cuál es su edad? *Ejem*, no es de buena educación preguntarle la edad a una dama."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Conoce la mayoría de los complicados rituales de la tribu y es una experta en el uso de la magia, lo que la hace una de las mejores chamanas de toda Natlan."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Al haber vivido durante tanto tiempo aislada de las demás personas de su tribu, no se le da bien llevar la iniciativa de la conversación, pero si alguien más joven habla con ella sobre novelas, no habrá forma de que se calle."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Adelante, habla con esta pobre abuelita, que seguro que se pondrá muy contenta."
+              "value": "Dicen que Citlalí, conocida como la “abu Itztli”, ha visto crecer a varias generaciones de los Augures Vientonocturno. ¿Que cuál es su edad? *Ejem*, no es de buena educación preguntarle la edad a una dama.<br />Conoce la mayoría de los complicados rituales de la tribu y es una experta en el uso de la magia, lo que la hace una de las mejores chamanas de toda Natlan.<br />Al haber vivido durante tanto tiempo aislada de las demás personas de su tribu, no se le da bien llevar la iniciativa de la conversación, pero si alguien más joven habla con ella sobre novelas, no habrá forma de que se calle.<br />Adelante, habla con esta pobre abuelita, que seguro que se pondrá muy contenta."
             }
           ],
           "type": "template parameter",
@@ -1705,47 +1605,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Al usar la Habilidad Elemental, Estrella negra albaescarcha, Citlalí obtiene el efecto de “toga alboestelar” hasta que Itzpapa sea retirada del campo de batalla. Durante este tiempo, obtendrá 10 cargas de “cuchillas estelares”, de manera que, cuando un personaje en uso cercano (a excepción de Citlalí) inflige daño con un Ataque Normal, Cargado o Descendente o con una Habilidad Elemental o Definitiva, se consume 1 carga para aumentar el daño infligido en una cantidad equivalente al 200% de la Maestría Elemental de Citlalí."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Cuando un personaje cercano del equipo cause una reacción de Congelado o Derretido, Citlalí obtendrá 3 cargas adicionales de cuchillas estelares. Este efecto solo puede ocurrir una vez cada 8 s.\n\nAl usar la Habilidad Elemental, Estrella negra albaescarcha, se restablecerán las cargas de cuchillas estelares."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, cuando Citlalí salte o cuando apunte o use su Ataque Cargado en el aire, su consumo de flogisto disminuye en un 45%.\n\n"
+              "value": " Al usar la Habilidad Elemental, Estrella negra albaescarcha, Citlalí obtiene el efecto de “toga alboestelar” hasta que Itzpapa sea retirada del campo de batalla. Durante este tiempo, obtendrá 10 cargas de “cuchillas estelares”, de manera que, cuando un personaje en uso cercano (a excepción de Citlalí) inflige daño con un Ataque Normal, Cargado o Descendente o con una Habilidad Elemental o Definitiva, se consume 1 carga para aumentar el daño infligido en una cantidad equivalente al 200% de la Maestría Elemental de Citlalí.<br>Cuando un personaje cercano del equipo cause una reacción de Congelado o Derretido, Citlalí obtendrá 3 cargas adicionales de cuchillas estelares. Este efecto solo puede ocurrir una vez cada 8 s.\n\nAl usar la Habilidad Elemental, Estrella negra albaescarcha, se restablecerán las cargas de cuchillas estelares.<br>Además, cuando Citlalí salte o cuando apunte o use su Ataque Cargado en el aire, su consumo de flogisto disminuye en un 45%.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1767,27 +1627,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " La Maestría Elemental de Citlalí aumenta en 125 pts., y la de los demás personajes que estén bajo la protección del escudo de obsidiana blanca o que esté siguiendo Itzpapa aumenta en 250 pts."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, al usar la Habilidad Elemental, Estrella negra albaescarcha, también otorga un escudo de obsidiana blanca a los personajes en uso cercanos.\n\nPor otro lado, mejora el efecto del talento pasivo “"
+              "value": " La Maestría Elemental de Citlalí aumenta en 125 pts., y la de los demás personajes que estén bajo la protección del escudo de obsidiana blanca o que esté siguiendo Itzpapa aumenta en 250 pts.<br>Además, al usar la Habilidad Elemental, Estrella negra albaescarcha, también otorga un escudo de obsidiana blanca a los personajes en uso cercanos.\n\nPor otro lado, mejora el efecto del talento pasivo “"
             },
             {
               "children": [],
@@ -1803,27 +1643,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "”:"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Mientras Itzpapa esté activa, después de que un personaje cercano del equipo cause una reacción de Congelado o Derretido, la RES Pyro e Hydro de los enemigos afectados por dichas reacciones se reduce en un 20% adicional. Este efecto dura 12 s y, para poder activarlo, es necesario desbloquear el talento pasivo “Lluvia helada de Mamaloaco”.\n\n"
+              "value": "”:<br>Mientras Itzpapa esté activa, después de que un personaje cercano del equipo cause una reacción de Congelado o Derretido, la RES Pyro e Hydro de los enemigos afectados por dichas reacciones se reduce en un 20% adicional. Este efecto dura 12 s y, para poder activarlo, es necesario desbloquear el talento pasivo “Lluvia helada de Mamaloaco”.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1861,27 +1681,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1980,27 +1780,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -2022,47 +1802,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Al invocar a Itzpapa con la Habilidad Elemental, Estrella negra albaescarcha, permanecerá siempre en el estado de fuego opalescente. Dicho estado no terminará ni siquiera cuando se agoten los pts. de noctambulismo."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, al usar la Habilidad Elemental, Estrella negra albaescarcha, Itzpapa consumirá todos los pts. de noctambulismo y, mientras esté activa, consumirá pts. de noctambulismo de forma continua. Por cada punto de noctambulismo consumido de esta forma, Citlalí obtiene 1 pt. de “numerología secreta”."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Se pueden obtener hasta un máximo de 40 pts. Por cada punto de numerología secreta que posea Citlalí, aumenta el daño que inflige en un 2.5% y todos los miembros del equipo cercanos obtienen un 1.5% de Bono de Daño "
+              "value": " Al invocar a Itzpapa con la Habilidad Elemental, Estrella negra albaescarcha, permanecerá siempre en el estado de fuego opalescente. Dicho estado no terminará ni siquiera cuando se agoten los pts. de noctambulismo.<br>Además, al usar la Habilidad Elemental, Estrella negra albaescarcha, Itzpapa consumirá todos los pts. de noctambulismo y, mientras esté activa, consumirá pts. de noctambulismo de forma continua. Por cada punto de noctambulismo consumido de esta forma, Citlalí obtiene 1 pt. de “numerología secreta”.<br>Se pueden obtener hasta un máximo de 40 pts. Por cada punto de numerología secreta que posea Citlalí, aumenta el daño que inflige en un 2.5% y todos los miembros del equipo cercanos obtienen un 1.5% de Bono de Daño "
             },
             {
               "children": [
@@ -2140,27 +1880,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Cuando Itzpapa sea retirada del campo de batalla o tras usar de nuevo la Habilidad Elemental de Citlalí, todos los puntos de numerología secreta que posea serán eliminados.\n"
+              "value": ".<br>Cuando Itzpapa sea retirada del campo de batalla o tras usar de nuevo la Habilidad Elemental de Citlalí, todos los puntos de numerología secreta que posea serán eliminados.\n"
             }
           ],
           "type": "template parameter",

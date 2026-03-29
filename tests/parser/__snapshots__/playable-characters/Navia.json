@@ -79,27 +79,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Reina de la Metrópolis de las Constelaciones "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(en "
+              "value": " Reina de la Metrópolis de las Constelaciones <small>(en "
             },
             {
               "children": [],
@@ -115,27 +95,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ")"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": ")</small>\n"
             }
           ],
           "type": "template parameter",
@@ -427,22 +387,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " (padre)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": " (padre)<br>"
             },
             {
               "children": [],
@@ -1804,27 +1749,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Al usar Etiqueta vidriopírica, la Prob. CRIT de dicha habilidad aumenta en un 12% por cada fragmento de metralla consumido. La Prob. CRIT puede aumentar en un máximo de un 36% de esta manera."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, al alcanzar a un enemigo con un disparo de Etiqueta vidriopírica, en la ubicación de dicho enemigo caerá una bomba de bombardeo auxiliar de Aluvión artillero. Solo puede caer una bomba de bombardeo auxiliar cada vez que se use Etiqueta vidriopírica, y el daño del bombardeo auxiliar activado de esta manera se considera daño de Habilidad Definitiva.\n\n"
+              "value": " Al usar Etiqueta vidriopírica, la Prob. CRIT de dicha habilidad aumenta en un 12% por cada fragmento de metralla consumido. La Prob. CRIT puede aumentar en un máximo de un 36% de esta manera.<br/>Además, al alcanzar a un enemigo con un disparo de Etiqueta vidriopírica, en la ubicación de dicho enemigo caerá una bomba de bombardeo auxiliar de Aluvión artillero. Solo puede caer una bomba de bombardeo auxiliar cada vez que se use Etiqueta vidriopírica, y el daño del bombardeo auxiliar activado de esta manera se considera daño de Habilidad Definitiva.\n\n"
             },
             {
               "children": [],
@@ -1866,27 +1791,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Etiqueta vidriopírica +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " Aumenta el nivel de habilidad de Etiqueta vidriopírica +3.<br/>Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
               "children": [],
@@ -1970,27 +1875,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Aluvión artillero +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br/"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " Aumenta el nivel de habilidad de Aluvión artillero +3.<br/>Puede ser aumentado hasta Niv. 15.\n\n"
             },
             {
               "children": [],

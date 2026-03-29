@@ -140,27 +140,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Hada del bosque "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(en "
+              "value": " Hada del bosque <small>(en "
             },
             {
               "children": [],
@@ -176,27 +156,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ")"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": ")</small>\n"
             }
           ],
           "type": "template parameter",
@@ -1368,27 +1328,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Cuando un personaje en el estado de cáliz de la abundancia inflige '''Daño Hydro''' contra un enemigo, la RES Hydro de dicho enemigo se reduce en un 35% durante 10 segundos. Además, tras infligir daño contra un enemigo con una reacción de Florecimiento, la RES Dendro de dicho enemigo también se reduce en un 35% durante 10 segundos."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Es necesario desbloquear el talento pasivo \""
+              "value": "Cuando un personaje en el estado de cáliz de la abundancia inflige '''Daño Hydro''' contra un enemigo, la RES Hydro de dicho enemigo se reduce en un 35% durante 10 segundos. Además, tras infligir daño contra un enemigo con una reacción de Florecimiento, la RES Dendro de dicho enemigo también se reduce en un 35% durante 10 segundos.<br>Es necesario desbloquear el talento pasivo \""
             },
             {
               "children": [],
@@ -1442,27 +1382,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1554,27 +1474,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1596,27 +1496,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Por cada 1000 pts. de Vida Máx. que tenga Nilou, su Prob. CRIT aumenta en un 0.6% y su Daño CRIT aumenta en un 1.2%."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "El aumento máximo que se puede conseguir de esta manera es del 30% para la Prob. CRIT y del 60% para el Daño CRIT.\n"
+              "value": "Por cada 1000 pts. de Vida Máx. que tenga Nilou, su Prob. CRIT aumenta en un 0.6% y su Daño CRIT aumenta en un 1.2%.<br>El aumento máximo que se puede conseguir de esta manera es del 30% para la Prob. CRIT y del 60% para el Daño CRIT.\n"
             }
           ],
           "type": "template parameter",

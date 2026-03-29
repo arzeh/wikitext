@@ -75,27 +75,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Caballero Chispeante  "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br /"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Chica Explosiva (por "
+              "value": " Caballero Chispeante  <br /> Chica Explosiva (por "
             },
             {
               "children": [],
@@ -1427,27 +1407,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Bomba saltarina +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Bomba saltarina +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1491,27 +1451,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Chispas explosivas +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Chispas explosivas +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1533,27 +1473,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Mientras las Chispas explosivas estén activas, Klee hará que todos los miembros del equipo (a excepción de Klee) recuperen 3 pts. de Energía Elemental cada 3 s."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Después de activar Chispas explosivas, todos los miembros del equipo reciben un 10% de Bono de Daño Pyro durante 25 s.\n"
+              "value": " Mientras las Chispas explosivas estén activas, Klee hará que todos los miembros del equipo (a excepción de Klee) recuperen 3 pts. de Energía Elemental cada 3 s.<br>Después de activar Chispas explosivas, todos los miembros del equipo reciben un 10% de Bono de Daño Pyro durante 25 s.\n"
             }
           ],
           "type": "template parameter",

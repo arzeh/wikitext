@@ -327,47 +327,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(creadora)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " <small>(creadora)</small>\n"
             }
           ],
           "type": "template parameter",
@@ -1460,27 +1420,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3. "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3. <br> Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1524,27 +1464,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Orden suprema: Exterminación zonal +3. "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": " Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Orden suprema: Exterminación zonal +3. <br> Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",

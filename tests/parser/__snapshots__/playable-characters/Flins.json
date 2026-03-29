@@ -1408,27 +1408,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ", se reduce a 4 s."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, cuando un personaje del equipo causa una reacción de "
+              "value": ", se reduce a 4 s.<br>Además, cuando un personaje del equipo causa una reacción de "
             },
             {
               "children": [],
@@ -1537,27 +1517,7 @@
             {
               "children": [],
               "type": "text",
-              "value": ".\n\n'''Presagio lunar: resplandor ascendente'''"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Cuando Flins está en uso y golpea a un enemigo con un "
+              "value": ".\n\n'''Presagio lunar: resplandor ascendente'''<br>Cuando Flins está en uso y golpea a un enemigo con un "
             },
             {
               "children": [
@@ -1673,27 +1633,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1715,27 +1655,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "El ATQ de Flins aumenta en un 20%."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, fortalece el talento de ascensión "
+              "value": "El ATQ de Flins aumenta en un 20%.<br>Además, fortalece el talento de ascensión "
             },
             {
               "children": [],
@@ -1805,27 +1725,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1863,27 +1763,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " asciende en un 35%.\n\n'''Presagio lunar: resplandor ascendente'''"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "El daño que infligen todos los personajes cercanos del equipo a los enemigos con la reacción de Electrocargado Lunar asciende en un 10%.\n"
+              "value": " asciende en un 35%.\n\n'''Presagio lunar: resplandor ascendente'''<br>El daño que infligen todos los personajes cercanos del equipo a los enemigos con la reacción de Electrocargado Lunar asciende en un 10%.\n"
             }
           ],
           "type": "template parameter",
@@ -2643,47 +2523,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " 키릴"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "·: "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "추도미로비치"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "·: "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "플린스\n"
+              "value": " 키릴<·: >추도미로비치<·: >플린스\n"
             }
           ],
           "type": "template parameter",

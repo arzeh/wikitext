@@ -58,27 +58,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " La Entrenadora Funderrocas"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "La mejor entrenadora de Teteocán\n"
+              "value": " La Entrenadora Funderrocas<br>La mejor entrenadora de Teteocán\n"
             }
           ],
           "type": "template parameter",
@@ -1456,27 +1436,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "Mientras el indicador de energía cinética esté activo, después de que tu personaje en uso del equipo (a excepción de Iansán) utilice su Habilidad Definitiva, Iansán obtendrá dos cargas de “potenciación vigorosa” hasta que el indicador de energía cinética sea retirado del campo de batalla. Este efecto solo se puede activar una vez por cada indicador de energía cinética invocado. Cuando Iansán recupera pts. de noctambulismo por medio de dicho indicador, consume una carga de potenciación vigorosa para recuperar 4 pts. de noctambulismo adicionales."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, si el indicador de energía cinética restaura pts. de noctambulismo por encima del límite máximo, la próxima vez que Iansán recupere pts. de noctambulismo por medio de un indicador de energía cinética, conseguirá pts. adicionales en una cantidad equivalente al 50% del exceso de pts. de noctambulismo recuperados.\n\n"
+              "value": "Mientras el indicador de energía cinética esté activo, después de que tu personaje en uso del equipo (a excepción de Iansán) utilice su Habilidad Definitiva, Iansán obtendrá dos cargas de “potenciación vigorosa” hasta que el indicador de energía cinética sea retirado del campo de batalla. Este efecto solo se puede activar una vez por cada indicador de energía cinética invocado. Cuando Iansán recupera pts. de noctambulismo por medio de dicho indicador, consume una carga de potenciación vigorosa para recuperar 4 pts. de noctambulismo adicionales.<br>Además, si el indicador de energía cinética restaura pts. de noctambulismo por encima del límite máximo, la próxima vez que Iansán recupere pts. de noctambulismo por medio de un indicador de energía cinética, conseguirá pts. adicionales en una cantidad equivalente al 50% del exceso de pts. de noctambulismo recuperados.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1552,27 +1512,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "La duración del indicador de energía cinética aumenta en 3 s."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, cuando Iansán activa un efecto de recuperación de pts. de noctambulismo, si al hacerlo recupera pts. en exceso, obtiene el efecto de “fuerza máxima”, el cual aumenta el daño que inflige tu personaje en uso del equipo en un 25% durante 3 s.\n"
+              "value": "La duración del indicador de energía cinética aumenta en 3 s.<br>Además, cuando Iansán activa un efecto de recuperación de pts. de noctambulismo, si al hacerlo recupera pts. en exceso, obtiene el efecto de “fuerza máxima”, el cual aumenta el daño que inflige tu personaje en uso del equipo en un 25% durante 3 s.\n"
             }
           ],
           "type": "template parameter",
@@ -2539,22 +2479,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "references /"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\n"
+      "value": "<references />\n\n"
     },
     {
       "children": [

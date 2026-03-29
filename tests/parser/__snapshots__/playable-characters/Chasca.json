@@ -259,57 +259,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(madre sauria adoptiva)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": " <small>(madre sauria adoptiva)</small><br>"
             },
             {
               "children": [],
@@ -325,52 +275,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(hermana sauria adoptiva)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": "<small>(hermana sauria adoptiva)</small><br>"
             },
             {
               "children": [],
@@ -386,57 +291,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(padre adoptivo)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
+              "value": " <small>(padre adoptivo)</small><br>"
             },
             {
               "children": [],
@@ -452,47 +307,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " "
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "(hermana menor adoptiva)"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "</"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "small"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "\n"
+              "value": " <small>(hermana menor adoptiva)</small>\n"
             }
           ],
           "type": "template parameter",
@@ -1528,47 +1343,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "”, la segunda bala persiguesombras que se recargue en el rifle también se convertirá en una brillobala persiguesombras."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Si en el equipo hay personajes cuyos tipos elementales cumplan con los requisitos necesarios para que se produzca un cambio elemental, la probabilidad de que se active la conversión espiritual aumenta en un 33.3%, hasta un máximo de un 100%.\n\nEs necesario desbloquear el talento pasivo “Truco balístico”."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, reduce en un 30% el coste de "
+              "value": "”, la segunda bala persiguesombras que se recargue en el rifle también se convertirá en una brillobala persiguesombras.<br>Si en el equipo hay personajes cuyos tipos elementales cumplan con los requisitos necesarios para que se produzca un cambio elemental, la probabilidad de que se active la conversión espiritual aumenta en un 33.3%, hasta un máximo de un 100%.\n\nEs necesario desbloquear el talento pasivo “Truco balístico”.<br>Además, reduce en un 30% el coste de "
             },
             {
               "children": [],
@@ -1638,27 +1413,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Cuando Chasca entra en el campo de batalla, obtiene 1 carga del efecto espíritu brillosombra del talento pasivo “Truco balístico”. Para que se active este efecto, es necesario desbloquear el talento pasivo “Truco balístico”."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, al usar el multiapuntamiento de la Habilidad Elemental, "
+              "value": " Cuando Chasca entra en el campo de batalla, obtiene 1 carga del efecto espíritu brillosombra del talento pasivo “Truco balístico”. Para que se active este efecto, es necesario desbloquear el talento pasivo “Truco balístico”.<br>Además, al usar el multiapuntamiento de la Habilidad Elemental, "
             },
             {
               "children": [],
@@ -1696,27 +1451,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Riendas persiguesombras +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Riendas persiguesombras +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1738,27 +1473,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Al golpear al enemigo con las espectrobalas rutilantes de la Habilidad Definitiva, Asalto espectral, Chasca recupera 1.5 pts. de Energía Elemental e inflige Daño en el AdE del elemento correspondiente en una cantidad equivalente al 400% de su ATQ según el tipo elemental de las espectrobalas rutilantes. Este daño se considera daño de Ataque Cargado."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Este efecto que inflige Daño en el AdE del elemento correspondiente solo se puede activar una vez por cada vez que se use Asalto espectral.\n"
+              "value": " Al golpear al enemigo con las espectrobalas rutilantes de la Habilidad Definitiva, Asalto espectral, Chasca recupera 1.5 pts. de Energía Elemental e inflige Daño en el AdE del elemento correspondiente en una cantidad equivalente al 400% de su ATQ según el tipo elemental de las espectrobalas rutilantes. Este daño se considera daño de Ataque Cargado.<br>Este efecto que inflige Daño en el AdE del elemento correspondiente solo se puede activar una vez por cada vez que se use Asalto espectral.\n"
             }
           ],
           "type": "template parameter",
@@ -1796,27 +1511,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -2609,27 +2304,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "\n|'''Sobre Chasca... :''' Conseguir que la pistola de Chasca funcionara en una altitud tan elevada no fue tarea fácil. Primero tuve que asegurarme de que la pistola contara con una estabilidad que le permitiera moverse a grandes velocidades. Después, me encargué de crear munición normal y especial adecuada para el combate en altitud. Por último, tuve que considerar la fuerza de retroceso y los problemas de puntería que se originarían al abrir fuego en las alturas..."
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "br"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "Sin embargo, Chasca afirmó que no tendría que preocuparme de eso último, puesto que ella lo podría resolver gracias a su técnica siempre y cuando instalara una mirilla mecánica sencilla. Debo admitir que Chasca se maneja con gran habilidad. Al fin y al cabo, por algo la llaman el “as del firmamento” en la Tribu Plumaflora.\n|}\n\n"
+      "value": "\n|'''Sobre Chasca... :''' Conseguir que la pistola de Chasca funcionara en una altitud tan elevada no fue tarea fácil. Primero tuve que asegurarme de que la pistola contara con una estabilidad que le permitiera moverse a grandes velocidades. Después, me encargué de crear munición normal y especial adecuada para el combate en altitud. Por último, tuve que considerar la fuerza de retroceso y los problemas de puntería que se originarían al abrir fuego en las alturas...<br>Sin embargo, Chasca afirmó que no tendría que preocuparme de eso último, puesto que ella lo podría resolver gracias a su técnica siempre y cuando instalara una mirilla mecánica sencilla. Debo admitir que Chasca se maneja con gran habilidad. Al fin y al cabo, por algo la llaman el “as del firmamento” en la Tribu Plumaflora.\n|}\n\n"
     },
     {
       "children": [
@@ -3339,22 +3014,7 @@
     {
       "children": [],
       "type": "text",
-      "value": "<"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "references /"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": ">"
-    },
-    {
-      "children": [],
-      "type": "text",
-      "value": "\n\n"
+      "value": "<references />\n\n"
     },
     {
       "children": [

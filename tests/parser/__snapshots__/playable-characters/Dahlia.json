@@ -1367,27 +1367,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1463,27 +1443,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n\n"
             }
           ],
           "type": "template parameter",
@@ -1521,27 +1481,7 @@
             {
               "children": [],
               "type": "text",
-              "value": "."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Además, cuando un personaje en uso bajo los efectos de gracia de Favonius es derrotado, ocurren inmediatamente los siguientes efectos:\n*El personaje revive automáticamente.\n*Dicho personaje recupera el 100% de su Vida.\n\nEste efecto solo puede ocurrir una vez cada 15 min.\n"
+              "value": ".<br>Además, cuando un personaje en uso bajo los efectos de gracia de Favonius es derrotado, ocurren inmediatamente los siguientes efectos:\n*El personaje revive automáticamente.\n*Dicho personaje recupera el 100% de su Vida.\n\nEste efecto solo puede ocurrir una vez cada 15 min.\n"
             }
           ],
           "type": "template parameter",

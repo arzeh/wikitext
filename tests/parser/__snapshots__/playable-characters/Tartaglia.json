@@ -1553,27 +1553,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Aumenta el nivel de habilidad de Legado del mal: Olas furiosas +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " Aumenta el nivel de habilidad de Legado del mal: Olas furiosas +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
@@ -1595,27 +1575,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " Si Tartaglia está en la posición de combate cuerpo a cuerpo de Legado del mal: Olas furiosas, realizará Obstrucción del flujo: Corte cada 4 s contra los enemigos afectados por obstrucción del flujo. Si está en posición de combate a distancia, en su lugar, realizará Obstrucción del flujo: Destello."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "La Obstrucción del flujo: Corte y Obstrucción del flujo: Destello desencadenadas mediante el efecto de esta constelación no están sujetas a los intervalos de tiempo que se les aplicaría normalmente, ni tampoco afectarán a los tiempos de dichas habilidades.\n"
+              "value": " Si Tartaglia está en la posición de combate cuerpo a cuerpo de Legado del mal: Olas furiosas, realizará Obstrucción del flujo: Corte cada 4 s contra los enemigos afectados por obstrucción del flujo. Si está en posición de combate a distancia, en su lugar, realizará Obstrucción del flujo: Destello.<br>La Obstrucción del flujo: Corte y Obstrucción del flujo: Destello desencadenadas mediante el efecto de esta constelación no están sujetas a los intervalos de tiempo que se les aplicaría normalmente, ni tampoco afectarán a los tiempos de dichas habilidades.\n"
             }
           ],
           "type": "template parameter",
@@ -1653,27 +1613,7 @@
             {
               "children": [],
               "type": "text",
-              "value": " +3."
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "<"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "br"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": ">"
-            },
-            {
-              "children": [],
-              "type": "text",
-              "value": "Puede ser aumentado hasta Niv. 15.\n"
+              "value": " +3.<br>Puede ser aumentado hasta Niv. 15.\n"
             }
           ],
           "type": "template parameter",
