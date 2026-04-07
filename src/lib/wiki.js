@@ -1,5 +1,10 @@
 import { Client } from './client';
 
+/**
+ * @template T
+ * @typedef {import('../types.d.ts').Prop<T>} Prop
+ */
+
 export class Wiki {
   /**
    * @readonly
@@ -54,14 +59,23 @@ export class Wiki {
     params = Object.assign({}, params);
 
     while (true) {
-      const query = await this.query(params);
+      /**
+       * @typedef {Object} QueryResult
+       * @property {Record<string, string>} query
+       * @property {Object} [continue]
+       */
+      /**
+       * @type {QueryResult}
+       */
+      const result = await this.query(params);
 
-      for (const item of query.query[params.list]) {
+      // @ts-expect-error - can't infer query key
+      for (const item of result.query[params.list || 'pages']) {
         yield item;
       }
 
-      if (!query.continue) break;
-      Object.assign(params, query.continue);
+      if (!result.continue) break;
+      Object.assign(params, result.continue);
     }
   }
 
@@ -428,9 +442,31 @@ export class Wiki {
 
   /**
    * @typedef {Object} AllLinksRequest
+   * @property {string} [alcontinue]
+   *   When more results are available, use this to continue.
+   * @property {'ascending'|'descending'} [aldir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {string} [alfrom]
+   *   The title of the link to start enumerating from.
+   * @property {number|'max'} [allimit]
+   *   How many total items to return.
+   * @property {number} [alnamespace]
+   *   The namespace to enumerate.
+   * @property {string} [alprefix]
+   *   Search for all linked titles that begin with this value.
+   * @property {Prop<'ids'|'title'>} [alprop]
+   *   Which pieces of information to include.
+   * @property {string} [alto]
+   *   The title of the link to stop enumerating at.
+   * @property {boolean} [alunique]
+   *   Only show distinct linked titles. Cannot be used with `alprop=ids`.
    */
   /**
    * @typedef {Object} AllLinksItem
+   * @property {number} fromid
+   * @property {number} ns
+   * @property {string} title
    */
   /**
    * @overload
@@ -459,10 +495,50 @@ export class Wiki {
   }
 
   /**
-    * Returns messages from the site.
+   * @typedef {Object} AllMessagesRequest
+   * @property {Prop<string>} [ammessages]
+   *  Which messages to output. * (default) means all messages.
+   * @property {Prop<'default'>} [amprop]
+   *  Which properties to get.
+   * @property {boolean} [amenableparser]
+   *  Set to enable parser, will preprocess the wikitext of message (substitute magic words, handle templates, etc.).
+   * @property {boolean} [amnocontent]
+   *  If set, do not include the content of the messages in the output.
+   * @property {boolean} [amincludelocal]
+   *  Also include local messages, i.e. messages that don't exist in the software but do exist as in the MediaWiki namespace.
+   * @property {Prop<string>} [amargs]
+   *  Arguments to be substituted into message.
+   * @property {string} [amfilter]
+   *  Return only messages with names that contain this string.
+   * @property {'all' | 'modified' | 'unmodified'} [amcustomised]
+   *  Return only messages in this customisation state.
+   * @property {string} [amlang]
+   *  Return messages in this language.
+   * @property {string} [amfrom]
+   *  Return messages starting at this message.
+   * @property {string} [amto]
+   *  Return messages ending at this message.
+   * @property {string} [amtitle]
+   *  Page name to use as context when parsing message (for amenableparser option).
+   * @property {string} [amprefix]
+   *  Return messages with this prefix.
+   */
+  /**
+   * @typedef {Object} AllMessagesResponse
+   * @property {Object} query
+   * @property {Array<Object>} query.allmessages
+   * @property {string} query.allmessages[].name
+   * @property {string} query.allmessages[].normalizedname
+   * @property {string} query.allmessages[].content
+   */
+  /**
+    * @description Returns messages from the site.
+    * @param {AllMessagesRequest} params
+    * @returns {Promise<AllMessagesResponse['query']['allmessages']>}
     * @see https://www.mediawiki.org/wiki/API:Allmessages
     */
   async allmessages(params) {
+    /** @type {AllMessagesResponse} */
     const result = await this.query(params, { meta: 'allmessages' });
 
     return result.query.allmessages;
@@ -470,9 +546,49 @@ export class Wiki {
 
   /**
    * @typedef {Object} AllPagesRequest
+   * @property {string} [apcontinue]
+   *   When more results are available, use this to continue.
+   * @property {'ascending'|'descending'} [apdir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {'all'|'withlanglinks'|'withoutlanglinks'} [apfilterlanglinks]
+   *   Filter based on whether a page has langlinks. Note that this may not consider
+   *   langlinks added by extensions.
+   *   @default 'all'
+   * @property {'all'|'nonredirects'|'redirects'} [apfilterredir]
+   *   Which pages to list.
+   *   @default 'all'
+   * @property {string} [apfrom]
+   *   The page title to start enumerating from.
+   * @property {number|'max'} [aplimit]
+   *   How many total pages to return.
+   * @property {number} [apmaxsize]
+   *   Limit to pages with at most this many bytes.
+   *   Disabled due to miser mode.
+   * @property {number} [apminsize]
+   *   Limit to pages with at least this many bytes.
+   * @property {number} [apnamespace]
+   *   The namespace to enumerate.
+   * @property {string} [apprefix]
+   *   Search for all page titles that begin with this value.
+   * @property {'all'|'definite'|'indefinite'} [apprexpiry]
+   *   Which protection expiry to filter the page on.
+   *   @default 'all'
+   * @property {'all'|'cascading'|'noncascading'} [apprfiltercascade]
+   *   Filter protections based on cascadingness (ignored when `apprtype` isn't set).
+   *   @default 'all'
+   * @property {Prop<''|'autoconfirmed'|'sysop'>} [apprlevel]
+   *   Filter protections basedd on protection level (must be used with `apprtype=level` parameter).
+   * @property {'edit'|'move'|'upload'} [apprtype]
+   *   Limit to protected pages only.
+   * @property {string} [apto]
+   *   The page title to stop enumerating at.
    */
   /**
    * @typedef {Object} AllPagesItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -502,9 +618,35 @@ export class Wiki {
 
   /**
    * @typedef {Object} AllRedirectsRequest
+   * @property {string} [arcontinue]
+   *   When more results are available, use this to continue.
+   * @property {'ascending'|'descending'} [ardir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {string} [arfrom]
+   *   The title of the redirect to start enumerating from.
+   * @property {number|'max'} [arlimit]
+   *   How many total items to return.
+   * @property {number} [arnamespace]
+   *   The namespace to enumerate.
+   * @property {string} [arprefix]
+   *   Search for all target pages that begin with this value.
+   * @property {Prop<'ids'|'title'|'fragment'|'interwiki'>} [arprop]
+   *   Which pieces of information to include.
+   *   @default 'title'
+   * @property {string} [arto]
+   *   The title of the redirect to stop enumerating at.
+   * @property {boolean} [arunique]
+   *   Only show distinct target pages.
+   *   Cannot be used with `arprop=ids|fragment|interwiki`.
    */
   /**
    * @typedef {Object} AllRedirectsItem
+   * @property {string} [fragment]
+   * @property {number} fromid
+   * @property {string} [interwiki]
+   * @property {number} ns
+   * @property {string} title
    */
   /**
    * @overload
@@ -534,9 +676,73 @@ export class Wiki {
 
   /**
    * @typedef {Object} AllRevisionsRequest
+   * @property {string} [arvcontinue]
+   *   When more results are available, use this to continue.
+   * @property {'newer'|'older'} [arvdir]
+   *   In which direction to enumerate.
+   *   @default 'older'
+   * @property {Date|string} [arvend]
+   *   The timestamp to stop enumerating at.
+   * @property {string} [arvexcludeuser]
+   *   Don't list revisions by this user.
+   * @property {boolean} [arvgeneratetitles]
+   *   When being used as a generator, generate titles rather than revision IDs.
+   * @property {number|'max'} [arvlimit]
+   *   Limit how many revisions will be returned. If `arvprop=content` is used,
+   *   the limit is 50.
+   * @property {number|number[]|'*'} [arvnamespace]
+   *   Only list pages in this namespace.
+   * @property {Prop<
+   *   'ids'
+   *   | 'flags'
+   *   | 'timestamp'
+   *   | 'user'
+   *   | 'userid'
+   *   | 'size'
+   *   | 'slotsize'
+   *   | 'sha1'
+   *   | 'slotsha1'
+   *   | 'contentmodel'
+   *   | 'comment'
+   *   | 'parsedcomment'
+   *   | 'content'
+   *   | 'tags'
+   *   | 'roles'
+   * >} [arvprop]
+   *   Which properties to get for each revision.
+   * @property {string} [arvsection]
+   *   Only retrieve the content of the section with this identifier.
+   * @property {'main'|string|string[]} [arvslots]
+   *   Which revision slots to return data for, when slot-related properties are
+   *   included in `arvprops`.
+   * @property {Date|string} [arvstart]
+   *   The timestamp to start enumerating from.
+   * @property {string} [arvuser]
+   *   Only list revisions by this user.
    */
   /**
    * @typedef {Object} AllRevisionsItem
+   * @property {number} pageid
+   * @property {Array<Object>} revisions
+   * @property {boolean} revisions[].minor
+   * @property {number} revisions[].parentid
+   * @property {number} revisions[].revid
+   * @property {string[]} revisions[].roles
+   * @property {string} revisions[].sha1
+   * @property {number} revisions[].size
+   * @property {Object} revisions[].slots
+   * @property {string} revisions[].slots.comment
+   * @property {Object} revisions[].slots.main
+   * @property {string} revisions[].slots.main.content
+   * @property {string} revisions[].slots.main.contentformat
+   * @property {string} revisions[].slots.main.contentmodel
+   * @property {string} revisions[].slots.main.sha1
+   * @property {number} revisions[].slots.main.size
+   * @property {string} revisions[].slots.parsedcomment
+   * @property {string[]} revisions[].slots.tags
+   * @property {string} revisions[].timestamp
+   * @property {string} revisions[].user
+   * @property {number} revisions[].userid
    */
   /**
    * @overload
@@ -566,9 +772,32 @@ export class Wiki {
 
   /**
    * @typedef {Object} AllTransclusionsRequest
+   * @property {string} [atcontinue]
+   *   When more results are available, use this to continue. More detailed information on how to continue queries can be found on mediawiki.org.
+   * @property {string} [atfrom]
+   *   The title of the transclusion to start enumerating from.
+   * @property {string} [atto]
+   *   The title of the transclusion to stop enumerating at.
+   * @property {string} [atprefix]
+   *   Search for all transcluded titles that begin with this value.
+   * @property {boolean} [atunique]
+   *   Only show distinct transcluded titles. Cannot be used with atprop=ids.
+   * @property {Prop<'ids'|'title'>} [atprop]
+   *   Which pieces of information to include:
+   * @property {number} [atnamespace]
+   *   The namespace to enumerate.
+   *   @default 10
+   * @property {number|'max'} [atlimit]
+   *   How many total items to return.
+   * @property {'ascending'|'descending'} [atdir]
+   *   The direction in which to list.
+   *   @default 'ascening'
    */
   /**
    * @typedef {Object} AllTransclusionsItem
+   * @property {number} fromid
+   * @property {number} ns
+   * @property {string} title
    */
   /**
    * @overload
@@ -597,10 +826,70 @@ export class Wiki {
   }
 
   /**
-   * @typedef {Object} AllUsersRequest
-   */
+     * @typedef {Object} AllUsersRequest
+     * @property {string} [aufrom]
+     *   The username to start enumerating from.
+     * @property {string} [auto]
+     *   The username to stop enumerating at.
+     * @property {string} [auprefix]
+     *   Search for all users that begin with this value.
+     * @property {'ascending'|'descending'} [audir]
+     *   Direction to sort in.
+     *   @default 'ascending'
+     * @property {string|string[]} [augroup]
+     *   Only include users in the given groups. Does not include implicit or auto-promoted
+     *   groups like *, user, or autoconfirmed.
+     * @property {string|string[]} [auexcludegroup]
+     *   Exclude users in the given groups.
+     * @property {string|string[]} [aurights]
+     *   Only include users with the given rights. Does not include rights granted
+     *   by implicit or auto-promoted groups like *, user, or autoconfirmed.
+     * @property {Prop<
+     *   'blockinfo'
+     *   | 'groups'
+     *   | 'implicitgroups'
+     *   | 'rights'
+     *   | 'editcount'
+     *   | 'registration'
+     *   | 'centralids'
+     * >} [auprop]
+     *   Which pieces of information to include:
+     * @property {number|'max'} [aulimit]
+     *   How many total usernames to return.
+     * @property {boolean} [auwitheditsonly]
+     *   Only list users who have made edits.
+     * @property {boolean} [auactiveusers]
+     *   Only list users active in the last 30 days.
+     * @property {string} [auattachedwiki]
+     *   With auprop=centralids, also indicate whether the user is attached with the wiki identified by this ID.
+     * @property {boolean} [auexcludenamed]
+     *   Exclude users of named accounts.
+     * @property {boolean} [auexcludetemp]
+     *   Exclude users of temporary accounts.
+     */
   /**
    * @typedef {Object} AllUsersItem
+   * @property {Object.<string, boolean>} attachedlocal
+   * @property {boolean} blockanononly
+   * @property {string} blockedby
+   * @property {number} blockedbyid
+   * @property {string} blockedtimestamp
+   * @property {string} blockedtimestampformatted
+   * @property {boolean} blockemail
+   * @property {string} blockexpiry
+   * @property {number} blockid
+   * @property {boolean} blocknocreate
+   * @property {boolean} blockowntalk
+   * @property {boolean} blockpartial
+   * @property {string} blockreason
+   * @property {Object.<string, number>} centralids
+   * @property {number} editcount
+   * @property {string[]} groups
+   * @property {string[]} implicitgroups
+   * @property {string} name
+   * @property {string} registration
+   * @property {string[]} rights
+   * @property {number} userid
    */
   /**
    * @overload
@@ -629,10 +918,30 @@ export class Wiki {
   }
 
   /**
-   * @typedef {Object} BacklinksRequest
-   */
+     * @typedef {Object} BacklinksRequest
+     * @property {string} [bltitle]
+     *   Title to search. Cannot be used together with blpageid.
+     * @property {number} [blpageid]
+     *   Page ID to search. Cannot be used together with bltitle.
+     * @property {string} [blcontinue]
+     *   When more results are available, use this to continue.
+     * @property {number|number[]|'*'} [blnamespace]
+     *   The namespace to enumerate.
+     * @property {'ascending'|'descending'} [bldir]
+     *   The direction in which to list.
+     *   @default 'ascending'
+     * @property {'all'|'nonredirects'|'redirects'} [blfilterredir]
+     *   How to filter for redirects. If set to nonredirects when blredirect is enabled, this is only applied to the second level.
+     * @property {number|'max'} [bllimit]
+     *   How many total pages to return. If blredirect is enabled, the limit applies to each level separately (which means up to 2 * bllimit results may be returned).
+     * @property {boolean} [blredirect]
+     *   If linking page is a redirect, find all pages that link to that redirect as well. Maximum limit is halved.
+     */
   /**
    * @typedef {Object} BacklinksItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -661,18 +970,123 @@ export class Wiki {
   }
 
   /**
-    * Block a user.
+   * @typedef {Object} BlockRequest
+   * @property {number} [id]
+   *  ID of the block to modify (obtained through list=blocks). Cannot be used together with user, reblock, or newblock.
+   * @property {string} [user]
+   *  User to block. Cannot be used together with id.
+   * @property {Date | string} [expiry]
+   *  Expiry time. May be relative (e.g. 5 months or 2 weeks) or absolute (e.g. 2014-09-18T12:34:56Z). If set to infinite, indefinite, or never, the block will never expire.
+   * @property {string} [reason]
+   *  Reason for block.
+   * @property {boolean} [anononly]
+   *  Block anonymous users only (i.e. disable anonymous edits for this IP address, including temporary account edits).
+   * @property {boolean} [nocreate]
+   *  Prevent account creation.
+   * @property {boolean} [autoblock]
+   *  Automatically block the last used IP address, and any subsequent IP addresses they try to login from.
+   * @property {boolean} [noemail]
+   *  Prevent user from sending email through the wiki. (Requires the blockemail right).
+   * @property {boolean} [hidename]
+   *  Hide the username from the block log. (Requires the hideuser right).
+   * @property {boolean} [allowusertalk]
+   *  Allow the user to edit their own talk page (depends on $wgBlockAllowsUTEdit).
+   * @property {boolean} [reblock]
+   *  If the user is already blocked by a single block, overwrite the existing block. If the user is blocked more than once, this will fail—use the id parameter instead to specify which block to overwrite. Cannot be used together with id or newblock.
+   * @property {boolean} [newblock]
+   *  Add another block even if the user is already blocked. Cannot be used together with id or reblock.
+   * @property {boolean} [watchuser]
+   *  Watch the user's or IP address's user and talk pages.
+   * @property {Date | 'string'} [watchlistexpiry]
+   *  Watchlist expiry timestamp. Omit this parameter entirely to leave the current expiry unchanged.
+   * @property {string | string[]} [tags]
+   *  Change tags to apply to the entry in the block log.
+   * @property {boolean} [partial]
+   *  Block user from specific pages or namespaces rather than the entire site.
+   * @property {string | string[]} [pagerestrictions]
+   *  List of titles to block the user from editing. Only applies when partial is set to true.
+   * @property {number | number[] | '*'} [namespacerestrictions]
+   *  List of namespace IDs to block the user from editing. Only applies when partial is set to true.
+   * @property {string | string[]} [actionrestrictions]
+   *  List of actions to block the user from performing. Only applies when partial is set to true.
+   */
+  /**
+   * @typedef {Object} BlockItem
+   * @property {string} expiry
+   * @property {string} id
+   * @property {string} reason
+   * @property {string} user
+   * @property {number} userID
+   */
+  /**
+    * @description Block a user.
+    * @param {BlockRequest} params
+    * @returns {Promise<BlockItem>}
+    * @see https://www.mediawiki.org/wiki/API:Block
     */
   async block(params) {
+    /** @type {{ block: BlockItem }} */
     const request = await this.action(params, { action: 'block' });
     return request.block;
   }
 
   /**
    * @typedef {Object} BlocksRequest
+   * @property {Date|string} [bkstart]
+   *   The timestamp to start enumerating from.
+   * @property {Date|string} [bkend]
+   *   The timestamp to stop enumerating at.
+   * @property {'newer'|'older'} [bkdir]
+   *   In which direction to enumerate.
+   *   @default 'older'
+   * @property {number|number[]} [bkids]
+   *   List of block IDs to list (optional).
+   * @property {string|string[]} [bkusers]
+   *   List of users to search for (optional).
+   * @property {string} [bkip]
+   *   Get all blocks applying to this IP address or CIDR range, including range blocks.
+   *   Cannot be used together with bkusers. CIDR ranges broader than IPv4/16 or IPv6/19 are not accepted.
+   * @property {number|'max'} [bklimit]
+   *   The maximum number of blocks to list.
+   * @property {Prop<
+   *   'id'
+   *   | 'user'
+   *   | 'userid'
+   *   | 'by'
+   *   | 'byid'
+   *   | 'timestamp'
+   *   | 'expiry'
+   *   | 'reason'
+   *   | 'parsedreason'
+   *   | 'range'
+   *   | 'flags'
+   *   | 'restrictions'
+   * >} [bkprop]
+   *   Which properties to get:
+   * @property {Prop<'!account'|'!ip'|'!range'|'!temp'|'account'|'ip'|'range'|'temp'>} [bkshow]
+   *   Show only items that meet these criteria.
+   * @property {string} [bkcontinue]
+   *   When more results are available, use this to continue.
    */
   /**
    * @typedef {Object} BlocksItem
+   * @property {boolean} allowusertalk
+   * @property {boolean} anononly
+   * @property {boolean} autoblock
+   * @property {boolean} automatic
+   * @property {string} by
+   * @property {number} byid
+   * @property {string} duration-l10n
+   * @property {string} expiry
+   * @property {boolean} hidden
+   * @property {number} id
+   * @property {boolean} nocreate
+   * @property {boolean} noemail
+   * @property {string} parsedreason
+   * @property {boolean} partial
+   * @property {string} reason
+   * @property {unknown[]} restrictions
+   * @property {string} timestamp
    */
   /**
    * @overload
@@ -702,9 +1116,33 @@ export class Wiki {
 
   /**
    * @typedef {Object} CategoriesRequest
+   * @property {Prop<'sortkey'|'timestamp'|'hidden'>} [clprop]
+   *   Which additional properties to get for each category:
+   * @property {Prop<'!hidden'|'hidden'>} [clshow]
+   *   Which kind of categories to show.
+   * @property {number|'max'} [cllimit]
+   *   How many categories to return.
+   * @property {string} [clcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} [clcategories]
+   *   Only list these categories. Useful for checking whether a certain page is in a certain category.
+   * @property {'ascending'|'descending'} [cldir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} CategoriesItem
+   * @property {Array<Object>} categorymembers
+   * @property {boolean} categorymembers[].hidden
+   * @property {number} categorymembers[].ns
+   * @property {string} categorymembers[].sortkey
+   * @property {string} categorymembers[].sortkeyprefix
+   * @property {string} categorymembers[].timestamp
+   * @property {string} categorymembers[].title
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -734,9 +1172,21 @@ export class Wiki {
 
   /**
    * @typedef {Object} CategoryInfoRequest
+   * @property {string} [cicontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} CategoryInfoItem
+   * @property {Object} categoryinfo
+   * @property {number} categoryinfo.files
+   * @property {boolean} categoryinfo.hidden
+   * @property {number} categoryinfo.pages
+   * @property {number} categoryinfo.size
+   * @property {number} categoryinfo.subcats
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -766,9 +1216,51 @@ export class Wiki {
 
   /**
    * @typedef {Object} CategoryMembersRequest
+   * @property {string} [cmtitle]
+   *   Which category to enumerate (required). Must include the Category: prefix.
+   *   Cannot be used together with cmpageid.
+   * @property {number} [cmpageid]
+   *   Page ID of the category to enumerate. Cannot be used together with cmtitle.
+   * @property {Prop<'ids'|'title'|'sortkey'|'sortkeyprefix'|'type'|'timestamp'>} [cmprop]
+   *   Which pieces of information to include:
+   * @property {number|number[]|'*'} [cmnamespace]
+   *   Only include pages in these namespaces. Note that cmtype=subcat or cmtype=file may be
+   *   used instead of cmnamespace=14 or 6.
+   * @property {Prop<'page'|'subcat'|'file'>} [cmtype]
+   *   Which type of category members to include. Ignored when cmsort=timestamp is set.
+   * @property {string} [cmcontinue]
+   *   When more results are available, use this to continue.
+   * @property {number|'max'} [cmlimit]
+   *   The maximum number of pages to return.
+   * @property {'sortkey'|'timestamp'} [cmsort]
+   *   Property to sort by.
+   *   @default 'sortkey'
+   * @property {'asc'|'ascending'|'desc'|'descending'|'newer'|'older'} [cmdir]
+   *   In which direction to sort.
+   *   @default 'ascending'
+   * @property {Date|string} [cmstart]
+   *   Timestamp to start listing from. Can only be used with cmsort=timestamp.
+   * @property {Date|string} [cmend]
+   *   Timestamp to end listing at. Can only be used with cmsort=timestamp.
+   * @property {string} [cmstarthexsortkey]
+   *   Sortkey to start listing from, as returned by cmprop=sortkey. Can only be used with cmsort=sortkey.
+   * @property {string} [cmendhexsortkey]
+   *   Sortkey to end listing at, as returned by cmprop=sortkey. Can only be used with cmsort=sortkey.
+   * @property {string} [cmstartsortkeyprefix]
+   *   Sortkey prefix to start listing from. Can only be used with cmsort=sortkey. Overrides cmstarthexsortkey.
+   * @property {string} [cmendsortkeyprefix]
+   *   Sortkey prefix to end listing before (not at; if this value occurs it will not be included!).
+   *   Can only be used with cmsort=sortkey. Overrides cmendhexsortkey.
    */
   /**
    * @typedef {Object} CategoryMembersItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} sortkey
+   * @property {string} sortkeyprefix
+   * @property {string} timestamp
+   * @property {string} title
+   * @property {string} type
    */
   /**
    * @overload
@@ -797,28 +1289,47 @@ export class Wiki {
   }
 
   /**
-   * @typedef {Object} AsyncGeneratorRequest
+   * @typedef {Object} ContributorsRequest
+   * @property {string|string[]} [pcgroup]
+   *   Only include users in the given groups. Does not include implicit or auto-promoted groups like *, user, or autoconfirmed.
+   * @property {string|string[]} [pcexcludegroup]
+   *   Exclude users in the given groups. Does not include implicit or auto-promoted groups like *, user, or autoconfirmed.
+   * @property {string|string[]} [pcrights]
+   *   Only include users having the given rights. Does not include rights granted by implicit or auto-promoted groups like *, user, or autoconfirmed.
+   * @property {string|string[]} [pcexcluderights]
+   *   Exclude users having the given rights. Does not include rights granted by implicit or auto-promoted groups like *, user, or autoconfirmed.
+   * @property {number|'max'} [pclimit]
+   *   How many contributors to return.
+   * @property {string} [pccontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
-   * @typedef {Object} AsyncGeneratorItem
+   * @typedef {Object} ContributorsItem
+   * @property {Array<Object>} contributors
+   * @property {string} contributors[].name
+   * @property {number} contributors[].userid
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
-   * @param {AsyncGeneratorRequest} params
+   * @param {ContributorsRequest} params
    * @param {{ type: 'array' }} options
-   * @returns {Promise<Array<AsyncGeneratorItem>>}
+   * @returns {Promise<Array<ContributorsItem>>}
    */
   /**
    * @overload
-   * @param {AsyncGeneratorRequest} params
+   * @param {ContributorsRequest} params
    * @param {{ type?: 'generator' }} [options]
-   * @returns {AsyncGenerator<AsyncGeneratorItem, void, unknown>}
+   * @returns {AsyncGenerator<ContributorsItem, void, unknown>}
    */
   /**
     * @description Get the list of logged-in contributors (including temporary users) and the count of
-    * @param {AllFileUsagesRequest} params
+    * @param {ContributorsRequest} params
     * @param {Partial<CreateIteratorOptions>} [options]
-    * @returns {AsyncGeneratorRequest, void, unknown> | Promise<AllFileUsagesItem[]>}
+    * @returns {AsyncGenerator<ContributorsItem, void, unknown> | Promise<ContributorsItem[]>}
     *   logged-out contributors to a ContributorsItem.
     * @see https://www.ContributorsItem.org/wiki/API:Contributors
     */
@@ -836,9 +1347,51 @@ export class Wiki {
 
   /**
    * @typedef {Object} DeletedRevisionsRequest
+   * @property {Array<Object>} deletedrevisions
+   * @property {string} deletedrevisions[].comment
+   * @property {boolean} deletedrevisions[].minor
+   * @property {boolean} deletedrevisions[].missing
+   * @property {number} deletedrevisions[].ns
+   * @property {number} deletedrevisions[].parentid
+   * @property {string} deletedrevisions[].parsedcomment
+   * @property {number} deletedrevisions[].revid
+   * @property {string[]} deletedrevisions[].roles
+   * @property {string} deletedrevisions[].sha1
+   * @property {Object} deletedrevisions[].slots
+   * @property {Object} deletedrevisions[].slots.main
+   * @property {string} deletedrevisions[].slots.main.content
+   * @property {string} deletedrevisions[].slots.main.contentformat
+   * @property {string} deletedrevisions[].slots.main.contentmodel
+   * @property {string} deletedrevisions[].slots.main.sha1
+   * @property {number} deletedrevisions[].slots.main.size
+   * @property {boolean} deletedrevisions[].timestamp
+   * @property {string} deletedrevisions[].user
+   * @property {number} deletedrevisions[].userid
+   * @property {string} title
    */
   /**
    * @typedef {Object} DeletedRevisionsItem
+   * @property {Array<Object>} deletedrevisions
+   * @property {string} deletedrevisions[].comment
+   * @property {boolean} deletedrevisions[].minor
+   * @property {boolean} deletedrevisions[].missing
+   * @property {number} deletedrevisions[].ns
+   * @property {number} deletedrevisions[].parentid
+   * @property {string} deletedrevisions[].parsedcomment
+   * @property {number} deletedrevisions[].revid
+   * @property {string[]} deletedrevisions[].roles
+   * @property {string} deletedrevisions[].sha1
+   * @property {Object} deletedrevisions[].slots
+   * @property {Object} deletedrevisions[].slots.main
+   * @property {string} deletedrevisions[].slots.main.content
+   * @property {string} deletedrevisions[].slots.main.contentformat
+   * @property {string} deletedrevisions[].slots.main.contentmodel
+   * @property {string} deletedrevisions[].slots.main.sha1
+   * @property {number} deletedrevisions[].slots.main.size
+   * @property {boolean} deletedrevisions[].timestamp
+   * @property {string} deletedrevisions[].user
+   * @property {number} deletedrevisions[].userid
+   * @property {string} title
    */
   /**
    * @overload
@@ -868,9 +1421,22 @@ export class Wiki {
 
   /**
    * @typedef {Object} DuplicateFilesRequest
+   * @property {number|'max'} [dflimit]
+   *   How many duplicate files to return.
+   * @property {string} [dfcontinue]
+   *   When more results are available, use this to continue.
+   * @property {'ascending'|'descending'} [dfdir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {boolean} [dflocalonly]
+   *   Look only for files in the local repository.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} DuplicateFilesItem
+   * @property {boolean} missing
+   * @property {number} ns
+   * @property {string} title
    */
   /**
    * @overload
@@ -899,9 +1465,90 @@ export class Wiki {
   }
 
   /**
-    * Create and edit pages.
+   * @typedef {Object} EditRequest
+   * @property {string} [title]
+   *  Title of the page to edit. Cannot be used together with pageid.
+   * @property {number} [pageid]
+   *  Page ID of the page to edit. Cannot be used together with title.
+   * @property {string} [section]
+   *  Section identifier. 0 for the top section, new for a new section. Often a positive integer, but can also be non-numeric.
+   * @property {string} [sectiontitle]
+   *  The title for a new section when using section=new.
+   * @property {string} [text]
+   *  Page content.
+   * @property {string} [summary]
+   *  Edit summary.
+   *  When this parameter is not provided or empty, an edit summary may be generated automatically.
+   *  When using section=new and sectiontitle is not provided, the value of this parameter is used for the section title instead, and an edit summary is generated automatically.
+   * @property {string | string[]} [tags]
+   *  Change tags to apply to the revision.
+   * @property {boolean} [minor]
+   *  Mark this edit as a minor edit.
+   * @property {boolean} [notminor]
+   *  Do not mark this edit as a minor edit even if the "Mark all edits minor by default" user preference is set.
+   * @property {boolean} [bot]
+   *  Mark this edit as a bot edit.
+   * @property {number} [baserevid]
+   *  ID of the base revision, used to detect edit conflicts. May be obtained through action=query&prop=revisions. Self-conflicts cause the edit to fail unless basetimestamp is set.
+   * @property {Date | string} [basetimestamp]
+   *  Timestamp of the base revision, used to detect edit conflicts. May be obtained through action=query&prop=revisions&rvprop=timestamp. Self-conflicts are ignored.
+   * @property {Date | string} [starttimestamp]
+   *  Timestamp when the editing process began, used to detect edit conflicts. An appropriate value may be obtained using curtimestamp when beginning the edit process (e.g. when loading the page content to edit).
+   * @property {boolean} [recreate]
+   *  Override any errors about the page having been deleted in the meantime.
+   * @property {boolean} [createonly]
+   *  Don't edit the page if it exists already.
+   * @property {string} [nocreate]
+   *  Throw an error if the page doesn't exist.
+   * @property {'nochange' | 'preferences' | 'unwatch' | 'watch'} [watchlist]
+   *  Unconditionally add or remove the page from the current user's watchlist, use preferences (ignored for bot users) or do not change watch.
+   * @property {Date | string} [watchlistexpiry]
+   *  Watchlist expiry timestamp. Omit this parameter entirely to leave the current expiry unchanged.
+   * @property {string} [md5]
+   *  The MD5 hash of the text parameter, or the prependtext and appendtext parameters concatenated. If set, the edit won't be done unless the hash is correct.
+   * @property {string} [prependtext]
+   *  Add this text to the beginning of the page or section. Overrides text.
+   * @property {string} [appendtext]
+   *  Add this text to the end of the page or section. Overrides text.
+   * @property {number} [undo]
+   *  Undo this revision. Overrides text, prependtext and appendtext.
+   * @property {number} [undoafter]
+   *  Undo all revisions from undo to this one. If not set, just undo one revision.
+   * @property {boolean} [redirect]
+   *  Automatically resolve redirects.
+   * @property {string} [contentformat]
+   *  Content serialization format used for the input text.
+   * @property {string} [contentmodel]
+   *  Content model of the new content.
+   * @property {string} [returnto]
+   *  Page title. If saving the edit created a temporary account, the API may respond with an URL that the client should visit to complete logging in. If this parameter is provided, the URL will redirect to the given page, instead of the page that was edited.
+   * @property {string} [returntoquery]
+   *  URL query parameters (with leading ?). If saving the edit created a temporary account, the API may respond with an URL that the client should visit to complete logging in. If this parameter is provided, the URL will redirect to a page with the given query parameters.
+   * @property {string} [returntoanchor]
+   *  URL fragment (with leading #). If saving the edit created a temporary account, the API may respond with an URL that the client should visit to complete logging in. If this parameter is provided, the URL will redirect to a page with the given fragment.
+   * @property {string} [captchaword]
+   *  Answer to the CAPTCHA
+   * @property {string} [captchaid]
+   *  CAPTCHA ID from previous request
+   */
+  /**
+   * @typedef {Object} EditItem
+   * @property {string} contentmodel
+   * @property {number} newrevid
+   * @property {string} newtimestamp
+   * @property {number} oldrevid
+   * @property {number} pageid
+   * @property {string} result
+   * @property {string} title
+   */
+  /**
+    * @description Create and edit pages.
+    * @param {EditRequest} params
+    * @returns {Promise<EditItem>}
+    * @see https://www.mediawiki.org/wiki/API:Edit
     */
   async edit(params) {
+    /** @type {{ edit: EditItem }} */
     const request = await this.action(params, {
       action: 'edit',
       assert: params.bot ? 'bot' : 'user',
@@ -911,9 +1558,28 @@ export class Wiki {
 
   /**
    * @typedef {Object} EmbeddedInRequest
+   * @property {string} [eititle]
+   *   Title to search. Cannot be used together with eipageid.
+   * @property {number} [eipageid]
+   *   Page ID to search. Cannot be used together with eititle.
+   * @property {string} [eicontinue]
+   *   When more results are available, use this to continue.
+   * @property {number|number[]|'*'} [einamespace]
+   *   The namespace to enumerate.
+   * @property {'ascending'|'descending'} [eidir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {'all'|'nonredirects'|'redirects'} [eifilterredir]
+   *   How to filter for redirects.
+   *   @default 'all'
+   * @property {number|'max'} [eilimit]
+   *   How many total pages to return.
    */
   /**
    * @typedef {Object} EmbeddedInItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -943,9 +1609,23 @@ export class Wiki {
 
   /**
    * @typedef {Object} ExtLinksRequest
+   * @property {number|'max'} [ellimit]
+   *   How many links to return.
+   * @property {string} [elcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string} [elprotocol]
+   *   Protocol of the URL. If empty and elquery is set, the protocol is http and https. Leave both this and elquery empty to list all external links.
+   * @property {string} [elquery]
+   *   Search string without protocol. Useful for checking whether a certain page contains a certain external url.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} ExtLinksItem
+   * @property {Array<Object>} extlinks
+   * @property {string} extlinks[].url
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -975,9 +1655,26 @@ export class Wiki {
 
   /**
    * @typedef {Object} ExtUrlUsageRequest
+   * @property {Prop<'ids'|'title'|'url'>} [euprop]
+   *   Which pieces of information to include:
+   * @property {string} [eucontinue]
+   *   When more results are available, use this to continue. More detailed information on how to continue queries can be found on mediawiki.org.
+   * @property {string|string[]} [euprotocol]
+   *   Protocol of the URL. If empty and euquery is set, the protocol is http and https.
+   *   Leave both this and euquery empty to list all external links.
+   * @property {string} [euquery]
+   *   Search string without protocol. See Special:LinkSearch. Leave empty to list all external links.
+   * @property {number|number[]|'*'} [eunamespace]
+   *   The page namespaces to enumerate.
+   * @property {number|'max'} [eulimit]
+   *   How many pages to return.
    */
   /**
    * @typedef {Object} ExtUrlUsageItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
+   * @property {string} url
    */
   /**
    * @overload
@@ -1007,9 +1704,60 @@ export class Wiki {
 
   /**
    * @typedef {Object} FileArchiveRequest
+   * @property {string} [fafrom]
+   *   The image title to start enumerating from.
+   * @property {string} [fato]
+   *   The image title to stop enumerating at.
+   * @property {string} [faprefix]
+   *   Search for all image titles that begin with this value.
+   * @property {'ascending'|'descending'} [fadir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {string} [fasha1]
+   *   SHA1 hash of image. Overrides fasha1base36.
+   * @property {string} [fasha1base36]
+   *   SHA1 hash of image in base 36 (used in MediaWiki).
+   * @property {Prop<
+   *   'sha1'
+   *   | 'timestamp'
+   *   | 'user'
+   *   | 'size'
+   *   | 'dimensions'
+   *   | 'description'
+   *   | 'parseddescription'
+   *   | 'mime'
+   *   | 'mediatype'
+   *   | 'metadata'
+   *   | 'bitdepth'
+   *   | 'archivename'
+   * >} [faprop]
+   *   Which image information to get.
+   * @property {number|'max'} [falimit]
+   *   How many images to return in total.
+   * @property {string} [facontinue]
+   *   When more results are available, use this to continue.
    */
   /**
    * @typedef {Object} FileArchiveItem
+   * @property {`${number}`} bitdepth
+   * @property {string} description
+   * @property {`${number}`} height
+   * @property {number} id
+   * @property {string} mediatype
+   * @property {Array<Object>} metadata
+   * @property {string} metadata[].name
+   * @property {unknown} metadata[].value
+   * @property {string} mime
+   * @property {string} name
+   * @property {number} ns
+   * @property {string} parseddescription
+   * @property {string} sha1
+   * @property {`${number}`} size
+   * @property {string} timestamp
+   * @property {string} title
+   * @property {string} user
+   * @property {number} userid
+   * @property {`${number}`} width
    */
   /**
    * @overload
@@ -1038,10 +1786,48 @@ export class Wiki {
   }
 
   /**
-    * Return meta information about image repositories configured on the wiki.
+   * @typedef {Object} FileRepoInfoRequest
+   * @property {Prop<
+      'canUpload'
+      | 'descBaseUrl'
+      | 'descriptionCacheExpiry'
+      | 'displayname'
+      | 'favicon'
+      | 'fetchDescription'
+      | 'initialCapital'
+      | 'local'
+      | 'name'
+      | 'rootUrl'
+      | 'scriptDirUrl'
+      | 'thumbUrl'
+      | 'url'
+  >} fiprop
+        Which repository properties to get.
+   */
+  /**
+   * @typedef {Object} FileRepoInfoItem
+   * @property {boolean} canUpload
+   * @property {string} descBaseUrl
+   * @property {string} descriptionCacheExpiry
+   * @property {string} displayname
+   * @property {string} favicon
+   * @property {boolean} fetchDescription
+   * @property {boolean} initialCapital
+   * @property {boolean} local
+   * @property {string} name
+   * @property {string} rootUrl
+   * @property {string} scriptDirUrl
+   * @property {string} thumbUrl
+   * @property {string} url
+   */
+  /**
+    * @description Return meta information about image repositories configured on the wiki.
+    * @param {FileRepoInfoRequest} params
+    * @returns {Promise<FileRepoInfoItem[]>}
     * @see https://www.mediawiki.org/wiki/API:Filerepoinfo
     */
   async filerepoinfo(params) {
+    /** @type {{ query: { repos: FileRepoInfoItem[] }}} */
     const result = await this.query(params, { meta: 'filerepoinfo' });
 
     return result.query.repos;
@@ -1049,9 +1835,28 @@ export class Wiki {
 
   /**
    * @typedef {Object} FileUsageRequest
+   * @property {Prop<'pageid'|'title'|'redirect'>} [fuprop]
+   *   Which properties to get:
+   * @property {number|number[]|'*'} [funamespace]
+   *   Only include pages in these namespaces.
+   * @property {Prop<'!redirect'|'redirect'>} [fushow]
+   *   Show only items that meet these criteria:
+   * @property {number|'max'} [fulimit]
+   *   How many to return.
+   * @property {string} [fucontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} FileUsageItem
+   * @property {Array<Object>} fileusage
+   * @property {number} fileusage[].ns
+   * @property {number} fileusage[].pageid
+   * @property {boolean} fileusage[].redirect
+   * @property {string} fileusage[].title
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1080,18 +1885,32 @@ export class Wiki {
   }
 
   /**
-    * Get the list of pages to work on by executing the specified query module.
-    * @see https://www.mediawiki.org/wiki/API:Query#Generators
-    */
-  generate(params) {
-    return this.query(params);
-  }
-
-  /**
    * @typedef {Object} GlobalUsageRequest
+   * @property {Prop<'url'|'pageid'|'namespace'>} [guprop]
+   *   Which properties to return:
+   * @property {number|'max'} [gulimit]
+   *   How many links to return.
+   * @property {number|number[]|'*'} [gunamespace]
+   *   Limit results to these namespaces.
+   * @property {string|string[]} [gusite]
+   *   Limit results to these sites.
+   * @property {string} [gucontinue]
+   *   When more results are available, use this to continue.
+   * @property {boolean} [gufilterlocal]
+   *   Filter local usage of the file.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} GlobalUsageItem
+   * @property {Array<Object>} globalusage
+   * @property {string} globalusage[].ns
+   * @property {string} globalusage[].pageid
+   * @property {string} globalusage[].title
+   * @property {string} globalusage[].url
+   * @property {string} globalusage[].wiki
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1121,9 +1940,89 @@ export class Wiki {
 
   /**
    * @typedef {Object} ImageInfoRequest
+   * @property {Prop<
+   *   'timestamp'
+   *   | 'user'
+   *   | 'userid'
+   *   | 'comment'
+   *   | 'parsedcomment'
+   *   | 'canonicaltitle'
+   *   | 'url'
+   *   | 'size'
+   *   | 'dimensions'
+   *   | 'sha1'
+   *   | 'mime'
+   *   | 'thumbmime'
+   *   | 'mediatype'
+   *   | 'metadata'
+   *   | 'commonmetadata'
+   *   | 'extmetadata'
+   *   | 'archivename'
+   *   | 'bitdepth'
+   *   | 'uploadwarning'
+   *   | 'badfile'
+   * >} [iiprop]
+   *   Which file information to get:
+   * @property {number|'max'} [iilimit]
+   *   How many file revisions to return per file.
+   * @property {Date|string} [iistart]
+   *   Timestamp to start listing from.
+   * @property {Date|string} [iiend]
+   *   Timestamp to stop listing at.
+   * @property {number} [iiurlwidth]
+   *   If iiprop=url is set, a URL to an image scaled to this width will be returned.
+   * @property {number} [iiurlheight]
+   *   Similar to iiurlwidth.
+   * @property {number} [iimetadataversion]
+   *   Version of metadata to use. If latest is specified, use latest version. Defaults to 1 for backwards compatibility.
+   * @property {string} [iiextmetadatalanguage]
+   *   What language to fetch extmetadata in. This affects both which translation to fetch, if multiple are available, as well as how things like numbers and various values are formatted.
+   * @property {boolean} [iiextmetadatamultilang]
+   *   If translations for extmetadata property are available, fetch all of them.
+   * @property {string|string[]} [iiextmetadatafilter]
+   *   If specified and non-empty, only these keys will be returned for iiprop=extmetadata.
+   * @property {string} [iiurlparam]
+   *   A handler specific parameter string. For example, PDFs might use page15-100px. iiurlwidth must be used and be consistent with iiurlparam.
+   * @property {string} [iibadfilecontexttitle]
+   *   If badfilecontexttitleprop=badfile is set, this is the page title used when evaluating the MediaWiki:Bad image list
+   * @property {string} [iicontinue]
+   *   When more results are available, use this to continue.
+   * @property {boolean} [iilocalonly]
+   *   Look only for files in the local repository.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} ImageInfoItem
+   * @property {boolean} badfile
+   * @property {Array<Object>} imageinfo
+   * @property {number} imageinfo[].bitdepth
+   * @property {string} imageinfo[].canonicaltitle
+   * @property {string} imageinfo[].comment
+   * @property {Array<Object>} imageinfo[].commonmetadata
+   * @property {string} imageinfo[].commonmetadata[].name
+   * @property {unknown} imageinfo[].commonmetadata[].value
+   * @property {string} imageinfo[].descriptionshorturl
+   * @property {string} imageinfo[].descriptionurl
+   * @property {Object.<string, Object>} imageinfo[].extmetadata
+   * @property {boolean} imageinfo[].filemissing
+   * @property {number} imageinfo[].height
+   * @property {string} imageinfo[].html
+   * @property {string} imageinfo[].mediatype
+   * @property {Array<Object>} imageinfo[].metadata
+   * @property {string} imageinfo[].metadata[].name
+   * @property {unknown} imageinfo[].metadata[].value
+   * @property {string} imageinfo[].mime
+   * @property {string} imageinfo[].parsedcomment
+   * @property {string} imageinfo[].sha1
+   * @property {string} imageinfo[].timestamp
+   * @property {string} imageinfo[].url
+   * @property {string} imageinfo[].user
+   * @property {number} imageinfo[].userid
+   * @property {number} imageinfo[].width
+   * @property {string} imagerepository
+   * @property {boolean} missing
+   * @property {number} ns
+   * @property {string} title
    */
   /**
    * @overload
@@ -1153,9 +2052,25 @@ export class Wiki {
 
   /**
    * @typedef {Object} ImagesRequest
+   * @property {number|'max'} [imlimit]
+   *   How many files to return.
+   * @property {string} [imcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} [imimages]
+   *   Only list these files. Useful for checking whether a certain page has a certain file.
+   * @property {'ascending'|'descending'} [imdir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} ImagesItem
+   * @property {Array<Object>} images
+   * @property {number} images[].ns
+   * @property {string} images[].title
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1185,9 +2100,30 @@ export class Wiki {
 
   /**
    * @typedef {Object} ImageUsageRequest
+   * @property {string} [iutitle]
+   *   Title to search. Cannot be used together with iupageid.
+   * @property {number} [iupageid]
+   *   Page ID to search. Cannot be used together with iutitle.
+   * @property {string} [iucontinue]
+   *   When more results are available, use this to continue.
+   * @property {number|number[]|'*'} [iunamespace]
+   *   The namespace to enumerate.
+   * @property {'ascending'|'descending'} [iudir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {'all'|'nonredirects'|'redirects'} [iufilterredir]
+   *   How to filter for redirects. If set to nonredirects when iuredirect is enabled, this is only applied to the second level.
+   *   @default 'all'
+   * @property {number|'max'} [iulimit]
+   *   How many total pages to return. If iuredirect is enabled, the limit applies to each level separately (which means up to 2 * iulimit results may be returned).
+   * @property {boolean} [iuredirect]
+   *   If linking page is a redirect, find all pages that link to that redirect as well. Maximum limit is halved.
    */
   /**
    * @typedef {Object} ImageUsageItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1217,9 +2153,84 @@ export class Wiki {
 
   /**
    * @typedef {Object} InfoRequest
+   * @property {Prop<
+   *   'protection'
+   *   | 'talkid'
+   *   | 'watched'
+   *   | 'watchers'
+   *   | 'visitingwatchers'
+   *   | 'notificationtimestamp'
+   *   | 'subjectid'
+   *   | 'associatedpage'
+   *   | 'url'
+   *   | 'preloadcontent'
+   *   | 'editintro'
+   *   | 'displaytitle'
+   *   | 'varianttitles'
+   *   | 'linkclasses'
+   * >} [inprop]
+   *   Which additional properties to get:
+   * @property {string} [inlinkcontext]
+   *   The context title to use when determining extra CSS classes (e.g. link colors) when inprop contains linkclasses.
+   * @property {string|string[]} [intestactions]
+   *   Test whether the current user can perform certain actions on the page.
+   * @property {'boolean'|'full'|'quick'} [intestactionsdetail]
+   *   Detail level for intestactions. Use the main module's errorformat and errorlang parameters to control the format of the messages returned.
+   * @property {boolean} [intestactionsautocreate]
+   *   Test whether performing intestactions would automatically create a temporary account.
+   * @property {string} [inpreloadcustom]
+   *   Title of a custom page to use as preloaded content.
+   *   Only used when inprop contains preloadcontent.
+   * @property {string|string[]} [inpreloadparams]
+   *   Parameters for the custom page being used as preloaded content.
+   *   Only used when inprop contains preloadcontent.
+   * @property {boolean} [inpreloadnewsection]
+   *   Return preloaded content for a new section on the page, rather than a new page.
+   *   Only used when inprop contains preloadcontent.
+   * @property {'lessframes'|'moreframes'} [ineditintrostyle]
+   *   Some intro messages come with optional wrapper frames. Use moreframes to include them or lessframes to omit them.
+   *   Only used when inprop contains editintro.
+   *   @default 'moreframes'
+   * @property {string|string[]} [ineditintroskip]
+   *   List of intro messages to remove from the response. Use this if a specific message is not relevant to your tool, or if the information is conveyed in a different way.
+   *   Only used when inprop contains editintro.
+   * @property {string} [ineditintrocustom]
+   *   Title of a custom page to use as an additional intro message.
+   *   Only used when inprop contains editintro.
+   * @property {string} [incontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} InfoItem
+   * @property {string} associatedpage
+   * @property {string} canonicalurl
+   * @property {string} contentmodel
+   * @property {string} displaytitle
+   * @property {Object.<string, string>} editintro
+   * @property {string} editurl
+   * @property {string} fullurl
+   * @property {number} lastrevid
+   * @property {number} length
+   * @property {string[]} linkclasses
+   * @property {string} notificationtimestamp
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} pagelanguage
+   * @property {string} pagelanguagedir
+   * @property {string} pagelanguagehtmlcode
+   * @property {Array<Object>} protection
+   * @property {string} protection[].expiry
+   * @property {string} protection[].level
+   * @property {string} protection[].type
+   * @property {string[]} restrictiontypes
+   * @property {number} talkid
+   * @property {string} title
+   * @property {string} touched
+   * @property {Object.<string, string>} varianttitles
+   * @property {number} visitingwatchers
+   * @property {boolean} watched
+   * @property {number} watchers
    */
   /**
    * @overload
@@ -1248,30 +2259,49 @@ export class Wiki {
   }
 
   /**
-   * @typedef {Object} aRequest
+   * @typedef {Object} IwBacklinksRequest
+   * @property {string} [iwblprefix]
+   *   Prefix for the interwiki.
+   * @property {string} [iwbltitle]
+   *   Interwiki link to search for. Must be used with iwblblprefix.
+   * @property {string} [iwblcontinue]
+   *   When more results are available, use this to continue.
+   * @property {number|'max'} [iwbllimit]
+   *   How many total pages to return.
+   * @property {Prop<'iwprefix'|'iwtitle'>} [iwblprop]
+   *   Which properties to get:
+   * @property {'ascending'|'descending'} [iwbldir]
+   *   The direction in which to list.
+   *   @default 'ascending'
    */
   /**
-   * @typedef {Object} aItem
+   * @typedef {Object} IwBacklinksItem
+   * @property {string} iwprefix
+   * @property {string} iwtitle
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
-   * @param {aRequest} params
+   * @param {IwBacklinksRequest} params
    * @param {{ type: 'array' }} options
-   * @returns {Promise<Array<aItem>>}
+   * @returns {Promise<Array<IwBacklinksItem>>}
    */
   /**
    * @overload
-   * @param {aRequest} params
+   * @param {IwBacklinksRequest} params
    * @param {{ type?: 'generator' }} [options]
-   * @returns {AsyncGenerator<aItem, void, unknown>}
+   * @returns {AsyncGenerator<IwBacklinksItem, void, unknown>}
    */
   /**
     * @description Find all pages that link to the given interwiki link.
-    * @param {AllFileUsagesRequest} params
+    * @param {IwBacklinksRequest} params
     * @param {Partial<CreateIteratorOptions>} [options]
-    * @returns {AsyncGenerator<AllFileUsagesItem, void, unknown> | Promise<AllFileUsagesItem[]>}
-    *   Can be used to find all links with aRequest, or all links to a title (with a given prefix).
-    *   Using neither parameter is effectively "IwBacklinksItem interwiki links".
+    * @returns {AsyncGenerator<IwBacklinksItem, void, unknown> | Promise<IwBacklinksItem[]>}
+    *   Can be used to find all links with a prefix, or all links to a title
+    *   (with a given prefix). Using neither parameter is effectively
+    *   "all interwiki links".
     * @see https://IwBacklinksItem.mediawiki.org/wiki/API:Iwbacklinks
     */
   iwbacklinks(params, { type = 'generator' } = {}) {
@@ -1283,9 +2313,30 @@ export class Wiki {
 
   /**
    * @typedef {Object} IwLinksRequest
+   * @property {Prop<'url'>} [iwprop]
+   *   Which additional properties to get for each interwiki link:
+   * @property {string} [iwprefix]
+   *   Only return interwiki links with this prefix.
+   * @property {string} [iwtitle]
+   *   Interwiki link to search for. Must be used with iwprefix.
+   * @property {'ascending'|'descending'} [iwdir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {number|'max'} [iwlimit]
+   *   How many interwiki links to return.
+   * @property {string} [iwcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} IwLinksItem
+   * @property {Array<Object>} iwlinks
+   * @property {string} iwlinks[].prefix
+   * @property {string} iwlinks[].title
+   * @property {string} iwlinks[].url
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1314,30 +2365,49 @@ export class Wiki {
   }
 
   /**
-   * @typedef {Object} aRequest
+   * @typedef {Object} LangBacklinksRequest
+   * @property {string} [lbllang]
+   *   Language for the language link.
+   * @property {string} [lbltitle]
+   *   Language link to search for. Must be used with lbllang.
+   * @property {string} [lblcontinue]
+   *   When more results are available, use this to continue.
+   * @property {number|'max'} [lbllimit]
+   *   How many total pages to return.
+   * @property {Prop<'lllang'|'lltitle'>} [lblprop]
+   *   Which properties to get:
+   * @property {'ascending'|'descending'} [lbldir]
+   *   The direction in which to list.
+   *   @default 'ascending'
    */
   /**
-   * @typedef {Object} aItem
+   * @typedef {Object} LangBacklinksItem
+   * @property {string} lllang
+   * @property {string} lltitle
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
-   * @param {aRequest} params
+   * @param {LangBacklinksRequest} params
    * @param {{ type: 'array' }} options
-   * @returns {Promise<Array<aItem>>}
+   * @returns {Promise<Array<LangBacklinksItem>>}
    */
   /**
    * @overload
-   * @param {aRequest} params
+   * @param {LangBacklinksRequest} params
    * @param {{ type?: 'generator' }} [options]
-   * @returns {AsyncGenerator<aItem, void, unknown>}
+   * @returns {AsyncGenerator<LangBacklinksItem, void, unknown>}
    */
   /**
     * @description Find all pages thast link to the given language link.
-    * @param {AllFileUsagesRequest} params
+    *   Can be used to find all links with a language code, or all links to
+    *   a title (with a given language). Using neither parameter is effectively
+    *   "all language links".
+    * @param {LangBacklinksRequest} params
     * @param {Partial<CreateIteratorOptions>} [options]
-    * @returns {AsyncGenerator<AllFileUsagesItem, void, unknown> | Promise<AllFileUsagesItem[]>}
-    *   Can be used to find all links with aRequest code, or all links to a title (with a given language).
-    *   Using neither parameter is effectively "LangBacklinksItem language links".
+    * @returns {AsyncGenerator<LangBacklinksItem, void, unknown> | Promise<LangBacklinksItem[]>}
     * @see https://LangBacklinksItem.mediawiki.org/wiki/API:Langbacklinks
     */
   langbacklinks(params, { type = 'generator' } = {}) {
@@ -1349,9 +2419,34 @@ export class Wiki {
 
   /**
    * @typedef {Object} LangLinksRequest
+   * @property {Prop<'url'|'langname'|'autonym'>} [llprop]
+   *   Which additional properties to get for each interlanguage link:
+   * @property {string} [lllang]
+   *   Only return language links with this language code.
+   * @property {string} [lltitle]
+   *   Link to search for. Must be used with lllang.
+   * @property {'ascending'|'descending'} [lldir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {string} [llinlanguagecode]
+   *   Language code for localised language names.
+   * @property {number|'max'} [lllimit]
+   *   How many langlinks to return.
+   * @property {string} [llcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} LangLinksItem
+   * @property {Array<Object>} langlinks
+   * @property {string} langlinks[].autonym
+   * @property {string} langlinks[].lang
+   * @property {string} langlinks[].langname
+   * @property {string} langlinks[].title
+   * @property {string} langlinks[].url
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1381,9 +2476,27 @@ export class Wiki {
 
   /**
    * @typedef {Object} LinksRequest
+   * @property {number|number[]|'*'} [plnamespace]
+   *   Show links in these namespaces only.
+   * @property {number|'max'} [pllimit]
+   *   How many links to return.
+   * @property {string} [plcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} [pltitles]
+   *   Only list links to these titles. Useful for checking whether a certain page links to a certain title.
+   * @property {'ascending'|'descending'} [pldir]
+   *   The direction in which to list.
+   *   @default 'ascending'
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} LinksItem
+   * @property {Array<Object>} links
+   * @property {number} links[].ns
+   * @property {string} links[].title
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1413,9 +2526,28 @@ export class Wiki {
 
   /**
    * @typedef {Object} LinksHereRequest
+   * @property {Prop<'pageid'|'title'|'redirect'>} [lhprop]
+   *   Which properties to get:
+   * @property {number|number[]|'*'} [lhnamespace]
+   *   Only include pages in these namespaces.
+   * @property {Prop<'!redirect'|'redirect'>} [lhshow]
+   *   Show only items that meet these criteria:
+   * @property {number|'max'} [lhlimit]
+   *   How many to return.
+   * @property {string} [lhcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} LinksHereItem
+   * @property {Array<Object>} linkshere
+   * @property {number} linkshere[].ns
+   * @property {number} linkshere[].pageid
+   * @property {boolean} linkshere[].redirect
+   * @property {string} linkshere[].title
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1445,9 +2577,64 @@ export class Wiki {
 
   /**
    * @typedef {Object} LogEventsRequest
+   * @property {Prop<
+   *   'ids'
+   *   | 'title'
+   *   | 'type'
+   *   | 'user'
+   *   | 'userid'
+   *   | 'timestamp'
+   *   | 'comment'
+   *   | 'parsedcomment'
+   *   | 'details'
+   *   | 'tags'
+   * >} [leprop]
+   *   Which properties to get:
+   * @property {string} [letype]
+   *   Filter log entries to only this type.
+   * @property {string} [leaction]
+   *   Filter log actions to only this action. Overrides letype.
+   * @property {Date|string} [lestart]
+   *   The timestamp to start enumerating from.
+   * @property {Date|string} [leend]
+   *   The timestamp to end enumerating.
+   * @property {'newer'|'older'} [ledir]
+   *   In which direction to enumerate:
+   *   @default 'older'
+   * @property {number|number[]} [leids]
+   *   Filter entries to those matching the given log ID(s).
+   * @property {string} [leuser]
+   *   Filter entries to those made by the given user.
+   * @property {string} [letitle]
+   *   Filter entries to those related to a page.
+   * @property {number} [lenamespace]
+   *   Filter entries to those in the given namespace.
+   * @property {string} [leprefix]
+   *   Disabled due to miser mode.
+   * @property {string} [letag]
+   *   Only list event entries tagged with this tag.
+   * @property {number|'max'} [lelimit]
+   *   How many total event entries to return.
+   * @property {string} [lecontinue]
+   *   When more results are available, use this to continue.
    */
   /**
    * @typedef {Object} LogEventsItem
+   * @property {string} action
+   * @property {string} comment
+   * @property {number} logid
+   * @property {number} logpage
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {Record<string, unknown>} params
+   * @property {string} parsedcomment
+   * @property {number} revid
+   * @property {Array<string>} tags
+   * @property {string} timestamp
+   * @property {string} title
+   * @property {string} type
+   * @property {string} user
+   * @property {number} userid
    */
   /**
    * @overload
@@ -1481,6 +2668,8 @@ export class Wiki {
     * This action should only be used in combination with Special:BotPasswords.
     *
     * This will modify your "Wiki" instance, and all next requests will be authenticated.
+    * @param {string} username
+    * @param {string} password
     * @see https://www.mediawiki.org/wiki/API:Login
     */
   async login(username, password) {
@@ -1494,6 +2683,7 @@ export class Wiki {
       lgtoken: tokens.logintoken,
     };
 
+    /** @type {{ login: { lguserid: number; lgusername: string; } }} */
     const result = await this.client.post(params, {
       headers: {
         'content-type': 'application/x-www-form-urlencoded',
@@ -1521,9 +2711,14 @@ export class Wiki {
 
   /**
    * @typedef {Object} PagePropNamesRequest
+   * @property {string} [ppncontinue]
+   *   When more results are available, use this to continue.
+   * @property {number|'max'} [ppnlimit]
+   *   The maximum number of names to return.
    */
   /**
    * @typedef {Object} PagePropNamesItem
+   * @property {string} propname
    */
   /**
    * @overload
@@ -1553,9 +2748,18 @@ export class Wiki {
 
   /**
    * @typedef {Object} PagePropsRequest
+   * @property {string} [ppcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} [ppprop]
+   *   Only list these page properties (action=query&list=pagepropnames returns page property names in use). Useful for checking whether pages use a certain page property.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} PagePropsItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {Record<string, string>} pageprops
+   * @property {string} title
    */
   /**
    * @overload
@@ -1585,9 +2789,24 @@ export class Wiki {
 
   /**
    * @typedef {Object} PagesWithPropRequest
+   * @property {string} [pwpcontinue]
+   *   When more results are available, use this to continue.
+   * @property {'ascending'|'descending'} [pwpdir]
+   *   In which direction to sort.
+   *   @default 'ascending'
+   * @property {number|'max'} [pwplimit]
+   *   The maximum number of pages to return.
+   * @property {Prop<'ids'|'title'|'value'>} [pwpprop]
+   *   What pieces of information to include.
+   * @property {string} [pwppropname]
+   *   Page prop for which to enumerate pages.
    */
   /**
    * @typedef {Object} PagesWithPropItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
+   * @property {string} value
    */
   /**
    * @overload
@@ -1617,9 +2836,22 @@ export class Wiki {
 
   /**
    * @typedef {Object} PrefixSearchRequest
+   * @property {string} pssearch
+   *   Search string.
+   * @property {number|number[]|'*'} [psnamespace]
+   *   Namespaces to search. Ignored if pssearch begins with a valid namespace prefix.
+   * @property {number|'max'} [pslimit]
+   *   Maximum number of results to return.
+   * @property {string} [psoffset]
+   *   When more results are available, use this to continue.
+   * @property {'strict'|'normal'|'normal-subphrases'|'fuzzy'|'fast-fuzzy'|'fuzzy-subphrases'|'classic'|'engine_autoselect'} [psprofile]
+   *   Search profile to use.
    */
   /**
    * @typedef {Object} PrefixSearchItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1649,9 +2881,43 @@ export class Wiki {
 
   /**
    * @typedef {Object} ProtectedTitlesRequest
+   * @property {number|number[]|'*'} [ptnamespace]
+   *   Only list titles in these namespaces.
+   * @property {Prop<'autoconfirmed'|'sysop'>} [ptlevel]
+   *   Only list titles with these protection levels.
+   * @property {number|'max'} [ptlimit]
+   *   How many total pages to return.
+   * @property {'older'|'newer'} [ptdir]
+   *   In which direction to enumerate:
+   *   @default 'older'
+   * @property {Date|string} [ptstart]
+   *   Start listing at this protection timestamp.
+   * @property {Date|string} [ptend]
+   *   Stop listing at this protection timestamp.
+   * @property {Prop<
+   *   'timestamp'
+   *   | 'user'
+   *   | 'userid'
+   *   | 'comment'
+   *   | 'parsedcomment'
+   *   | 'expiry'
+   *   | 'level'
+   * >} [ptprop]
+   *   Which properties to get:
+   * @property {string} [ptcontinue]
+   *   When more results are available, use this to continue.
    */
   /**
    * @typedef {Object} ProtectedTitlesItem
+   * @property {string} comment
+   * @property {string} expiry
+   * @property {string} level
+   * @property {number} ns
+   * @property {string} parsedcomment
+   * @property {string} timestamp
+   * @property {string} title
+   * @property {string} user
+   * @property {number} userid
    */
   /**
    * @overload
@@ -1699,9 +2965,60 @@ export class Wiki {
 
   /**
    * @typedef {Object} QueryPageRequest
+   * @property {'Ancientpages'
+      | 'BrokenRedirects'
+      | 'Deadendpages'
+      | 'DisambiguationPageLinks'
+      | 'DisambiguationPages'
+      | 'DoubleRedirects'
+      | 'Fewestrevisions'
+      | 'GadgetUsage'
+      | 'GloballyWantedFiles'
+      | 'ListDuplicatedFiles'
+      | 'Listredirects'
+      | 'Lonelypages'
+      | 'Longpages'
+      | 'MediaStatistics'
+      | 'MostGloballyLinkedFiles'
+      | 'Mostcategories'
+      | 'Mostimages'
+      | 'Mostinterwikis'
+      | 'Mostlinked'
+      | 'Mostlinkedcategories'
+      | 'Mostlinkedtemplates'
+      | 'Mostrevisions'
+      | 'OrphanedTimedText'
+      | 'Shortpages'
+      | 'Uncategorizedcategories'
+      | 'Uncategorizedimages'
+      | 'Uncategorizedpages'
+      | 'Uncategorizedtemplates'
+      | 'UnconnectedPages'
+      | 'Unusedcategories'
+      | 'Unusedimages'
+      | 'Unusedtemplates'
+      | 'Unwatchedpages'
+      | 'Wantedcategories'
+      | 'Wantedfiles'
+      | 'Wantedpages'
+      | 'Wantedtemplates'
+      | 'Withoutinterwiki'} qppage
+   *   The name of the special page. Note, this is case-sensitive.
+   * @property {number} [qpoffset]
+   *   When more results are available, use this to continue.
+   * @property {number|'max'} [qplimit]
+   *   Number of results to return.
    */
   /**
    * @typedef {Object} QueryPageItem
+   * @property {boolean} cached
+   * @property {string} cachedtimestamp
+   * @property {number} maxresults
+   * @property {string} name
+   * @property {Array<Object>} results
+   * @property {number} results[].ns
+   * @property {string} results[].title
+   * @property {string} results[].value
    */
   /**
    * @overload
@@ -1731,9 +3048,44 @@ export class Wiki {
 
   /**
    * @typedef {Object} RandomRequest
+   * @property {number|number[]|'*'} [rnnamespace]
+   *   Return pages in these namespaces only.
+   * @property {'all'|'nonredirects'|'redirects'} [rnfilterredir]
+   *   How to filter for redirects.
+   *   @default 'nonredirects'
+   * @property {number} [rnminsize]
+   *   Limit to pages with at least this many bytes.
+   * @property {number} [rnmaxsize]
+   *   Limit to pages with at most this many bytes.
+   * @property {'GadgetDefinition'
+   *   | 'Graph.JsonConfig'
+   *   | 'Json.JsonConfig'
+   *   | 'JsonSchema'
+   *   | 'MassMessageListContent'
+   *   | 'NewsletterContent'
+   *   | 'Scribunto'
+   *   | 'SecurePoll'
+   *   | 'css'
+   *   | 'flow-board'
+   *   | 'javascript'
+   *   | 'json'
+   *   | 'sanitizedd-css'
+   *   | 'text'
+   *   | 'translate-messagebundle'
+   *   | 'unknown'
+   *   | 'vue'
+   *   | 'wikitext'} [rncontentmodel]
+   *   Filter pages that have the specified content model.
+   * @property {number|'max'} [rnlimit]
+   *   Limit how many random pages will be returned.
+   * @property {string} [rncontinue]
+   *   When more results are available, use this to continue.
    */
   /**
    * @typedef {Object} RandomItem
+   * @property {number} id
+   * @property {number} ns
+   * @property {string} title
    */
   /**
    * @overload
@@ -1763,9 +3115,93 @@ export class Wiki {
 
   /**
    * @typedef {Object} RecentChangesRequest
+   * @property {Date|string} [rcstart]
+   *   The timestamp to start enumerating from.
+   * @property {Date|string} [rcend]
+   *   The timestamp to end enumerating.
+   * @property {'older'|'newer'} [rcdir]
+   *   In which direction to enumerate:
+   *   @default 'older'
+   * @property {number|number[]|'*'} [rcnamespace]
+   *   Filter changes to only these namespaces.
+   * @property {string} [rcuser]
+   *   Only list changes by this user.
+   * @property {string} [rcexcludeuser]
+   *   Don't list changes by this user.
+   * @property {string} [rctag]
+   *   Only list changes tagged with this tag.
+   * @property {Prop<
+   *   'user'
+   *   | 'userid'
+   *   | 'comment'
+   *   | 'parsedcomment'
+   *   | 'flags'
+   *   | 'timestamp'
+   *   | 'title'
+   *   | 'ids'
+   *   | 'sizes'
+   *   | 'redirect'
+   *   | 'patrolled'
+   *   | 'loginfo'
+   *   | 'tags'
+   *   | 'sha1'
+   * >} [rcprop]
+   *   Include additional pieces of information:
+   * @property {Prop<
+   *   '!anon'
+   *   | '!autopatrolled'
+   *   | '!bot'
+   *   | '!minor'
+   *   | '!patrolled'
+   *   | '!redirect'
+   *   | 'anon'
+   *   | 'autopatrolled'
+   *   | 'bot'
+   *   | 'minor'
+   *   | 'patrolled'
+   *   | 'redirect'
+   * >} [rcshow]
+   *   Show only items that meet these criteria.
+   * @property {number|'max'} [rclimit]
+   *   How many total changes to return.
+   * @property {'categorize'|'edit'|'external'|'log'|'new'} [rctype]
+   *   Which types of changes to show.
+   * @property {boolean} [rctoponly]
+   *   Only list changes which are the latest revision.
+   * @property {string} [rctitle]
+   *   Filter entries to those related to a page.
+   * @property {string} [rccontinue]
+   *   When more results are available, use this to continue.
+   * @property {boolean} [rcgeneraterevisions]
+   *   When being used as a generator, generate revision IDs rather than titles.
+   * @property {string} [rcslot]
+   *   Only list changes that touch the named slot.
    */
   /**
    * @typedef {Object} RecentChangesItem
+   * @property {boolean} autopatrolled
+   * @property {boolean} bot
+   * @property {string} comment
+   * @property {boolean} minor
+   * @property {boolean} new
+   * @property {number} newlen
+   * @property {number} ns
+   * @property {number} old_revid
+   * @property {number} oldlen
+   * @property {number} pageid
+   * @property {string} parsedcomment
+   * @property {boolean} patrolled
+   * @property {number} rcid
+   * @property {boolean} redirect
+   * @property {number} revid
+   * @property {string} sha1
+   * @property {Array<string>} tags
+   * @property {string} timestamp
+   * @property {string} title
+   * @property {string} type
+   * @property {boolean} unpatrolled
+   * @property {string} user
+   * @property {number} userid
    */
   /**
    * @overload
@@ -1795,9 +3231,28 @@ export class Wiki {
 
   /**
    * @typedef {Object} RedirectsRequest
+   * @property {Prop<'pageid'|'title'|'fragment'>} [rdprop]
+   *   Which properties to get:
+   * @property {number|number[]|'*'} [rdnamespace]
+   *   Only include pages in these namespaces.
+   * @property {Prop<'!fragment'|'fragment'>} [rdshow]
+   *   Show only items that meet these criteria:
+   * @property {number|'max'} [rdlimit]
+   *   How many redirects to return.
+   * @property {string} [rdcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} RedirectsItem
+   * @property {Array<Object>} redirects
+   * @property {string} redirects[].fragment
+   * @property {number} redirects[].ns
+   * @property {number} redirects[].pageid
+   * @property {string} redirects[].title
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1824,24 +3279,94 @@ export class Wiki {
     // @ts-expect-error inference can't keep reference of `type`
     return this.createIterator(params, { type });
   }
-  /**
-   * @overload
-   * @param {AllFileUsagesRequest} params
-   * @param {{ type: 'array' }} options
-   * @returns {Promise<Array<AllFileUsagesItem>>}
-   */
-  /**
-   * @overload
-   * @param {AllFileUsagesRequest} params
-   * @param {{ type?: 'generator' }} [options]
-   * @returns {AsyncGenerator<AllFileUsagesItem, void, unknown>}
-   */
 
   /**
    * @typedef {Object} RevisionsRequest
+   * @property {Prop<
+   *   'ids'
+   *   | 'flags'
+   *   | 'timestamp'
+   *   | 'user'
+   *   | 'userid'
+   *   | 'size'
+   *   | 'slotsize'
+   *   | 'sha1'
+   *   | 'slotsha1'
+   *   | 'contentmodel'
+   *   | 'comment'
+   *   | 'parsedcomment'
+   *   | 'content'
+   *   | 'tags'
+   *   | 'roles'
+   * >} [rvprop]
+   *   Which properties to get for each revision:
+   * @property {'main'} [rvslots]
+   *   Which revision slots to return data for, when slot-related properties are included in rvprops.
+   *   If omitted, data from the main slot will be returned in a backwards-compatible format.
+   * @property {number|'max'} [rvlimit]
+   *   Limit how many revisions will be returned.
+   *   If rvprop=content, rvprop=parsetree, rvdiffto or rvdifftotext is used, the limit is 50.
+   *   If rvparse is used, the limit is 1.
+   * @property {string} [rvsection]
+   *   Only retrieve the content of the section with this identifier.
+   * @property {number} [rvstartid]
+   *   Start enumeration from the timestamp of the revision with this ID.
+   * @property {number} [rvendid]
+   *   Stop enumeration at the timestamp of the revision with this ID.
+   * @property {Date|string} [rvstart]
+   *   From which revision timestamp to start enumeration.
+   * @property {Date|string} [rvend]
+   *   Enumerate up to this timestamp.
+   * @property {'newer'|'older'} [rvdir]
+   *   In which direction to enumerate:
+   *   @default 'older'
+   * @property {string} [rvuser]
+   *   Only include revisions made by user.
+   * @property {string} [rvexcludeuser]
+   *   Exclude revisions made by user.
+   * @property {string} [rvtag]
+   *   Only list revisions tagged with this tag.
+   * @property {string} [rvcontinue]
+   *   When more results are available, use this to continue.
+   * @property {string|string[]} titles
    */
   /**
    * @typedef {Object} RevisionsItem
+   * @property {Array<Object>} revisions
+   * @property {boolean} revisions[].minor
+   * @property {number} revisions[].parentid
+   * @property {number} revisions[].revid
+   * @property {Array<string>} revisions[].roles
+   * @property {string} revisions[].sha1
+   * @property {number} revisions[].size
+   * @property {Object} revisions[].slots
+   * @property {string} revisions[].slots.comment
+   * @property {Object} revisions[].slots.main
+   * @property {string} revisions[].slots.main.content
+   * @property {string} revisions[].slots.main.contentformat
+   * @property {string} revisions[].slots.main.contentmodel
+   * @property {string} revisions[].slots.main.sha1
+   * @property {number} revisions[].slots.main.size
+   * @property {string} revisions[].slots.parsedcomment
+   * @property {Array<string>} revisions[].slots.tags
+   * @property {string} revisions[].timestamp
+   * @property {string} revisions[].user
+   * @property {number} revisions[].userid
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
+   */
+  /**
+   * @overload
+   * @param {RevisionsRequest} params
+   * @param {{ type: 'array' }} options
+   * @returns {Promise<Array<RevisionsItem>>}
+   */
+  /**
+   * @overload
+   * @param {RevisionsRequest} params
+   * @param {{ type?: 'generator' }} [options]
+   * @returns {AsyncGenerator<RevisionsItem, void, unknown>}
    */
   /**
     * @description Get revision information.
@@ -1851,7 +3376,7 @@ export class Wiki {
     * @see https://www.mediawiki.org/wiki/API:Revisions
     */
   revisions(params, { type = 'generator' } = {}) {
-    params = RevisionsRequest.assign({ prop: 'revisions' }, params);
+    params = Object.assign({ prop: 'revisions' }, params);
 
     // @ts-expect-error inference RevisionsItem't keep reference of `type`
     return this.createIterator(params, { type });
@@ -1859,9 +3384,74 @@ export class Wiki {
 
   /**
    * @typedef {Object} SearchRequest
+   * @property {string} srsearch
+   *   Search for page titles or content matching this value.
+   *   You can use the search string to invoke special search features, depending on what the wiki's search backend implements.
+   * @property {number|number[]|'*'} [srnamespace]
+   *   Search only within these namespaces.
+   * @property {number|'max'} [srlimit]
+   *   How many total pages to return.
+   * @property {number} [sroffset]
+   *   When more results are available, use this to continue.
+   *   More detailed information on how to continue queries can be found on mediawiki.org.
+   * @property {'classic'
+   *   | 'classic_noboostlinks'
+   *   | 'empty'
+   *   | 'wsum_inclinks'
+   *   | 'wsum_inclinks_pv'
+   *   | 'popular_inclinks_pv'
+   *   | 'popular_inclinks'
+   *   | 'engine_autoselect'} [srqiprofile]
+   *   Query independent profile to use (affects ranking algorithm).
+   * @property {'nearmatch'|'text'|'title'} [srwhat]
+   *   Which type of search to perform.
+   * @property {Prop<'rewrittenquery'|'suggestion'|'totalhits'>} [srinfo]
+   *   Which metadata to return.
+   * @property {Prop<
+   *   'size'
+   *   | 'wordcount'
+   *   | 'timestamp'
+   *   | 'snippet'
+   *   | 'titlesnippet'
+   *   | 'redirecttitle'
+   *   | 'redirectsnippet'
+   *   | 'sectiontitle'
+   *   | 'sectionsnippet'
+   *   | 'isfilematch'
+   *   | 'categorysnippet'
+   *   | 'extensiondata'
+   * >} [srprop]
+   *   Which properties to return:
+   * @property {boolean} [srinterwiki]
+   *   Include interwiki results in the search, if available.
+   * @property {boolean} [srenablerewrites]
+   *   Enable internal query rewriting.
+   * @property {'create_timestamp_asc'
+   *   | 'create_timestamp_desc'
+   *   | 'incoming_links_asc'
+   *   | 'incoming_links_desc'
+   *   | 'just_match'
+   *   | 'last_edit_asc'
+   *   | 'last_edit_desc'
+   *   | 'none'
+   *   | 'random'
+   *   | 'relevance'
+   *   | 'user_random'} [srsort]
+   *   Set the sort order of returned results.
+   *   @default 'relevance'
    */
   /**
    * @typedef {Object} SearchItem
+   * @property {string} categorysnippet
+   * @property {boolean} isfilematch
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {number} size
+   * @property {string} snippet
+   * @property {string} timestamp
+   * @property {string} title
+   * @property {string} titlesnippet
+   * @property {number} wordcount
    */
   /**
    * @overload
@@ -1890,10 +3480,229 @@ export class Wiki {
   }
 
   /**
-    * Return general information about the site.
+   * @typedef {Object} SiteInfoRequest
+   * @property {'local' | '!local'} sifilteriw
+   *  Return only local or only nonlocal entries of the interwiki map.
+   * @property {string} siinlanguagecode
+   *  Language code for localised language names (best effort) and skin names.
+   * @property {boolean} sinumberingroup
+   *  Lists the number of users in user groups.
+   * @property {Prop<
+   *  'general'
+   *  | 'namespaces'
+   *  | 'namespacealiases'
+   *  | 'specialpagealiases'
+   *  | 'magicwords'
+   *  | 'interwikimap'
+   *  | 'dbrepllag'
+   *  | 'statistics'
+   *  | 'usergroups'
+   *  | 'autocreatetempuser'
+   *  | 'clientlibraries'
+   *  | 'libraries'
+   *  | 'extensions'
+   *  | 'fileextensions'
+   *  | 'rightsinfo'
+   *  | 'restrictions'
+   *  | 'languages'
+   *  | 'languagevariants'
+   *  | 'skins'
+   *  | 'extensiontags'
+   *  | 'functionhooks'
+   *  | 'showhooks'
+   *  | 'variables'
+   *  | 'protocols'
+   *  | 'defaultoptions'
+   *  | 'uploaddialog'
+   *  | 'autopromote'
+   *  | 'autopromoteonce'
+   *  | 'copyuploaddomains'
+   * >} siprop
+   *  Which information to get.
+   * @property {boolean} sishowalldb
+   *  List all database servers, not just the one lagging the most.
+   */
+  /**
+   * @typedef {Object} SiteInfoResponse
+   * @property {{ enabled: boolean }} autocreatetempuser
+   * @property {{ name: string, version: string }[]} clientlibraries
+   * @property {{ host: string, lag: number }[]} dbrepllag
+   * @property {Record<string, string>} defaultoptions
+   * @property {{
+   *  author: string,
+   *  descriptionmsg: string,
+   *  license: string,
+   *  'license-name': string,
+   *  name: string,
+   *  url: string,
+   *  type: string,
+   *  'vcs-date': string,
+   *  'vcs-url': string,
+   *  'vcs-system': string
+   * }[]} extensions
+   * @property {string[]} extensiontags
+   * @property {{ ext: string }[]} fileextensions
+   * @property {string[]} functionhooks
+   * @property {{
+   *  articlepath: string,
+   *  allcentralidlookupproviders: string[],
+   *  allunicodefixes: boolean,
+   *  base: string,
+   *  case: string,
+   *  categorycollation: string,
+   *  centralidlookupprovider: string,
+   *  citeresponsivereferences: boolean,
+   *  dbtype: string,
+   *  dbversion: string,
+   *  extensiondistributor: {
+   *    list: string,
+   *    snapshots: string[]
+   *  },
+   *  externallinktarget: boolean,
+   *  fallback: unknown[],
+   *  fallback8bitEncoding: string,
+   *  favicon: string,
+   *  fixarabicunicode: boolean,
+   *  fixmalayalamunicode: boolean,
+   *  galleryoptions: {
+   *    captionLength: boolean,
+   *    imageHeight: number,
+   *    imagesPerRow: number,
+   *    imageWidth: number,
+   *    mode: string,
+   *    showBytes: boolean,
+   *    showDimensions: boolean
+   *  },
+   *  generator: string,
+   *  'git-hash': string,
+   *  'git-branch': string,
+   *  imagelimits: { height: number, width: number }[],
+   *  imagewhitelistenabled: boolean,
+   *  interwikimagic: boolean,
+   *  invalidusernamechars: string,
+   *  lang: string,
+   *  langconversion: boolean,
+   *  legaltitlechars: string,
+   *  linkconversion: boolean,
+   *  linkprefix: string,
+   *  linkprefixcharset: string,
+   *  linktrail: string,
+   *  linter: {
+   *    high: string[],
+   *    medium: string[],
+   *    low: string[]
+   *  },
+   *  logo: string,
+   *  magiclinks: Record<string, boolean>,
+   *  mainpage: string,
+   *  mainpageisdomainroot: boolean,
+   *  maxarticlesize: number,
+   *  maxuploadsize: number,
+   *  'max-page-id': number,
+   *  minuploadchunksize: number,
+   *  misermode: boolean,
+   *  mobileserver: string,
+   *  nofollowexceptions: unknown[],
+   *  nofollowlinks: boolean,
+   *  nofollowdomainexceptions: string[],
+   *  phpsapi: string,
+   *  phpversion: string,
+   *  readonly: boolean,
+   *  rtl: boolean,
+   *  script: string,
+   *  scriptpath: string,
+   *  server: string,
+   *  servername: string,
+   *  sitename: string,
+   *  thumblimits: number[],
+   *  time: string,
+   *  timeoffset: number,
+   *  timezone: string,
+   *  titleconversion: boolean,
+   *  uploadsenabled: boolean,
+   *  variantarticlepath: boolean,
+   *  wikiid: string,
+   *  writeapi: boolean
+   * }} general
+   * @property {{
+   *  local?: boolean,
+   *  prefix: string,
+   *  protorel: boolean,
+   *  url: string
+   * }[]} interwikimap
+   * @property {{
+   *  bcp47: string,
+   *  code: string,
+   *  name: string
+   * }[]} languages
+   * @property {{ name: string, version: string }[]} libraries
+   * @property {{
+   *  aliases: string[],
+   *  'case-sensitive': boolean,
+   *  name: string
+   * }[]} magicwords
+   * @property {{
+   *  alias: string,
+   *  id: number
+   * }[]} namespacealiases
+   * @property {{
+   *  case: string,
+   *  canonical?: boolean,
+   *  content: boolean,
+   *  id: number,
+   *  name: string,
+   *  nonincludable: boolean,
+   *  subpages: boolean
+   * }[]} namespaces
+   * @property {string[]} protocols
+   * @property {{
+   *  cascadinglevels: string[],
+   *  levels: string[],
+   *  semiprotectedlevels: string[],
+   *  types: string[]
+   * }} restrictions
+   * @property {{
+   *  text: string,
+   *  url: string
+   * }} rightsinfo
+   * @property {{
+   *  name: string,
+   *  subscribers: string[]
+   * }[]} showhooks
+   * @property {{
+   *  code: string,
+   *  default?: boolean,
+   *  name: string,
+   *  unusable?: boolean
+   * }[]} skins
+   * @property {{
+   *  aliases: string[],
+   *  realname: string
+   * }[]} specialpagealiases
+   * @property {{
+   *  activeusers: number,
+   *  admins: number,
+   *  articles: number,
+   *  edits: number,
+   *  images: number,
+   *  jobs: number,
+   *  pages: number,
+   *  users: number
+   * }} statistics
+   * @property {{
+   *  name: string,
+   *  rights: string[]
+   * }[]} usergroups
+   * @property {string[]} variables
+   */
+  /**
+    * @description Return general information about the site.
+    * @param {SiteInfoRequest} params
+    * @returns {Promise<SiteInfoResponse>}
     * @see https://www.mediawiki.org/wiki/API:Siteinfo
     */
   async siteinfo(params) {
+    /** @type {{ query: SiteInfoResponse }} */
     const result = await this.query(params, { meta: 'siteinfo' });
 
     return result.query;
@@ -1901,9 +3710,29 @@ export class Wiki {
 
   /**
    * @typedef {Object} TagsRequest
+   * @property {string} [tgcontinue]
+   *   When more results are available, use this to continue.
+   * @property {number|'max'} [tglimit]
+   *   The maximum number of tags to list.
+   * @property {Prop<
+   *   'displayname'
+   *   | 'description'
+   *   | 'hitcount'
+   *   | 'defined'
+   *   | 'source'
+   *   | 'active'
+   * >} [tgprop]
+   *   Which properties to get:
    */
   /**
    * @typedef {Object} TagsItem
+   * @property {boolean} active
+   * @property {boolean} defined
+   * @property {string} description
+   * @property {string} displayname
+   * @property {number} hitcount
+   * @property {string} name
+   * @property {string[]} source
    */
   /**
    * @overload
@@ -1933,9 +3762,27 @@ export class Wiki {
 
   /**
    * @typedef {Object} TemplatesRequest
+   * @property {number | number[] | '*'} [tlnamespace]
+   *  Show templates in these namespaces only.
+   * @property {number | 'max'} [tllimit]
+   *  How many templates to return.
+   * @property {string} [tlcontinue]
+   *  When more results are available, use this to continue.
+   * @property {string | string[]} [tltemplates]
+   *  Only list these templates. Useful for checking whether a certain page uses a certain template.
+   * @property {'ascending' | 'descending'} [tldir]
+   *  The direction in which to list.
+   *  @default 'ascending'
+   * @property {string | string[]} titles
    */
   /**
    * @typedef {Object} TemplatesItem
+   * @property {Array<Object>} templates
+   * @property {number} templates[].ns
+   * @property {string} templates[].title
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
    */
   /**
    * @overload
@@ -1964,7 +3811,9 @@ export class Wiki {
   }
 
   /**
-    * Gets tokens for data-modifying actions.
+    * @description Gets tokens for data-modifying actions.
+    * @param {string} tokenType
+    * @param {boolean} [force]
     * @see https://www.mediawiki.org/wiki/API:Tokens
     */
   async tokens(tokenType, force = false) {
@@ -1980,6 +3829,7 @@ export class Wiki {
     if (Array.isArray(tokenType)) type = tokenType.join('|');
     else type = tokenType;
 
+    /** @type {{ query: { tokens: Record<string, string> } }} */
     const tokens = await this.client.get({
       action: 'query',
       format: 'json',
@@ -1993,9 +3843,28 @@ export class Wiki {
 
   /**
    * @typedef {Object} TranscludedInRequest
+   * @property {Prop<'pageid' | 'title' | 'redirect'>} [tiprop]
+   *  Which properties to get:
+   * @property {number | number[] | '*'} [tinamespace]
+   *  Only include pages in these namespaces.
+   * @property {Prop<'!redirect' | 'redirect'>} [tishow]
+   *  Show only items that meet these criteria:
+   * @property {number | 'max'} [tilimit]
+   *  How many to return.
+   * @property {string} [ticontinue]
+   *  When more results are available, use this to continue.
+   * @property {string | string[]} titles
    */
   /**
    * @typedef {Object} TranscludedInItem
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {string} title
+   * @property {Array<Object>} transcludedin
+   * @property {number} transcludedin[].ns
+   * @property {number} transcludedin[].pageid
+   * @property {boolean} transcludedin[].redirect
+   * @property {string} transcludedin[].title
    */
   /**
    * @overload
@@ -2024,15 +3893,83 @@ export class Wiki {
   }
 
   /**
-    * Unblock a user.
+   * @typedef {Object} UnblockRequest
+   * @property {number} [id]
+   *  ID of the block to unblock (obtained through list=blocks). Cannot be used together with user.
+   * @property {string} [user]
+   *  User to unblock. Cannot be used together with id.
+   * @property {string} [reason]
+   *  Reason for unblock.
+   * @property {string | string[]} [tags]
+   *  Change tags to apply to the entry in the block log.
+   * @property {boolean} [watchuser]
+   *  Watch the user's or IP address's user and talk pages.
+   * @property {Date | string} [watchlistexpiry]
+   *  Watchlist expiry timestamp. Omit this parameter entirely to leave the current expiry unchanged.
+   */
+  /**
+   * @typedef {Object} UnblockItem
+   * @property {number} id
+   * @property {string} reason
+   * @property {string} user
+   * @property {number} userid
+   */
+  /**
+    * @description Unblock a user.
+    * @param {UnblockRequest} params
+    * @returns {Promise<UnblockItem>}
     */
   async unblock(params) {
+    /** @type {{ unblock: UnblockItem }} */
     const request = await this.action(params, { action: 'unblock' });
     return request.unblock;
   }
 
   /**
-    * Upload a file, or get the status of pending uploads.
+   * @typedef {Object} UploadRequest
+   * @property {string} [filename]
+   *  Target filename.
+   * @property {string} [comment]
+   *  Upload comment. Also used as the initial page text for new files if text is not specified.
+   * @property {string | string[]} [tags]
+   *  Change tags to apply to the upload log entry and file page revision.
+   * @property {string} [text]
+   *  Initial page text for new files.
+   * @property {'nochange' | 'preferences' | 'watch'} [watchlist]
+   *  Unconditionally add or remove the page from the current user's watchlist, use preferences (ignored for bot users) or do not change watch.
+   *  @default 'preferences'
+   * @property {Date | string} [watchlistexpiry]
+   *  Watchlist expiry timestamp. Omit this parameter entirely to leave the current expiry unchanged.
+   * @property {boolean} [ignorewarnings]
+   *  Ignore any warnings.
+   * @property {import('fs').ReadStream} [file]
+   *  File contents.
+   * @property {string} [url]
+   *  URL to fetch the file from.
+   * @property {string} [filekey]
+   *  Key that identifies a previous upload that was stashed temporarily.
+   * @property {boolean} [stash]
+   *  If set, the server will stash the file temporarily instead of adding it to the repository.
+   * @property {number} [filesize]
+   *  Filesize of entire upload.
+   * @property {number} [offset]
+   *  Offset of chunk in bytes.
+   * @property {import('fs').ReadStream} [chunk]
+   *  Chunk contents.
+   * @property {boolean} [async]
+   *  Make potentially large file operations asynchronous when possible.
+   * @property {boolean} [checkstatus]
+   *  Only fetch the upload status for the given file key.
+   */
+  /**
+   * @typedef {Object} UploadItem
+   * @property {string} filename
+   * @property {string} result
+   */
+  /**
+    * @description Upload a file, or get the status of pending uploads.
+    * @param {UploadRequest} params
+    * @returns {Promise<UploadItem>}
     */
   async upload(params) {
     const defaults = {
@@ -2044,18 +3981,88 @@ export class Wiki {
 
     params = Object.assign(defaults, params);
 
-    return await this.client.post(params, {
+    /** @type {{ upload: UploadItem }} */
+    const request = await this.client.post(params, {
       headers: {
         'content-type': 'multipart/form-data',
       },
     });
+    return request.upload;
   }
 
   /**
    * @typedef {Object} UserContribsRequest
+   * @property {number | 'max'} [uclimit]
+   *  The maximum number of contributions to return.
+   * @property {Date | string} [ucstart]
+   *  The start timestamp to return from, i.e. revisions before this timestamp.
+   * @property {Date | string} [ucend]
+   *  The end timestamp to return to, i.e. revisions after this timestamp.
+   * @property {string} [uccontinue]
+   *  When more results are available, use this to continue.
+   * @property {string | string[]} [ucuser]
+   *  The users to retrieve contributions for. Cannot be used with ucuserids, ucuserprefix, or uciprange.
+   * @property {number | number[]} [ucuserids]
+   *  The user IDs to retrieve contributions for. Cannot be used with ucuser, ucuserprefix, or uciprange.
+   * @property {string} [ucuserprefix]
+   *  Retrieve contributions for all users whose names begin with this value. Cannot be used with ucuser, ucuserids, or uciprange.
+   * @property {string} [uciprange]
+   *  The CIDR range to retrieve contributions for. Cannot be used with ucuser, ucuserprefix, or ucuserids.
+   * @property {'newer' | 'older'} [ucdir]
+   *  In which direction to enumerate:
+   *  @default 'older'
+   * @property {number | number[] | '*'} [ucnamespace]
+   *  Only list contributions in these namespaces.
+   * @property {Prop<
+   *  'ids'
+   *  | 'title'
+   *  | 'timestamp'
+   *  | 'comment'
+   *  | 'parsedcomment'
+   *  | 'size'
+   *  | 'sizediff'
+   *  | 'flags'
+   *  | 'patrolled'
+   *  | 'tags'
+   * >} [ucprop]
+   *  Include additional pieces of information:
+   * @property {Prop<
+   *  '!autopatrolled'
+   *  | '!minor'
+   *  | '!new'
+   *  | '!patrolled'
+   *  | '!top'
+   *  | 'autopatrolled'
+   *  | 'minor'
+   *  | 'new'
+   *  | 'patrolled'
+   *  | 'top'
+   * >} [ucshow]
+   *  Show only items that meet these criteria, e.g. non minor edits only: ucshow=!minor.
+   *  If ucshow=patrolled or ucshow=!patrolled is set, revisions older than $wgRCMaxAge (2592000 seconds) won't be shown.
+   * @property {string} [uctag]
+   *  Only list revisions tagged with this tag.
    */
   /**
    * @typedef {Object} UserContribsItem
+   * @property {boolean} autopatrolled
+   * @property {string} comment
+   * @property {boolean} minor
+   * @property {boolean} new
+   * @property {number} ns
+   * @property {number} pageid
+   * @property {number} parentid
+   * @property {string} parsedcomment
+   * @property {boolean} patrolled
+   * @property {number} revid
+   * @property {number} size
+   * @property {number} sizediff
+   * @property {string[]} tags
+   * @property {string} timestamp
+   * @property {string} title
+   * @property {boolean} top
+   * @property {string} user
+   * @property {number} userid
    */
   /**
    * @overload
@@ -2084,29 +4091,162 @@ export class Wiki {
   }
 
   /**
-    * Get information about the current user.
+   * @typedef {Object} UserInfoRequest
+   * @property {Prop<'blockinfo'
+   *   | 'hasmsg'
+   *   | 'groups'
+   *   | 'groupmemberships'
+   *   | 'implicitgroups'
+   *   | 'rights'
+   *   | 'changeablegroups'
+   *   | 'options'
+   *   | 'editcount'
+   *   | 'ratelimits'
+   *   | 'theoreticalratelimits'
+   *   | 'email'
+   *   | 'realname'
+   *   | 'acceptlang'
+   *   | 'registrationdate'
+   *   | 'unreadcount'
+   *   | 'centralids'
+   *   | 'latestcontrib'
+   *   | 'cancreateaccount'
+   * >} uiprop
+   */
+  /**
+   * @typedef {Object} UserInfoResponse
+   * @property {{ code: string; q: number }[]} acceptlang
+   * @property {boolean} cancreateaccount
+   * @property {Record<string, number>} centralids
+   * @property {number} editcount
+   * @property {string} email
+   * @property {string} emailauthenticated
+   * @property {{ expiry: string; group: string }[]} groupmemberships
+   * @property {string[]} groups
+   * @property {number} id
+   * @property {string[]} implicitgroups
+   * @property {string} latestcontrib
+   * @property {boolean} messages
+   * @property {string} name
+   * @property {Record<string, unknown>} options
+   * @property {Record<string, Record<string, { hits: number; seconds: number }>>} ratelimits
+   * @property {string} registrationate
+   * @property {Record<string, Record<string, { hits: number; seconds: number }>>} theoreticalratelimits
+   * @property {number} unreadcount
+   */
+  /**
+    * @description Get information about the current user.
+    * @param {UserInfoRequest} params
+    * @returns {Promise<UserInfoResponse>}
     * @see https://www.mediawiki.org/wiki/API:Userinfo
     */
   async userinfo(params) {
+    /** @type {{ query: { userinfo: UserInfoResponse } }} */
     const result = await this.query(params, { meta: 'userinfo' });
 
     return result.query.userinfo;
   }
 
   /**
-    * Change a user's group membership.
+   * @typedef {Object} UserRightsRequest
+   * @property {string} [user]
+   *  User.
+   * @property {string | string[]} [add]
+   *  Add the user to these groups, or if they are already a member, update the expiry of their membership in that group.
+   * @property {Date | string | (Date | string)[]} [expiry]
+   *  Expiry timestamps. May be relative (e.g. 5 months or 2 weeks) or absolute (e.g. 2014-09-18T12:34:56Z).
+   *  If only one timestamp is set, it will be used for all groups passed to the add parameter.
+   *  Use infinite, indefinite, infinity, or never for a never-expiring user group.
+   * @property {string | string[]} [remove]
+   *  Remove the user from these groups.
+   * @property {string} [reason]
+   *  Reason for the change.
+   * @property {string | string[]} [tags]
+   *  Change tags to apply to the entry in the user rights log.
+   * @property {boolean} [watchuser]
+   *  Watch the user's user and talk pages.
+   * @property {Date | string} [watchlistexpiry]
+   *  Watchlist expiry timestamp. Omit this parameter entirely to leave the current expiry unchanged.
+   */
+  /**
+   * @typedef {Object} UserRightsItem
+   * @property {string[]} added
+   * @property {string[]} removed
+   * @property {string} user
+   * @property {number} userid
+   */
+  /**
+    * @description Change a user's group membership.
+    * @param {UserRightsRequest} params
+    * @returns {Promise<UserRightsItem>}
     */
   async userrights(params) {
     const token = await this.tokens('userrights');
+    /** @type {{ userrights: UserRightsItem }} */
     const request = await this.action(params, { action: 'userrights', token: token.userrightstoken });
     return request.userrights;
   }
 
   /**
    * @typedef {Object} UsersRequest
+   * @property {Prop<
+   *  'blockinfo'
+   *  | 'groups'
+   *  | 'groupmemberships'
+   *  | 'implicitgroups'
+   *  | 'rights'
+   *  | 'editcount'
+   *  | 'registration'
+   *  | 'emailable'
+   *  | 'gender'
+   *  | 'centralids'
+   *  | 'cancreate'
+   * >} [usprop]
+   *  Which pieces of information to include:
+   * @property {string} [usattachedwiki]
+   *  With usprop=centralids, indicate whether the user is attached with the wiki identified by this ID.
+   * @property {string | string[]} [ususers]
+   *  A list of users to obtain information for.
+   * @property {number | number[]} [ususerids]
+   *  A list of user IDs to obtain information for.
    */
   /**
    * @typedef {Object} UsersItem
+   * @property {Record<string, boolean>} attachedlocal
+   * @property {boolean} blockanononly
+   * @property {string} blockedby
+   * @property {number} blockedbyid
+   * @property {string} blockedtimestamp
+   * @property {string} blockedtimestampformatted
+   * @property {boolean} blockemail
+   * @property {string} blockexpiry
+   * @property {boolean} blockexpiryformatted
+   * @property {string} blockexpiryrelative
+   * @property {number} blockid
+   * @property {boolean} blocknocreate
+   * @property {boolean} blockowntalk
+   * @property {boolean} blockpartial
+   * @property {string} blockreason
+   * @property {boolean} cancreate
+   * @property {{
+   *   coded: string,
+   *   message: string,
+   *   params: unknown[],
+   *   type: string
+   * }[]} cancreateerror
+   * @property {Record<string, number>} centralids
+   * @property {number} editcount
+   * @property {boolean} emailable
+   * @property {string} gender
+   * @property {string[]} groupmemberships
+   * @property {string[]} groups
+   * @property {string[]} implicitgroups
+   * @property {boolean} invalid
+   * @property {boolean} missing
+   * @property {string} name
+   * @property {string} registration
+   * @property {string[]} rights
+   * @property {number} userid
    */
   /**
    * @overload
@@ -2136,9 +4276,96 @@ export class Wiki {
 
   /**
    * @typedef {Object} WatchlistRequest
+   * @property {boolean} [wlallrev]
+   *  Include multiple revisions of the same page within given timeframe.
+   * @property {Date | string} [wlstart]
+   *  The timestamp to start enumerating from.
+   * @property {Date | string} [wlend]
+   *  The timestamp to end enumerating.
+   * @property {number | number[] | '*'} [wlnamespace]
+   *  Filter changes to only the given namespaces.
+   * @property {string} [wluser]
+   *  Only list changes by this user.
+   * @property {string} [wlexcludeuser]
+   *  Don't list changes by this user.
+   * @property {'newer' | 'older'} [wldir]
+   *  In which direction to enumerate:
+   *  @default 'older'
+   * @property {number | 'max'} [wllimit]
+   *  How many total results to return per request.
+   * @property {Prop<
+   *  'title'
+   *  | 'ids'
+   *  | 'flags'
+   *  | 'user'
+   *  | 'userid'
+   *  | 'comment'
+   *  | 'parsedcomment'
+   *  | 'timestamp'
+   *  | 'patrol'
+   *  | 'sizes'
+   *  | 'notificationtimestamp'
+   *  | 'loginfo'
+   *  | 'tags'
+   *  | 'expiry'
+   * >} [wlprop]
+   *  Which additional properties to get:
+   * @property {Prop<
+   *  '!anon'
+   *  | '!autopatrolled'
+   *  | '!bot'
+   *  | '!minor'
+   *  | '!patrolled'
+   *  | '!unread'
+   *  | 'anon'
+   *  | 'autopatrolled'
+   *  | 'bot'
+   *  | 'minor'
+   *  | 'patrolledd'
+   *  | 'unread'
+   * >} [wlshow]
+   *  Show only items that meet these criteria. For example, to see only minor edits done by logged-in users, set wlshow=minor|!anon.
+   * @property {Prop<
+   *  'edit'
+   *  | 'new'
+   *  | 'log'
+   *  | 'external'
+   *  | 'categorize'
+   * >} [wltype]
+   *  Which types of changes to show:
+   * @property {string} [wlowner]
+   *  Used along with wltoken to access a different user's watchlist.
+   * @property {string} [wltoken]
+   *  A security token (available in the user's preferences) to allow access to another user's watchlist.
+   * @property {string} [wlcontinue]
+   *  When more results are available, use this to continue.
    */
   /**
    * @typedef {Object} WatchlistItem
+   * @property {boolean} anon
+   * @property {boolean} autopatrolled
+   * @property {boolean} bot
+   * @property {string} comment
+   * @property {boolean} expiry
+   * @property {boolean} minor
+   * @property {boolean} new
+   * @property {number} newlen
+   * @property {string} notificationtimestamp
+   * @property {number} ns
+   * @property {number} old_revid
+   * @property {number} oldlen
+   * @property {number} pageid
+   * @property {string} parsedcomment
+   * @property {boolean} patrolled
+   * @property {number} revid
+   * @property {string[]} tags
+   * @property {boolean} temp
+   * @property {string} timestamp
+   * @property {string} title
+   * @property {string} type
+   * @property {boolean} unpatrolled
+   * @property {string} user
+   * @property {number} userid
    */
   /**
    * @overload
@@ -2168,9 +4395,33 @@ export class Wiki {
 
   /**
    * @typedef {Object} WatchlistRawRequest
+   * @property {string} [wrcontinue]
+   *  When more results are available, use this to continue.
+   * @property {number | number[] | '*'} [wrnamespace]
+   *  Only list pages in the given namespaces.
+   * @property {number | 'max'} [wrlimit]
+   *  How many total results to return per request.
+   * @property {Prop<'changed'>} [wrprop]
+   *  Which additional properties to get:
+   * @property {Prop<'!changed' | 'changed'>} [wrshow]
+   *  Only list items that meet these criteria.
+   * @property {string} [wrowner]
+   *  Used along with wrtoken to access a different user's watchlist.
+   * @property {string} [wrtoken]
+   *  A security token (available in the user's preferences) to allow access to another user's watchlist.
+   * @property {'ascending' | 'descending'} [wrdir]
+   *  The direction in which to list.
+   *  @default 'ascending'
+   * @property {string} [wrfromtitle]
+   *  Title (with namespace prefix) to begin enumerating from.
+   * @property {string} [wrtotitle]
+   *  Title (with namespace prefix) to stop enumerating at.
    */
   /**
    * @typedef {Object} WatchlistRawItem
+   * @property {string} changed
+   * @property {number} ns
+   * @property {string} title
    */
   /**
    * @overload

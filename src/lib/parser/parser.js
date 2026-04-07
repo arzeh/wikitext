@@ -11,9 +11,9 @@ import { WikiTextNode } from './nodes/wiki-text-node';
 const State = Object.freeze({
   HEADER: 'HEADER',
   INTERNAL_LINK: 'INTERNAL_LINK',
+  TAG: 'TAG',
   TEMPLATE: 'TEMPLATE',
   TEMPLATE_PARAMETER: 'TEMPLATE_PARAMETER',
-  TAG: 'TAG',
 });
 
 /**

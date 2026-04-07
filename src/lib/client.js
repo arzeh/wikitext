@@ -36,6 +36,7 @@ export class Client {
       this.api = api;
     }
     this.options = options || {};
+    this.options.headers = Object.assign({ 'user-agent': 'wikitext/1.0' }, this.options.headers);
   }
 
   /**
@@ -85,7 +86,8 @@ export class Client {
   async get(params, options) {
     const searchParams = Client.searchParams(params);
     const req = await this.request(`${this.api}?${searchParams}`, options);
-    return /** @type {T} */ await req.json();
+    // @ts-expect-error return T
+    return await req.json();
   }
 
   /**
@@ -119,7 +121,8 @@ export class Client {
     });
 
     const req = await this.request(this.api, options);
-    return /** @type {T} */ await req.json();
+    // @ts-expect-error return T
+    return await req.json();
   }
 
   /**
